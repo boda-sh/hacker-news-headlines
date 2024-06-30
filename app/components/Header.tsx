@@ -1,5 +1,3 @@
-// import { ColorMode } from "./ColorMode";
-
 export const Header = () => {
   return (
     <div className="relative isolate overflow-hidden pt-3">
@@ -17,7 +15,6 @@ export const Header = () => {
         <a href="https://github.com/bodaso/hacker-news-headlines" target="_blank">
           <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/bodaso/hacker-news-headlines" />
         </a>
-        {/* <ColorMode /> */}
       </div>
     </div>
   );

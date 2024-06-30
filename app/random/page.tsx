@@ -1,13 +1,13 @@
 "use client";
 
 import { useEffect, useState } from "react";
-import { PostItemProps } from "../components/PostList";
+import { HNPost } from "../lib/types";
 
 /**
  * A fun page that shows a random post, more recent ones have a higher chance of being picked.
  */
 export default function Page() {
-  const [randomPost, setRandomPost] = useState<PostItemProps["post"]>();
+  const [randomPost, setRandomPost] = useState<HNPost>();
 
   useEffect(() => {
     fetch("/api/random")

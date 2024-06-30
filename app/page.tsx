@@ -1,13 +1,11 @@
-import { SearchBox } from "@/app/components/SearchBox";
-import { PostList } from "@/app/components/PostList";
-import { BackToTop } from "./components/BackToTop";
+// import { SearchBox } from "@/app/components/SearchBox";
+import { PostsList } from "@/app/components/PostsList";
 
 export default function Page() {
   return (
     <>
-      <SearchBox />
-      <PostList />
-      <BackToTop />
+      {/* <SearchBox /> */}
+      <PostsList />
     </>
   );
 }

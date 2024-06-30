@@ -28,18 +28,6 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <meta name="twitter:title" content="Hacker News Headlines | hnhd.io" />
         <meta name="twitter:description" content="The complete history of #1 posts on hacker news" />
         <meta name="twitter:image" content="https://www.hnhd.io/coffee.png" />
-
-        {/* On page load or when changing themes, best to add inline in `head` to avoid FOUC */}
-        {/* <script
-          dangerouslySetInnerHTML={{
-            __html: `
-          document.documentElement.classList.add("dark");
-          if ( localStorage.theme === "light" || (!("theme" in localStorage) && window.matchMedia("(prefers-color-scheme: light)").matches)) {
-            document.documentElement.classList.remove("dark");
-          }
-        `,
-          }}
-        ></script> */}
       </head>
 
       <body className="max-w-screen-md mx-auto mb-28 p-2 bg-slate-50 dark:bg-[#09090b] dark:text-white">

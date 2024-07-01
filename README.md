@@ -15,18 +15,19 @@
 <!-- NEWS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 458 | [Imhex: A hex editor for reverse engineers](https://github.com/WerWolv/ImHex) | [29-06-2024](https://news.ycombinator.com/item?id=40828493) |
-| 712 | [Supreme Court overturns 40-year-old "Chevron deference" doctrine](https://www.axios.com/2024/06/28/supreme-court-chevron-doctrine-ruling) | [28-06-2024](https://news.ycombinator.com/item?id=40820949) |
-| 738 | [Remembering Larry Finger, who made Linux wireless work](https://arstechnica.com/gadgets/2024/06/larry-finger-linux-wireless-hero-was-a-persistent-patient-coder-and-mentor/) | [27-06-2024](https://news.ycombinator.com/item?id=40812695) |
-| 976 | [One Million Checkboxes](https://onemillioncheckboxes.com/) | [26-06-2024](https://news.ycombinator.com/item?id=40800869) |
-| 1005 | [Ball: A ball that lives in your dock](https://github.com/nate-parrott/ball) | [25-06-2024](https://news.ycombinator.com/item?id=40793465) |
-| 2672 | [Julian Assange has reached a plea deal with the U.S., allowing him to go free](https://www.nbcnews.com/politics/justice-department/julian-assange-reached-plea-deal-us-allowing-go-free-rcna158695) | [24-06-2024](https://news.ycombinator.com/item?id=40782130) |
+| 583 | [Inside a $1 radar motion sensor](https://10maurycy10.github.io/projects/motion_sensor_hacking/) | [30-06-2024](https://news.ycombinator.com/item?id=40834349) |
+| 594 | [Imhex: A hex editor for reverse engineers](https://github.com/WerWolv/ImHex) | [29-06-2024](https://news.ycombinator.com/item?id=40828493) |
+| 731 | [Supreme Court overturns 40-year-old "Chevron deference" doctrine](https://www.axios.com/2024/06/28/supreme-court-chevron-doctrine-ruling) | [28-06-2024](https://news.ycombinator.com/item?id=40820949) |
+| 750 | [Remembering Larry Finger, who made Linux wireless work](https://arstechnica.com/gadgets/2024/06/larry-finger-linux-wireless-hero-was-a-persistent-patient-coder-and-mentor/) | [27-06-2024](https://news.ycombinator.com/item?id=40812695) |
+| 983 | [One Million Checkboxes](https://onemillioncheckboxes.com/) | [26-06-2024](https://news.ycombinator.com/item?id=40800869) |
+| 1012 | [Ball: A ball that lives in your dock](https://github.com/nate-parrott/ball) | [25-06-2024](https://news.ycombinator.com/item?id=40793465) |
+| 2673 | [Julian Assange has reached a plea deal with the U.S., allowing him to go free](https://www.nbcnews.com/politics/justice-department/julian-assange-reached-plea-deal-us-allowing-go-free-rcna158695) | [24-06-2024](https://news.ycombinator.com/item?id=40782130) |
 | 1347 | [I am using AI to drop hats outside my window onto New Yorkers](https://dropofahat.zone/) | [23-06-2024](https://news.ycombinator.com/item?id=40767459) |
-| 874 | [After my dad died, I ran and sold his company (2018)](https://anandsanwal.me/2018/06/19/dad-company-sale/) | [22-06-2024](https://news.ycombinator.com/item?id=40758767) |
+| 875 | [After my dad died, I ran and sold his company (2018)](https://anandsanwal.me/2018/06/19/dad-company-sale/) | [22-06-2024](https://news.ycombinator.com/item?id=40758767) |
 | 562 | [Allan McDonald refused to approve Challenger launch, exposed cover-up (2021)](https://www.npr.org/2021/03/07/974534021/remembering-allan-mcdonald-he-refused-to-approve-challenger-launch-exposed-cover) | [21-06-2024](https://news.ycombinator.com/item?id=40748371) |
 | 1212 | [EU Council has withdrawn the vote on Chat Control](https://stackdiary.com/eu-council-has-withdrawn-the-vote-on-chat-control/) | [20-06-2024](https://news.ycombinator.com/item?id=40736771) |
 | 1214 | [Safe Superintelligence Inc.](https://ssi.inc) | [19-06-2024](https://news.ycombinator.com/item?id=40730156) |
-| 959 | [Chat Control Must Be Stopped – Now](https://threema.ch/en/blog/posts/stop-chat-control) | [18-06-2024](https://news.ycombinator.com/item?id=40715449) |
+| 960 | [Chat Control Must Be Stopped – Now](https://threema.ch/en/blog/posts/stop-chat-control) | [18-06-2024](https://news.ycombinator.com/item?id=40715449) |
 | 2587 | [FTC sues Adobe for hiding fees and inhibiting cancellations](https://www.ftc.gov/news-events/news/press-releases/2024/06/ftc-takes-action-against-adobe-executives-hiding-fees-preventing-consumers-easily-cancelling) | [17-06-2024](https://news.ycombinator.com/item?id=40707558) |
 | 844 | [MicroMac, a Macintosh for under £5](https://axio.ms/projects/2024/06/16/MicroMac.html) | [16-06-2024](https://news.ycombinator.com/item?id=40699684) |
 | 1044 | [Voyager 1 is back online: NASA spacecraft returns data from all 4 instruments](https://www.space.com/voyager-1-fully-operational) | [15-06-2024](https://news.ycombinator.com/item?id=40687660) |
@@ -379,7 +380,6 @@
 | 1025 | [Tell HN: Nearly all of Evernote’s remaining staff has been laid off](https://news.ycombinator.com/item?id=36609641) | [06-07-2023](https://news.ycombinator.com/item?id=36609641) |
 | 937 | [Show HN: Hacker News user blogroll](https://dm.hn) | [05-07-2023](https://news.ycombinator.com/item?id=36605493) |
 | 688 | [Sao Paulo: A city with no outdoor advertisements (2013)](https://www.amusingplanet.com/2013/07/sao-paulo-city-with-no-outdoor.html) | [04-07-2023](https://news.ycombinator.com/item?id=36586632) |
-| 1045 | [Threads, an Instagram app](https://apps.apple.com/us/app/threads-an-instagram-app/id6446901002) | [03-07-2023](https://news.ycombinator.com/item?id=36580192) |
 <!-- NEWS PREVIEW END -->
 
 **To see the full list, visit >>> [hnhd.io](https://hnhd.io/) <<<**

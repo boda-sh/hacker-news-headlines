@@ -15,15 +15,16 @@
 <!-- NEWS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 583 | [Inside a $1 radar motion sensor](https://10maurycy10.github.io/projects/motion_sensor_hacking/) | [30-06-2024](https://news.ycombinator.com/item?id=40834349) |
-| 594 | [Imhex: A hex editor for reverse engineers](https://github.com/WerWolv/ImHex) | [29-06-2024](https://news.ycombinator.com/item?id=40828493) |
-| 731 | [Supreme Court overturns 40-year-old "Chevron deference" doctrine](https://www.axios.com/2024/06/28/supreme-court-chevron-doctrine-ruling) | [28-06-2024](https://news.ycombinator.com/item?id=40820949) |
-| 750 | [Remembering Larry Finger, who made Linux wireless work](https://arstechnica.com/gadgets/2024/06/larry-finger-linux-wireless-hero-was-a-persistent-patient-coder-and-mentor/) | [27-06-2024](https://news.ycombinator.com/item?id=40812695) |
-| 983 | [One Million Checkboxes](https://onemillioncheckboxes.com/) | [26-06-2024](https://news.ycombinator.com/item?id=40800869) |
-| 1012 | [Ball: A ball that lives in your dock](https://github.com/nate-parrott/ball) | [25-06-2024](https://news.ycombinator.com/item?id=40793465) |
-| 2673 | [Julian Assange has reached a plea deal with the U.S., allowing him to go free](https://www.nbcnews.com/politics/justice-department/julian-assange-reached-plea-deal-us-allowing-go-free-rcna158695) | [24-06-2024](https://news.ycombinator.com/item?id=40782130) |
+| 869 | [Show HN: I created an After Effects alternative](https://pikimov.com/) | [01-07-2024](https://news.ycombinator.com/item?id=40843867) |
+| 622 | [Show HN: Drop-in SQS replacement based on SQLite](https://github.com/poundifdef/SmoothMQ) | [30-06-2024](https://news.ycombinator.com/item?id=40837610) |
+| 617 | [Imhex: A hex editor for reverse engineers](https://github.com/WerWolv/ImHex) | [29-06-2024](https://news.ycombinator.com/item?id=40828493) |
+| 744 | [Supreme Court overturns 40-year-old "Chevron deference" doctrine](https://www.axios.com/2024/06/28/supreme-court-chevron-doctrine-ruling) | [28-06-2024](https://news.ycombinator.com/item?id=40820949) |
+| 760 | [Remembering Larry Finger, who made Linux wireless work](https://arstechnica.com/gadgets/2024/06/larry-finger-linux-wireless-hero-was-a-persistent-patient-coder-and-mentor/) | [27-06-2024](https://news.ycombinator.com/item?id=40812695) |
+| 990 | [One Million Checkboxes](https://onemillioncheckboxes.com/) | [26-06-2024](https://news.ycombinator.com/item?id=40800869) |
+| 1015 | [Ball: A ball that lives in your dock](https://github.com/nate-parrott/ball) | [25-06-2024](https://news.ycombinator.com/item?id=40793465) |
+| 2675 | [Julian Assange has reached a plea deal with the U.S., allowing him to go free](https://www.nbcnews.com/politics/justice-department/julian-assange-reached-plea-deal-us-allowing-go-free-rcna158695) | [24-06-2024](https://news.ycombinator.com/item?id=40782130) |
 | 1347 | [I am using AI to drop hats outside my window onto New Yorkers](https://dropofahat.zone/) | [23-06-2024](https://news.ycombinator.com/item?id=40767459) |
-| 875 | [After my dad died, I ran and sold his company (2018)](https://anandsanwal.me/2018/06/19/dad-company-sale/) | [22-06-2024](https://news.ycombinator.com/item?id=40758767) |
+| 876 | [After my dad died, I ran and sold his company (2018)](https://anandsanwal.me/2018/06/19/dad-company-sale/) | [22-06-2024](https://news.ycombinator.com/item?id=40758767) |
 | 562 | [Allan McDonald refused to approve Challenger launch, exposed cover-up (2021)](https://www.npr.org/2021/03/07/974534021/remembering-allan-mcdonald-he-refused-to-approve-challenger-launch-exposed-cover) | [21-06-2024](https://news.ycombinator.com/item?id=40748371) |
 | 1212 | [EU Council has withdrawn the vote on Chat Control](https://stackdiary.com/eu-council-has-withdrawn-the-vote-on-chat-control/) | [20-06-2024](https://news.ycombinator.com/item?id=40736771) |
 | 1214 | [Safe Superintelligence Inc.](https://ssi.inc) | [19-06-2024](https://news.ycombinator.com/item?id=40730156) |
@@ -379,7 +380,6 @@
 | 810 | [Excellence is a habit, but so is failure](https://awesomekling.github.io/Excellence-is-a-habit-but-so-is-failure/) | [07-07-2023](https://news.ycombinator.com/item?id=36628356) |
 | 1025 | [Tell HN: Nearly all of Evernote’s remaining staff has been laid off](https://news.ycombinator.com/item?id=36609641) | [06-07-2023](https://news.ycombinator.com/item?id=36609641) |
 | 937 | [Show HN: Hacker News user blogroll](https://dm.hn) | [05-07-2023](https://news.ycombinator.com/item?id=36605493) |
-| 688 | [Sao Paulo: A city with no outdoor advertisements (2013)](https://www.amusingplanet.com/2013/07/sao-paulo-city-with-no-outdoor.html) | [04-07-2023](https://news.ycombinator.com/item?id=36586632) |
 <!-- NEWS PREVIEW END -->
 
 **To see the full list, visit >>> [hnhd.io](https://hnhd.io/) <<<**

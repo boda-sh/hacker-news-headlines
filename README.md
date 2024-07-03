@@ -15,12 +15,13 @@
 <!-- NEWS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 869 | [Show HN: I created an After Effects alternative](https://pikimov.com/) | [01-07-2024](https://news.ycombinator.com/item?id=40843867) |
-| 622 | [Show HN: Drop-in SQS replacement based on SQLite](https://github.com/poundifdef/SmoothMQ) | [30-06-2024](https://news.ycombinator.com/item?id=40837610) |
-| 617 | [Imhex: A hex editor for reverse engineers](https://github.com/WerWolv/ImHex) | [29-06-2024](https://news.ycombinator.com/item?id=40828493) |
-| 744 | [Supreme Court overturns 40-year-old "Chevron deference" doctrine](https://www.axios.com/2024/06/28/supreme-court-chevron-doctrine-ruling) | [28-06-2024](https://news.ycombinator.com/item?id=40820949) |
-| 760 | [Remembering Larry Finger, who made Linux wireless work](https://arstechnica.com/gadgets/2024/06/larry-finger-linux-wireless-hero-was-a-persistent-patient-coder-and-mentor/) | [27-06-2024](https://news.ycombinator.com/item?id=40812695) |
-| 990 | [One Million Checkboxes](https://onemillioncheckboxes.com/) | [26-06-2024](https://news.ycombinator.com/item?id=40800869) |
+| 1188 | [Why is Chile so long?](https://unchartedterritories.tomaspueyo.com/p/why-is-chile-so-long) | [02-07-2024](https://news.ycombinator.com/item?id=40856030) |
+| 1080 | [Show HN: I created an After Effects alternative](https://pikimov.com/) | [01-07-2024](https://news.ycombinator.com/item?id=40843867) |
+| 639 | [Show HN: Drop-in SQS replacement based on SQLite](https://github.com/poundifdef/SmoothMQ) | [30-06-2024](https://news.ycombinator.com/item?id=40837610) |
+| 625 | [Imhex: A hex editor for reverse engineers](https://github.com/WerWolv/ImHex) | [29-06-2024](https://news.ycombinator.com/item?id=40828493) |
+| 752 | [Supreme Court overturns 40-year-old "Chevron deference" doctrine](https://www.axios.com/2024/06/28/supreme-court-chevron-doctrine-ruling) | [28-06-2024](https://news.ycombinator.com/item?id=40820949) |
+| 761 | [Remembering Larry Finger, who made Linux wireless work](https://arstechnica.com/gadgets/2024/06/larry-finger-linux-wireless-hero-was-a-persistent-patient-coder-and-mentor/) | [27-06-2024](https://news.ycombinator.com/item?id=40812695) |
+| 992 | [One Million Checkboxes](https://onemillioncheckboxes.com/) | [26-06-2024](https://news.ycombinator.com/item?id=40800869) |
 | 1015 | [Ball: A ball that lives in your dock](https://github.com/nate-parrott/ball) | [25-06-2024](https://news.ycombinator.com/item?id=40793465) |
 | 2675 | [Julian Assange has reached a plea deal with the U.S., allowing him to go free](https://www.nbcnews.com/politics/justice-department/julian-assange-reached-plea-deal-us-allowing-go-free-rcna158695) | [24-06-2024](https://news.ycombinator.com/item?id=40782130) |
 | 1347 | [I am using AI to drop hats outside my window onto New Yorkers](https://dropofahat.zone/) | [23-06-2024](https://news.ycombinator.com/item?id=40767459) |
@@ -379,7 +380,6 @@
 | 1102 | [When an app asks for permissions, it should have a “feed fake data” option](https://mastodon.gamedev.place/@Nifflas/110668040598715116) | [08-07-2023](https://news.ycombinator.com/item?id=36644895) |
 | 810 | [Excellence is a habit, but so is failure](https://awesomekling.github.io/Excellence-is-a-habit-but-so-is-failure/) | [07-07-2023](https://news.ycombinator.com/item?id=36628356) |
 | 1025 | [Tell HN: Nearly all of Evernote’s remaining staff has been laid off](https://news.ycombinator.com/item?id=36609641) | [06-07-2023](https://news.ycombinator.com/item?id=36609641) |
-| 937 | [Show HN: Hacker News user blogroll](https://dm.hn) | [05-07-2023](https://news.ycombinator.com/item?id=36605493) |
 <!-- NEWS PREVIEW END -->
 
 **To see the full list, visit >>> [hnhd.io](https://hnhd.io/) <<<**

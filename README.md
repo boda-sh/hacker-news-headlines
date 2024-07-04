@@ -15,19 +15,20 @@
 <!-- NEWS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 1188 | [Why is Chile so long?](https://unchartedterritories.tomaspueyo.com/p/why-is-chile-so-long) | [02-07-2024](https://news.ycombinator.com/item?id=40856030) |
-| 1080 | [Show HN: I created an After Effects alternative](https://pikimov.com/) | [01-07-2024](https://news.ycombinator.com/item?id=40843867) |
-| 639 | [Show HN: Drop-in SQS replacement based on SQLite](https://github.com/poundifdef/SmoothMQ) | [30-06-2024](https://news.ycombinator.com/item?id=40837610) |
-| 625 | [Imhex: A hex editor for reverse engineers](https://github.com/WerWolv/ImHex) | [29-06-2024](https://news.ycombinator.com/item?id=40828493) |
-| 752 | [Supreme Court overturns 40-year-old "Chevron deference" doctrine](https://www.axios.com/2024/06/28/supreme-court-chevron-doctrine-ruling) | [28-06-2024](https://news.ycombinator.com/item?id=40820949) |
-| 761 | [Remembering Larry Finger, who made Linux wireless work](https://arstechnica.com/gadgets/2024/06/larry-finger-linux-wireless-hero-was-a-persistent-patient-coder-and-mentor/) | [27-06-2024](https://news.ycombinator.com/item?id=40812695) |
-| 992 | [One Million Checkboxes](https://onemillioncheckboxes.com/) | [26-06-2024](https://news.ycombinator.com/item?id=40800869) |
-| 1015 | [Ball: A ball that lives in your dock](https://github.com/nate-parrott/ball) | [25-06-2024](https://news.ycombinator.com/item?id=40793465) |
-| 2675 | [Julian Assange has reached a plea deal with the U.S., allowing him to go free](https://www.nbcnews.com/politics/justice-department/julian-assange-reached-plea-deal-us-allowing-go-free-rcna158695) | [24-06-2024](https://news.ycombinator.com/item?id=40782130) |
+| 661 | [I Received an AI Email](https://timharek.no/blog/i-received-an-ai-email) | [03-07-2024](https://news.ycombinator.com/item?id=40862865) |
+| 1384 | [Why is Chile so long?](https://unchartedterritories.tomaspueyo.com/p/why-is-chile-so-long) | [02-07-2024](https://news.ycombinator.com/item?id=40856030) |
+| 1113 | [Show HN: I created an After Effects alternative](https://pikimov.com/) | [01-07-2024](https://news.ycombinator.com/item?id=40843867) |
+| 646 | [Show HN: Drop-in SQS replacement based on SQLite](https://github.com/poundifdef/SmoothMQ) | [30-06-2024](https://news.ycombinator.com/item?id=40837610) |
+| 629 | [Imhex: A hex editor for reverse engineers](https://github.com/WerWolv/ImHex) | [29-06-2024](https://news.ycombinator.com/item?id=40828493) |
+| 754 | [Supreme Court overturns 40-year-old "Chevron deference" doctrine](https://www.axios.com/2024/06/28/supreme-court-chevron-doctrine-ruling) | [28-06-2024](https://news.ycombinator.com/item?id=40820949) |
+| 763 | [Remembering Larry Finger, who made Linux wireless work](https://arstechnica.com/gadgets/2024/06/larry-finger-linux-wireless-hero-was-a-persistent-patient-coder-and-mentor/) | [27-06-2024](https://news.ycombinator.com/item?id=40812695) |
+| 993 | [One Million Checkboxes](https://onemillioncheckboxes.com/) | [26-06-2024](https://news.ycombinator.com/item?id=40800869) |
+| 1016 | [Ball: A ball that lives in your dock](https://github.com/nate-parrott/ball) | [25-06-2024](https://news.ycombinator.com/item?id=40793465) |
+| 2676 | [Julian Assange has reached a plea deal with the U.S., allowing him to go free](https://www.nbcnews.com/politics/justice-department/julian-assange-reached-plea-deal-us-allowing-go-free-rcna158695) | [24-06-2024](https://news.ycombinator.com/item?id=40782130) |
 | 1347 | [I am using AI to drop hats outside my window onto New Yorkers](https://dropofahat.zone/) | [23-06-2024](https://news.ycombinator.com/item?id=40767459) |
-| 876 | [After my dad died, I ran and sold his company (2018)](https://anandsanwal.me/2018/06/19/dad-company-sale/) | [22-06-2024](https://news.ycombinator.com/item?id=40758767) |
+| 877 | [After my dad died, I ran and sold his company (2018)](https://anandsanwal.me/2018/06/19/dad-company-sale/) | [22-06-2024](https://news.ycombinator.com/item?id=40758767) |
 | 562 | [Allan McDonald refused to approve Challenger launch, exposed cover-up (2021)](https://www.npr.org/2021/03/07/974534021/remembering-allan-mcdonald-he-refused-to-approve-challenger-launch-exposed-cover) | [21-06-2024](https://news.ycombinator.com/item?id=40748371) |
-| 1212 | [EU Council has withdrawn the vote on Chat Control](https://stackdiary.com/eu-council-has-withdrawn-the-vote-on-chat-control/) | [20-06-2024](https://news.ycombinator.com/item?id=40736771) |
+| 1213 | [EU Council has withdrawn the vote on Chat Control](https://stackdiary.com/eu-council-has-withdrawn-the-vote-on-chat-control/) | [20-06-2024](https://news.ycombinator.com/item?id=40736771) |
 | 1214 | [Safe Superintelligence Inc.](https://ssi.inc) | [19-06-2024](https://news.ycombinator.com/item?id=40730156) |
 | 960 | [Chat Control Must Be Stopped – Now](https://threema.ch/en/blog/posts/stop-chat-control) | [18-06-2024](https://news.ycombinator.com/item?id=40715449) |
 | 2587 | [FTC sues Adobe for hiding fees and inhibiting cancellations](https://www.ftc.gov/news-events/news/press-releases/2024/06/ftc-takes-action-against-adobe-executives-hiding-fees-preventing-consumers-easily-cancelling) | [17-06-2024](https://news.ycombinator.com/item?id=40707558) |
@@ -379,7 +380,6 @@
 | 659 | [Don't Take VC Funding – It Will Destroy Your Company](https://www.eidel.io/2023/07/09/vc-funding/) | [09-07-2023](https://news.ycombinator.com/item?id=36654960) |
 | 1102 | [When an app asks for permissions, it should have a “feed fake data” option](https://mastodon.gamedev.place/@Nifflas/110668040598715116) | [08-07-2023](https://news.ycombinator.com/item?id=36644895) |
 | 810 | [Excellence is a habit, but so is failure](https://awesomekling.github.io/Excellence-is-a-habit-but-so-is-failure/) | [07-07-2023](https://news.ycombinator.com/item?id=36628356) |
-| 1025 | [Tell HN: Nearly all of Evernote’s remaining staff has been laid off](https://news.ycombinator.com/item?id=36609641) | [06-07-2023](https://news.ycombinator.com/item?id=36609641) |
 <!-- NEWS PREVIEW END -->
 
 **To see the full list, visit >>> [hnhd.io](https://hnhd.io/) <<<**

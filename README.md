@@ -15,19 +15,20 @@
 <!-- NEWS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 489 | [Twilio confirms data breach after hackers leak 33M Authy user phone numbers](https://www.securityweek.com/twilio-confirms-data-breach-after-hackers-leak-33m-authy-user-phone-numbers/) | [04-07-2024](https://news.ycombinator.com/item?id=40874341) |
-| 687 | [I Received an AI Email](https://timharek.no/blog/i-received-an-ai-email) | [03-07-2024](https://news.ycombinator.com/item?id=40862865) |
-| 1402 | [Why is Chile so long?](https://unchartedterritories.tomaspueyo.com/p/why-is-chile-so-long) | [02-07-2024](https://news.ycombinator.com/item?id=40856030) |
-| 1128 | [Show HN: I created an After Effects alternative](https://pikimov.com/) | [01-07-2024](https://news.ycombinator.com/item?id=40843867) |
-| 654 | [Pattern of brain damage is pervasive in Navy SEALs who died by suicide](https://www.nytimes.com/2024/06/30/us/navy-seals-brain-damage-suicide.html) | [30-06-2024](https://news.ycombinator.com/item?id=40836960) |
+| 322 | [Put the DVD logo in the corner (2023)](https://eieio.games/game-diary/game-6-get-the-dvd-logo-into-the-corner/) | [05-07-2024](https://news.ycombinator.com/item?id=40883277) |
+| 628 | [Twilio confirms data breach after hackers leak 33M Authy user phone numbers](https://www.securityweek.com/twilio-confirms-data-breach-after-hackers-leak-33m-authy-user-phone-numbers/) | [04-07-2024](https://news.ycombinator.com/item?id=40874341) |
+| 693 | [I Received an AI Email](https://timharek.no/blog/i-received-an-ai-email) | [03-07-2024](https://news.ycombinator.com/item?id=40862865) |
+| 1416 | [Why is Chile so long?](https://unchartedterritories.tomaspueyo.com/p/why-is-chile-so-long) | [02-07-2024](https://news.ycombinator.com/item?id=40856030) |
+| 1144 | [Show HN: I created an After Effects alternative](https://pikimov.com/) | [01-07-2024](https://news.ycombinator.com/item?id=40843867) |
+| 661 | [Pattern of brain damage is pervasive in Navy SEALs who died by suicide](https://www.nytimes.com/2024/06/30/us/navy-seals-brain-damage-suicide.html) | [30-06-2024](https://news.ycombinator.com/item?id=40836960) |
 | 632 | [Imhex: A hex editor for reverse engineers](https://github.com/WerWolv/ImHex) | [29-06-2024](https://news.ycombinator.com/item?id=40828493) |
-| 755 | [Supreme Court overturns 40-year-old "Chevron deference" doctrine](https://www.axios.com/2024/06/28/supreme-court-chevron-doctrine-ruling) | [28-06-2024](https://news.ycombinator.com/item?id=40820949) |
+| 757 | [Supreme Court overturns 40-year-old "Chevron deference" doctrine](https://www.axios.com/2024/06/28/supreme-court-chevron-doctrine-ruling) | [28-06-2024](https://news.ycombinator.com/item?id=40820949) |
 | 764 | [Remembering Larry Finger, who made Linux wireless work](https://arstechnica.com/gadgets/2024/06/larry-finger-linux-wireless-hero-was-a-persistent-patient-coder-and-mentor/) | [27-06-2024](https://news.ycombinator.com/item?id=40812695) |
 | 993 | [One Million Checkboxes](https://onemillioncheckboxes.com/) | [26-06-2024](https://news.ycombinator.com/item?id=40800869) |
 | 1016 | [Ball: A ball that lives in your dock](https://github.com/nate-parrott/ball) | [25-06-2024](https://news.ycombinator.com/item?id=40793465) |
 | 2676 | [Julian Assange has reached a plea deal with the U.S., allowing him to go free](https://www.nbcnews.com/politics/justice-department/julian-assange-reached-plea-deal-us-allowing-go-free-rcna158695) | [24-06-2024](https://news.ycombinator.com/item?id=40782130) |
 | 1347 | [I am using AI to drop hats outside my window onto New Yorkers](https://dropofahat.zone/) | [23-06-2024](https://news.ycombinator.com/item?id=40767459) |
-| 878 | [After my dad died, I ran and sold his company (2018)](https://anandsanwal.me/2018/06/19/dad-company-sale/) | [22-06-2024](https://news.ycombinator.com/item?id=40758767) |
+| 880 | [After my dad died, I ran and sold his company (2018)](https://anandsanwal.me/2018/06/19/dad-company-sale/) | [22-06-2024](https://news.ycombinator.com/item?id=40758767) |
 | 562 | [Allan McDonald refused to approve Challenger launch, exposed cover-up (2021)](https://www.npr.org/2021/03/07/974534021/remembering-allan-mcdonald-he-refused-to-approve-challenger-launch-exposed-cover) | [21-06-2024](https://news.ycombinator.com/item?id=40748371) |
 | 1213 | [EU Council has withdrawn the vote on Chat Control](https://stackdiary.com/eu-council-has-withdrawn-the-vote-on-chat-control/) | [20-06-2024](https://news.ycombinator.com/item?id=40736771) |
 | 1214 | [Safe Superintelligence Inc.](https://ssi.inc) | [19-06-2024](https://news.ycombinator.com/item?id=40730156) |
@@ -379,7 +380,6 @@
 | 869 | [Kelly Rowland couldn't have used the =HYPERLINK() function to message Nelly](https://blog.jgc.org/2023/07/unfortunately-kelly-rowland-couldnt.html) | [11-07-2023](https://news.ycombinator.com/item?id=36686857) |
 | 1028 | [Firefox address bar](https://wiki.tilde.institute/w/firefox-address-bar-tips) | [10-07-2023](https://news.ycombinator.com/item?id=36666116) |
 | 659 | [Don't Take VC Funding – It Will Destroy Your Company](https://www.eidel.io/2023/07/09/vc-funding/) | [09-07-2023](https://news.ycombinator.com/item?id=36654960) |
-| 1102 | [When an app asks for permissions, it should have a “feed fake data” option](https://mastodon.gamedev.place/@Nifflas/110668040598715116) | [08-07-2023](https://news.ycombinator.com/item?id=36644895) |
 <!-- NEWS PREVIEW END -->
 
 **To see the full list, visit >>> [hnhd.io](https://hnhd.io/) <<<**

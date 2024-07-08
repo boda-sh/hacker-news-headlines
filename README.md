@@ -15,15 +15,16 @@
 <!-- NEWS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 314 | [First anode-free sodium solid-state battery](https://pme.uchicago.edu/news/uchicago-prof-shirley-mengs-laboratory-energy-storage-and-conversion-creates-worlds-first) | [06-07-2024](https://news.ycombinator.com/item?id=40891252) |
-| 406 | [PostgreSQL and UUID as Primary Key](https://maciejwalkowiak.com/blog/postgres-uuid-primary-key/) | [05-07-2024](https://news.ycombinator.com/item?id=40884878) |
-| 642 | [Twilio confirms data breach after hackers leak 33M Authy user phone numbers](https://www.securityweek.com/twilio-confirms-data-breach-after-hackers-leak-33m-authy-user-phone-numbers/) | [04-07-2024](https://news.ycombinator.com/item?id=40874341) |
-| 701 | [I Received an AI Email](https://timharek.no/blog/i-received-an-ai-email) | [03-07-2024](https://news.ycombinator.com/item?id=40862865) |
-| 1422 | [Why is Chile so long?](https://unchartedterritories.tomaspueyo.com/p/why-is-chile-so-long) | [02-07-2024](https://news.ycombinator.com/item?id=40856030) |
-| 1144 | [Show HN: I created an After Effects alternative](https://pikimov.com/) | [01-07-2024](https://news.ycombinator.com/item?id=40843867) |
-| 662 | [Pattern of brain damage is pervasive in Navy SEALs who died by suicide](https://www.nytimes.com/2024/06/30/us/navy-seals-brain-damage-suicide.html) | [30-06-2024](https://news.ycombinator.com/item?id=40836960) |
+| 395 | [Show HN: A modern Jupyter client for macOS](https://satyrn.app/) | [07-07-2024](https://news.ycombinator.com/item?id=40899242) |
+| 375 | [How to think in writing](https://www.henrikkarlsson.xyz/p/writing-to-think) | [06-07-2024](https://news.ycombinator.com/item?id=40892298) |
+| 417 | [PostgreSQL and UUID as Primary Key](https://maciejwalkowiak.com/blog/postgres-uuid-primary-key/) | [05-07-2024](https://news.ycombinator.com/item?id=40884878) |
+| 655 | [Twilio confirms data breach after hackers leak 33M Authy user phone numbers](https://www.securityweek.com/twilio-confirms-data-breach-after-hackers-leak-33m-authy-user-phone-numbers/) | [04-07-2024](https://news.ycombinator.com/item?id=40874341) |
+| 707 | [I Received an AI Email](https://timharek.no/blog/i-received-an-ai-email) | [03-07-2024](https://news.ycombinator.com/item?id=40862865) |
+| 1429 | [Why is Chile so long?](https://unchartedterritories.tomaspueyo.com/p/why-is-chile-so-long) | [02-07-2024](https://news.ycombinator.com/item?id=40856030) |
+| 1146 | [Show HN: I created an After Effects alternative](https://pikimov.com/) | [01-07-2024](https://news.ycombinator.com/item?id=40843867) |
+| 663 | [Pattern of brain damage is pervasive in Navy SEALs who died by suicide](https://www.nytimes.com/2024/06/30/us/navy-seals-brain-damage-suicide.html) | [30-06-2024](https://news.ycombinator.com/item?id=40836960) |
 | 633 | [Imhex: A hex editor for reverse engineers](https://github.com/WerWolv/ImHex) | [29-06-2024](https://news.ycombinator.com/item?id=40828493) |
-| 757 | [Supreme Court overturns 40-year-old "Chevron deference" doctrine](https://www.axios.com/2024/06/28/supreme-court-chevron-doctrine-ruling) | [28-06-2024](https://news.ycombinator.com/item?id=40820949) |
+| 758 | [Supreme Court overturns 40-year-old "Chevron deference" doctrine](https://www.axios.com/2024/06/28/supreme-court-chevron-doctrine-ruling) | [28-06-2024](https://news.ycombinator.com/item?id=40820949) |
 | 764 | [Remembering Larry Finger, who made Linux wireless work](https://arstechnica.com/gadgets/2024/06/larry-finger-linux-wireless-hero-was-a-persistent-patient-coder-and-mentor/) | [27-06-2024](https://news.ycombinator.com/item?id=40812695) |
 | 993 | [One Million Checkboxes](https://onemillioncheckboxes.com/) | [26-06-2024](https://news.ycombinator.com/item?id=40800869) |
 | 1016 | [Ball: A ball that lives in your dock](https://github.com/nate-parrott/ball) | [25-06-2024](https://news.ycombinator.com/item?id=40793465) |
@@ -379,7 +380,6 @@
 | 703 | [Disney, Netflix, and more are fighting FTC's 'click to cancel' proposal](https://www.businessinsider.com/hollywood-streamers-oppose-ftc-proposal-regulation-click-to-cancel-subscription-2023-7) | [13-07-2023](https://news.ycombinator.com/item?id=36706138) |
 | 533 | [Chiptune.app](https://chiptune.app/) | [12-07-2023](https://news.ycombinator.com/item?id=36701424) |
 | 869 | [Kelly Rowland couldn't have used the =HYPERLINK() function to message Nelly](https://blog.jgc.org/2023/07/unfortunately-kelly-rowland-couldnt.html) | [11-07-2023](https://news.ycombinator.com/item?id=36686857) |
-| 1028 | [Firefox address bar](https://wiki.tilde.institute/w/firefox-address-bar-tips) | [10-07-2023](https://news.ycombinator.com/item?id=36666116) |
 <!-- NEWS PREVIEW END -->
 
 **To see the full list, visit >>> [hnhd.io](https://hnhd.io/) <<<**

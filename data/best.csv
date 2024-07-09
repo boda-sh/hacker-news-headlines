@@ -1,17 +1,18 @@
 id,title,link,scores,user,date
-40899242,Show HN: A modern Jupyter client for macOS,https://satyrn.app/,395,jackhodkinson,2024-07-07 17:59:31.000000
-40892298,How to think in writing,https://www.henrikkarlsson.xyz/p/writing-to-think,375,Luc,2024-07-06 18:44:46.000000
-40884878,PostgreSQL and UUID as Primary Key,https://maciejwalkowiak.com/blog/postgres-uuid-primary-key/,417,taubek,2024-07-05 18:21:01.000000
-40874341,Twilio confirms data breach after hackers leak 33M Authy user phone numbers,https://www.securityweek.com/twilio-confirms-data-breach-after-hackers-leak-33m-authy-user-phone-numbers/,655,mindracer,2024-07-04 12:26:39.000000
-40862865,I Received an AI Email,https://timharek.no/blog/i-received-an-ai-email,707,imadj,2024-07-03 05:05:35.000000
-40856030,Why is Chile so long?,https://unchartedterritories.tomaspueyo.com/p/why-is-chile-so-long,1429,trevin,2024-07-02 12:36:58.000000
-40843867,Show HN: I created an After Effects alternative,https://pikimov.com/,1146,clementpiki,2024-07-01 08:57:26.000000
+40906148,Reverse engineering Ticketmaster's rotating barcodes,https://conduition.io/coding/ticketmaster/,1407,miki123211,2024-07-08 15:14:06.000000
+40899242,Show HN: A modern Jupyter client for macOS,https://satyrn.app/,581,jackhodkinson,2024-07-07 17:59:31.000000
+40892298,How to think in writing,https://www.henrikkarlsson.xyz/p/writing-to-think,399,Luc,2024-07-06 18:44:46.000000
+40884878,PostgreSQL and UUID as Primary Key,https://maciejwalkowiak.com/blog/postgres-uuid-primary-key/,425,taubek,2024-07-05 18:21:01.000000
+40874341,Twilio confirms data breach after hackers leak 33M Authy user phone numbers,https://www.securityweek.com/twilio-confirms-data-breach-after-hackers-leak-33m-authy-user-phone-numbers/,657,mindracer,2024-07-04 12:26:39.000000
+40862865,I Received an AI Email,https://timharek.no/blog/i-received-an-ai-email,713,imadj,2024-07-03 05:05:35.000000
+40856030,Why is Chile so long?,https://unchartedterritories.tomaspueyo.com/p/why-is-chile-so-long,1433,trevin,2024-07-02 12:36:58.000000
+40843867,Show HN: I created an After Effects alternative,https://pikimov.com/,1147,clementpiki,2024-07-01 08:57:26.000000
 40836960,Pattern of brain damage is pervasive in Navy SEALs who died by suicide,https://www.nytimes.com/2024/06/30/us/navy-seals-brain-damage-suicide.html,663,thelastgallon,2024-06-30 13:09:03.000000
 40828493,Imhex: A hex editor for reverse engineers,https://github.com/WerWolv/ImHex,633,wsc981,2024-06-29 07:25:49.000000
 40820949,"Supreme Court overturns 40-year-old ""Chevron deference"" doctrine",https://www.axios.com/2024/06/28/supreme-court-chevron-doctrine-ruling,758,wumeow,2024-06-28 14:31:12.000000
 40812695,"Remembering Larry Finger, who made Linux wireless work",https://arstechnica.com/gadgets/2024/06/larry-finger-linux-wireless-hero-was-a-persistent-patient-coder-and-mentor/,764,bookofjoe,2024-06-27 17:09:37.000000
 40800869,One Million Checkboxes,https://onemillioncheckboxes.com/,993,LorenDB,2024-06-26 15:02:38.000000
-40793465,Ball: A ball that lives in your dock,https://github.com/nate-parrott/ball,1016,Bluestein,2024-06-25 20:52:52.000000
+40793465,Ball: A ball that lives in your dock,https://github.com/nate-parrott/ball,1017,Bluestein,2024-06-25 20:52:52.000000
 40782130,"Julian Assange has reached a plea deal with the U.S., allowing him to go free",https://www.nbcnews.com/politics/justice-department/julian-assange-reached-plea-deal-us-allowing-go-free-rcna158695,2676,amima,2024-06-24 23:10:07.000000
 40767459,I am using AI to drop hats outside my window onto New Yorkers,https://dropofahat.zone/,1347,jimhi,2024-06-23 13:49:30.000000
 40758767,"After my dad died, I ran and sold his company (2018)",https://anandsanwal.me/2018/06/19/dad-company-sale/,880,ziptron,2024-06-22 12:49:18.000000

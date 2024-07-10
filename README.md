@@ -15,12 +15,13 @@
 <!-- NEWS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 1407 | [Reverse engineering Ticketmaster's rotating barcodes](https://conduition.io/coding/ticketmaster/) | [08-07-2024](https://news.ycombinator.com/item?id=40906148) |
-| 581 | [Show HN: A modern Jupyter client for macOS](https://satyrn.app/) | [07-07-2024](https://news.ycombinator.com/item?id=40899242) |
-| 399 | [How to think in writing](https://www.henrikkarlsson.xyz/p/writing-to-think) | [06-07-2024](https://news.ycombinator.com/item?id=40892298) |
-| 425 | [PostgreSQL and UUID as Primary Key](https://maciejwalkowiak.com/blog/postgres-uuid-primary-key/) | [05-07-2024](https://news.ycombinator.com/item?id=40884878) |
-| 657 | [Twilio confirms data breach after hackers leak 33M Authy user phone numbers](https://www.securityweek.com/twilio-confirms-data-breach-after-hackers-leak-33m-authy-user-phone-numbers/) | [04-07-2024](https://news.ycombinator.com/item?id=40874341) |
-| 713 | [I Received an AI Email](https://timharek.no/blog/i-received-an-ai-email) | [03-07-2024](https://news.ycombinator.com/item?id=40862865) |
+| 758 | [Google Chrome has an API accesible only from *.google.com](https://twitter.com/lcasdev/status/1810696257137959018) | [09-07-2024](https://news.ycombinator.com/item?id=40918052) |
+| 1987 | [Reverse engineering Ticketmaster's rotating barcodes](https://conduition.io/coding/ticketmaster/) | [08-07-2024](https://news.ycombinator.com/item?id=40906148) |
+| 588 | [Show HN: A modern Jupyter client for macOS](https://satyrn.app/) | [07-07-2024](https://news.ycombinator.com/item?id=40899242) |
+| 410 | [How to think in writing](https://www.henrikkarlsson.xyz/p/writing-to-think) | [06-07-2024](https://news.ycombinator.com/item?id=40892298) |
+| 426 | [PostgreSQL and UUID as Primary Key](https://maciejwalkowiak.com/blog/postgres-uuid-primary-key/) | [05-07-2024](https://news.ycombinator.com/item?id=40884878) |
+| 661 | [Twilio confirms data breach after hackers leak 33M Authy user phone numbers](https://www.securityweek.com/twilio-confirms-data-breach-after-hackers-leak-33m-authy-user-phone-numbers/) | [04-07-2024](https://news.ycombinator.com/item?id=40874341) |
+| 714 | [I Received an AI Email](https://timharek.no/blog/i-received-an-ai-email) | [03-07-2024](https://news.ycombinator.com/item?id=40862865) |
 | 1433 | [Why is Chile so long?](https://unchartedterritories.tomaspueyo.com/p/why-is-chile-so-long) | [02-07-2024](https://news.ycombinator.com/item?id=40856030) |
 | 1147 | [Show HN: I created an After Effects alternative](https://pikimov.com/) | [01-07-2024](https://news.ycombinator.com/item?id=40843867) |
 | 663 | [Pattern of brain damage is pervasive in Navy SEALs who died by suicide](https://www.nytimes.com/2024/06/30/us/navy-seals-brain-damage-suicide.html) | [30-06-2024](https://news.ycombinator.com/item?id=40836960) |
@@ -379,7 +380,6 @@
 | 1352 | [Every time you click this link, it will send you to a random Web 1.0 website](https://wiby.me/surprise/) | [15-07-2023](https://news.ycombinator.com/item?id=36739920) |
 | 529 | [Internet Archive expands Flash support](https://mastodon.archive.org/@textfiles/110697893762381822) | [14-07-2023](https://news.ycombinator.com/item?id=36728745) |
 | 703 | [Disney, Netflix, and more are fighting FTC's 'click to cancel' proposal](https://www.businessinsider.com/hollywood-streamers-oppose-ftc-proposal-regulation-click-to-cancel-subscription-2023-7) | [13-07-2023](https://news.ycombinator.com/item?id=36706138) |
-| 533 | [Chiptune.app](https://chiptune.app/) | [12-07-2023](https://news.ycombinator.com/item?id=36701424) |
 <!-- NEWS PREVIEW END -->
 
 **To see the full list, visit >>> [hnhd.io](https://hnhd.io/) <<<**

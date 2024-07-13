@@ -15,19 +15,20 @@
 <!-- NEWS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 571 | [The Typeset of Wall·E (2018)](https://typesetinthefuture.com/2018/12/04/walle/) | [11-07-2024](https://news.ycombinator.com/item?id=40934924) |
-| 864 | [Zed on Linux Is Here](https://zed.dev/linux) | [10-07-2024](https://news.ycombinator.com/item?id=40928893) |
-| 888 | [PySkyWiFi: Free stupid wi-fi on long-haul flights](https://robertheaton.com/pyskywifi/) | [09-07-2024](https://news.ycombinator.com/item?id=40915082) |
-| 2239 | [Reverse engineering Ticketmaster's rotating barcodes](https://conduition.io/coding/ticketmaster/) | [08-07-2024](https://news.ycombinator.com/item?id=40906148) |
-| 602 | [Show HN: A modern Jupyter client for macOS](https://satyrn.app/) | [07-07-2024](https://news.ycombinator.com/item?id=40899242) |
+| 739 | [AT&T says criminals stole phone records of 'nearly all' customers in data breach](https://techcrunch.com/2024/07/12/att-phone-records-stolen-data-breach/) | [12-07-2024](https://news.ycombinator.com/item?id=40944505) |
+| 666 | [The Typeset of Wall·E (2018)](https://typesetinthefuture.com/2018/12/04/walle/) | [11-07-2024](https://news.ycombinator.com/item?id=40934924) |
+| 886 | [Zed on Linux Is Here](https://zed.dev/linux) | [10-07-2024](https://news.ycombinator.com/item?id=40928893) |
+| 902 | [PySkyWiFi: Free stupid wi-fi on long-haul flights](https://robertheaton.com/pyskywifi/) | [09-07-2024](https://news.ycombinator.com/item?id=40915082) |
+| 2277 | [Reverse engineering Ticketmaster's rotating barcodes](https://conduition.io/coding/ticketmaster/) | [08-07-2024](https://news.ycombinator.com/item?id=40906148) |
+| 606 | [Show HN: A modern Jupyter client for macOS](https://satyrn.app/) | [07-07-2024](https://news.ycombinator.com/item?id=40899242) |
 | 422 | [How to think in writing](https://www.henrikkarlsson.xyz/p/writing-to-think) | [06-07-2024](https://news.ycombinator.com/item?id=40892298) |
-| 431 | [PostgreSQL and UUID as Primary Key](https://maciejwalkowiak.com/blog/postgres-uuid-primary-key/) | [05-07-2024](https://news.ycombinator.com/item?id=40884878) |
-| 662 | [Twilio confirms data breach after hackers leak 33M Authy user phone numbers](https://www.securityweek.com/twilio-confirms-data-breach-after-hackers-leak-33m-authy-user-phone-numbers/) | [04-07-2024](https://news.ycombinator.com/item?id=40874341) |
-| 715 | [I Received an AI Email](https://timharek.no/blog/i-received-an-ai-email) | [03-07-2024](https://news.ycombinator.com/item?id=40862865) |
-| 1433 | [Why is Chile so long?](https://unchartedterritories.tomaspueyo.com/p/why-is-chile-so-long) | [02-07-2024](https://news.ycombinator.com/item?id=40856030) |
-| 1149 | [Show HN: I created an After Effects alternative](https://pikimov.com/) | [01-07-2024](https://news.ycombinator.com/item?id=40843867) |
+| 432 | [PostgreSQL and UUID as Primary Key](https://maciejwalkowiak.com/blog/postgres-uuid-primary-key/) | [05-07-2024](https://news.ycombinator.com/item?id=40884878) |
+| 663 | [Twilio confirms data breach after hackers leak 33M Authy user phone numbers](https://www.securityweek.com/twilio-confirms-data-breach-after-hackers-leak-33m-authy-user-phone-numbers/) | [04-07-2024](https://news.ycombinator.com/item?id=40874341) |
+| 716 | [I Received an AI Email](https://timharek.no/blog/i-received-an-ai-email) | [03-07-2024](https://news.ycombinator.com/item?id=40862865) |
+| 1436 | [Why is Chile so long?](https://unchartedterritories.tomaspueyo.com/p/why-is-chile-so-long) | [02-07-2024](https://news.ycombinator.com/item?id=40856030) |
+| 1150 | [Show HN: I created an After Effects alternative](https://pikimov.com/) | [01-07-2024](https://news.ycombinator.com/item?id=40843867) |
 | 663 | [Pattern of brain damage is pervasive in Navy SEALs who died by suicide](https://www.nytimes.com/2024/06/30/us/navy-seals-brain-damage-suicide.html) | [30-06-2024](https://news.ycombinator.com/item?id=40836960) |
-| 633 | [Imhex: A hex editor for reverse engineers](https://github.com/WerWolv/ImHex) | [29-06-2024](https://news.ycombinator.com/item?id=40828493) |
+| 634 | [Imhex: A hex editor for reverse engineers](https://github.com/WerWolv/ImHex) | [29-06-2024](https://news.ycombinator.com/item?id=40828493) |
 | 760 | [Supreme Court overturns 40-year-old "Chevron deference" doctrine](https://www.axios.com/2024/06/28/supreme-court-chevron-doctrine-ruling) | [28-06-2024](https://news.ycombinator.com/item?id=40820949) |
 | 764 | [Remembering Larry Finger, who made Linux wireless work](https://arstechnica.com/gadgets/2024/06/larry-finger-linux-wireless-hero-was-a-persistent-patient-coder-and-mentor/) | [27-06-2024](https://news.ycombinator.com/item?id=40812695) |
 | 994 | [One Million Checkboxes](https://onemillioncheckboxes.com/) | [26-06-2024](https://news.ycombinator.com/item?id=40800869) |
@@ -379,7 +380,6 @@
 | 2268 | [Llama 2](https://ai.meta.com/llama/) | [18-07-2023](https://news.ycombinator.com/item?id=36774627) |
 | 699 | [A Firefox-only minimap (2021)](https://www.stefanjudis.com/a-firefox-only-minimap/) | [17-07-2023](https://news.ycombinator.com/item?id=36757542) |
 | 577 | [Discord is not documentation](https://shkspr.mobi/blog/2023/07/discord-is-not-documentation/) | [16-07-2023](https://news.ycombinator.com/item?id=36746154) |
-| 1352 | [Every time you click this link, it will send you to a random Web 1.0 website](https://wiby.me/surprise/) | [15-07-2023](https://news.ycombinator.com/item?id=36739920) |
 <!-- NEWS PREVIEW END -->
 
 **To see the full list, visit >>> [hnhd.io](https://hnhd.io/) <<<**

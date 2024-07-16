@@ -15,14 +15,14 @@
 <!-- NEWS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 233 | [Fitting an elephant with four non-zero parameters](https://arxiv.org/abs/2407.07909) | [14-07-2024](https://news.ycombinator.com/item?id=40961163) |
-| 233 | [How to Know When It's Time to Go](https://thecodist.com/how-to-know-when-its-time-to-go/) | [14-07-2024](https://news.ycombinator.com/item?id=40962675) |
-| 980 | [Use a work journal](https://fev.al/posts/work-journal/) | [13-07-2024](https://news.ycombinator.com/item?id=40950584) |
-| 1035 | [AT&T says criminals stole phone records of 'nearly all' customers in data breach](https://techcrunch.com/2024/07/12/att-phone-records-stolen-data-breach/) | [12-07-2024](https://news.ycombinator.com/item?id=40944505) |
-| 691 | [The Typeset of Wall·E (2018)](https://typesetinthefuture.com/2018/12/04/walle/) | [11-07-2024](https://news.ycombinator.com/item?id=40934924) |
-| 910 | [Zed on Linux Is Here](https://zed.dev/linux) | [10-07-2024](https://news.ycombinator.com/item?id=40928893) |
-| 909 | [PySkyWiFi: Free stupid wi-fi on long-haul flights](https://robertheaton.com/pyskywifi/) | [09-07-2024](https://news.ycombinator.com/item?id=40915082) |
-| 2294 | [Reverse engineering Ticketmaster's rotating barcodes](https://conduition.io/coding/ticketmaster/) | [08-07-2024](https://news.ycombinator.com/item?id=40906148) |
+| 776 | [Run CUDA, unmodified, on AMD GPUs](https://docs.scale-lang.com/) | [15-07-2024](https://news.ycombinator.com/item?id=40970560) |
+| 334 | [Fusion – A hobby OS implemented in Nim](https://github.com/khaledh/fusion) | [14-07-2024](https://news.ycombinator.com/item?id=40962767) |
+| 1024 | [Use a work journal](https://fev.al/posts/work-journal/) | [13-07-2024](https://news.ycombinator.com/item?id=40950584) |
+| 1079 | [AT&T says criminals stole phone records of 'nearly all' customers in data breach](https://techcrunch.com/2024/07/12/att-phone-records-stolen-data-breach/) | [12-07-2024](https://news.ycombinator.com/item?id=40944505) |
+| 1083 | [We need visual programming. No, not like that](https://blog.sbensu.com/posts/demand-for-visual-programming/) | [11-07-2024](https://news.ycombinator.com/item?id=40937119) |
+| 920 | [Zed on Linux Is Here](https://zed.dev/linux) | [10-07-2024](https://news.ycombinator.com/item?id=40928893) |
+| 911 | [PySkyWiFi: Free stupid wi-fi on long-haul flights](https://robertheaton.com/pyskywifi/) | [09-07-2024](https://news.ycombinator.com/item?id=40915082) |
+| 2298 | [Reverse engineering Ticketmaster's rotating barcodes](https://conduition.io/coding/ticketmaster/) | [08-07-2024](https://news.ycombinator.com/item?id=40906148) |
 | 610 | [Show HN: A modern Jupyter client for macOS](https://satyrn.app/) | [07-07-2024](https://news.ycombinator.com/item?id=40899242) |
 | 423 | [How to think in writing](https://www.henrikkarlsson.xyz/p/writing-to-think) | [06-07-2024](https://news.ycombinator.com/item?id=40892298) |
 | 434 | [PostgreSQL and UUID as Primary Key](https://maciejwalkowiak.com/blog/postgres-uuid-primary-key/) | [05-07-2024](https://news.ycombinator.com/item?id=40884878) |

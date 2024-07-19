@@ -1,14 +1,15 @@
 id,title,link,scores,user,date
-40986894,Panic at the Job Market,https://matt.sh/panic-at-the-job-market,1135,speckx,2024-07-17 15:25:11.000000
-40978731,I am starting an AI+Education company,https://twitter.com/karpathy/status/1813263734707790301,886,bilsbie,2024-07-16 17:57:35.000000
-40970560,"Run CUDA, unmodified, on AMD GPUs",https://docs.scale-lang.com/,1275,Straw,2024-07-15 19:05:07.000000
-40962767,Fusion – A hobby OS implemented in Nim,https://github.com/khaledh/fusion,356,michaelsbradley,2024-07-14 19:43:40.000000
-40950584,Use a work journal,https://fev.al/posts/work-journal/,1061,charles_f,2024-07-13 00:05:23.000000
+40992982,My daughter (7 years old) used HTML to make a website,https://naya.lol,1139,fintler,2024-07-18 06:24:51.000000
+40986894,Panic at the Job Market,https://matt.sh/panic-at-the-job-market,1644,speckx,2024-07-17 15:25:11.000000
+40978731,I am starting an AI+Education company,https://twitter.com/karpathy/status/1813263734707790301,897,bilsbie,2024-07-16 17:57:35.000000
+40970560,"Run CUDA, unmodified, on AMD GPUs",https://docs.scale-lang.com/,1298,Straw,2024-07-15 19:05:07.000000
+40962767,Fusion – A hobby OS implemented in Nim,https://github.com/khaledh/fusion,359,michaelsbradley,2024-07-14 19:43:40.000000
+40950584,Use a work journal,https://fev.al/posts/work-journal/,1069,charles_f,2024-07-13 00:05:23.000000
 40944505,AT&T says criminals stole phone records of 'nearly all' customers in data breach,https://techcrunch.com/2024/07/12/att-phone-records-stolen-data-breach/,1102,impish9208,2024-07-12 11:17:54.000000
-40937119,"We need visual programming. No, not like that",https://blog.sbensu.com/posts/demand-for-visual-programming/,1165,stopachka,2024-07-11 14:21:02.000000
+40937119,"We need visual programming. No, not like that",https://blog.sbensu.com/posts/demand-for-visual-programming/,1166,stopachka,2024-07-11 14:21:02.000000
 40928893,Zed on Linux Is Here,https://zed.dev/linux,922,0xedb,2024-07-10 16:56:02.000000
 40915082,PySkyWiFi: Free stupid wi-fi on long-haul flights,https://robertheaton.com/pyskywifi/,915,oumua_don17,2024-07-09 12:01:37.000000
-40906148,Reverse engineering Ticketmaster's rotating barcodes,https://conduition.io/coding/ticketmaster/,2303,miki123211,2024-07-08 15:14:06.000000
+40906148,Reverse engineering Ticketmaster's rotating barcodes,https://conduition.io/coding/ticketmaster/,2304,miki123211,2024-07-08 15:14:06.000000
 40899242,Show HN: A modern Jupyter client for macOS,https://satyrn.app/,611,jackhodkinson,2024-07-07 17:59:31.000000
 40892298,How to think in writing,https://www.henrikkarlsson.xyz/p/writing-to-think,424,Luc,2024-07-06 18:44:46.000000
 40884878,PostgreSQL and UUID as Primary Key,https://maciejwalkowiak.com/blog/postgres-uuid-primary-key/,435,taubek,2024-07-05 18:21:01.000000

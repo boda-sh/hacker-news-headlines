@@ -15,16 +15,17 @@
 <!-- NEWS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 523 | [Researcher finds flaw in a16z website that exposed some company data](https://www.kibty.town/blog/a16z/) | [20-07-2024](https://news.ycombinator.com/item?id=41016768) |
-| 4403 | [CrowdStrike Update: Windows Bluescreen and Boot Loops](https://old.reddit.com/r/crowdstrike/comments/1e6vmkf/bsod_error_in_latest_crowdstrike_update/) | [19-07-2024](https://news.ycombinator.com/item?id=41002195) |
-| 1400 | [My daughter (7 years old) used HTML to make a website](https://naya.lol) | [18-07-2024](https://news.ycombinator.com/item?id=40992982) |
-| 1690 | [Panic at the Job Market](https://matt.sh/panic-at-the-job-market) | [17-07-2024](https://news.ycombinator.com/item?id=40986894) |
-| 907 | [I am starting an AI+Education company](https://twitter.com/karpathy/status/1813263734707790301) | [16-07-2024](https://news.ycombinator.com/item?id=40978731) |
-| 1323 | [Run CUDA, unmodified, on AMD GPUs](https://docs.scale-lang.com/) | [15-07-2024](https://news.ycombinator.com/item?id=40970560) |
+| 853 | [Joe Biden stands down as Democratic candidate](https://twitter.com/JoeBiden/status/1815087772216303933) | [21-07-2024](https://news.ycombinator.com/item?id=41026741) |
+| 581 | [Typst: An easy to learn alternative for LaTex](https://github.com/typst/typst) | [20-07-2024](https://news.ycombinator.com/item?id=41014941) |
+| 4436 | [CrowdStrike Update: Windows Bluescreen and Boot Loops](https://old.reddit.com/r/crowdstrike/comments/1e6vmkf/bsod_error_in_latest_crowdstrike_update/) | [19-07-2024](https://news.ycombinator.com/item?id=41002195) |
+| 1411 | [My daughter (7 years old) used HTML to make a website](https://naya.lol) | [18-07-2024](https://news.ycombinator.com/item?id=40992982) |
+| 1696 | [Panic at the Job Market](https://matt.sh/panic-at-the-job-market) | [17-07-2024](https://news.ycombinator.com/item?id=40986894) |
+| 913 | [I am starting an AI+Education company](https://twitter.com/karpathy/status/1813263734707790301) | [16-07-2024](https://news.ycombinator.com/item?id=40978731) |
+| 1326 | [Run CUDA, unmodified, on AMD GPUs](https://docs.scale-lang.com/) | [15-07-2024](https://news.ycombinator.com/item?id=40970560) |
 | 360 | [Fusion – A hobby OS implemented in Nim](https://github.com/khaledh/fusion) | [14-07-2024](https://news.ycombinator.com/item?id=40962767) |
-| 1074 | [Use a work journal](https://fev.al/posts/work-journal/) | [13-07-2024](https://news.ycombinator.com/item?id=40950584) |
+| 1078 | [Use a work journal](https://fev.al/posts/work-journal/) | [13-07-2024](https://news.ycombinator.com/item?id=40950584) |
 | 1102 | [AT&T says criminals stole phone records of 'nearly all' customers in data breach](https://techcrunch.com/2024/07/12/att-phone-records-stolen-data-breach/) | [12-07-2024](https://news.ycombinator.com/item?id=40944505) |
-| 1171 | [We need visual programming. No, not like that](https://blog.sbensu.com/posts/demand-for-visual-programming/) | [11-07-2024](https://news.ycombinator.com/item?id=40937119) |
+| 1173 | [We need visual programming. No, not like that](https://blog.sbensu.com/posts/demand-for-visual-programming/) | [11-07-2024](https://news.ycombinator.com/item?id=40937119) |
 | 922 | [Zed on Linux Is Here](https://zed.dev/linux) | [10-07-2024](https://news.ycombinator.com/item?id=40928893) |
 | 915 | [PySkyWiFi: Free stupid wi-fi on long-haul flights](https://robertheaton.com/pyskywifi/) | [09-07-2024](https://news.ycombinator.com/item?id=40915082) |
 | 2305 | [Reverse engineering Ticketmaster's rotating barcodes](https://conduition.io/coding/ticketmaster/) | [08-07-2024](https://news.ycombinator.com/item?id=40906148) |
@@ -379,7 +380,6 @@
 | 831 | [Tesla created secret team to suppress thousands of driving range complaints](https://www.reuters.com/investigates/special-report/tesla-batteries-range/) | [27-07-2023](https://news.ycombinator.com/item?id=36891642) |
 | 1376 | [Google is already pushing WEI into Chromium](https://github.com/chromium/chromium/commit/6f47a22906b2899412e79a2727355efa9cc8f5bd) | [26-07-2023](https://news.ycombinator.com/item?id=36876301) |
 | 1690 | [The first room-temperature ambient-pressure superconductor?](https://arxiv.org/abs/2307.12008) | [25-07-2023](https://news.ycombinator.com/item?id=36864624) |
-| 1283 | [Zenbleed](https://lock.cmpxchg8b.com/zenbleed.html) | [24-07-2023](https://news.ycombinator.com/item?id=36848680) |
 <!-- NEWS PREVIEW END -->
 
 **To see the full list, visit >>> [hnhd.io](https://hnhd.io/) <<<**

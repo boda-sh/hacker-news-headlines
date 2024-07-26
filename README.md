@@ -15,19 +15,20 @@
 <!-- NEWS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 1308 | [Anyone can access deleted and private repository data on GitHub](https://trufflesecurity.com/blog/anyone-can-access-deleted-and-private-repo-data-github) | [24-07-2024](https://news.ycombinator.com/item?id=41060102) |
-| 2283 | [Open source AI is the path forward](https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/) | [23-07-2024](https://news.ycombinator.com/item?id=41046773) |
-| 728 | [Kawaii – A Keychain-Sized Nintendo Wii](https://bitbuilt.net/forums/index.php?threads/kawaii.6474/) | [22-07-2024](https://news.ycombinator.com/item?id=41038552) |
-| 984 | [Joe Biden stands down as Democratic candidate](https://twitter.com/JoeBiden/status/1815087772216303933) | [21-07-2024](https://news.ycombinator.com/item?id=41026741) |
-| 640 | [Typst: An easy to learn alternative for LaTex](https://github.com/typst/typst) | [20-07-2024](https://news.ycombinator.com/item?id=41014941) |
-| 4481 | [CrowdStrike Update: Windows Bluescreen and Boot Loops](https://old.reddit.com/r/crowdstrike/comments/1e6vmkf/bsod_error_in_latest_crowdstrike_update/) | [19-07-2024](https://news.ycombinator.com/item?id=41002195) |
+| 1057 | [Node.js adds experimental support for TypeScript](https://github.com/nodejs/node/pull/53725) | [25-07-2024](https://news.ycombinator.com/item?id=41064351) |
+| 1887 | [Anyone can access deleted and private repository data on GitHub](https://trufflesecurity.com/blog/anyone-can-access-deleted-and-private-repo-data-github) | [24-07-2024](https://news.ycombinator.com/item?id=41060102) |
+| 2314 | [Open source AI is the path forward](https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/) | [23-07-2024](https://news.ycombinator.com/item?id=41046773) |
+| 732 | [Kawaii – A Keychain-Sized Nintendo Wii](https://bitbuilt.net/forums/index.php?threads/kawaii.6474/) | [22-07-2024](https://news.ycombinator.com/item?id=41038552) |
+| 985 | [Joe Biden stands down as Democratic candidate](https://twitter.com/JoeBiden/status/1815087772216303933) | [21-07-2024](https://news.ycombinator.com/item?id=41026741) |
+| 644 | [Typst: An easy to learn alternative for LaTex](https://github.com/typst/typst) | [20-07-2024](https://news.ycombinator.com/item?id=41014941) |
+| 4483 | [CrowdStrike Update: Windows Bluescreen and Boot Loops](https://old.reddit.com/r/crowdstrike/comments/1e6vmkf/bsod_error_in_latest_crowdstrike_update/) | [19-07-2024](https://news.ycombinator.com/item?id=41002195) |
 | 1433 | [My daughter (7 years old) used HTML to make a website](https://naya.lol) | [18-07-2024](https://news.ycombinator.com/item?id=40992982) |
-| 1710 | [Panic at the Job Market](https://matt.sh/panic-at-the-job-market) | [17-07-2024](https://news.ycombinator.com/item?id=40986894) |
-| 914 | [I am starting an AI+Education company](https://twitter.com/karpathy/status/1813263734707790301) | [16-07-2024](https://news.ycombinator.com/item?id=40978731) |
-| 1328 | [Run CUDA, unmodified, on AMD GPUs](https://docs.scale-lang.com/) | [15-07-2024](https://news.ycombinator.com/item?id=40970560) |
+| 1713 | [Panic at the Job Market](https://matt.sh/panic-at-the-job-market) | [17-07-2024](https://news.ycombinator.com/item?id=40986894) |
+| 915 | [I am starting an AI+Education company](https://twitter.com/karpathy/status/1813263734707790301) | [16-07-2024](https://news.ycombinator.com/item?id=40978731) |
+| 1329 | [Run CUDA, unmodified, on AMD GPUs](https://docs.scale-lang.com/) | [15-07-2024](https://news.ycombinator.com/item?id=40970560) |
 | 360 | [Fusion – A hobby OS implemented in Nim](https://github.com/khaledh/fusion) | [14-07-2024](https://news.ycombinator.com/item?id=40962767) |
-| 1082 | [Use a work journal](https://fev.al/posts/work-journal/) | [13-07-2024](https://news.ycombinator.com/item?id=40950584) |
-| 1102 | [AT&T says criminals stole phone records of 'nearly all' customers in data breach](https://techcrunch.com/2024/07/12/att-phone-records-stolen-data-breach/) | [12-07-2024](https://news.ycombinator.com/item?id=40944505) |
+| 1083 | [Use a work journal](https://fev.al/posts/work-journal/) | [13-07-2024](https://news.ycombinator.com/item?id=40950584) |
+| 1103 | [AT&T says criminals stole phone records of 'nearly all' customers in data breach](https://techcrunch.com/2024/07/12/att-phone-records-stolen-data-breach/) | [12-07-2024](https://news.ycombinator.com/item?id=40944505) |
 | 1177 | [We need visual programming. No, not like that](https://blog.sbensu.com/posts/demand-for-visual-programming/) | [11-07-2024](https://news.ycombinator.com/item?id=40937119) |
 | 923 | [Zed on Linux Is Here](https://zed.dev/linux) | [10-07-2024](https://news.ycombinator.com/item?id=40928893) |
 | 917 | [PySkyWiFi: Free stupid wi-fi on long-haul flights](https://robertheaton.com/pyskywifi/) | [09-07-2024](https://news.ycombinator.com/item?id=40915082) |
@@ -379,7 +380,6 @@
 | 573 | [Ask HN: Is anyone using PyPy for real work?](https://news.ycombinator.com/item?id=36940871) | [31-07-2023](https://news.ycombinator.com/item?id=36940871) |
 | 727 | [Show HN: San Francisco Compute – 512 H100s at <$2/hr for research and startups](https://sfcompute.org/) | [30-07-2023](https://news.ycombinator.com/item?id=36933603) |
 | 608 | [If we want a shift to walking we need to prioritize dignity](https://streets.mn/2023/07/19/if-we-want-a-shift-to-walking-we-need-to-prioritize-dignity/) | [29-07-2023](https://news.ycombinator.com/item?id=36920622) |
-| 720 | [Cap'n Proto 1.0](https://capnproto.org/news/2023-07-28-capnproto-1.0.html) | [28-07-2023](https://news.ycombinator.com/item?id=36908309) |
 <!-- NEWS PREVIEW END -->
 
 **To see the full list, visit >>> [hnhd.io](https://hnhd.io/) <<<**

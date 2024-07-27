@@ -15,21 +15,22 @@
 <!-- NEWS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 1057 | [Node.js adds experimental support for TypeScript](https://github.com/nodejs/node/pull/53725) | [25-07-2024](https://news.ycombinator.com/item?id=41064351) |
-| 1887 | [Anyone can access deleted and private repository data on GitHub](https://trufflesecurity.com/blog/anyone-can-access-deleted-and-private-repo-data-github) | [24-07-2024](https://news.ycombinator.com/item?id=41060102) |
-| 2314 | [Open source AI is the path forward](https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/) | [23-07-2024](https://news.ycombinator.com/item?id=41046773) |
-| 732 | [Kawaii – A Keychain-Sized Nintendo Wii](https://bitbuilt.net/forums/index.php?threads/kawaii.6474/) | [22-07-2024](https://news.ycombinator.com/item?id=41038552) |
-| 985 | [Joe Biden stands down as Democratic candidate](https://twitter.com/JoeBiden/status/1815087772216303933) | [21-07-2024](https://news.ycombinator.com/item?id=41026741) |
+| 595 | [A Swiss town banned billboards. Zurich, Bern may soon follow](https://www.bloomberg.com/news/articles/2024-07-26/zurich-bern-consider-billboard-bans-after-vernier-outlaws-visual-pollution) | [26-07-2024](https://news.ycombinator.com/item?id=41075766) |
+| 1321 | [AI solves International Math Olympiad problems at silver medal level](https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/) | [25-07-2024](https://news.ycombinator.com/item?id=41069829) |
+| 1939 | [Anyone can access deleted and private repository data on GitHub](https://trufflesecurity.com/blog/anyone-can-access-deleted-and-private-repo-data-github) | [24-07-2024](https://news.ycombinator.com/item?id=41060102) |
+| 2335 | [Open source AI is the path forward](https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/) | [23-07-2024](https://news.ycombinator.com/item?id=41046773) |
+| 740 | [Kawaii – A Keychain-Sized Nintendo Wii](https://bitbuilt.net/forums/index.php?threads/kawaii.6474/) | [22-07-2024](https://news.ycombinator.com/item?id=41038552) |
+| 989 | [Joe Biden stands down as Democratic candidate](https://twitter.com/JoeBiden/status/1815087772216303933) | [21-07-2024](https://news.ycombinator.com/item?id=41026741) |
 | 644 | [Typst: An easy to learn alternative for LaTex](https://github.com/typst/typst) | [20-07-2024](https://news.ycombinator.com/item?id=41014941) |
-| 4483 | [CrowdStrike Update: Windows Bluescreen and Boot Loops](https://old.reddit.com/r/crowdstrike/comments/1e6vmkf/bsod_error_in_latest_crowdstrike_update/) | [19-07-2024](https://news.ycombinator.com/item?id=41002195) |
-| 1433 | [My daughter (7 years old) used HTML to make a website](https://naya.lol) | [18-07-2024](https://news.ycombinator.com/item?id=40992982) |
+| 4484 | [CrowdStrike Update: Windows Bluescreen and Boot Loops](https://old.reddit.com/r/crowdstrike/comments/1e6vmkf/bsod_error_in_latest_crowdstrike_update/) | [19-07-2024](https://news.ycombinator.com/item?id=41002195) |
+| 1434 | [My daughter (7 years old) used HTML to make a website](https://naya.lol) | [18-07-2024](https://news.ycombinator.com/item?id=40992982) |
 | 1713 | [Panic at the Job Market](https://matt.sh/panic-at-the-job-market) | [17-07-2024](https://news.ycombinator.com/item?id=40986894) |
 | 915 | [I am starting an AI+Education company](https://twitter.com/karpathy/status/1813263734707790301) | [16-07-2024](https://news.ycombinator.com/item?id=40978731) |
-| 1329 | [Run CUDA, unmodified, on AMD GPUs](https://docs.scale-lang.com/) | [15-07-2024](https://news.ycombinator.com/item?id=40970560) |
+| 1330 | [Run CUDA, unmodified, on AMD GPUs](https://docs.scale-lang.com/) | [15-07-2024](https://news.ycombinator.com/item?id=40970560) |
 | 360 | [Fusion – A hobby OS implemented in Nim](https://github.com/khaledh/fusion) | [14-07-2024](https://news.ycombinator.com/item?id=40962767) |
 | 1083 | [Use a work journal](https://fev.al/posts/work-journal/) | [13-07-2024](https://news.ycombinator.com/item?id=40950584) |
 | 1103 | [AT&T says criminals stole phone records of 'nearly all' customers in data breach](https://techcrunch.com/2024/07/12/att-phone-records-stolen-data-breach/) | [12-07-2024](https://news.ycombinator.com/item?id=40944505) |
-| 1177 | [We need visual programming. No, not like that](https://blog.sbensu.com/posts/demand-for-visual-programming/) | [11-07-2024](https://news.ycombinator.com/item?id=40937119) |
+| 1178 | [We need visual programming. No, not like that](https://blog.sbensu.com/posts/demand-for-visual-programming/) | [11-07-2024](https://news.ycombinator.com/item?id=40937119) |
 | 923 | [Zed on Linux Is Here](https://zed.dev/linux) | [10-07-2024](https://news.ycombinator.com/item?id=40928893) |
 | 917 | [PySkyWiFi: Free stupid wi-fi on long-haul flights](https://robertheaton.com/pyskywifi/) | [09-07-2024](https://news.ycombinator.com/item?id=40915082) |
 | 2305 | [Reverse engineering Ticketmaster's rotating barcodes](https://conduition.io/coding/ticketmaster/) | [08-07-2024](https://news.ycombinator.com/item?id=40906148) |
@@ -379,7 +380,6 @@
 | 1215 | [A room-temperature superconductor? New developments](https://www.science.org/content/blog-post/room-temperature-superconductor-new-developments) | [01-08-2023](https://news.ycombinator.com/item?id=36957678) |
 | 573 | [Ask HN: Is anyone using PyPy for real work?](https://news.ycombinator.com/item?id=36940871) | [31-07-2023](https://news.ycombinator.com/item?id=36940871) |
 | 727 | [Show HN: San Francisco Compute – 512 H100s at <$2/hr for research and startups](https://sfcompute.org/) | [30-07-2023](https://news.ycombinator.com/item?id=36933603) |
-| 608 | [If we want a shift to walking we need to prioritize dignity](https://streets.mn/2023/07/19/if-we-want-a-shift-to-walking-we-need-to-prioritize-dignity/) | [29-07-2023](https://news.ycombinator.com/item?id=36920622) |
 <!-- NEWS PREVIEW END -->
 
 **To see the full list, visit >>> [hnhd.io](https://hnhd.io/) <<<**

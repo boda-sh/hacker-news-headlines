@@ -15,16 +15,17 @@
 <!-- NEWS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 454 | [How did Facebook intercept their competitor's encrypted mobile app traffic?](https://doubleagent.net/onavo-facebook-ssl-mitm-technical-analysis/) | [28-07-2024](https://news.ycombinator.com/item?id=41090304) |
-| 806 | [An experiment in UI density created with Svelte](https://cybernetic.dev/grid) | [27-07-2024](https://news.ycombinator.com/item?id=41088013) |
-| 639 | [A Swiss town banned billboards. Zurich, Bern may soon follow](https://www.bloomberg.com/news/articles/2024-07-26/zurich-bern-consider-billboard-bans-after-vernier-outlaws-visual-pollution) | [26-07-2024](https://news.ycombinator.com/item?id=41075766) |
-| 1343 | [AI solves International Math Olympiad problems at silver medal level](https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/) | [25-07-2024](https://news.ycombinator.com/item?id=41069829) |
-| 1964 | [Anyone can access deleted and private repository data on GitHub](https://trufflesecurity.com/blog/anyone-can-access-deleted-and-private-repo-data-github) | [24-07-2024](https://news.ycombinator.com/item?id=41060102) |
+| 519 | [One-man SaaS, 9 Years In](https://blog.healthchecks.io/2024/07/running-one-man-saas-9-years-in/) | [29-07-2024](https://news.ycombinator.com/item?id=41104293) |
+| 488 | [How did Facebook intercept their competitor's encrypted mobile app traffic?](https://doubleagent.net/onavo-facebook-ssl-mitm-technical-analysis/) | [28-07-2024](https://news.ycombinator.com/item?id=41090304) |
+| 848 | [An experiment in UI density created with Svelte](https://cybernetic.dev/grid) | [27-07-2024](https://news.ycombinator.com/item?id=41088013) |
+| 661 | [A Swiss town banned billboards. Zurich, Bern may soon follow](https://www.bloomberg.com/news/articles/2024-07-26/zurich-bern-consider-billboard-bans-after-vernier-outlaws-visual-pollution) | [26-07-2024](https://news.ycombinator.com/item?id=41075766) |
+| 1357 | [AI solves International Math Olympiad problems at silver medal level](https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/) | [25-07-2024](https://news.ycombinator.com/item?id=41069829) |
+| 1973 | [Anyone can access deleted and private repository data on GitHub](https://trufflesecurity.com/blog/anyone-can-access-deleted-and-private-repo-data-github) | [24-07-2024](https://news.ycombinator.com/item?id=41060102) |
 | 2353 | [Open source AI is the path forward](https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/) | [23-07-2024](https://news.ycombinator.com/item?id=41046773) |
 | 745 | [Kawaii – A Keychain-Sized Nintendo Wii](https://bitbuilt.net/forums/index.php?threads/kawaii.6474/) | [22-07-2024](https://news.ycombinator.com/item?id=41038552) |
 | 989 | [Joe Biden stands down as Democratic candidate](https://twitter.com/JoeBiden/status/1815087772216303933) | [21-07-2024](https://news.ycombinator.com/item?id=41026741) |
-| 646 | [Typst: An easy to learn alternative for LaTex](https://github.com/typst/typst) | [20-07-2024](https://news.ycombinator.com/item?id=41014941) |
-| 4485 | [CrowdStrike Update: Windows Bluescreen and Boot Loops](https://old.reddit.com/r/crowdstrike/comments/1e6vmkf/bsod_error_in_latest_crowdstrike_update/) | [19-07-2024](https://news.ycombinator.com/item?id=41002195) |
+| 647 | [Typst: An easy to learn alternative for LaTex](https://github.com/typst/typst) | [20-07-2024](https://news.ycombinator.com/item?id=41014941) |
+| 4486 | [CrowdStrike Update: Windows Bluescreen and Boot Loops](https://old.reddit.com/r/crowdstrike/comments/1e6vmkf/bsod_error_in_latest_crowdstrike_update/) | [19-07-2024](https://news.ycombinator.com/item?id=41002195) |
 | 1434 | [My daughter (7 years old) used HTML to make a website](https://naya.lol) | [18-07-2024](https://news.ycombinator.com/item?id=40992982) |
 | 1716 | [Panic at the Job Market](https://matt.sh/panic-at-the-job-market) | [17-07-2024](https://news.ycombinator.com/item?id=40986894) |
 | 915 | [I am starting an AI+Education company](https://twitter.com/karpathy/status/1813263734707790301) | [16-07-2024](https://news.ycombinator.com/item?id=40978731) |
@@ -379,7 +380,6 @@
 | 2408 | [Successful room temperature ambient-pressure magnetic levitation of LK-99](https://arxiv.org/abs/2308.01516) | [04-08-2023](https://news.ycombinator.com/item?id=36994214) |
 | 1074 | [A list of recent hostile moves by Google's Chrome team](https://mastodon.social/@nekohayo/110775656176571435) | [03-08-2023](https://news.ycombinator.com/item?id=36982507) |
 | 968 | [I'm betting on HTML](https://catskull.net/html.html) | [02-08-2023](https://news.ycombinator.com/item?id=36966653) |
-| 1215 | [A room-temperature superconductor? New developments](https://www.science.org/content/blog-post/room-temperature-superconductor-new-developments) | [01-08-2023](https://news.ycombinator.com/item?id=36957678) |
 <!-- NEWS PREVIEW END -->
 
 **To see the full list, visit >>> [hnhd.io](https://hnhd.io/) <<<**

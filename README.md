@@ -15,19 +15,20 @@
 <!-- NEWS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 721 | [Suspicious data pattern in recent Venezuelan election](https://statmodeling.stat.columbia.edu/2024/07/31/suspicious-data-pattern-in-recent-venezuelan-election/) | [31-07-2024](https://news.ycombinator.com/item?id=41123155) |
-| 781 | [Our audit of Homebrew](https://blog.trailofbits.com/2024/07/30/our-audit-of-homebrew/) | [30-07-2024](https://news.ycombinator.com/item?id=41114839) |
-| 812 | [FastHTML – Modern web applications in pure Python](https://fastht.ml/) | [29-07-2024](https://news.ycombinator.com/item?id=41104305) |
-| 501 | [How did Facebook intercept their competitor's encrypted mobile app traffic?](https://doubleagent.net/onavo-facebook-ssl-mitm-technical-analysis/) | [28-07-2024](https://news.ycombinator.com/item?id=41090304) |
-| 873 | [An experiment in UI density created with Svelte](https://cybernetic.dev/grid) | [27-07-2024](https://news.ycombinator.com/item?id=41088013) |
+| 1000 | [CrowdStrike representatives issue trademark infringement notice to ClownStrike](https://clownstrike.lol/crowdmad/) | [01-08-2024](https://news.ycombinator.com/item?id=41133917) |
+| 851 | [Suspicious data pattern in recent Venezuelan election](https://statmodeling.stat.columbia.edu/2024/07/31/suspicious-data-pattern-in-recent-venezuelan-election/) | [31-07-2024](https://news.ycombinator.com/item?id=41123155) |
+| 819 | [Our audit of Homebrew](https://blog.trailofbits.com/2024/07/30/our-audit-of-homebrew/) | [30-07-2024](https://news.ycombinator.com/item?id=41114839) |
+| 832 | [FastHTML – Modern web applications in pure Python](https://fastht.ml/) | [29-07-2024](https://news.ycombinator.com/item?id=41104305) |
+| 503 | [How did Facebook intercept their competitor's encrypted mobile app traffic?](https://doubleagent.net/onavo-facebook-ssl-mitm-technical-analysis/) | [28-07-2024](https://news.ycombinator.com/item?id=41090304) |
+| 877 | [An experiment in UI density created with Svelte](https://cybernetic.dev/grid) | [27-07-2024](https://news.ycombinator.com/item?id=41088013) |
 | 669 | [A Swiss town banned billboards. Zurich, Bern may soon follow](https://www.bloomberg.com/news/articles/2024-07-26/zurich-bern-consider-billboard-bans-after-vernier-outlaws-visual-pollution) | [26-07-2024](https://news.ycombinator.com/item?id=41075766) |
-| 1369 | [AI solves International Math Olympiad problems at silver medal level](https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/) | [25-07-2024](https://news.ycombinator.com/item?id=41069829) |
-| 1978 | [Anyone can access deleted and private repository data on GitHub](https://trufflesecurity.com/blog/anyone-can-access-deleted-and-private-repo-data-github) | [24-07-2024](https://news.ycombinator.com/item?id=41060102) |
-| 2357 | [Open source AI is the path forward](https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/) | [23-07-2024](https://news.ycombinator.com/item?id=41046773) |
-| 745 | [Kawaii – A Keychain-Sized Nintendo Wii](https://bitbuilt.net/forums/index.php?threads/kawaii.6474/) | [22-07-2024](https://news.ycombinator.com/item?id=41038552) |
-| 989 | [Joe Biden stands down as Democratic candidate](https://twitter.com/JoeBiden/status/1815087772216303933) | [21-07-2024](https://news.ycombinator.com/item?id=41026741) |
-| 647 | [Typst: An easy to learn alternative for LaTex](https://github.com/typst/typst) | [20-07-2024](https://news.ycombinator.com/item?id=41014941) |
-| 4488 | [CrowdStrike Update: Windows Bluescreen and Boot Loops](https://old.reddit.com/r/crowdstrike/comments/1e6vmkf/bsod_error_in_latest_crowdstrike_update/) | [19-07-2024](https://news.ycombinator.com/item?id=41002195) |
+| 1370 | [AI solves International Math Olympiad problems at silver medal level](https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/) | [25-07-2024](https://news.ycombinator.com/item?id=41069829) |
+| 1980 | [Anyone can access deleted and private repository data on GitHub](https://trufflesecurity.com/blog/anyone-can-access-deleted-and-private-repo-data-github) | [24-07-2024](https://news.ycombinator.com/item?id=41060102) |
+| 2358 | [Open source AI is the path forward](https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/) | [23-07-2024](https://news.ycombinator.com/item?id=41046773) |
+| 747 | [Kawaii – A Keychain-Sized Nintendo Wii](https://bitbuilt.net/forums/index.php?threads/kawaii.6474/) | [22-07-2024](https://news.ycombinator.com/item?id=41038552) |
+| 990 | [Joe Biden stands down as Democratic candidate](https://twitter.com/JoeBiden/status/1815087772216303933) | [21-07-2024](https://news.ycombinator.com/item?id=41026741) |
+| 649 | [Typst: An easy to learn alternative for LaTex](https://github.com/typst/typst) | [20-07-2024](https://news.ycombinator.com/item?id=41014941) |
+| 4489 | [CrowdStrike Update: Windows Bluescreen and Boot Loops](https://old.reddit.com/r/crowdstrike/comments/1e6vmkf/bsod_error_in_latest_crowdstrike_update/) | [19-07-2024](https://news.ycombinator.com/item?id=41002195) |
 | 1435 | [My daughter (7 years old) used HTML to make a website](https://naya.lol) | [18-07-2024](https://news.ycombinator.com/item?id=40992982) |
 | 1717 | [Panic at the Job Market](https://matt.sh/panic-at-the-job-market) | [17-07-2024](https://news.ycombinator.com/item?id=40986894) |
 | 915 | [I am starting an AI+Education company](https://twitter.com/karpathy/status/1813263734707790301) | [16-07-2024](https://news.ycombinator.com/item?id=40978731) |
@@ -379,7 +380,6 @@
 | 787 | [I would rather see my books get pirated than this](https://janefriedman.com/i-would-rather-see-my-books-pirated/) | [07-08-2023](https://news.ycombinator.com/item?id=37042561) |
 | 1581 | [Zoom terms now allow training AI on user content with no opt out](https://explore.zoom.us/en/terms/) | [06-08-2023](https://news.ycombinator.com/item?id=37021160) |
 | 4310 | [Bram Moolenaar has died](https://groups.google.com/g/vim_announce/c/tWahca9zkt4) | [05-08-2023](https://news.ycombinator.com/item?id=37011324) |
-| 2408 | [Successful room temperature ambient-pressure magnetic levitation of LK-99](https://arxiv.org/abs/2308.01516) | [04-08-2023](https://news.ycombinator.com/item?id=36994214) |
 <!-- NEWS PREVIEW END -->
 
 **To see the full list, visit >>> [hnhd.io](https://hnhd.io/) <<<**

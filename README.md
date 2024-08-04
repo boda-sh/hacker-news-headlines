@@ -15,17 +15,18 @@
 <!-- NEWS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 593 | [The upstream cause of the youth mental health crisis is the loss of community](https://www.afterbabel.com/p/the-upstream-cause-of-the-youth-mental) | [02-08-2024](https://news.ycombinator.com/item?id=41139149) |
-| 1163 | [CrowdStrike representatives issue trademark infringement notice to ClownStrike](https://clownstrike.lol/crowdmad/) | [01-08-2024](https://news.ycombinator.com/item?id=41133917) |
-| 877 | [Suspicious data pattern in recent Venezuelan election](https://statmodeling.stat.columbia.edu/2024/07/31/suspicious-data-pattern-in-recent-venezuelan-election/) | [31-07-2024](https://news.ycombinator.com/item?id=41123155) |
-| 829 | [Our audit of Homebrew](https://blog.trailofbits.com/2024/07/30/our-audit-of-homebrew/) | [30-07-2024](https://news.ycombinator.com/item?id=41114839) |
-| 852 | [After 10 years, Yelp gave my app 4 days](http://www.observationalhazard.com/2024/07/after-10-years-yelp-gave-my-app-4-days_29.html) | [29-07-2024](https://news.ycombinator.com/item?id=41104597) |
+| 1069 | ["We ran out of columns"](https://jimmyhmiller.github.io/ugliest-beautiful-codebase) | [03-08-2024](https://news.ycombinator.com/item?id=41146239) |
+| 733 | [The upstream cause of the youth mental health crisis is the loss of community](https://www.afterbabel.com/p/the-upstream-cause-of-the-youth-mental) | [02-08-2024](https://news.ycombinator.com/item?id=41139149) |
+| 1196 | [CrowdStrike representatives issue trademark infringement notice to ClownStrike](https://clownstrike.lol/crowdmad/) | [01-08-2024](https://news.ycombinator.com/item?id=41133917) |
+| 889 | [Suspicious data pattern in recent Venezuelan election](https://statmodeling.stat.columbia.edu/2024/07/31/suspicious-data-pattern-in-recent-venezuelan-election/) | [31-07-2024](https://news.ycombinator.com/item?id=41123155) |
+| 837 | [Our audit of Homebrew](https://blog.trailofbits.com/2024/07/30/our-audit-of-homebrew/) | [30-07-2024](https://news.ycombinator.com/item?id=41114839) |
+| 859 | [After 10 years, Yelp gave my app 4 days](http://www.observationalhazard.com/2024/07/after-10-years-yelp-gave-my-app-4-days_29.html) | [29-07-2024](https://news.ycombinator.com/item?id=41104597) |
 | 503 | [How did Facebook intercept their competitor's encrypted mobile app traffic?](https://doubleagent.net/onavo-facebook-ssl-mitm-technical-analysis/) | [28-07-2024](https://news.ycombinator.com/item?id=41090304) |
 | 881 | [An experiment in UI density created with Svelte](https://cybernetic.dev/grid) | [27-07-2024](https://news.ycombinator.com/item?id=41088013) |
-| 670 | [A Swiss town banned billboards. Zurich, Bern may soon follow](https://www.bloomberg.com/news/articles/2024-07-26/zurich-bern-consider-billboard-bans-after-vernier-outlaws-visual-pollution) | [26-07-2024](https://news.ycombinator.com/item?id=41075766) |
+| 671 | [A Swiss town banned billboards. Zurich, Bern may soon follow](https://www.bloomberg.com/news/articles/2024-07-26/zurich-bern-consider-billboard-bans-after-vernier-outlaws-visual-pollution) | [26-07-2024](https://news.ycombinator.com/item?id=41075766) |
 | 1370 | [AI solves International Math Olympiad problems at silver medal level](https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/) | [25-07-2024](https://news.ycombinator.com/item?id=41069829) |
-| 1980 | [Anyone can access deleted and private repository data on GitHub](https://trufflesecurity.com/blog/anyone-can-access-deleted-and-private-repo-data-github) | [24-07-2024](https://news.ycombinator.com/item?id=41060102) |
-| 2359 | [Open source AI is the path forward](https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/) | [23-07-2024](https://news.ycombinator.com/item?id=41046773) |
+| 1981 | [Anyone can access deleted and private repository data on GitHub](https://trufflesecurity.com/blog/anyone-can-access-deleted-and-private-repo-data-github) | [24-07-2024](https://news.ycombinator.com/item?id=41060102) |
+| 2360 | [Open source AI is the path forward](https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/) | [23-07-2024](https://news.ycombinator.com/item?id=41046773) |
 | 747 | [Kawaii – A Keychain-Sized Nintendo Wii](https://bitbuilt.net/forums/index.php?threads/kawaii.6474/) | [22-07-2024](https://news.ycombinator.com/item?id=41038552) |
 | 990 | [Joe Biden stands down as Democratic candidate](https://twitter.com/JoeBiden/status/1815087772216303933) | [21-07-2024](https://news.ycombinator.com/item?id=41026741) |
 | 649 | [Typst: An easy to learn alternative for LaTex](https://github.com/typst/typst) | [20-07-2024](https://news.ycombinator.com/item?id=41014941) |
@@ -379,7 +380,6 @@
 | 1337 | [I'm 17 and wrote this guide on how CPUs run programs](https://github.com/hackclub/putting-the-you-in-cpu) | [09-08-2023](https://news.ycombinator.com/item?id=37062422) |
 | 1328 | [Downfall Attacks](https://downfall.page/) | [08-08-2023](https://news.ycombinator.com/item?id=37052586) |
 | 787 | [I would rather see my books get pirated than this](https://janefriedman.com/i-would-rather-see-my-books-pirated/) | [07-08-2023](https://news.ycombinator.com/item?id=37042561) |
-| 1581 | [Zoom terms now allow training AI on user content with no opt out](https://explore.zoom.us/en/terms/) | [06-08-2023](https://news.ycombinator.com/item?id=37021160) |
 <!-- NEWS PREVIEW END -->
 
 **To see the full list, visit >>> [hnhd.io](https://hnhd.io/) <<<**

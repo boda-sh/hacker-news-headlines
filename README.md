@@ -15,19 +15,20 @@
 <!-- NEWS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 984 | [Starting Hospice](https://jakeseliger.com/2024/08/04/starting-hospice-the-end/) | [05-08-2024](https://news.ycombinator.com/item?id=41157974) |
-| 502 | [Porting my JavaScript game engine to C for no reason](https://phoboslab.org/log/2024/08/high_impact) | [04-08-2024](https://news.ycombinator.com/item?id=41154135) |
-| 1564 | ["We ran out of columns"](https://jimmyhmiller.github.io/ugliest-beautiful-codebase) | [03-08-2024](https://news.ycombinator.com/item?id=41146239) |
-| 775 | [The upstream cause of the youth mental health crisis is the loss of community](https://www.afterbabel.com/p/the-upstream-cause-of-the-youth-mental) | [02-08-2024](https://news.ycombinator.com/item?id=41139149) |
-| 1218 | [CrowdStrike representatives issue trademark infringement notice to ClownStrike](https://clownstrike.lol/crowdmad/) | [01-08-2024](https://news.ycombinator.com/item?id=41133917) |
-| 902 | [Suspicious data pattern in recent Venezuelan election](https://statmodeling.stat.columbia.edu/2024/07/31/suspicious-data-pattern-in-recent-venezuelan-election/) | [31-07-2024](https://news.ycombinator.com/item?id=41123155) |
+| 569 | [Structured Outputs in the API](https://openai.com/index/introducing-structured-outputs-in-the-api/) | [06-08-2024](https://news.ycombinator.com/item?id=41173223) |
+| 1152 | [Starting Hospice](https://jakeseliger.com/2024/08/04/starting-hospice-the-end/) | [05-08-2024](https://news.ycombinator.com/item?id=41157974) |
+| 514 | [Porting my JavaScript game engine to C for no reason](https://phoboslab.org/log/2024/08/high_impact) | [04-08-2024](https://news.ycombinator.com/item?id=41154135) |
+| 1591 | ["We ran out of columns"](https://jimmyhmiller.github.io/ugliest-beautiful-codebase) | [03-08-2024](https://news.ycombinator.com/item?id=41146239) |
+| 787 | [The upstream cause of the youth mental health crisis is the loss of community](https://www.afterbabel.com/p/the-upstream-cause-of-the-youth-mental) | [02-08-2024](https://news.ycombinator.com/item?id=41139149) |
+| 1230 | [CrowdStrike representatives issue trademark infringement notice to ClownStrike](https://clownstrike.lol/crowdmad/) | [01-08-2024](https://news.ycombinator.com/item?id=41133917) |
+| 903 | [Suspicious data pattern in recent Venezuelan election](https://statmodeling.stat.columbia.edu/2024/07/31/suspicious-data-pattern-in-recent-venezuelan-election/) | [31-07-2024](https://news.ycombinator.com/item?id=41123155) |
 | 844 | [Our audit of Homebrew](https://blog.trailofbits.com/2024/07/30/our-audit-of-homebrew/) | [30-07-2024](https://news.ycombinator.com/item?id=41114839) |
-| 863 | [After 10 years, Yelp gave my app 4 days](http://www.observationalhazard.com/2024/07/after-10-years-yelp-gave-my-app-4-days_29.html) | [29-07-2024](https://news.ycombinator.com/item?id=41104597) |
+| 864 | [FastHTML – Modern web applications in pure Python](https://fastht.ml/) | [29-07-2024](https://news.ycombinator.com/item?id=41104305) |
 | 503 | [How did Facebook intercept their competitor's encrypted mobile app traffic?](https://doubleagent.net/onavo-facebook-ssl-mitm-technical-analysis/) | [28-07-2024](https://news.ycombinator.com/item?id=41090304) |
-| 881 | [An experiment in UI density created with Svelte](https://cybernetic.dev/grid) | [27-07-2024](https://news.ycombinator.com/item?id=41088013) |
+| 882 | [An experiment in UI density created with Svelte](https://cybernetic.dev/grid) | [27-07-2024](https://news.ycombinator.com/item?id=41088013) |
 | 671 | [A Swiss town banned billboards. Zurich, Bern may soon follow](https://www.bloomberg.com/news/articles/2024-07-26/zurich-bern-consider-billboard-bans-after-vernier-outlaws-visual-pollution) | [26-07-2024](https://news.ycombinator.com/item?id=41075766) |
 | 1370 | [AI solves International Math Olympiad problems at silver medal level](https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/) | [25-07-2024](https://news.ycombinator.com/item?id=41069829) |
-| 1982 | [Anyone can access deleted and private repository data on GitHub](https://trufflesecurity.com/blog/anyone-can-access-deleted-and-private-repo-data-github) | [24-07-2024](https://news.ycombinator.com/item?id=41060102) |
+| 1983 | [Anyone can access deleted and private repository data on GitHub](https://trufflesecurity.com/blog/anyone-can-access-deleted-and-private-repo-data-github) | [24-07-2024](https://news.ycombinator.com/item?id=41060102) |
 | 2360 | [Open source AI is the path forward](https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/) | [23-07-2024](https://news.ycombinator.com/item?id=41046773) |
 | 749 | [Kawaii – A Keychain-Sized Nintendo Wii](https://bitbuilt.net/forums/index.php?threads/kawaii.6474/) | [22-07-2024](https://news.ycombinator.com/item?id=41038552) |
 | 990 | [Joe Biden stands down as Democratic candidate](https://twitter.com/JoeBiden/status/1815087772216303933) | [21-07-2024](https://news.ycombinator.com/item?id=41026741) |
@@ -379,7 +380,6 @@
 | 573 | [The Carrot Problem](https://www.atvbt.com/the-carrot-problem/) | [12-08-2023](https://news.ycombinator.com/item?id=37100226) |
 | 857 | [Firefox desktop extensions coming soon for the upcoming Android release](https://blog.mozilla.org/addons/2023/08/10/prepare-your-firefox-desktop-extension-for-the-upcoming-android-release/) | [11-08-2023](https://news.ycombinator.com/item?id=37084677) |
 | 1268 | [Vim Boss](https://neovim.io/news/2023/08) | [10-08-2023](https://news.ycombinator.com/item?id=37078719) |
-| 1337 | [I'm 17 and wrote this guide on how CPUs run programs](https://github.com/hackclub/putting-the-you-in-cpu) | [09-08-2023](https://news.ycombinator.com/item?id=37062422) |
 <!-- NEWS PREVIEW END -->
 
 **To see the full list, visit >>> [hnhd.io](https://hnhd.io/) <<<**

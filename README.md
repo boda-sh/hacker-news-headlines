@@ -15,15 +15,16 @@
 <!-- NEWS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 569 | [Structured Outputs in the API](https://openai.com/index/introducing-structured-outputs-in-the-api/) | [06-08-2024](https://news.ycombinator.com/item?id=41173223) |
-| 1152 | [Starting Hospice](https://jakeseliger.com/2024/08/04/starting-hospice-the-end/) | [05-08-2024](https://news.ycombinator.com/item?id=41157974) |
-| 514 | [Porting my JavaScript game engine to C for no reason](https://phoboslab.org/log/2024/08/high_impact) | [04-08-2024](https://news.ycombinator.com/item?id=41154135) |
-| 1591 | ["We ran out of columns"](https://jimmyhmiller.github.io/ugliest-beautiful-codebase) | [03-08-2024](https://news.ycombinator.com/item?id=41146239) |
-| 787 | [The upstream cause of the youth mental health crisis is the loss of community](https://www.afterbabel.com/p/the-upstream-cause-of-the-youth-mental) | [02-08-2024](https://news.ycombinator.com/item?id=41139149) |
-| 1230 | [CrowdStrike representatives issue trademark infringement notice to ClownStrike](https://clownstrike.lol/crowdmad/) | [01-08-2024](https://news.ycombinator.com/item?id=41133917) |
+| 520 | [Show HN: I've spent nearly 5y on a web app that creates 3D apartments](https://roometron.com) | [07-08-2024](https://news.ycombinator.com/item?id=41180504) |
+| 820 | [Medieval](https://teenage.engineering/products/ep-1320) | [06-08-2024](https://news.ycombinator.com/item?id=41176831) |
+| 1165 | [Starting Hospice](https://jakeseliger.com/2024/08/04/starting-hospice-the-end/) | [05-08-2024](https://news.ycombinator.com/item?id=41157974) |
+| 518 | [Porting my JavaScript game engine to C for no reason](https://phoboslab.org/log/2024/08/high_impact) | [04-08-2024](https://news.ycombinator.com/item?id=41154135) |
+| 1618 | ["We ran out of columns"](https://jimmyhmiller.github.io/ugliest-beautiful-codebase) | [03-08-2024](https://news.ycombinator.com/item?id=41146239) |
+| 796 | [The upstream cause of the youth mental health crisis is the loss of community](https://www.afterbabel.com/p/the-upstream-cause-of-the-youth-mental) | [02-08-2024](https://news.ycombinator.com/item?id=41139149) |
+| 1233 | [CrowdStrike representatives issue trademark infringement notice to ClownStrike](https://clownstrike.lol/crowdmad/) | [01-08-2024](https://news.ycombinator.com/item?id=41133917) |
 | 903 | [Suspicious data pattern in recent Venezuelan election](https://statmodeling.stat.columbia.edu/2024/07/31/suspicious-data-pattern-in-recent-venezuelan-election/) | [31-07-2024](https://news.ycombinator.com/item?id=41123155) |
 | 844 | [Our audit of Homebrew](https://blog.trailofbits.com/2024/07/30/our-audit-of-homebrew/) | [30-07-2024](https://news.ycombinator.com/item?id=41114839) |
-| 864 | [FastHTML – Modern web applications in pure Python](https://fastht.ml/) | [29-07-2024](https://news.ycombinator.com/item?id=41104305) |
+| 865 | [FastHTML – Modern web applications in pure Python](https://fastht.ml/) | [29-07-2024](https://news.ycombinator.com/item?id=41104305) |
 | 503 | [How did Facebook intercept their competitor's encrypted mobile app traffic?](https://doubleagent.net/onavo-facebook-ssl-mitm-technical-analysis/) | [28-07-2024](https://news.ycombinator.com/item?id=41090304) |
 | 882 | [An experiment in UI density created with Svelte](https://cybernetic.dev/grid) | [27-07-2024](https://news.ycombinator.com/item?id=41088013) |
 | 671 | [A Swiss town banned billboards. Zurich, Bern may soon follow](https://www.bloomberg.com/news/articles/2024-07-26/zurich-bern-consider-billboard-bans-after-vernier-outlaws-visual-pollution) | [26-07-2024](https://news.ycombinator.com/item?id=41075766) |
@@ -379,7 +380,6 @@
 | 891 | [Azure ChatGPT: Private and secure ChatGPT for internal enterprise use](https://github.com/microsoft/azurechatgpt) | [13-08-2023](https://news.ycombinator.com/item?id=37112741) |
 | 573 | [The Carrot Problem](https://www.atvbt.com/the-carrot-problem/) | [12-08-2023](https://news.ycombinator.com/item?id=37100226) |
 | 857 | [Firefox desktop extensions coming soon for the upcoming Android release](https://blog.mozilla.org/addons/2023/08/10/prepare-your-firefox-desktop-extension-for-the-upcoming-android-release/) | [11-08-2023](https://news.ycombinator.com/item?id=37084677) |
-| 1268 | [Vim Boss](https://neovim.io/news/2023/08) | [10-08-2023](https://news.ycombinator.com/item?id=37078719) |
 <!-- NEWS PREVIEW END -->
 
 **To see the full list, visit >>> [hnhd.io](https://hnhd.io/) <<<**

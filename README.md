@@ -15,17 +15,19 @@
 <!-- NEWS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 803 | [Jake Seliger has died](https://marginalrevolution.com/marginalrevolution/2024/08/jake-seliger-is-dead.html) | [09-08-2024](https://news.ycombinator.com/item?id=41201555) |
-| 670 | [I got almost all of my wishes granted with RP2350](https://dmitry.gr/?r=06.%20Thoughts&proj=11.%20RP2350) | [08-08-2024](https://news.ycombinator.com/item?id=41191069) |
-| 702 | [Tony Hawk's Pro Strcpy](https://icode4.coffee/?p=954) | [07-08-2024](https://news.ycombinator.com/item?id=41183115) |
-| 861 | [Medieval](https://teenage.engineering/products/ep-1320) | [06-08-2024](https://news.ycombinator.com/item?id=41176831) |
+| 668 | [Susan Wojcicki has died](https://twitter.com/sundarpichai/status/1822132667959386588) | [10-08-2024](https://news.ycombinator.com/item?id=41207415) |
+| 926 | [Jake Seliger has died](https://marginalrevolution.com/marginalrevolution/2024/08/jake-seliger-is-dead.html) | [09-08-2024](https://news.ycombinator.com/item?id=41201555) |
+| 682 | [I got almost all of my wishes granted with RP2350](https://dmitry.gr/?r=06.%20Thoughts&proj=11.%20RP2350) | [08-08-2024](https://news.ycombinator.com/item?id=41191069) |
+| 715 | [Tony Hawk's Pro Strcpy](https://icode4.coffee/?p=954) | [07-08-2024](https://news.ycombinator.com/item?id=41183115) |
+| 867 | [Medieval](https://teenage.engineering/products/ep-1320) | [06-08-2024](https://news.ycombinator.com/item?id=41176831) |
 | 1205 | [Starting Hospice](https://jakeseliger.com/2024/08/04/starting-hospice-the-end/) | [05-08-2024](https://news.ycombinator.com/item?id=41157974) |
 | 525 | [Porting my JavaScript game engine to C for no reason](https://phoboslab.org/log/2024/08/high_impact) | [04-08-2024](https://news.ycombinator.com/item?id=41154135) |
-| 1632 | ["We ran out of columns"](https://jimmyhmiller.github.io/ugliest-beautiful-codebase) | [03-08-2024](https://news.ycombinator.com/item?id=41146239) |
-| 797 | [The upstream cause of the youth mental health crisis is the loss of community](https://www.afterbabel.com/p/the-upstream-cause-of-the-youth-mental) | [02-08-2024](https://news.ycombinator.com/item?id=41139149) |
+| 1633 | ["We ran out of columns"](https://jimmyhmiller.github.io/ugliest-beautiful-codebase) | [03-08-2024](https://news.ycombinator.com/item?id=41146239) |
+| 798 | [The upstream cause of the youth mental health crisis is the loss of community](https://www.afterbabel.com/p/the-upstream-cause-of-the-youth-mental) | [02-08-2024](https://news.ycombinator.com/item?id=41139149) |
 | 1234 | [CrowdStrike representatives issue trademark infringement notice to ClownStrike](https://clownstrike.lol/crowdmad/) | [01-08-2024](https://news.ycombinator.com/item?id=41133917) |
 | 903 | [Suspicious data pattern in recent Venezuelan election](https://statmodeling.stat.columbia.edu/2024/07/31/suspicious-data-pattern-in-recent-venezuelan-election/) | [31-07-2024](https://news.ycombinator.com/item?id=41123155) |
 | 845 | [Our audit of Homebrew](https://blog.trailofbits.com/2024/07/30/our-audit-of-homebrew/) | [30-07-2024](https://news.ycombinator.com/item?id=41114839) |
+| 866 | [FastHTML – Modern web applications in pure Python](https://fastht.ml/) | [29-07-2024](https://news.ycombinator.com/item?id=41104305) |
 | 866 | [After 10 years, Yelp gave my app 4 days](http://www.observationalhazard.com/2024/07/after-10-years-yelp-gave-my-app-4-days_29.html) | [29-07-2024](https://news.ycombinator.com/item?id=41104597) |
 | 503 | [How did Facebook intercept their competitor's encrypted mobile app traffic?](https://doubleagent.net/onavo-facebook-ssl-mitm-technical-analysis/) | [28-07-2024](https://news.ycombinator.com/item?id=41090304) |
 | 882 | [An experiment in UI density created with Svelte](https://cybernetic.dev/grid) | [27-07-2024](https://news.ycombinator.com/item?id=41088013) |
@@ -378,8 +380,6 @@
 | 629 | [StarLite 12.5-inch Linux tablet](https://us.starlabs.systems/pages/starlite) | [17-08-2023](https://news.ycombinator.com/item?id=37169696) |
 | 2145 | [LK-99 isn’t a superconductor](https://www.nature.com/articles/d41586-023-02585-7) | [16-08-2023](https://news.ycombinator.com/item?id=37149349) |
 | 954 | [We reduced the cost of building Mastodon at Twitter-scale by 100x](https://blog.redplanetlabs.com/2023/08/15/how-we-reduced-the-cost-of-building-twitter-at-twitter-scale-by-100x/) | [15-08-2023](https://news.ycombinator.com/item?id=37137110) |
-| 854 | [Show HN: LLMs can generate valid JSON 100% of the time](https://github.com/normal-computing/outlines) | [14-08-2023](https://news.ycombinator.com/item?id=37125118) |
-| 891 | [Azure ChatGPT: Private and secure ChatGPT for internal enterprise use](https://github.com/microsoft/azurechatgpt) | [13-08-2023](https://news.ycombinator.com/item?id=37112741) |
 <!-- NEWS PREVIEW END -->
 
 **To see the full list, visit >>> [hnhd.io](https://hnhd.io/) <<<**

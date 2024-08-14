@@ -15,13 +15,14 @@
 <!-- NEWS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 878 | [Apple's requirements are about to hit creators and fans on Patreon](https://news.patreon.com/articles/understanding-apple-requirements-for-patreon) | [12-08-2024](https://news.ycombinator.com/item?id=41224853) |
-| 793 | [Verso – Web browser built on top of the Servo web engine](https://github.com/versotile-org/verso) | [11-08-2024](https://news.ycombinator.com/item?id=41215727) |
-| 705 | [Susan Wojcicki has died](https://twitter.com/sundarpichai/status/1822132667959386588) | [10-08-2024](https://news.ycombinator.com/item?id=41207415) |
-| 947 | [Jake Seliger has died](https://marginalrevolution.com/marginalrevolution/2024/08/jake-seliger-is-dead.html) | [09-08-2024](https://news.ycombinator.com/item?id=41201555) |
-| 692 | [I got almost all of my wishes granted with RP2350](https://dmitry.gr/?r=06.%20Thoughts&proj=11.%20RP2350) | [08-08-2024](https://news.ycombinator.com/item?id=41191069) |
-| 726 | [Tony Hawk's Pro Strcpy](https://icode4.coffee/?p=954) | [07-08-2024](https://news.ycombinator.com/item?id=41183115) |
-| 876 | [Medieval](https://teenage.engineering/products/ep-1320) | [06-08-2024](https://news.ycombinator.com/item?id=41176831) |
+| 528 | [All of Earth's water in a single sphere (2019)](https://www.usgs.gov/media/images/all-earths-water-a-single-sphere) | [13-08-2024](https://news.ycombinator.com/item?id=41238102) |
+| 1127 | [Apple's requirements are about to hit creators and fans on Patreon](https://news.patreon.com/articles/understanding-apple-requirements-for-patreon) | [12-08-2024](https://news.ycombinator.com/item?id=41224853) |
+| 809 | [Verso – Web browser built on top of the Servo web engine](https://github.com/versotile-org/verso) | [11-08-2024](https://news.ycombinator.com/item?id=41215727) |
+| 713 | [Susan Wojcicki has died](https://twitter.com/sundarpichai/status/1822132667959386588) | [10-08-2024](https://news.ycombinator.com/item?id=41207415) |
+| 950 | [Jake Seliger has died](https://marginalrevolution.com/marginalrevolution/2024/08/jake-seliger-is-dead.html) | [09-08-2024](https://news.ycombinator.com/item?id=41201555) |
+| 697 | [I got almost all of my wishes granted with RP2350](https://dmitry.gr/?r=06.%20Thoughts&proj=11.%20RP2350) | [08-08-2024](https://news.ycombinator.com/item?id=41191069) |
+| 727 | [Tony Hawk's Pro Strcpy](https://icode4.coffee/?p=954) | [07-08-2024](https://news.ycombinator.com/item?id=41183115) |
+| 880 | [Medieval](https://teenage.engineering/products/ep-1320) | [06-08-2024](https://news.ycombinator.com/item?id=41176831) |
 | 1208 | [Starting Hospice](https://jakeseliger.com/2024/08/04/starting-hospice-the-end/) | [05-08-2024](https://news.ycombinator.com/item?id=41157974) |
 | 525 | [Porting my JavaScript game engine to C for no reason](https://phoboslab.org/log/2024/08/high_impact) | [04-08-2024](https://news.ycombinator.com/item?id=41154135) |
 | 1637 | ["We ran out of columns"](https://jimmyhmiller.github.io/ugliest-beautiful-codebase) | [03-08-2024](https://news.ycombinator.com/item?id=41146239) |
@@ -379,7 +380,6 @@
 | 946 | [Ask vs. Guess Culture](https://jeanhsu.substack.com/p/ask-vs-guess-culture) | [18-08-2023](https://news.ycombinator.com/item?id=37176703) |
 | 629 | [How to communicate when trust is low without digging yourself into a deeper hole](https://charity.wtf/2023/08/17/how-to-communicate-when-trust-is-low-without-digging-yourself-into-a-deeper-hole/) | [17-08-2023](https://news.ycombinator.com/item?id=37166946) |
 | 629 | [StarLite 12.5-inch Linux tablet](https://us.starlabs.systems/pages/starlite) | [17-08-2023](https://news.ycombinator.com/item?id=37169696) |
-| 2145 | [LK-99 isn’t a superconductor](https://www.nature.com/articles/d41586-023-02585-7) | [16-08-2023](https://news.ycombinator.com/item?id=37149349) |
 <!-- NEWS PREVIEW END -->
 
 **To see the full list, visit >>> [hnhd.io](https://hnhd.io/) <<<**

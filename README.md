@@ -15,18 +15,19 @@
 <!-- NEWS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 528 | [All of Earth's water in a single sphere (2019)](https://www.usgs.gov/media/images/all-earths-water-a-single-sphere) | [13-08-2024](https://news.ycombinator.com/item?id=41238102) |
-| 1127 | [Apple's requirements are about to hit creators and fans on Patreon](https://news.patreon.com/articles/understanding-apple-requirements-for-patreon) | [12-08-2024](https://news.ycombinator.com/item?id=41224853) |
-| 809 | [Verso – Web browser built on top of the Servo web engine](https://github.com/versotile-org/verso) | [11-08-2024](https://news.ycombinator.com/item?id=41215727) |
-| 713 | [Susan Wojcicki has died](https://twitter.com/sundarpichai/status/1822132667959386588) | [10-08-2024](https://news.ycombinator.com/item?id=41207415) |
-| 950 | [Jake Seliger has died](https://marginalrevolution.com/marginalrevolution/2024/08/jake-seliger-is-dead.html) | [09-08-2024](https://news.ycombinator.com/item?id=41201555) |
-| 697 | [I got almost all of my wishes granted with RP2350](https://dmitry.gr/?r=06.%20Thoughts&proj=11.%20RP2350) | [08-08-2024](https://news.ycombinator.com/item?id=41191069) |
-| 727 | [Tony Hawk's Pro Strcpy](https://icode4.coffee/?p=954) | [07-08-2024](https://news.ycombinator.com/item?id=41183115) |
+| 1988 | [Show HN: If YouTube had actual channels](https://ytch.xyz) | [14-08-2024](https://news.ycombinator.com/item?id=41247023) |
+| 724 | [All of Earth's water in a single sphere (2019)](https://www.usgs.gov/media/images/all-earths-water-a-single-sphere) | [13-08-2024](https://news.ycombinator.com/item?id=41238102) |
+| 1144 | [Apple's requirements are about to hit creators and fans on Patreon](https://news.patreon.com/articles/understanding-apple-requirements-for-patreon) | [12-08-2024](https://news.ycombinator.com/item?id=41224853) |
+| 817 | [Verso – Web browser built on top of the Servo web engine](https://github.com/versotile-org/verso) | [11-08-2024](https://news.ycombinator.com/item?id=41215727) |
+| 716 | [Susan Wojcicki has died](https://twitter.com/sundarpichai/status/1822132667959386588) | [10-08-2024](https://news.ycombinator.com/item?id=41207415) |
+| 954 | [Jake Seliger has died](https://marginalrevolution.com/marginalrevolution/2024/08/jake-seliger-is-dead.html) | [09-08-2024](https://news.ycombinator.com/item?id=41201555) |
+| 698 | [I got almost all of my wishes granted with RP2350](https://dmitry.gr/?r=06.%20Thoughts&proj=11.%20RP2350) | [08-08-2024](https://news.ycombinator.com/item?id=41191069) |
+| 729 | [Tony Hawk's Pro Strcpy](https://icode4.coffee/?p=954) | [07-08-2024](https://news.ycombinator.com/item?id=41183115) |
 | 880 | [Medieval](https://teenage.engineering/products/ep-1320) | [06-08-2024](https://news.ycombinator.com/item?id=41176831) |
-| 1208 | [Starting Hospice](https://jakeseliger.com/2024/08/04/starting-hospice-the-end/) | [05-08-2024](https://news.ycombinator.com/item?id=41157974) |
+| 1209 | [Starting Hospice](https://jakeseliger.com/2024/08/04/starting-hospice-the-end/) | [05-08-2024](https://news.ycombinator.com/item?id=41157974) |
 | 525 | [Porting my JavaScript game engine to C for no reason](https://phoboslab.org/log/2024/08/high_impact) | [04-08-2024](https://news.ycombinator.com/item?id=41154135) |
-| 1637 | ["We ran out of columns"](https://jimmyhmiller.github.io/ugliest-beautiful-codebase) | [03-08-2024](https://news.ycombinator.com/item?id=41146239) |
-| 799 | [The upstream cause of the youth mental health crisis is the loss of community](https://www.afterbabel.com/p/the-upstream-cause-of-the-youth-mental) | [02-08-2024](https://news.ycombinator.com/item?id=41139149) |
+| 1639 | ["We ran out of columns"](https://jimmyhmiller.github.io/ugliest-beautiful-codebase) | [03-08-2024](https://news.ycombinator.com/item?id=41146239) |
+| 800 | [The upstream cause of the youth mental health crisis is the loss of community](https://www.afterbabel.com/p/the-upstream-cause-of-the-youth-mental) | [02-08-2024](https://news.ycombinator.com/item?id=41139149) |
 | 1234 | [CrowdStrike representatives issue trademark infringement notice to ClownStrike](https://clownstrike.lol/crowdmad/) | [01-08-2024](https://news.ycombinator.com/item?id=41133917) |
 | 903 | [Suspicious data pattern in recent Venezuelan election](https://statmodeling.stat.columbia.edu/2024/07/31/suspicious-data-pattern-in-recent-venezuelan-election/) | [31-07-2024](https://news.ycombinator.com/item?id=41123155) |
 | 845 | [Our audit of Homebrew](https://blog.trailofbits.com/2024/07/30/our-audit-of-homebrew/) | [30-07-2024](https://news.ycombinator.com/item?id=41114839) |
@@ -379,7 +380,6 @@
 | 501 | [Amsterdam to use “noise cameras” against too loud cars](https://nltimes.nl/2023/08/11/amsterdam-use-noise-cameras-loud-cars) | [19-08-2023](https://news.ycombinator.com/item?id=37187837) |
 | 946 | [Ask vs. Guess Culture](https://jeanhsu.substack.com/p/ask-vs-guess-culture) | [18-08-2023](https://news.ycombinator.com/item?id=37176703) |
 | 629 | [How to communicate when trust is low without digging yourself into a deeper hole](https://charity.wtf/2023/08/17/how-to-communicate-when-trust-is-low-without-digging-yourself-into-a-deeper-hole/) | [17-08-2023](https://news.ycombinator.com/item?id=37166946) |
-| 629 | [StarLite 12.5-inch Linux tablet](https://us.starlabs.systems/pages/starlite) | [17-08-2023](https://news.ycombinator.com/item?id=37169696) |
 <!-- NEWS PREVIEW END -->
 
 **To see the full list, visit >>> [hnhd.io](https://hnhd.io/) <<<**

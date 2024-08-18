@@ -15,16 +15,17 @@
 <!-- NEWS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 376 | [CEOs are running companies from afar even as workers return to office](https://www.bloomberg.com/news/articles/2024-08-15/starbucks-victoria-s-secret-are-part-of-broader-trend-of-remote-ceos) | [16-08-2024](https://news.ycombinator.com/item?id=41261986) |
-| 821 | [Kim Dotcom's extradition to the U.S. given green light by New Zealand](https://torrentfreak.com/kim-dotcoms-extradition-to-the-u-s-given-green-light-by-new-zealand-240815/) | [15-08-2024](https://news.ycombinator.com/item?id=41254989) |
-| 2669 | [Show HN: If YouTube had actual channels](https://ytch.xyz) | [14-08-2024](https://news.ycombinator.com/item?id=41247023) |
-| 742 | [All of Earth's water in a single sphere (2019)](https://www.usgs.gov/media/images/all-earths-water-a-single-sphere) | [13-08-2024](https://news.ycombinator.com/item?id=41238102) |
+| 567 | [Mpv – A free, open-source, and cross-platform media player](https://mpv.io/) | [17-08-2024](https://news.ycombinator.com/item?id=41277014) |
+| 506 | [VanillaJSX.com](https://vanillajsx.com/) | [16-08-2024](https://news.ycombinator.com/item?id=41269321) |
+| 834 | [Kim Dotcom's extradition to the U.S. given green light by New Zealand](https://torrentfreak.com/kim-dotcoms-extradition-to-the-u-s-given-green-light-by-new-zealand-240815/) | [15-08-2024](https://news.ycombinator.com/item?id=41254989) |
+| 2699 | [Show HN: If YouTube had actual channels](https://ytch.xyz) | [14-08-2024](https://news.ycombinator.com/item?id=41247023) |
+| 748 | [All of Earth's water in a single sphere (2019)](https://www.usgs.gov/media/images/all-earths-water-a-single-sphere) | [13-08-2024](https://news.ycombinator.com/item?id=41238102) |
 | 1161 | [Apple's requirements are about to hit creators and fans on Patreon](https://news.patreon.com/articles/understanding-apple-requirements-for-patreon) | [12-08-2024](https://news.ycombinator.com/item?id=41224853) |
 | 820 | [Verso – Web browser built on top of the Servo web engine](https://github.com/versotile-org/verso) | [11-08-2024](https://news.ycombinator.com/item?id=41215727) |
 | 720 | [Susan Wojcicki has died](https://twitter.com/sundarpichai/status/1822132667959386588) | [10-08-2024](https://news.ycombinator.com/item?id=41207415) |
 | 956 | [Jake Seliger has died](https://marginalrevolution.com/marginalrevolution/2024/08/jake-seliger-is-dead.html) | [09-08-2024](https://news.ycombinator.com/item?id=41201555) |
 | 699 | [I got almost all of my wishes granted with RP2350](https://dmitry.gr/?r=06.%20Thoughts&proj=11.%20RP2350) | [08-08-2024](https://news.ycombinator.com/item?id=41191069) |
-| 730 | [Tony Hawk's Pro Strcpy](https://icode4.coffee/?p=954) | [07-08-2024](https://news.ycombinator.com/item?id=41183115) |
+| 731 | [Tony Hawk's Pro Strcpy](https://icode4.coffee/?p=954) | [07-08-2024](https://news.ycombinator.com/item?id=41183115) |
 | 880 | [Medieval](https://teenage.engineering/products/ep-1320) | [06-08-2024](https://news.ycombinator.com/item?id=41176831) |
 | 1209 | [Starting Hospice](https://jakeseliger.com/2024/08/04/starting-hospice-the-end/) | [05-08-2024](https://news.ycombinator.com/item?id=41157974) |
 | 525 | [Porting my JavaScript game engine to C for no reason](https://phoboslab.org/log/2024/08/high_impact) | [04-08-2024](https://news.ycombinator.com/item?id=41154135) |
@@ -379,7 +380,6 @@
 | 1569 | [The first conformant M1 GPU driver](https://rosenzweig.io/blog/first-conformant-m1-gpu-driver.html) | [22-08-2023](https://news.ycombinator.com/item?id=37224042) |
 | 919 | [We’re all just temporarily abled](https://blog.jim-nielsen.com/2023/temporarily-abled/) | [21-08-2023](https://news.ycombinator.com/item?id=37205731) |
 | 865 | [Kris Nóva has died](https://nivenly.org/blog/2023/08/19/an-announcement-regarding-kris-n%C3%B3va/) | [20-08-2023](https://news.ycombinator.com/item?id=37199495) |
-| 501 | [Amsterdam to use “noise cameras” against too loud cars](https://nltimes.nl/2023/08/11/amsterdam-use-noise-cameras-loud-cars) | [19-08-2023](https://news.ycombinator.com/item?id=37187837) |
 <!-- NEWS PREVIEW END -->
 
 **To see the full list, visit >>> [hnhd.io](https://hnhd.io/) <<<**

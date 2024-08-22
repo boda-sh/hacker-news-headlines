@@ -15,18 +15,19 @@
 <!-- NEWS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 529 | [Toasts are bad UX](https://maxschmitt.me/posts/toasts-bad-ux) | [20-08-2024](https://news.ycombinator.com/item?id=41298794) |
-| 592 | [13ft – A site similar to 12ft.io but self-hosted](https://github.com/wasi-master/13ft) | [19-08-2024](https://news.ycombinator.com/item?id=41294067) |
-| 821 | [Police cannot seize property indefinitely after an arrest, federal court rules](https://reason.com/2024/08/16/police-cannot-seize-property-indefinitely-after-an-arrest-federal-court-rules/) | [18-08-2024](https://news.ycombinator.com/item?id=41283310) |
-| 1083 | [Mpv – A free, open-source, and cross-platform media player](https://mpv.io/) | [17-08-2024](https://news.ycombinator.com/item?id=41277014) |
+| 1187 | [I've built my first successful side project, and I hate it](https://switowski.com/blog/i-have-built-my-first-successful-side-project-and-i-hate-it/) | [21-08-2024](https://news.ycombinator.com/item?id=41308599) |
+| 722 | [Zen, a Arc-like open-source browser based on the Firefox engine](https://www.zen-browser.app/) | [20-08-2024](https://news.ycombinator.com/item?id=41303974) |
+| 606 | [13ft – A site similar to 12ft.io but self-hosted](https://github.com/wasi-master/13ft) | [19-08-2024](https://news.ycombinator.com/item?id=41294067) |
+| 832 | [Police cannot seize property indefinitely after an arrest, federal court rules](https://reason.com/2024/08/16/police-cannot-seize-property-indefinitely-after-an-arrest-federal-court-rules/) | [18-08-2024](https://news.ycombinator.com/item?id=41283310) |
+| 1095 | [Mpv – A free, open-source, and cross-platform media player](https://mpv.io/) | [17-08-2024](https://news.ycombinator.com/item?id=41277014) |
 | 536 | [VanillaJSX.com](https://vanillajsx.com/) | [16-08-2024](https://news.ycombinator.com/item?id=41269321) |
 | 851 | [Kim Dotcom's extradition to the U.S. given green light by New Zealand](https://torrentfreak.com/kim-dotcoms-extradition-to-the-u-s-given-green-light-by-new-zealand-240815/) | [15-08-2024](https://news.ycombinator.com/item?id=41254989) |
-| 2738 | [Show HN: If YouTube had actual channels](https://ytch.xyz) | [14-08-2024](https://news.ycombinator.com/item?id=41247023) |
+| 2739 | [Show HN: If YouTube had actual channels](https://ytch.xyz) | [14-08-2024](https://news.ycombinator.com/item?id=41247023) |
 | 752 | [All of Earth's water in a single sphere (2019)](https://www.usgs.gov/media/images/all-earths-water-a-single-sphere) | [13-08-2024](https://news.ycombinator.com/item?id=41238102) |
-| 1166 | [Apple's requirements are about to hit creators and fans on Patreon](https://news.patreon.com/articles/understanding-apple-requirements-for-patreon) | [12-08-2024](https://news.ycombinator.com/item?id=41224853) |
-| 820 | [Verso – Web browser built on top of the Servo web engine](https://github.com/versotile-org/verso) | [11-08-2024](https://news.ycombinator.com/item?id=41215727) |
-| 720 | [Susan Wojcicki has died](https://twitter.com/sundarpichai/status/1822132667959386588) | [10-08-2024](https://news.ycombinator.com/item?id=41207415) |
-| 958 | [Jake Seliger has died](https://marginalrevolution.com/marginalrevolution/2024/08/jake-seliger-is-dead.html) | [09-08-2024](https://news.ycombinator.com/item?id=41201555) |
+| 1168 | [Apple's requirements are about to hit creators and fans on Patreon](https://news.patreon.com/articles/understanding-apple-requirements-for-patreon) | [12-08-2024](https://news.ycombinator.com/item?id=41224853) |
+| 821 | [Verso – Web browser built on top of the Servo web engine](https://github.com/versotile-org/verso) | [11-08-2024](https://news.ycombinator.com/item?id=41215727) |
+| 721 | [Susan Wojcicki has died](https://twitter.com/sundarpichai/status/1822132667959386588) | [10-08-2024](https://news.ycombinator.com/item?id=41207415) |
+| 959 | [Jake Seliger has died](https://marginalrevolution.com/marginalrevolution/2024/08/jake-seliger-is-dead.html) | [09-08-2024](https://news.ycombinator.com/item?id=41201555) |
 | 700 | [I got almost all of my wishes granted with RP2350](https://dmitry.gr/?r=06.%20Thoughts&proj=11.%20RP2350) | [08-08-2024](https://news.ycombinator.com/item?id=41191069) |
 | 731 | [Tony Hawk's Pro Strcpy](https://icode4.coffee/?p=954) | [07-08-2024](https://news.ycombinator.com/item?id=41183115) |
 | 880 | [Medieval](https://teenage.engineering/products/ep-1320) | [06-08-2024](https://news.ycombinator.com/item?id=41176831) |
@@ -379,7 +380,6 @@
 | 832 | [E-ink is so Retropunk](https://rmkit.dev/eink-is-so-retropunk/) | [26-08-2023](https://news.ycombinator.com/item?id=37272652) |
 | 1711 | [OpenTF announces fork of Terraform](https://opentf.org/announcement) | [25-08-2023](https://news.ycombinator.com/item?id=37262440) |
 | 970 | [Code Llama, a state-of-the-art large language model for coding](https://ai.meta.com/blog/code-llama-large-language-model-coding/) | [24-08-2023](https://news.ycombinator.com/item?id=37248494) |
-| 1942 | [Chandrayaan-3 Soft-landing [video]](https://www.isro.gov.in/LIVE_telecast_of_Soft_landing.html) | [23-08-2023](https://news.ycombinator.com/item?id=37233936) |
 <!-- NEWS PREVIEW END -->
 
 **To see the full list, visit >>> [hnhd.io](https://hnhd.io/) <<<**

@@ -15,12 +15,13 @@
 <!-- NEWS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 660 | [Show HN: InstantDB – A Modern Firebase](https://github.com/instantdb/instant) | [22-08-2024](https://news.ycombinator.com/item?id=41322281) |
-| 1432 | [I've built my first successful side project, and I hate it](https://switowski.com/blog/i-have-built-my-first-successful-side-project-and-i-hate-it/) | [21-08-2024](https://news.ycombinator.com/item?id=41308599) |
-| 776 | [Zen, a Arc-like open-source browser based on the Firefox engine](https://www.zen-browser.app/) | [20-08-2024](https://news.ycombinator.com/item?id=41303974) |
-| 616 | [13ft – A site similar to 12ft.io but self-hosted](https://github.com/wasi-master/13ft) | [19-08-2024](https://news.ycombinator.com/item?id=41294067) |
-| 838 | [Police cannot seize property indefinitely after an arrest, federal court rules](https://reason.com/2024/08/16/police-cannot-seize-property-indefinitely-after-an-arrest-federal-court-rules/) | [18-08-2024](https://news.ycombinator.com/item?id=41283310) |
-| 1104 | [Mpv – A free, open-source, and cross-platform media player](https://mpv.io/) | [17-08-2024](https://news.ycombinator.com/item?id=41277014) |
+| 440 | [17-year-old student exposes Germany's 'secret' pirate site blocklist](https://torrentfreak.com/17-year-old-student-exposes-germanys-secret-pirate-site-blocklist-240822/) | [23-08-2024](https://news.ycombinator.com/item?id=41328784) |
+| 1072 | [Show HN: InstantDB – A Modern Firebase](https://github.com/instantdb/instant) | [22-08-2024](https://news.ycombinator.com/item?id=41322281) |
+| 1458 | [I've built my first successful side project, and I hate it](https://switowski.com/blog/i-have-built-my-first-successful-side-project-and-i-hate-it/) | [21-08-2024](https://news.ycombinator.com/item?id=41308599) |
+| 800 | [Zen, a Arc-like open-source browser based on the Firefox engine](https://www.zen-browser.app/) | [20-08-2024](https://news.ycombinator.com/item?id=41303974) |
+| 617 | [13ft – A site similar to 12ft.io but self-hosted](https://github.com/wasi-master/13ft) | [19-08-2024](https://news.ycombinator.com/item?id=41294067) |
+| 839 | [Police cannot seize property indefinitely after an arrest, federal court rules](https://reason.com/2024/08/16/police-cannot-seize-property-indefinitely-after-an-arrest-federal-court-rules/) | [18-08-2024](https://news.ycombinator.com/item?id=41283310) |
+| 1106 | [Mpv – A free, open-source, and cross-platform media player](https://mpv.io/) | [17-08-2024](https://news.ycombinator.com/item?id=41277014) |
 | 536 | [VanillaJSX.com](https://vanillajsx.com/) | [16-08-2024](https://news.ycombinator.com/item?id=41269321) |
 | 852 | [Kim Dotcom's extradition to the U.S. given green light by New Zealand](https://torrentfreak.com/kim-dotcoms-extradition-to-the-u-s-given-green-light-by-new-zealand-240815/) | [15-08-2024](https://news.ycombinator.com/item?id=41254989) |
 | 2739 | [Show HN: If YouTube had actual channels](https://ytch.xyz) | [14-08-2024](https://news.ycombinator.com/item?id=41247023) |
@@ -379,7 +380,6 @@
 | 860 | [ChatGPT Enterprise](https://openai.com/blog/introducing-chatgpt-enterprise) | [28-08-2023](https://news.ycombinator.com/item?id=37297304) |
 | 1198 | [Block YouTube ads on AppleTV by decrypting and stripping ads from Profobuf](https://ericdraken.com/pfsense-decrypt-ad-traffic/) | [27-08-2023](https://news.ycombinator.com/item?id=37279109) |
 | 832 | [E-ink is so Retropunk](https://rmkit.dev/eink-is-so-retropunk/) | [26-08-2023](https://news.ycombinator.com/item?id=37272652) |
-| 1711 | [OpenTF announces fork of Terraform](https://opentf.org/announcement) | [25-08-2023](https://news.ycombinator.com/item?id=37262440) |
 <!-- NEWS PREVIEW END -->
 
 **To see the full list, visit >>> [hnhd.io](https://hnhd.io/) <<<**

@@ -15,18 +15,19 @@
 <!-- NEWS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 625 | [Arrest of Pavel Durov, Telegram CEO, charges of terrorism, fraud, child porn](https://decripto.org/en/arrest-of-pavel-durov-charges-of-terrorism-fraud-and-child-pornography-he-did-not-cooperate-with-the-authorities-he-risks-20-years-in-prison/) | [25-08-2024](https://news.ycombinator.com/item?id=41347909) |
-| 1097 | [Telegram founder Pavel Durov arrested at French airport](https://www.theguardian.com/media/article/2024/aug/24/telegram-app-founder-pavel-durov-arrested-at-french-airport) | [24-08-2024](https://news.ycombinator.com/item?id=41341353) |
-| 1065 | [Did you lose your AirPods?](https://alexyancey.com/lost-airpods/) | [23-08-2024](https://news.ycombinator.com/item?id=41334207) |
-| 1119 | [Show HN: InstantDB – A Modern Firebase](https://github.com/instantdb/instant) | [22-08-2024](https://news.ycombinator.com/item?id=41322281) |
-| 1478 | [I've built my first successful side project, and I hate it](https://switowski.com/blog/i-have-built-my-first-successful-side-project-and-i-hate-it/) | [21-08-2024](https://news.ycombinator.com/item?id=41308599) |
-| 815 | [Zen, a Arc-like open-source browser based on the Firefox engine](https://www.zen-browser.app/) | [20-08-2024](https://news.ycombinator.com/item?id=41303974) |
+| 686 | [NSA releases 1982 Grace Hopper lecture](https://www.nsa.gov/helpful-links/nsa-foia/declassification-transparency-initiatives/historical-releases/view/article/3880193/capt-grace-hopper-on-future-possibilities-data-hardware-software-and-people-1982/) | [26-08-2024](https://news.ycombinator.com/item?id=41356528) |
+| 713 | [Arrest of Pavel Durov, Telegram CEO, charges of terrorism, fraud, child porn](https://decripto.org/en/arrest-of-pavel-durov-charges-of-terrorism-fraud-and-child-pornography-he-did-not-cooperate-with-the-authorities-he-risks-20-years-in-prison/) | [25-08-2024](https://news.ycombinator.com/item?id=41347909) |
+| 1146 | [Telegram founder Pavel Durov arrested at French airport](https://www.theguardian.com/media/article/2024/aug/24/telegram-app-founder-pavel-durov-arrested-at-french-airport) | [24-08-2024](https://news.ycombinator.com/item?id=41341353) |
+| 1086 | [Did you lose your AirPods?](https://alexyancey.com/lost-airpods/) | [23-08-2024](https://news.ycombinator.com/item?id=41334207) |
+| 1129 | [Show HN: InstantDB – A Modern Firebase](https://github.com/instantdb/instant) | [22-08-2024](https://news.ycombinator.com/item?id=41322281) |
+| 1487 | [I've built my first successful side project, and I hate it](https://switowski.com/blog/i-have-built-my-first-successful-side-project-and-i-hate-it/) | [21-08-2024](https://news.ycombinator.com/item?id=41308599) |
+| 821 | [Zen, a Arc-like open-source browser based on the Firefox engine](https://www.zen-browser.app/) | [20-08-2024](https://news.ycombinator.com/item?id=41303974) |
 | 618 | [13ft – A site similar to 12ft.io but self-hosted](https://github.com/wasi-master/13ft) | [19-08-2024](https://news.ycombinator.com/item?id=41294067) |
 | 839 | [Police cannot seize property indefinitely after an arrest, federal court rules](https://reason.com/2024/08/16/police-cannot-seize-property-indefinitely-after-an-arrest-federal-court-rules/) | [18-08-2024](https://news.ycombinator.com/item?id=41283310) |
 | 1110 | [Mpv – A free, open-source, and cross-platform media player](https://mpv.io/) | [17-08-2024](https://news.ycombinator.com/item?id=41277014) |
-| 537 | [VanillaJSX.com](https://vanillajsx.com/) | [16-08-2024](https://news.ycombinator.com/item?id=41269321) |
+| 538 | [VanillaJSX.com](https://vanillajsx.com/) | [16-08-2024](https://news.ycombinator.com/item?id=41269321) |
 | 853 | [Kim Dotcom's extradition to the U.S. given green light by New Zealand](https://torrentfreak.com/kim-dotcoms-extradition-to-the-u-s-given-green-light-by-new-zealand-240815/) | [15-08-2024](https://news.ycombinator.com/item?id=41254989) |
-| 2740 | [Show HN: If YouTube had actual channels](https://ytch.xyz) | [14-08-2024](https://news.ycombinator.com/item?id=41247023) |
+| 2741 | [Show HN: If YouTube had actual channels](https://ytch.xyz) | [14-08-2024](https://news.ycombinator.com/item?id=41247023) |
 | 753 | [All of Earth's water in a single sphere (2019)](https://www.usgs.gov/media/images/all-earths-water-a-single-sphere) | [13-08-2024](https://news.ycombinator.com/item?id=41238102) |
 | 1168 | [Apple's requirements are about to hit creators and fans on Patreon](https://news.patreon.com/articles/understanding-apple-requirements-for-patreon) | [12-08-2024](https://news.ycombinator.com/item?id=41224853) |
 | 821 | [Verso – Web browser built on top of the Servo web engine](https://github.com/versotile-org/verso) | [11-08-2024](https://news.ycombinator.com/item?id=41215727) |
@@ -379,7 +380,6 @@
 | 725 | [CT scans of coffee-making equipment](https://www.scanofthemonth.com/scans/coffee) | [31-08-2023](https://news.ycombinator.com/item?id=37341799) |
 | 815 | [Show HN: I automated half of my typing](https://github.com/eschluntz/compress) | [30-08-2023](https://news.ycombinator.com/item?id=37326870) |
 | 1460 | [ISPs should not police online speech no matter how awful it is](https://www.eff.org/deeplinks/2023/08/isps-should-not-police-online-speech-no-matter-how-awful-it) | [29-08-2023](https://news.ycombinator.com/item?id=37313349) |
-| 860 | [ChatGPT Enterprise](https://openai.com/blog/introducing-chatgpt-enterprise) | [28-08-2023](https://news.ycombinator.com/item?id=37297304) |
 <!-- NEWS PREVIEW END -->
 
 **To see the full list, visit >>> [hnhd.io](https://hnhd.io/) <<<**

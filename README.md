@@ -15,11 +15,11 @@
 <!-- NEWS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 2256 | [AnandTech Farewell](https://www.anandtech.com/show/21542/end-of-the-road-an-anandtech-farewell) | [30-08-2024](https://news.ycombinator.com/item?id=41399872) |
-| 2154 | [The secret inside One Million Checkboxes](https://eieio.games/essays/the-secret-in-one-million-checkboxes/) | [29-08-2024](https://news.ycombinator.com/item?id=41395413) |
-| 1131 | [Diffusion models are real-time game engines](https://gamengen.github.io) | [28-08-2024](https://news.ycombinator.com/item?id=41375548) |
-| 1419 | [Microsoft donates the Mono Project to the Wine team](https://www.mono-project.com/) | [27-08-2024](https://news.ycombinator.com/item?id=41371106) |
-| 926 | [NSA releases 1982 Grace Hopper lecture](https://www.nsa.gov/helpful-links/nsa-foia/declassification-transparency-initiatives/historical-releases/view/article/3880193/capt-grace-hopper-on-future-possibilities-data-hardware-software-and-people-1982/) | [26-08-2024](https://news.ycombinator.com/item?id=41356528) |
+| 2521 | [AnandTech Farewell](https://www.anandtech.com/show/21542/end-of-the-road-an-anandtech-farewell) | [30-08-2024](https://news.ycombinator.com/item?id=41399872) |
+| 2220 | [The secret inside One Million Checkboxes](https://eieio.games/essays/the-secret-in-one-million-checkboxes/) | [29-08-2024](https://news.ycombinator.com/item?id=41395413) |
+| 1132 | [Diffusion models are real-time game engines](https://gamengen.github.io) | [28-08-2024](https://news.ycombinator.com/item?id=41375548) |
+| 1422 | [Microsoft donates the Mono Project to the Wine team](https://www.mono-project.com/) | [27-08-2024](https://news.ycombinator.com/item?id=41371106) |
+| 931 | [NSA releases 1982 Grace Hopper lecture](https://www.nsa.gov/helpful-links/nsa-foia/declassification-transparency-initiatives/historical-releases/view/article/3880193/capt-grace-hopper-on-future-possibilities-data-hardware-software-and-people-1982/) | [26-08-2024](https://news.ycombinator.com/item?id=41356528) |
 | 731 | [Arrest of Pavel Durov, Telegram CEO, charges of terrorism, fraud, child porn](https://decripto.org/en/arrest-of-pavel-durov-charges-of-terrorism-fraud-and-child-pornography-he-did-not-cooperate-with-the-authorities-he-risks-20-years-in-prison/) | [25-08-2024](https://news.ycombinator.com/item?id=41347909) |
 | 1175 | [Telegram founder Pavel Durov arrested at French airport](https://www.theguardian.com/media/article/2024/aug/24/telegram-app-founder-pavel-durov-arrested-at-french-airport) | [24-08-2024](https://news.ycombinator.com/item?id=41341353) |
 | 1113 | [Did you lose your AirPods?](https://alexyancey.com/lost-airpods/) | [23-08-2024](https://news.ycombinator.com/item?id=41334207) |

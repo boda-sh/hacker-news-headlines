@@ -15,10 +15,10 @@
 <!-- POSTS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 522 | [Founder Mode](https://paulgraham.com/foundermode.html) | [2024-09-01](https://news.ycombinator.com/item?id=41415023) |
-| 790 | [Building LLMs from the Ground Up: A 3-Hour Coding Workshop](https://magazine.sebastianraschka.com/p/building-llms-from-the-ground-up) | [2024-08-31](https://news.ycombinator.com/item?id=41412256) |
-| 2942 | [AnandTech Farewell](https://www.anandtech.com/show/21542/end-of-the-road-an-anandtech-farewell) | [2024-08-30](https://news.ycombinator.com/item?id=41399872) |
-| 2297 | [The secret inside One Million Checkboxes](https://eieio.games/essays/the-secret-in-one-million-checkboxes/) | [2024-08-29](https://news.ycombinator.com/item?id=41395413) |
+| 562 | [Founder Mode](https://paulgraham.com/foundermode.html) | [2024-09-01](https://news.ycombinator.com/item?id=41415023) |
+| 799 | [Building LLMs from the Ground Up: A 3-Hour Coding Workshop](https://magazine.sebastianraschka.com/p/building-llms-from-the-ground-up) | [2024-08-31](https://news.ycombinator.com/item?id=41412256) |
+| 2945 | [AnandTech Farewell](https://www.anandtech.com/show/21542/end-of-the-road-an-anandtech-farewell) | [2024-08-30](https://news.ycombinator.com/item?id=41399872) |
+| 2299 | [The secret inside One Million Checkboxes](https://eieio.games/essays/the-secret-in-one-million-checkboxes/) | [2024-08-29](https://news.ycombinator.com/item?id=41395413) |
 | 1141 | [Diffusion models are real-time game engines](https://gamengen.github.io) | [2024-08-28](https://news.ycombinator.com/item?id=41375548) |
 | 1430 | [Microsoft donates the Mono Project to the Wine team](https://www.mono-project.com/) | [2024-08-27](https://news.ycombinator.com/item?id=41371106) |
 | 934 | [NSA releases 1982 Grace Hopper lecture](https://www.nsa.gov/helpful-links/nsa-foia/declassification-transparency-initiatives/historical-releases/view/article/3880193/capt-grace-hopper-on-future-possibilities-data-hardware-software-and-people-1982/) | [2024-08-26](https://news.ycombinator.com/item?id=41356528) |

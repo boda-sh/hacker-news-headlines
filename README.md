@@ -15,12 +15,13 @@
 <!-- NEWS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 2521 | [AnandTech Farewell](https://www.anandtech.com/show/21542/end-of-the-road-an-anandtech-farewell) | [30-08-2024](https://news.ycombinator.com/item?id=41399872) |
-| 2220 | [The secret inside One Million Checkboxes](https://eieio.games/essays/the-secret-in-one-million-checkboxes/) | [29-08-2024](https://news.ycombinator.com/item?id=41395413) |
-| 1132 | [Diffusion models are real-time game engines](https://gamengen.github.io) | [28-08-2024](https://news.ycombinator.com/item?id=41375548) |
-| 1422 | [Microsoft donates the Mono Project to the Wine team](https://www.mono-project.com/) | [27-08-2024](https://news.ycombinator.com/item?id=41371106) |
-| 931 | [NSA releases 1982 Grace Hopper lecture](https://www.nsa.gov/helpful-links/nsa-foia/declassification-transparency-initiatives/historical-releases/view/article/3880193/capt-grace-hopper-on-future-possibilities-data-hardware-software-and-people-1982/) | [26-08-2024](https://news.ycombinator.com/item?id=41356528) |
-| 731 | [Arrest of Pavel Durov, Telegram CEO, charges of terrorism, fraud, child porn](https://decripto.org/en/arrest-of-pavel-durov-charges-of-terrorism-fraud-and-child-pornography-he-did-not-cooperate-with-the-authorities-he-risks-20-years-in-prison/) | [25-08-2024](https://news.ycombinator.com/item?id=41347909) |
+| 575 | [Is my vision that bad? No, it's just a bug in Apple's Calculator](https://martin.wojtczyk.de/2024/08/31/is-my-vision-that-bad-no-its-just-a-bug-in-apples-calculator/) | [31-08-2024](https://news.ycombinator.com/item?id=41406550) |
+| 2911 | [AnandTech Farewell](https://www.anandtech.com/show/21542/end-of-the-road-an-anandtech-farewell) | [30-08-2024](https://news.ycombinator.com/item?id=41399872) |
+| 2284 | [The secret inside One Million Checkboxes](https://eieio.games/essays/the-secret-in-one-million-checkboxes/) | [29-08-2024](https://news.ycombinator.com/item?id=41395413) |
+| 1138 | [Diffusion models are real-time game engines](https://gamengen.github.io) | [28-08-2024](https://news.ycombinator.com/item?id=41375548) |
+| 1427 | [Microsoft donates the Mono Project to the Wine team](https://www.mono-project.com/) | [27-08-2024](https://news.ycombinator.com/item?id=41371106) |
+| 934 | [NSA releases 1982 Grace Hopper lecture](https://www.nsa.gov/helpful-links/nsa-foia/declassification-transparency-initiatives/historical-releases/view/article/3880193/capt-grace-hopper-on-future-possibilities-data-hardware-software-and-people-1982/) | [26-08-2024](https://news.ycombinator.com/item?id=41356528) |
+| 732 | [Arrest of Pavel Durov, Telegram CEO, charges of terrorism, fraud, child porn](https://decripto.org/en/arrest-of-pavel-durov-charges-of-terrorism-fraud-and-child-pornography-he-did-not-cooperate-with-the-authorities-he-risks-20-years-in-prison/) | [25-08-2024](https://news.ycombinator.com/item?id=41347909) |
 | 1175 | [Telegram founder Pavel Durov arrested at French airport](https://www.theguardian.com/media/article/2024/aug/24/telegram-app-founder-pavel-durov-arrested-at-french-airport) | [24-08-2024](https://news.ycombinator.com/item?id=41341353) |
 | 1113 | [Did you lose your AirPods?](https://alexyancey.com/lost-airpods/) | [23-08-2024](https://news.ycombinator.com/item?id=41334207) |
 | 1145 | [Show HN: InstantDB – A Modern Firebase](https://github.com/instantdb/instant) | [22-08-2024](https://news.ycombinator.com/item?id=41322281) |
@@ -28,7 +29,7 @@
 | 827 | [Zen, a Arc-like open-source browser based on the Firefox engine](https://www.zen-browser.app/) | [20-08-2024](https://news.ycombinator.com/item?id=41303974) |
 | 618 | [13ft – A site similar to 12ft.io but self-hosted](https://github.com/wasi-master/13ft) | [19-08-2024](https://news.ycombinator.com/item?id=41294067) |
 | 840 | [Police cannot seize property indefinitely after an arrest, federal court rules](https://reason.com/2024/08/16/police-cannot-seize-property-indefinitely-after-an-arrest-federal-court-rules/) | [18-08-2024](https://news.ycombinator.com/item?id=41283310) |
-| 1112 | [Mpv – A free, open-source, and cross-platform media player](https://mpv.io/) | [17-08-2024](https://news.ycombinator.com/item?id=41277014) |
+| 1113 | [Mpv – A free, open-source, and cross-platform media player](https://mpv.io/) | [17-08-2024](https://news.ycombinator.com/item?id=41277014) |
 | 538 | [VanillaJSX.com](https://vanillajsx.com/) | [16-08-2024](https://news.ycombinator.com/item?id=41269321) |
 | 853 | [Kim Dotcom's extradition to the U.S. given green light by New Zealand](https://torrentfreak.com/kim-dotcoms-extradition-to-the-u-s-given-green-light-by-new-zealand-240815/) | [15-08-2024](https://news.ycombinator.com/item?id=41254989) |
 | 2741 | [Show HN: If YouTube had actual channels](https://ytch.xyz) | [14-08-2024](https://news.ycombinator.com/item?id=41247023) |
@@ -379,7 +380,6 @@
 | 3387 | [Ask HN: I’m an FCC Commissioner proposing regulation of IoT security updates](https://news.ycombinator.com/item?id=37392676) | [05-09-2023](https://news.ycombinator.com/item?id=37392676) |
 | 510 | [Writing a C compiler in 500 lines of Python](https://vgel.me/posts/c500/) | [04-09-2023](https://news.ycombinator.com/item?id=37383913) |
 | 686 | [The boiling frog of digital freedom](https://gazoche.xyz/posts/boiling-frog/) | [03-09-2023](https://news.ycombinator.com/item?id=37368824) |
-| 1545 | [The worst programmer I know](https://dannorth.net/2023/09/02/the-worst-programmer/) | [02-09-2023](https://news.ycombinator.com/item?id=37361947) |
 <!-- NEWS PREVIEW END -->
 
 **To see the full list, visit >>> [hnhd.io](https://hnhd.io/) <<<**

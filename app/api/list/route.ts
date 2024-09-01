@@ -1,23 +1,30 @@
 import { NextResponse } from "next/server";
 
 import data from "@/data/best.json";
-import { type HNPost } from "@/app/lib/types";
+import type { DBItem } from "@/src/types";
 
-function cleanPostData(post: HNPost) {
-  const thisYear = new Date().getFullYear();
-  const dbDate = post.date.split(" ")[0].split("-");
-  const year = dbDate[0];
+export type PostItem = DBItem & { date: string };
 
-  if (year === thisYear.toString()) {
-    dbDate.shift(); // remove year if it's current year
-  } else {
-    dbDate[0] = dbDate[0].slice(2); // change "2023" to "23"
-  }
+function formatDate(dateString: string, currentYear: number): string {
+	const [year, month, day] = dateString.split("-");
 
-  const date = dbDate.reverse().join("/");
-  return { ...post, date };
+	if (Number.parseInt(year) === currentYear) {
+		return `${day}/${month}`;
+	}
+
+	return `${day}/${month}/${year.slice(2)}`;
+}
+
+function transformPost(post: DBItem, currentYear: number): PostItem {
+	const dbDate = post.time.split(" ")[0];
+	const date = formatDate(dbDate, currentYear);
+
+	return { ...post, date };
 }
 
 export async function GET() {
-  return NextResponse.json({ posts: data.map(cleanPostData) });
+	const currentYear = new Date().getFullYear();
+	const transformedPosts = data.map((post) => transformPost(post, currentYear));
+
+	return NextResponse.json({ posts: transformedPosts });
 }

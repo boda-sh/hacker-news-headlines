@@ -1,5 +1,7 @@
 "use client";
 import { useEffect, useState } from "react";
+import { FaExternalLinkSquareAlt } from "react-icons/fa";
+
 import type { DBItem } from "@/types";
 
 /**
@@ -23,27 +25,33 @@ export default function Page() {
 	return (
 		<div className="w-full text-center mt-20 p-3">
 			<div className="mb-3">
-				<a
-					className="text-xl hover:underline decoration-1"
-					href={randomPost.url}
-					target="_blank"
-					rel="noreferrer noopener"
-				>
-					{randomPost.title}
-				</a>
+				<div className="flex justify-center items-center space-x-2">
+					<FaExternalLinkSquareAlt />
+					<a
+						className="text-xl hover:underline decoration-1"
+						href={randomPost.url}
+						target="_blank"
+						rel="noreferrer noopener"
+					>
+						{randomPost.title}
+					</a>
+				</div>
 				<p className="mt-1 text-sm">{randomPost.url}</p>
 			</div>
 
 			<div className="flex justify-center gap-x-10">
 				<p>{randomPost.score} points</p>
-				<a
-					className="hover:underline decoration-1"
-					href={`https://news.ycombinator.com/item?id=${randomPost.id}`}
-					target="_blank"
-					rel="noreferrer noopener"
-				>
-					{randomPost.time.split(" ")[0].split("-").reverse().join("-")}
-				</a>
+				<div className="flex items-center space-x-1">
+					<FaExternalLinkSquareAlt />
+					<a
+						className="hover:underline decoration-1"
+						href={`https://news.ycombinator.com/item?id=${randomPost.id}`}
+						target="_blank"
+						rel="noreferrer noopener"
+					>
+						{randomPost.time.split(" ")[0].split("-").reverse().join("-")}
+					</a>
+				</div>
 			</div>
 		</div>
 	);

@@ -1,3 +1,5 @@
-lint-staged
+bun typecheck
 
-bun lint
+bun eslint
+
+bunx lint-staged

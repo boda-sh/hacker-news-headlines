@@ -1,12 +1,10 @@
 import { Database } from "bun:sqlite";
-import type { Item } from "./types";
+import type { Item } from "@/types";
 
 const db = new Database("./data/hackernews.sqlite");
 
 async function update() {
-	const bestResponse = await fetch(
-		"https://hacker-news.firebaseio.com/v0/beststories.json",
-	);
+	const bestResponse = await fetch("https://hacker-news.firebaseio.com/v0/beststories.json");
 	if (!bestResponse.ok) throw new Error("Failed to fetch best stories");
 
 	const bestIds = (await bestResponse.json()) as number[];
@@ -18,9 +16,7 @@ async function update() {
 	for (const bestId of bestIds) {
 		console.log(`${bestId} (${i}/${length})`);
 
-		const postResponse = await fetch(
-			`https://hacker-news.firebaseio.com/v0/item/${bestId}.json`,
-		);
+		const postResponse = await fetch(`https://hacker-news.firebaseio.com/v0/item/${bestId}.json`);
 		if (!postResponse.ok) {
 			console.warn(`Failed to fetch post ${bestId}`);
 			continue;

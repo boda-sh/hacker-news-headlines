@@ -1,6 +1,6 @@
 import { Database } from "bun:sqlite";
 import { stringify } from "csv-stringify/sync";
-import type { DBItem } from "./types";
+import type { DBItem } from "@/types";
 
 const db = new Database("./data/hackernews.sqlite");
 
@@ -22,10 +22,7 @@ async function markdown(arr: DBItem[]) {
 	const start = readme.indexOf(START_PLACEHOLDER);
 	const end = readme.indexOf(END_PLACEHOLDER);
 
-	const newReadme =
-		readme.slice(0, start) +
-		markdownContent +
-		readme.slice(end + END_PLACEHOLDER.length);
+	const newReadme = readme.slice(0, start) + markdownContent + readme.slice(end + END_PLACEHOLDER.length);
 
 	await Bun.write("README.md", newReadme);
 	console.log("updated README.md");

@@ -12,3 +12,5 @@ export interface Item {
 
 // example time: 2024-08-31 21:52:01
 export type DBItem = Omit<Item, "kids" | "type" | "time"> & { time: string };
+
+export type PostItem = DBItem & { date: string };

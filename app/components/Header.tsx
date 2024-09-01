@@ -1,3 +1,5 @@
+import Image from "next/image";
+
 export const Header = () => {
 	return (
 		<div className="relative isolate overflow-hidden pt-3">
@@ -13,7 +15,13 @@ export const Header = () => {
 
 			<div className="flex justify-center items-center gap-x-3 mt-3">
 				<a href="https://github.com/bodaso/hacker-news-headlines" target="_blank" rel="noopener noreferrer">
-					<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/bodaso/hacker-news-headlines" />
+					<Image
+						alt="GitHub Repo stars"
+						width={76}
+						height={20}
+						src="https://img.shields.io/github/stars/bodaso/hacker-news-headlines"
+						unoptimized
+					/>
 				</a>
 			</div>
 		</div>

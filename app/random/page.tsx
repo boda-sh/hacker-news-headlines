@@ -1,7 +1,6 @@
 "use client";
-
 import { useEffect, useState } from "react";
-import type { DBItem } from "@/src/types";
+import type { DBItem } from "@/types";
 
 /**
  * A fun page that shows a random post, more recent ones have a higher chance of being picked.

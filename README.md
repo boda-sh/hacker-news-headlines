@@ -15,7 +15,7 @@
 <!-- POSTS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 516 | [Founder Mode](https://paulgraham.com/foundermode.html) | [2024-09-01](https://news.ycombinator.com/item?id=41415023) |
+| 522 | [Founder Mode](https://paulgraham.com/foundermode.html) | [2024-09-01](https://news.ycombinator.com/item?id=41415023) |
 | 790 | [Building LLMs from the Ground Up: A 3-Hour Coding Workshop](https://magazine.sebastianraschka.com/p/building-llms-from-the-ground-up) | [2024-08-31](https://news.ycombinator.com/item?id=41412256) |
 | 2942 | [AnandTech Farewell](https://www.anandtech.com/show/21542/end-of-the-road-an-anandtech-farewell) | [2024-08-30](https://news.ycombinator.com/item?id=41399872) |
 | 2297 | [The secret inside One Million Checkboxes](https://eieio.games/essays/the-secret-in-one-million-checkboxes/) | [2024-08-29](https://news.ycombinator.com/item?id=41395413) |

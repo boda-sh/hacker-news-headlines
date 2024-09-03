@@ -15,11 +15,12 @@
 <!-- POSTS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 92 | [1M Users](https://blog.spacehey.com/entry?id=1245177) | [2024-09-02](https://news.ycombinator.com/item?id=41422311) |
-| 968 | [Founder Mode](https://paulgraham.com/foundermode.html) | [2024-09-01](https://news.ycombinator.com/item?id=41415023) |
-| 881 | [Building LLMs from the Ground Up: A 3-Hour Coding Workshop](https://magazine.sebastianraschka.com/p/building-llms-from-the-ground-up) | [2024-08-31](https://news.ycombinator.com/item?id=41412256) |
-| 2959 | [AnandTech Farewell](https://www.anandtech.com/show/21542/end-of-the-road-an-anandtech-farewell) | [2024-08-30](https://news.ycombinator.com/item?id=41399872) |
-| 2317 | [The secret inside One Million Checkboxes](https://eieio.games/essays/the-secret-in-one-million-checkboxes/) | [2024-08-29](https://news.ycombinator.com/item?id=41395413) |
+| 280 | [Is My Blue Your Blue?](https://ismy.blue/) | [2024-09-03](https://news.ycombinator.com/item?id=41430258) |
+| 724 | [1M Users](https://blog.spacehey.com/entry?id=1245177) | [2024-09-02](https://news.ycombinator.com/item?id=41422311) |
+| 1213 | [Founder Mode](https://paulgraham.com/foundermode.html) | [2024-09-01](https://news.ycombinator.com/item?id=41415023) |
+| 941 | [Building LLMs from the Ground Up: A 3-Hour Coding Workshop](https://magazine.sebastianraschka.com/p/building-llms-from-the-ground-up) | [2024-08-31](https://news.ycombinator.com/item?id=41412256) |
+| 2996 | [AnandTech Farewell](https://www.anandtech.com/show/21542/end-of-the-road-an-anandtech-farewell) | [2024-08-30](https://news.ycombinator.com/item?id=41399872) |
+| 2339 | [The secret inside One Million Checkboxes](https://eieio.games/essays/the-secret-in-one-million-checkboxes/) | [2024-08-29](https://news.ycombinator.com/item?id=41395413) |
 | 1141 | [Diffusion models are real-time game engines](https://gamengen.github.io) | [2024-08-28](https://news.ycombinator.com/item?id=41375548) |
 | 1430 | [Microsoft donates the Mono Project to the Wine team](https://www.mono-project.com/) | [2024-08-27](https://news.ycombinator.com/item?id=41371106) |
 | 934 | [NSA releases 1982 Grace Hopper lecture](https://www.nsa.gov/helpful-links/nsa-foia/declassification-transparency-initiatives/historical-releases/view/article/3880193/capt-grace-hopper-on-future-possibilities-data-hardware-software-and-people-1982/) | [2024-08-26](https://news.ycombinator.com/item?id=41356528) |
@@ -381,7 +382,6 @@
 | 1392 | [Is this Duplo train track under too much tension?](https://puzzling.stackexchange.com/questions/122232/is-this-duplo-train-track-under-too-much-tension) | [2023-09-06](https://news.ycombinator.com/item?id=37404740) |
 | 3387 | [Ask HN: I’m an FCC Commissioner proposing regulation of IoT security updates](https://news.ycombinator.com/item?id=37392676) | [2023-09-05](https://news.ycombinator.com/item?id=37392676) |
 | 510 | [Writing a C compiler in 500 lines of Python](https://vgel.me/posts/c500/) | [2023-09-04](https://news.ycombinator.com/item?id=37383913) |
-| 686 | [The boiling frog of digital freedom](https://gazoche.xyz/posts/boiling-frog/) | [2023-09-03](https://news.ycombinator.com/item?id=37368824) |
 <!-- POSTS PREVIEW END -->
 
 **To see the full list, visit >>> [hnhd.io](https://hnhd.io/) <<<**

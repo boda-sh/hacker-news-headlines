@@ -15,11 +15,12 @@
 <!-- POSTS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 120 | [Interviewing Tim Sweeney and Neal Stephenson](https://www.matthewball.co/all/sweeneystephenson) | [2024-09-04](https://news.ycombinator.com/item?id=41441041) |
-| 1198 | [Is My Blue Your Blue?](https://ismy.blue/) | [2024-09-03](https://news.ycombinator.com/item?id=41430258) |
-| 765 | [1M Users](https://blog.spacehey.com/entry?id=1245177) | [2024-09-02](https://news.ycombinator.com/item?id=41422311) |
-| 1279 | [Founder Mode](https://paulgraham.com/foundermode.html) | [2024-09-01](https://news.ycombinator.com/item?id=41415023) |
-| 959 | [Building LLMs from the Ground Up: A 3-Hour Coding Workshop](https://magazine.sebastianraschka.com/p/building-llms-from-the-ground-up) | [2024-08-31](https://news.ycombinator.com/item?id=41412256) |
+| 105 | [Canadian mega landlord using AI 'pricing scheme' as it hikes rents](https://breachmedia.ca/canadian-mega-landlord-ai-pricing-scheme-hikes-rents/) | [2024-09-05](https://news.ycombinator.com/item?id=41452781) |
+| 553 | [ReMarkable Paper Pro](https://remarkable.com/) | [2024-09-04](https://news.ycombinator.com/item?id=41444700) |
+| 1354 | [Is My Blue Your Blue?](https://ismy.blue/) | [2024-09-03](https://news.ycombinator.com/item?id=41430258) |
+| 774 | [1M Users](https://blog.spacehey.com/entry?id=1245177) | [2024-09-02](https://news.ycombinator.com/item?id=41422311) |
+| 1305 | [Founder Mode](https://paulgraham.com/foundermode.html) | [2024-09-01](https://news.ycombinator.com/item?id=41415023) |
+| 963 | [Building LLMs from the Ground Up: A 3-Hour Coding Workshop](https://magazine.sebastianraschka.com/p/building-llms-from-the-ground-up) | [2024-08-31](https://news.ycombinator.com/item?id=41412256) |
 | 3014 | [AnandTech Farewell](https://www.anandtech.com/show/21542/end-of-the-road-an-anandtech-farewell) | [2024-08-30](https://news.ycombinator.com/item?id=41399872) |
 | 2339 | [The secret inside One Million Checkboxes](https://eieio.games/essays/the-secret-in-one-million-checkboxes/) | [2024-08-29](https://news.ycombinator.com/item?id=41395413) |
 | 1141 | [Diffusion models are real-time game engines](https://gamengen.github.io) | [2024-08-28](https://news.ycombinator.com/item?id=41375548) |
@@ -381,7 +382,6 @@
 | 1089 | [Bun v1.0.0](https://bun.sh/blog/bun-v1.0) | [2023-09-08](https://news.ycombinator.com/item?id=37434117) |
 | 1446 | [NSO group iPhone zero-click, zero-day exploit captured in the wild](https://citizenlab.ca/2023/09/blastpass-nso-group-iphone-zero-click-zero-day-exploit-captured-in-the-wild/) | [2023-09-07](https://news.ycombinator.com/item?id=37425007) |
 | 1392 | [Is this Duplo train track under too much tension?](https://puzzling.stackexchange.com/questions/122232/is-this-duplo-train-track-under-too-much-tension) | [2023-09-06](https://news.ycombinator.com/item?id=37404740) |
-| 3387 | [Ask HN: I’m an FCC Commissioner proposing regulation of IoT security updates](https://news.ycombinator.com/item?id=37392676) | [2023-09-05](https://news.ycombinator.com/item?id=37392676) |
 <!-- POSTS PREVIEW END -->
 
 **To see the full list, visit >>> [hnhd.io](https://hnhd.io/) <<<**

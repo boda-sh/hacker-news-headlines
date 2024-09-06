@@ -15,9 +15,10 @@
 <!-- POSTS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 105 | [Canadian mega landlord using AI 'pricing scheme' as it hikes rents](https://breachmedia.ca/canadian-mega-landlord-ai-pricing-scheme-hikes-rents/) | [2024-09-05](https://news.ycombinator.com/item?id=41452781) |
-| 553 | [ReMarkable Paper Pro](https://remarkable.com/) | [2024-09-04](https://news.ycombinator.com/item?id=41444700) |
-| 1354 | [Is My Blue Your Blue?](https://ismy.blue/) | [2024-09-03](https://news.ycombinator.com/item?id=41430258) |
+| 71 | [Why Don't Tech Companies Pay Their Engineers to Stay?](https://www.goethena.com/post/why-dont-tech-companies-pay-engineers-more-to-stay/) | [2024-09-06](https://news.ycombinator.com/item?id=41461747) |
+| 346 | [Tell HN: Burnout is bad to your brain, take care](https://news.ycombinator.com/item?id=41461499) | [2024-09-05](https://news.ycombinator.com/item?id=41461499) |
+| 940 | [The Internet Archive has lost its appeal in Hachette vs. Internet Archive](https://storage.courtlistener.com/recap/gov.uscourts.ca2.60988/gov.uscourts.ca2.60988.306.1.pdf) | [2024-09-04](https://news.ycombinator.com/item?id=41447758) |
+| 1392 | [Is My Blue Your Blue?](https://ismy.blue/) | [2024-09-03](https://news.ycombinator.com/item?id=41430258) |
 | 774 | [1M Users](https://blog.spacehey.com/entry?id=1245177) | [2024-09-02](https://news.ycombinator.com/item?id=41422311) |
 | 1305 | [Founder Mode](https://paulgraham.com/foundermode.html) | [2024-09-01](https://news.ycombinator.com/item?id=41415023) |
 | 963 | [Building LLMs from the Ground Up: A 3-Hour Coding Workshop](https://magazine.sebastianraschka.com/p/building-llms-from-the-ground-up) | [2024-08-31](https://news.ycombinator.com/item?id=41412256) |
@@ -381,7 +382,6 @@
 | 740 | [Asking 60 LLMs a set of 20 questions](https://benchmarks.llmonitor.com) | [2023-09-09](https://news.ycombinator.com/item?id=37445401) |
 | 1089 | [Bun v1.0.0](https://bun.sh/blog/bun-v1.0) | [2023-09-08](https://news.ycombinator.com/item?id=37434117) |
 | 1446 | [NSO group iPhone zero-click, zero-day exploit captured in the wild](https://citizenlab.ca/2023/09/blastpass-nso-group-iphone-zero-click-zero-day-exploit-captured-in-the-wild/) | [2023-09-07](https://news.ycombinator.com/item?id=37425007) |
-| 1392 | [Is this Duplo train track under too much tension?](https://puzzling.stackexchange.com/questions/122232/is-this-duplo-train-track-under-too-much-tension) | [2023-09-06](https://news.ycombinator.com/item?id=37404740) |
 <!-- POSTS PREVIEW END -->
 
 **To see the full list, visit >>> [hnhd.io](https://hnhd.io/) <<<**

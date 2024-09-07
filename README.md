@@ -15,9 +15,9 @@
 <!-- POSTS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 194 | [Did Sandia use a thermonuclear secondary in a product logo?](https://blog.nuclearsecrecy.com/2024/09/04/did-sandia-use-a-thermonuclear-secondary-in-a-product-logo/) | [2024-09-06](https://news.ycombinator.com/item?id=41463809) |
-| 527 | [Tell HN: Burnout is bad to your brain, take care](https://news.ycombinator.com/item?id=41461499) | [2024-09-05](https://news.ycombinator.com/item?id=41461499) |
-| 950 | [The Internet Archive has lost its appeal in Hachette vs. Internet Archive](https://storage.courtlistener.com/recap/gov.uscourts.ca2.60988/gov.uscourts.ca2.60988.306.1.pdf) | [2024-09-04](https://news.ycombinator.com/item?id=41447758) |
+| 683 | [Show HN: Wealthfolio: Private, open-source investment tracker](https://wealthfolio.app) | [2024-09-06](https://news.ycombinator.com/item?id=41465735) |
+| 641 | [Tell HN: Burnout is bad to your brain, take care](https://news.ycombinator.com/item?id=41461499) | [2024-09-05](https://news.ycombinator.com/item?id=41461499) |
+| 958 | [The Internet Archive has lost its appeal in Hachette vs. Internet Archive](https://storage.courtlistener.com/recap/gov.uscourts.ca2.60988/gov.uscourts.ca2.60988.306.1.pdf) | [2024-09-04](https://news.ycombinator.com/item?id=41447758) |
 | 1397 | [Is My Blue Your Blue?](https://ismy.blue/) | [2024-09-03](https://news.ycombinator.com/item?id=41430258) |
 | 774 | [1M Users](https://blog.spacehey.com/entry?id=1245177) | [2024-09-02](https://news.ycombinator.com/item?id=41422311) |
 | 1305 | [Founder Mode](https://paulgraham.com/foundermode.html) | [2024-09-01](https://news.ycombinator.com/item?id=41415023) |

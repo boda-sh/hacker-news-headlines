@@ -15,9 +15,11 @@
 <!-- POSTS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 683 | [Show HN: Wealthfolio: Private, open-source investment tracker](https://wealthfolio.app) | [2024-09-06](https://news.ycombinator.com/item?id=41465735) |
-| 641 | [Tell HN: Burnout is bad to your brain, take care](https://news.ycombinator.com/item?id=41461499) | [2024-09-05](https://news.ycombinator.com/item?id=41461499) |
-| 958 | [The Internet Archive has lost its appeal in Hachette vs. Internet Archive](https://storage.courtlistener.com/recap/gov.uscourts.ca2.60988/gov.uscourts.ca2.60988.306.1.pdf) | [2024-09-04](https://news.ycombinator.com/item?id=41447758) |
+| 95 | [GPT-fabricated scientific papers on Google Scholar](https://misinforeview.hks.harvard.edu/article/gpt-fabricated-scientific-papers-on-google-scholar-key-features-spread-and-implications-for-preempting-evidence-manipulation/) | [2024-09-08](https://news.ycombinator.com/item?id=41477516) |
+| 510 | [Keyhole – Forge own Windows Store licenses](https://massgrave.dev/blog/keyhole) | [2024-09-07](https://news.ycombinator.com/item?id=41472643) |
+| 871 | [Show HN: Wealthfolio: Private, open-source investment tracker](https://wealthfolio.app) | [2024-09-06](https://news.ycombinator.com/item?id=41465735) |
+| 675 | [Tell HN: Burnout is bad to your brain, take care](https://news.ycombinator.com/item?id=41461499) | [2024-09-05](https://news.ycombinator.com/item?id=41461499) |
+| 974 | [The Internet Archive has lost its appeal in Hachette vs. Internet Archive](https://storage.courtlistener.com/recap/gov.uscourts.ca2.60988/gov.uscourts.ca2.60988.306.1.pdf) | [2024-09-04](https://news.ycombinator.com/item?id=41447758) |
 | 1397 | [Is My Blue Your Blue?](https://ismy.blue/) | [2024-09-03](https://news.ycombinator.com/item?id=41430258) |
 | 774 | [1M Users](https://blog.spacehey.com/entry?id=1245177) | [2024-09-02](https://news.ycombinator.com/item?id=41422311) |
 | 1305 | [Founder Mode](https://paulgraham.com/foundermode.html) | [2024-09-01](https://news.ycombinator.com/item?id=41415023) |
@@ -380,8 +382,6 @@
 | 932 | [UK air traffic control meltdown](https://jameshaydon.github.io/nats-fail/) | [2023-09-11](https://news.ycombinator.com/item?id=37461695) |
 | 679 | [Nginx Unit – Universal web app server](https://github.com/nginx/unit) | [2023-09-10](https://news.ycombinator.com/item?id=37453854) |
 | 740 | [Asking 60 LLMs a set of 20 questions](https://benchmarks.llmonitor.com) | [2023-09-09](https://news.ycombinator.com/item?id=37445401) |
-| 1089 | [Bun v1.0.0](https://bun.sh/blog/bun-v1.0) | [2023-09-08](https://news.ycombinator.com/item?id=37434117) |
-| 1446 | [NSO group iPhone zero-click, zero-day exploit captured in the wild](https://citizenlab.ca/2023/09/blastpass-nso-group-iphone-zero-click-zero-day-exploit-captured-in-the-wild/) | [2023-09-07](https://news.ycombinator.com/item?id=37425007) |
 <!-- POSTS PREVIEW END -->
 
 **To see the full list, visit >>> [hnhd.io](https://hnhd.io/) <<<**

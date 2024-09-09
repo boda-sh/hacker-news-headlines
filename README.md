@@ -15,11 +15,12 @@
 <!-- POSTS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 95 | [GPT-fabricated scientific papers on Google Scholar](https://misinforeview.hks.harvard.edu/article/gpt-fabricated-scientific-papers-on-google-scholar-key-features-spread-and-implications-for-preempting-evidence-manipulation/) | [2024-09-08](https://news.ycombinator.com/item?id=41477516) |
-| 510 | [Keyhole – Forge own Windows Store licenses](https://massgrave.dev/blog/keyhole) | [2024-09-07](https://news.ycombinator.com/item?id=41472643) |
-| 871 | [Show HN: Wealthfolio: Private, open-source investment tracker](https://wealthfolio.app) | [2024-09-06](https://news.ycombinator.com/item?id=41465735) |
-| 675 | [Tell HN: Burnout is bad to your brain, take care](https://news.ycombinator.com/item?id=41461499) | [2024-09-05](https://news.ycombinator.com/item?id=41461499) |
-| 974 | [The Internet Archive has lost its appeal in Hachette vs. Internet Archive](https://storage.courtlistener.com/recap/gov.uscourts.ca2.60988/gov.uscourts.ca2.60988.306.1.pdf) | [2024-09-04](https://news.ycombinator.com/item?id=41447758) |
+| 130 | [QUIC Is Not Quick Enough over Fast Internet](https://dl.acm.org/doi/10.1145/3589334.3645323) | [2024-09-09](https://news.ycombinator.com/item?id=41484991) |
+| 482 | [alphaXiv: Open research discussion on top of arXiv](https://www.alphaxiv.org/) | [2024-09-08](https://news.ycombinator.com/item?id=41478690) |
+| 603 | [Keyhole – Forge own Windows Store licenses](https://massgrave.dev/blog/keyhole) | [2024-09-07](https://news.ycombinator.com/item?id=41472643) |
+| 891 | [Show HN: Wealthfolio: Private, open-source investment tracker](https://wealthfolio.app) | [2024-09-06](https://news.ycombinator.com/item?id=41465735) |
+| 698 | [Tell HN: Burnout is bad to your brain, take care](https://news.ycombinator.com/item?id=41461499) | [2024-09-05](https://news.ycombinator.com/item?id=41461499) |
+| 983 | [The Internet Archive has lost its appeal in Hachette vs. Internet Archive](https://storage.courtlistener.com/recap/gov.uscourts.ca2.60988/gov.uscourts.ca2.60988.306.1.pdf) | [2024-09-04](https://news.ycombinator.com/item?id=41447758) |
 | 1397 | [Is My Blue Your Blue?](https://ismy.blue/) | [2024-09-03](https://news.ycombinator.com/item?id=41430258) |
 | 774 | [1M Users](https://blog.spacehey.com/entry?id=1245177) | [2024-09-02](https://news.ycombinator.com/item?id=41422311) |
 | 1305 | [Founder Mode](https://paulgraham.com/foundermode.html) | [2024-09-01](https://news.ycombinator.com/item?id=41415023) |
@@ -381,7 +382,6 @@
 | 955 | [Fine-tune your own Llama 2 to replace GPT-3.5/4](https://news.ycombinator.com/item?id=37484135) | [2023-09-12](https://news.ycombinator.com/item?id=37484135) |
 | 932 | [UK air traffic control meltdown](https://jameshaydon.github.io/nats-fail/) | [2023-09-11](https://news.ycombinator.com/item?id=37461695) |
 | 679 | [Nginx Unit – Universal web app server](https://github.com/nginx/unit) | [2023-09-10](https://news.ycombinator.com/item?id=37453854) |
-| 740 | [Asking 60 LLMs a set of 20 questions](https://benchmarks.llmonitor.com) | [2023-09-09](https://news.ycombinator.com/item?id=37445401) |
 <!-- POSTS PREVIEW END -->
 
 **To see the full list, visit >>> [hnhd.io](https://hnhd.io/) <<<**

@@ -15,11 +15,11 @@
 <!-- POSTS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 130 | [QUIC Is Not Quick Enough over Fast Internet](https://dl.acm.org/doi/10.1145/3589334.3645323) | [2024-09-09](https://news.ycombinator.com/item?id=41484991) |
-| 482 | [alphaXiv: Open research discussion on top of arXiv](https://www.alphaxiv.org/) | [2024-09-08](https://news.ycombinator.com/item?id=41478690) |
-| 603 | [Keyhole – Forge own Windows Store licenses](https://massgrave.dev/blog/keyhole) | [2024-09-07](https://news.ycombinator.com/item?id=41472643) |
-| 891 | [Show HN: Wealthfolio: Private, open-source investment tracker](https://wealthfolio.app) | [2024-09-06](https://news.ycombinator.com/item?id=41465735) |
-| 698 | [Tell HN: Burnout is bad to your brain, take care](https://news.ycombinator.com/item?id=41461499) | [2024-09-05](https://news.ycombinator.com/item?id=41461499) |
+| 624 | [QUIC is not quick enough over fast internet](https://dl.acm.org/doi/10.1145/3589334.3645323) | [2024-09-09](https://news.ycombinator.com/item?id=41484991) |
+| 534 | [alphaXiv: Open research discussion on top of arXiv](https://www.alphaxiv.org/) | [2024-09-08](https://news.ycombinator.com/item?id=41478690) |
+| 619 | [Keyhole – Forge own Windows Store licenses](https://massgrave.dev/blog/keyhole) | [2024-09-07](https://news.ycombinator.com/item?id=41472643) |
+| 905 | [Show HN: Wealthfolio: Private, open-source investment tracker](https://wealthfolio.app) | [2024-09-06](https://news.ycombinator.com/item?id=41465735) |
+| 719 | [Tell HN: Burnout is bad to your brain, take care](https://news.ycombinator.com/item?id=41461499) | [2024-09-05](https://news.ycombinator.com/item?id=41461499) |
 | 983 | [The Internet Archive has lost its appeal in Hachette vs. Internet Archive](https://storage.courtlistener.com/recap/gov.uscourts.ca2.60988/gov.uscourts.ca2.60988.306.1.pdf) | [2024-09-04](https://news.ycombinator.com/item?id=41447758) |
 | 1397 | [Is My Blue Your Blue?](https://ismy.blue/) | [2024-09-03](https://news.ycombinator.com/item?id=41430258) |
 | 774 | [1M Users](https://blog.spacehey.com/entry?id=1245177) | [2024-09-02](https://news.ycombinator.com/item?id=41422311) |

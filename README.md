@@ -15,10 +15,12 @@
 <!-- POSTS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 494 | [Apple must pay 13B euros in back taxes, EU's top court rules](https://www.cnbc.com/2024/09/10/apple-loses-eu-court-battle-over-13-billion-euro-tax-bill-in-ireland.html) | [2024-09-10](https://news.ycombinator.com/item?id=41498358) |
-| 823 | [Synthetic diamonds are now purer, more beautiful, and cheaper than mined](https://worksinprogress.co/issue/lab-grown-diamonds/) | [2024-09-09](https://news.ycombinator.com/item?id=41488353) |
-| 1295 | [An NFC movie library for my kids](https://simplyexplained.com/blog/how-i-built-an-nfc-movie-library-for-my-kids/) | [2024-09-08](https://news.ycombinator.com/item?id=41479141) |
-| 629 | [Keyhole – Forge own Windows Store licenses](https://massgrave.dev/blog/keyhole) | [2024-09-07](https://news.ycombinator.com/item?id=41472643) |
+| 154 | [My business card runs Linux and Ultrix (2022)](http://dmitry.gr/?r=05.Projects&proj=33.%20LinuxCard) | [2024-09-12](https://news.ycombinator.com/item?id=41516476) |
+| 1272 | [We spent $20 to achieve RCE and accidentally became the admins of .mobi](https://labs.watchtowr.com/we-spent-20-to-achieve-rce-and-accidentally-became-the-admins-of-mobi/) | [2024-09-11](https://news.ycombinator.com/item?id=41510252) |
+| 654 | [Google Illuminate: Books and papers turned into audio](https://illuminate.google.com/home) | [2024-09-10](https://news.ycombinator.com/item?id=41502510) |
+| 847 | [Synthetic diamonds are now purer, more beautiful, and cheaper than mined](https://worksinprogress.co/issue/lab-grown-diamonds/) | [2024-09-09](https://news.ycombinator.com/item?id=41488353) |
+| 1346 | [An NFC movie library for my kids](https://simplyexplained.com/blog/how-i-built-an-nfc-movie-library-for-my-kids/) | [2024-09-08](https://news.ycombinator.com/item?id=41479141) |
+| 634 | [Keyhole – Forge own Windows Store licenses](https://massgrave.dev/blog/keyhole) | [2024-09-07](https://news.ycombinator.com/item?id=41472643) |
 | 915 | [Show HN: Wealthfolio: Private, open-source investment tracker](https://wealthfolio.app) | [2024-09-06](https://news.ycombinator.com/item?id=41465735) |
 | 733 | [Tell HN: Burnout is bad to your brain, take care](https://news.ycombinator.com/item?id=41461499) | [2024-09-05](https://news.ycombinator.com/item?id=41461499) |
 | 983 | [The Internet Archive has lost its appeal in Hachette vs. Internet Archive](https://storage.courtlistener.com/recap/gov.uscourts.ca2.60988/gov.uscourts.ca2.60988.306.1.pdf) | [2024-09-04](https://news.ycombinator.com/item?id=41447758) |
@@ -380,8 +382,6 @@
 | 1024 | [My favourite API is a zipfile on the European Central Bank's website](https://csvbase.com/blog/5) | [2023-09-15](https://news.ycombinator.com/item?id=37526047) |
 | 1576 | [The Tyranny of the Marginal User](https://nothinghuman.substack.com/p/the-tyranny-of-the-marginal-user) | [2023-09-14](https://news.ycombinator.com/item?id=37509507) |
 | 1020 | [Bug in macOS 14 Sonoma prevents our app from working](https://mullvad.net/en/blog/2023/9/13/bug-in-macos-14-sonoma-prevents-our-app-from-working/) | [2023-09-13](https://news.ycombinator.com/item?id=37498979) |
-| 955 | [Fine-tune your own Llama 2 to replace GPT-3.5/4](https://news.ycombinator.com/item?id=37484135) | [2023-09-12](https://news.ycombinator.com/item?id=37484135) |
-| 932 | [UK air traffic control meltdown](https://jameshaydon.github.io/nats-fail/) | [2023-09-11](https://news.ycombinator.com/item?id=37461695) |
 <!-- POSTS PREVIEW END -->
 
 **To see the full list, visit >>> [hnhd.io](https://hnhd.io/) <<<**

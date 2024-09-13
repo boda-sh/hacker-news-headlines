@@ -15,10 +15,11 @@
 <!-- POSTS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 154 | [My business card runs Linux and Ultrix (2022)](http://dmitry.gr/?r=05.Projects&proj=33.%20LinuxCard) | [2024-09-12](https://news.ycombinator.com/item?id=41516476) |
-| 1272 | [We spent $20 to achieve RCE and accidentally became the admins of .mobi](https://labs.watchtowr.com/we-spent-20-to-achieve-rce-and-accidentally-became-the-admins-of-mobi/) | [2024-09-11](https://news.ycombinator.com/item?id=41510252) |
-| 654 | [Google Illuminate: Books and papers turned into audio](https://illuminate.google.com/home) | [2024-09-10](https://news.ycombinator.com/item?id=41502510) |
-| 847 | [Synthetic diamonds are now purer, more beautiful, and cheaper than mined](https://worksinprogress.co/issue/lab-grown-diamonds/) | [2024-09-09](https://news.ycombinator.com/item?id=41488353) |
+| 216 | [Notes on OpenAI's new o1 chain-of-thought models](https://simonwillison.net/2024/Sep/12/openai-o1/) | [2024-09-13](https://news.ycombinator.com/item?id=41527143) |
+| 1488 | [Learning to Reason with LLMs](https://openai.com/index/learning-to-reason-with-llms/) | [2024-09-12](https://news.ycombinator.com/item?id=41523070) |
+| 1550 | [We spent $20 to achieve RCE and accidentally became the admins of .mobi](https://labs.watchtowr.com/we-spent-20-to-achieve-rce-and-accidentally-became-the-admins-of-mobi/) | [2024-09-11](https://news.ycombinator.com/item?id=41510252) |
+| 675 | [Google Illuminate: Books and papers turned into audio](https://illuminate.google.com/home) | [2024-09-10](https://news.ycombinator.com/item?id=41502510) |
+| 861 | [Synthetic diamonds are now purer, more beautiful, and cheaper than mined](https://worksinprogress.co/issue/lab-grown-diamonds/) | [2024-09-09](https://news.ycombinator.com/item?id=41488353) |
 | 1346 | [An NFC movie library for my kids](https://simplyexplained.com/blog/how-i-built-an-nfc-movie-library-for-my-kids/) | [2024-09-08](https://news.ycombinator.com/item?id=41479141) |
 | 634 | [Keyhole – Forge own Windows Store licenses](https://massgrave.dev/blog/keyhole) | [2024-09-07](https://news.ycombinator.com/item?id=41472643) |
 | 915 | [Show HN: Wealthfolio: Private, open-source investment tracker](https://wealthfolio.app) | [2024-09-06](https://news.ycombinator.com/item?id=41465735) |
@@ -381,7 +382,6 @@
 | 660 | [Tracking Austrian grocery prices by scraping store sites](https://mastodon.gamedev.place/@badlogic/111071396799790275) | [2023-09-16](https://news.ycombinator.com/item?id=37532973) |
 | 1024 | [My favourite API is a zipfile on the European Central Bank's website](https://csvbase.com/blog/5) | [2023-09-15](https://news.ycombinator.com/item?id=37526047) |
 | 1576 | [The Tyranny of the Marginal User](https://nothinghuman.substack.com/p/the-tyranny-of-the-marginal-user) | [2023-09-14](https://news.ycombinator.com/item?id=37509507) |
-| 1020 | [Bug in macOS 14 Sonoma prevents our app from working](https://mullvad.net/en/blog/2023/9/13/bug-in-macos-14-sonoma-prevents-our-app-from-working/) | [2023-09-13](https://news.ycombinator.com/item?id=37498979) |
 <!-- POSTS PREVIEW END -->
 
 **To see the full list, visit >>> [hnhd.io](https://hnhd.io/) <<<**

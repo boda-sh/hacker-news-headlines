@@ -15,10 +15,10 @@
 <!-- POSTS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 216 | [Notes on OpenAI's new o1 chain-of-thought models](https://simonwillison.net/2024/Sep/12/openai-o1/) | [2024-09-13](https://news.ycombinator.com/item?id=41527143) |
-| 1488 | [Learning to Reason with LLMs](https://openai.com/index/learning-to-reason-with-llms/) | [2024-09-12](https://news.ycombinator.com/item?id=41523070) |
-| 1550 | [We spent $20 to achieve RCE and accidentally became the admins of .mobi](https://labs.watchtowr.com/we-spent-20-to-achieve-rce-and-accidentally-became-the-admins-of-mobi/) | [2024-09-11](https://news.ycombinator.com/item?id=41510252) |
-| 675 | [Google Illuminate: Books and papers turned into audio](https://illuminate.google.com/home) | [2024-09-10](https://news.ycombinator.com/item?id=41502510) |
+| 657 | [Notes on OpenAI's new o1 chain-of-thought models](https://simonwillison.net/2024/Sep/12/openai-o1/) | [2024-09-13](https://news.ycombinator.com/item?id=41527143) |
+| 1622 | [Learning to Reason with LLMs](https://openai.com/index/learning-to-reason-with-llms/) | [2024-09-12](https://news.ycombinator.com/item?id=41523070) |
+| 1587 | [We spent $20 to achieve RCE and accidentally became the admins of .mobi](https://labs.watchtowr.com/we-spent-20-to-achieve-rce-and-accidentally-became-the-admins-of-mobi/) | [2024-09-11](https://news.ycombinator.com/item?id=41510252) |
+| 690 | [Google Illuminate: Books and papers turned into audio](https://illuminate.google.com/home) | [2024-09-10](https://news.ycombinator.com/item?id=41502510) |
 | 861 | [Synthetic diamonds are now purer, more beautiful, and cheaper than mined](https://worksinprogress.co/issue/lab-grown-diamonds/) | [2024-09-09](https://news.ycombinator.com/item?id=41488353) |
 | 1346 | [An NFC movie library for my kids](https://simplyexplained.com/blog/how-i-built-an-nfc-movie-library-for-my-kids/) | [2024-09-08](https://news.ycombinator.com/item?id=41479141) |
 | 634 | [Keyhole – Forge own Windows Store licenses](https://massgrave.dev/blog/keyhole) | [2024-09-07](https://news.ycombinator.com/item?id=41472643) |

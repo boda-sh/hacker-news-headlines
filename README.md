@@ -15,11 +15,12 @@
 <!-- POSTS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 143 | [LinkedIn blocked due Meshtastic video in private chat](https://github.com/resiliencetheatre/rpi4edgemapdisplay/discussions/4) | [2024-09-16](https://news.ycombinator.com/item?id=41551564) |
-| 854 | [How to Succeed in Mr Beast Production (Leaked PDF)](https://simonwillison.net/2024/Sep/15/how-to-succeed-in-mrbeast-production/) | [2024-09-15](https://news.ycombinator.com/item?id=41549649) |
-| 680 | [Show HN: Meet.hn – Meet the Hacker News community in your city](https://news.ycombinator.com/item?id=41539125) | [2024-09-14](https://news.ycombinator.com/item?id=41539125) |
-| 688 | [Notes on OpenAI's new o1 chain-of-thought models](https://simonwillison.net/2024/Sep/12/openai-o1/) | [2024-09-13](https://news.ycombinator.com/item?id=41527143) |
-| 1641 | [Learning to Reason with LLMs](https://openai.com/index/learning-to-reason-with-llms/) | [2024-09-12](https://news.ycombinator.com/item?id=41523070) |
+| 160 | [Indiana police are seizing FedEx packages containing cash](https://www.indystar.com/story/news/local/2024/08/13/california-jewelry-business-sues-indiana-over-seized-cash-fedex-henry-minh-inc/74788610007/) | [2024-09-17](https://news.ycombinator.com/item?id=41563363) |
+| 962 | [Amazon tells employees to return to office five days a week](https://www.cnbc.com/2024/09/16/amazon-jassy-tells-employees-to-return-to-office-five-days-a-week.html) | [2024-09-16](https://news.ycombinator.com/item?id=41558554) |
+| 1939 | [How to succeed in MrBeast production (Leaked PDF)](https://simonwillison.net/2024/Sep/15/how-to-succeed-in-mrbeast-production/) | [2024-09-15](https://news.ycombinator.com/item?id=41549649) |
+| 713 | [Show HN: Meet.hn – Meet the Hacker News community in your city](https://news.ycombinator.com/item?id=41539125) | [2024-09-14](https://news.ycombinator.com/item?id=41539125) |
+| 690 | [Notes on OpenAI's new o1 chain-of-thought models](https://simonwillison.net/2024/Sep/12/openai-o1/) | [2024-09-13](https://news.ycombinator.com/item?id=41527143) |
+| 1648 | [Learning to Reason with LLMs](https://openai.com/index/learning-to-reason-with-llms/) | [2024-09-12](https://news.ycombinator.com/item?id=41523070) |
 | 1611 | [We spent $20 to achieve RCE and accidentally became the admins of .mobi](https://labs.watchtowr.com/we-spent-20-to-achieve-rce-and-accidentally-became-the-admins-of-mobi/) | [2024-09-11](https://news.ycombinator.com/item?id=41510252) |
 | 699 | [Google Illuminate: Books and papers turned into audio](https://illuminate.google.com/home) | [2024-09-10](https://news.ycombinator.com/item?id=41502510) |
 | 861 | [Synthetic diamonds are now purer, more beautiful, and cheaper than mined](https://worksinprogress.co/issue/lab-grown-diamonds/) | [2024-09-09](https://news.ycombinator.com/item?id=41488353) |
@@ -381,7 +382,6 @@
 | 1667 | [Car allergic to vanilla ice cream (2000)](http://www.cs.cmu.edu/~wkw/humour/carproblems.txt) | [2023-09-20](https://news.ycombinator.com/item?id=37584399) |
 | 1205 | [Snowden leak: Cavium networking hardware may contain NSA backdoor](https://twitter.com/matthew_d_green/status/1703959863796158678) | [2023-09-19](https://news.ycombinator.com/item?id=37570407) |
 | 722 | [Show HN: HyperDX – open-source dev-friendly Datadog alternative](https://github.com/hyperdxio/hyperdx) | [2023-09-18](https://news.ycombinator.com/item?id=37558357) |
-| 527 | [Apple’s new Transformer-powered predictive text model](https://jackcook.com/2023/09/08/predictive-text.html) | [2023-09-17](https://news.ycombinator.com/item?id=37541093) |
 <!-- POSTS PREVIEW END -->
 
 **To see the full list, visit >>> [hnhd.io](https://hnhd.io/) <<<**

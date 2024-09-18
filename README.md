@@ -15,10 +15,11 @@
 <!-- POSTS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 160 | [Indiana police are seizing FedEx packages containing cash](https://www.indystar.com/story/news/local/2024/08/13/california-jewelry-business-sues-indiana-over-seized-cash-fedex-henry-minh-inc/74788610007/) | [2024-09-17](https://news.ycombinator.com/item?id=41563363) |
-| 962 | [Amazon tells employees to return to office five days a week](https://www.cnbc.com/2024/09/16/amazon-jassy-tells-employees-to-return-to-office-five-days-a-week.html) | [2024-09-16](https://news.ycombinator.com/item?id=41558554) |
-| 1939 | [How to succeed in MrBeast production (Leaked PDF)](https://simonwillison.net/2024/Sep/15/how-to-succeed-in-mrbeast-production/) | [2024-09-15](https://news.ycombinator.com/item?id=41549649) |
-| 713 | [Show HN: Meet.hn – Meet the Hacker News community in your city](https://news.ycombinator.com/item?id=41539125) | [2024-09-14](https://news.ycombinator.com/item?id=41539125) |
+| 405 | [Apple Mobile Processors Are Now Made in America. By TSMC](https://timculpan.substack.com/p/apple-mobile-processors-are-now-made) | [2024-09-18](https://news.ycombinator.com/item?id=41574844) |
+| 719 | [Hezbollah pager explosions kill several people in Lebanon](https://www.reuters.com/world/middle-east/dozens-hezbollah-members-wounded-lebanon-when-pagers-exploded-sources-witnesses-2024-09-17/) | [2024-09-17](https://news.ycombinator.com/item?id=41567299) |
+| 1451 | [Amazon tells employees to return to office five days a week](https://www.cnbc.com/2024/09/16/amazon-jassy-tells-employees-to-return-to-office-five-days-a-week.html) | [2024-09-16](https://news.ycombinator.com/item?id=41558554) |
+| 2045 | [How to succeed in MrBeast production (Leaked PDF)](https://simonwillison.net/2024/Sep/15/how-to-succeed-in-mrbeast-production/) | [2024-09-15](https://news.ycombinator.com/item?id=41549649) |
+| 739 | [Show HN: Meet.hn – Meet the Hacker News community in your city](https://news.ycombinator.com/item?id=41539125) | [2024-09-14](https://news.ycombinator.com/item?id=41539125) |
 | 690 | [Notes on OpenAI's new o1 chain-of-thought models](https://simonwillison.net/2024/Sep/12/openai-o1/) | [2024-09-13](https://news.ycombinator.com/item?id=41527143) |
 | 1648 | [Learning to Reason with LLMs](https://openai.com/index/learning-to-reason-with-llms/) | [2024-09-12](https://news.ycombinator.com/item?id=41523070) |
 | 1611 | [We spent $20 to achieve RCE and accidentally became the admins of .mobi](https://labs.watchtowr.com/we-spent-20-to-achieve-rce-and-accidentally-became-the-admins-of-mobi/) | [2024-09-11](https://news.ycombinator.com/item?id=41510252) |
@@ -381,7 +382,6 @@
 | 1748 | [Unlimited Kagi searches for $10 per month](https://blog.kagi.com/unlimited-searches-for-10) | [2023-09-21](https://news.ycombinator.com/item?id=37603905) |
 | 1667 | [Car allergic to vanilla ice cream (2000)](http://www.cs.cmu.edu/~wkw/humour/carproblems.txt) | [2023-09-20](https://news.ycombinator.com/item?id=37584399) |
 | 1205 | [Snowden leak: Cavium networking hardware may contain NSA backdoor](https://twitter.com/matthew_d_green/status/1703959863796158678) | [2023-09-19](https://news.ycombinator.com/item?id=37570407) |
-| 722 | [Show HN: HyperDX – open-source dev-friendly Datadog alternative](https://github.com/hyperdxio/hyperdx) | [2023-09-18](https://news.ycombinator.com/item?id=37558357) |
 <!-- POSTS PREVIEW END -->
 
 **To see the full list, visit >>> [hnhd.io](https://hnhd.io/) <<<**

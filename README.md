@@ -15,11 +15,12 @@
 <!-- POSTS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 405 | [Apple Mobile Processors Are Now Made in America. By TSMC](https://timculpan.substack.com/p/apple-mobile-processors-are-now-made) | [2024-09-18](https://news.ycombinator.com/item?id=41574844) |
-| 719 | [Hezbollah pager explosions kill several people in Lebanon](https://www.reuters.com/world/middle-east/dozens-hezbollah-members-wounded-lebanon-when-pagers-exploded-sources-witnesses-2024-09-17/) | [2024-09-17](https://news.ycombinator.com/item?id=41567299) |
-| 1451 | [Amazon tells employees to return to office five days a week](https://www.cnbc.com/2024/09/16/amazon-jassy-tells-employees-to-return-to-office-five-days-a-week.html) | [2024-09-16](https://news.ycombinator.com/item?id=41558554) |
-| 2045 | [How to succeed in MrBeast production (Leaked PDF)](https://simonwillison.net/2024/Sep/15/how-to-succeed-in-mrbeast-production/) | [2024-09-15](https://news.ycombinator.com/item?id=41549649) |
-| 739 | [Show HN: Meet.hn – Meet the Hacker News community in your city](https://news.ycombinator.com/item?id=41539125) | [2024-09-14](https://news.ycombinator.com/item?id=41539125) |
+| 171 | [Nintendo Files Suit for Infringement of Patent Rights Against Pocketpair, Inc](https://www.nintendo.co.jp/corporate/release/en/2024/240919.html) | [2024-09-19](https://news.ycombinator.com/item?id=41587214) |
+| 1511 | [Apple mobile processors are now made in America by TSMC](https://timculpan.substack.com/p/apple-mobile-processors-are-now-made) | [2024-09-18](https://news.ycombinator.com/item?id=41574844) |
+| 1035 | [Hezbollah pager explosions kill several people in Lebanon](https://www.reuters.com/world/middle-east/dozens-hezbollah-members-wounded-lebanon-when-pagers-exploded-sources-witnesses-2024-09-17/) | [2024-09-17](https://news.ycombinator.com/item?id=41567299) |
+| 1480 | [Amazon tells employees to return to office five days a week](https://www.cnbc.com/2024/09/16/amazon-jassy-tells-employees-to-return-to-office-five-days-a-week.html) | [2024-09-16](https://news.ycombinator.com/item?id=41558554) |
+| 2077 | [How to succeed in MrBeast production (Leaked PDF)](https://simonwillison.net/2024/Sep/15/how-to-succeed-in-mrbeast-production/) | [2024-09-15](https://news.ycombinator.com/item?id=41549649) |
+| 750 | [Show HN: Meet.hn – Meet the Hacker News community in your city](https://news.ycombinator.com/item?id=41539125) | [2024-09-14](https://news.ycombinator.com/item?id=41539125) |
 | 690 | [Notes on OpenAI's new o1 chain-of-thought models](https://simonwillison.net/2024/Sep/12/openai-o1/) | [2024-09-13](https://news.ycombinator.com/item?id=41527143) |
 | 1648 | [Learning to Reason with LLMs](https://openai.com/index/learning-to-reason-with-llms/) | [2024-09-12](https://news.ycombinator.com/item?id=41523070) |
 | 1611 | [We spent $20 to achieve RCE and accidentally became the admins of .mobi](https://labs.watchtowr.com/we-spent-20-to-achieve-rce-and-accidentally-became-the-admins-of-mobi/) | [2024-09-11](https://news.ycombinator.com/item?id=41510252) |
@@ -381,7 +382,6 @@
 | 929 | [Valve is a wonderful upstream contributor to Linux and the open-source community](https://www.phoronix.com/news/Valve-Upstream-Everything-OSS) | [2023-09-22](https://news.ycombinator.com/item?id=37612127) |
 | 1748 | [Unlimited Kagi searches for $10 per month](https://blog.kagi.com/unlimited-searches-for-10) | [2023-09-21](https://news.ycombinator.com/item?id=37603905) |
 | 1667 | [Car allergic to vanilla ice cream (2000)](http://www.cs.cmu.edu/~wkw/humour/carproblems.txt) | [2023-09-20](https://news.ycombinator.com/item?id=37584399) |
-| 1205 | [Snowden leak: Cavium networking hardware may contain NSA backdoor](https://twitter.com/matthew_d_green/status/1703959863796158678) | [2023-09-19](https://news.ycombinator.com/item?id=37570407) |
 <!-- POSTS PREVIEW END -->
 
 **To see the full list, visit >>> [hnhd.io](https://hnhd.io/) <<<**

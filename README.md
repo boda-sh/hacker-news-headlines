@@ -15,10 +15,10 @@
 <!-- POSTS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 171 | [Nintendo Files Suit for Infringement of Patent Rights Against Pocketpair, Inc](https://www.nintendo.co.jp/corporate/release/en/2024/240919.html) | [2024-09-19](https://news.ycombinator.com/item?id=41587214) |
-| 1511 | [Apple mobile processors are now made in America by TSMC](https://timculpan.substack.com/p/apple-mobile-processors-are-now-made) | [2024-09-18](https://news.ycombinator.com/item?id=41574844) |
-| 1035 | [Hezbollah pager explosions kill several people in Lebanon](https://www.reuters.com/world/middle-east/dozens-hezbollah-members-wounded-lebanon-when-pagers-exploded-sources-witnesses-2024-09-17/) | [2024-09-17](https://news.ycombinator.com/item?id=41567299) |
-| 1480 | [Amazon tells employees to return to office five days a week](https://www.cnbc.com/2024/09/16/amazon-jassy-tells-employees-to-return-to-office-five-days-a-week.html) | [2024-09-16](https://news.ycombinator.com/item?id=41558554) |
+| 362 | [FTC: Vast Surveillance of Users by Social Media and Video Streaming Companies](https://www.ftc.gov/news-events/news/press-releases/2024/09/ftc-staff-report-finds-large-social-media-video-streaming-companies-have-engaged-vast-surveillance) | [2024-09-19](https://news.ycombinator.com/item?id=41593809) |
+| 1653 | [Why wordfreq will not be updated](https://github.com/rspeer/wordfreq/blob/master/SUNSET.md) | [2024-09-18](https://news.ycombinator.com/item?id=41578483) |
+| 1057 | [Hezbollah pager explosions kill several people in Lebanon](https://www.reuters.com/world/middle-east/dozens-hezbollah-members-wounded-lebanon-when-pagers-exploded-sources-witnesses-2024-09-17/) | [2024-09-17](https://news.ycombinator.com/item?id=41567299) |
+| 1487 | [Amazon tells employees to return to office five days a week](https://www.cnbc.com/2024/09/16/amazon-jassy-tells-employees-to-return-to-office-five-days-a-week.html) | [2024-09-16](https://news.ycombinator.com/item?id=41558554) |
 | 2077 | [How to succeed in MrBeast production (Leaked PDF)](https://simonwillison.net/2024/Sep/15/how-to-succeed-in-mrbeast-production/) | [2024-09-15](https://news.ycombinator.com/item?id=41549649) |
 | 750 | [Show HN: Meet.hn – Meet the Hacker News community in your city](https://news.ycombinator.com/item?id=41539125) | [2024-09-14](https://news.ycombinator.com/item?id=41539125) |
 | 690 | [Notes on OpenAI's new o1 chain-of-thought models](https://simonwillison.net/2024/Sep/12/openai-o1/) | [2024-09-13](https://news.ycombinator.com/item?id=41527143) |

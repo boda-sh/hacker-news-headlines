@@ -15,9 +15,11 @@
 <!-- POSTS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 362 | [FTC: Vast Surveillance of Users by Social Media and Video Streaming Companies](https://www.ftc.gov/news-events/news/press-releases/2024/09/ftc-staff-report-finds-large-social-media-video-streaming-companies-have-engaged-vast-surveillance) | [2024-09-19](https://news.ycombinator.com/item?id=41593809) |
-| 1653 | [Why wordfreq will not be updated](https://github.com/rspeer/wordfreq/blob/master/SUNSET.md) | [2024-09-18](https://news.ycombinator.com/item?id=41578483) |
-| 1057 | [Hezbollah pager explosions kill several people in Lebanon](https://www.reuters.com/world/middle-east/dozens-hezbollah-members-wounded-lebanon-when-pagers-exploded-sources-witnesses-2024-09-17/) | [2024-09-17](https://news.ycombinator.com/item?id=41567299) |
+| 91 | [Working in the office 5 days/week to build company culture is a myth: PwC report](https://www.msn.com/en-us/money/other/working-in-the-office-5-days-a-week-to-build-company-culture-is-a-myth-pwc-report-says/ar-AA1qU17L) | [2024-09-21](https://news.ycombinator.com/item?id=41606772) |
+| 437 | [Linux/4004: booting Linux on Intel 4004 for fun, art, and no profit](https://dmitry.gr/?r=05.Projects&proj=35.%20Linux4004) | [2024-09-20](https://news.ycombinator.com/item?id=41600756) |
+| 1174 | [Gaining access to anyones Arc browser without them even visiting a website](https://kibty.town/blog/arc/) | [2024-09-19](https://news.ycombinator.com/item?id=41597250) |
+| 1673 | [Why wordfreq will not be updated](https://github.com/rspeer/wordfreq/blob/master/SUNSET.md) | [2024-09-18](https://news.ycombinator.com/item?id=41578483) |
+| 1066 | [Hezbollah pager explosions kill several people in Lebanon](https://www.reuters.com/world/middle-east/dozens-hezbollah-members-wounded-lebanon-when-pagers-exploded-sources-witnesses-2024-09-17/) | [2024-09-17](https://news.ycombinator.com/item?id=41567299) |
 | 1487 | [Amazon tells employees to return to office five days a week](https://www.cnbc.com/2024/09/16/amazon-jassy-tells-employees-to-return-to-office-five-days-a-week.html) | [2024-09-16](https://news.ycombinator.com/item?id=41558554) |
 | 2077 | [How to succeed in MrBeast production (Leaked PDF)](https://simonwillison.net/2024/Sep/15/how-to-succeed-in-mrbeast-production/) | [2024-09-15](https://news.ycombinator.com/item?id=41549649) |
 | 750 | [Show HN: Meet.hn – Meet the Hacker News community in your city](https://news.ycombinator.com/item?id=41539125) | [2024-09-14](https://news.ycombinator.com/item?id=41539125) |
@@ -380,8 +382,6 @@
 | 1276 | [Text editing on mobile: the invisible problem](https://jenson.org/text/) | [2023-09-24](https://news.ycombinator.com/item?id=37630804) |
 | 852 | [My solopreneur story](https://news.tonydinh.com/p/my-solopreneur-story-zero-to-45kmo) | [2023-09-23](https://news.ycombinator.com/item?id=37622702) |
 | 929 | [Valve is a wonderful upstream contributor to Linux and the open-source community](https://www.phoronix.com/news/Valve-Upstream-Everything-OSS) | [2023-09-22](https://news.ycombinator.com/item?id=37612127) |
-| 1748 | [Unlimited Kagi searches for $10 per month](https://blog.kagi.com/unlimited-searches-for-10) | [2023-09-21](https://news.ycombinator.com/item?id=37603905) |
-| 1667 | [Car allergic to vanilla ice cream (2000)](http://www.cs.cmu.edu/~wkw/humour/carproblems.txt) | [2023-09-20](https://news.ycombinator.com/item?id=37584399) |
 <!-- POSTS PREVIEW END -->
 
 **To see the full list, visit >>> [hnhd.io](https://hnhd.io/) <<<**

@@ -15,11 +15,12 @@
 <!-- POSTS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 129 | [They stole my voice with AI](https://www.jeffgeerling.com/blog/2024/they-stole-my-voice-ai) | [2024-09-22](https://news.ycombinator.com/item?id=41614490) |
-| 515 | [Forget ChatGPT: why researchers now run small AIs on their laptops](https://www.nature.com/articles/d41586-024-02998-y) | [2024-09-21](https://news.ycombinator.com/item?id=41609393) |
-| 559 | [Visualizing Weather Forecasts Through Landscape Imagery](https://github.com/lds133/weather_landscape) | [2024-09-20](https://news.ycombinator.com/item?id=41603546) |
-| 1360 | [Gaining access to anyones Arc browser without them even visiting a website](https://kibty.town/blog/arc/) | [2024-09-19](https://news.ycombinator.com/item?id=41597250) |
-| 1688 | [Why wordfreq will not be updated](https://github.com/rspeer/wordfreq/blob/master/SUNSET.md) | [2024-09-18](https://news.ycombinator.com/item?id=41578483) |
+| 90 | [Teenager jailed for 18 months still in prison 18 years later](https://www.independent.co.uk/news/uk/crime/ipp-sentence-luke-ings-mcdonalds-prison-b2601321.html) | [2024-09-23](https://news.ycombinator.com/item?id=41621490) |
+| 488 | [They stole my voice with AI](https://www.jeffgeerling.com/blog/2024/they-stole-my-voice-ai) | [2024-09-22](https://news.ycombinator.com/item?id=41614490) |
+| 1077 | [Sanding UI](https://blog.jim-nielsen.com/2024/sanding-ui/) | [2024-09-21](https://news.ycombinator.com/item?id=41612154) |
+| 580 | [Visualizing Weather Forecasts Through Landscape Imagery](https://github.com/lds133/weather_landscape) | [2024-09-20](https://news.ycombinator.com/item?id=41603546) |
+| 1409 | [Gaining access to anyones Arc browser without them even visiting a website](https://kibty.town/blog/arc/) | [2024-09-19](https://news.ycombinator.com/item?id=41597250) |
+| 1696 | [Why wordfreq will not be updated](https://github.com/rspeer/wordfreq/blob/master/SUNSET.md) | [2024-09-18](https://news.ycombinator.com/item?id=41578483) |
 | 1066 | [Hezbollah pager explosions kill several people in Lebanon](https://www.reuters.com/world/middle-east/dozens-hezbollah-members-wounded-lebanon-when-pagers-exploded-sources-witnesses-2024-09-17/) | [2024-09-17](https://news.ycombinator.com/item?id=41567299) |
 | 1487 | [Amazon tells employees to return to office five days a week](https://www.cnbc.com/2024/09/16/amazon-jassy-tells-employees-to-return-to-office-five-days-a-week.html) | [2024-09-16](https://news.ycombinator.com/item?id=41558554) |
 | 2077 | [How to succeed in MrBeast production (Leaked PDF)](https://simonwillison.net/2024/Sep/15/how-to-succeed-in-mrbeast-production/) | [2024-09-15](https://news.ycombinator.com/item?id=41549649) |
@@ -381,7 +382,6 @@
 | 1139 | [FTC sues Amazon for illegally maintaining monopoly power](https://www.ftc.gov/news-events/news/press-releases/2023/09/ftc-sues-amazon-illegally-maintaining-monopoly-power) | [2023-09-26](https://news.ycombinator.com/item?id=37661446) |
 | 1149 | [We are beginning to roll out new voice and image capabilities in ChatGPT](https://openai.com/blog/chatgpt-can-now-see-hear-and-speak) | [2023-09-25](https://news.ycombinator.com/item?id=37642335) |
 | 1276 | [Text editing on mobile: the invisible problem](https://jenson.org/text/) | [2023-09-24](https://news.ycombinator.com/item?id=37630804) |
-| 852 | [My solopreneur story](https://news.tonydinh.com/p/my-solopreneur-story-zero-to-45kmo) | [2023-09-23](https://news.ycombinator.com/item?id=37622702) |
 <!-- POSTS PREVIEW END -->
 
 **To see the full list, visit >>> [hnhd.io](https://hnhd.io/) <<<**

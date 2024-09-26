@@ -15,12 +15,13 @@
 <!-- POSTS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 160 | [Committing to Rust in the Kernel](https://lwn.net/SubscriberLink/991062/b0df468b40b21f5d/) | [2024-09-25](https://news.ycombinator.com/item?id=41642313) |
-| 693 | [Show HN: OpenFreeMap – Open-Source Map Hosting](https://openfreemap.org/) | [2024-09-24](https://news.ycombinator.com/item?id=41635592) |
-| 1454 | [I designed a Dieter Rams-inspired iPhone dock](https://arslan.io/2024/09/23/dieter-rams-inspired-iphone-dock/) | [2024-09-23](https://news.ycombinator.com/item?id=41623467) |
-| 572 | [Brainfuck Enterprise Solutions](https://github.com/bf-enterprise-solutions) | [2024-09-22](https://news.ycombinator.com/item?id=41620198) |
-| 1272 | [Sanding UI](https://blog.jim-nielsen.com/2024/sanding-ui/) | [2024-09-21](https://news.ycombinator.com/item?id=41612154) |
-| 598 | [Visualizing Weather Forecasts Through Landscape Imagery](https://github.com/lds133/weather_landscape) | [2024-09-20](https://news.ycombinator.com/item?id=41603546) |
+| 134 | [Git-absorb: Git commit –fixup, but automatic](https://github.com/tummychow/git-absorb) | [2024-09-26](https://news.ycombinator.com/item?id=41653191) |
+| 812 | [Orion, our first true augmented reality glasses](https://about.fb.com/news/2024/09/introducing-orion-our-first-true-augmented-reality-glasses/) | [2024-09-25](https://news.ycombinator.com/item?id=41650047) |
+| 807 | [Show HN: OpenFreeMap – Open-Source Map Hosting](https://openfreemap.org/) | [2024-09-24](https://news.ycombinator.com/item?id=41635592) |
+| 1481 | [I designed a Dieter Rams-inspired iPhone dock](https://arslan.io/2024/09/23/dieter-rams-inspired-iphone-dock/) | [2024-09-23](https://news.ycombinator.com/item?id=41623467) |
+| 579 | [Brainfuck Enterprise Solutions](https://github.com/bf-enterprise-solutions) | [2024-09-22](https://news.ycombinator.com/item?id=41620198) |
+| 1284 | [Sanding UI](https://blog.jim-nielsen.com/2024/sanding-ui/) | [2024-09-21](https://news.ycombinator.com/item?id=41612154) |
+| 602 | [Visualizing Weather Forecasts Through Landscape Imagery](https://github.com/lds133/weather_landscape) | [2024-09-20](https://news.ycombinator.com/item?id=41603546) |
 | 1440 | [Gaining access to anyones Arc browser without them even visiting a website](https://kibty.town/blog/arc/) | [2024-09-19](https://news.ycombinator.com/item?id=41597250) |
 | 1696 | [Why wordfreq will not be updated](https://github.com/rspeer/wordfreq/blob/master/SUNSET.md) | [2024-09-18](https://news.ycombinator.com/item?id=41578483) |
 | 1066 | [Hezbollah pager explosions kill several people in Lebanon](https://www.reuters.com/world/middle-east/dozens-hezbollah-members-wounded-lebanon-when-pagers-exploded-sources-witnesses-2024-09-17/) | [2024-09-17](https://news.ycombinator.com/item?id=41567299) |
@@ -381,7 +382,6 @@
 | 1366 | [Richard Stallman reveals he has cancer in the GNU 40 Hacker Meeting talk [video]](https://audio-video.gnu.org/video/gnu40/rms-gnu40.webm) | [2023-09-29](https://news.ycombinator.com/item?id=37699851) |
 | 1756 | [WiFi without internet on a Southwest flight](https://jamesbvaughan.com/southwest-wifi/) | [2023-09-28](https://news.ycombinator.com/item?id=37691232) |
 | 884 | [Mistral 7B](https://mistral.ai/news/announcing-mistral-7b/) | [2023-09-27](https://news.ycombinator.com/item?id=37675496) |
-| 1139 | [FTC sues Amazon for illegally maintaining monopoly power](https://www.ftc.gov/news-events/news/press-releases/2023/09/ftc-sues-amazon-illegally-maintaining-monopoly-power) | [2023-09-26](https://news.ycombinator.com/item?id=37661446) |
 <!-- POSTS PREVIEW END -->
 
 **To see the full list, visit >>> [hnhd.io](https://hnhd.io/) <<<**

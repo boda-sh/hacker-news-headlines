@@ -15,11 +15,12 @@
 <!-- POSTS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 134 | [Git-absorb: Git commit –fixup, but automatic](https://github.com/tummychow/git-absorb) | [2024-09-26](https://news.ycombinator.com/item?id=41653191) |
-| 812 | [Orion, our first true augmented reality glasses](https://about.fb.com/news/2024/09/introducing-orion-our-first-true-augmented-reality-glasses/) | [2024-09-25](https://news.ycombinator.com/item?id=41650047) |
-| 807 | [Show HN: OpenFreeMap – Open-Source Map Hosting](https://openfreemap.org/) | [2024-09-24](https://news.ycombinator.com/item?id=41635592) |
-| 1481 | [I designed a Dieter Rams-inspired iPhone dock](https://arslan.io/2024/09/23/dieter-rams-inspired-iphone-dock/) | [2024-09-23](https://news.ycombinator.com/item?id=41623467) |
-| 579 | [Brainfuck Enterprise Solutions](https://github.com/bf-enterprise-solutions) | [2024-09-22](https://news.ycombinator.com/item?id=41620198) |
+| 78 | [Small3dlib: Suckless PD 3D software rasterizer](https://codeberg.org/drummyfish/small3dlib) | [2024-09-27](https://news.ycombinator.com/item?id=41665569) |
+| 1217 | [OpenAI to become for-profit company](https://www.reuters.com/technology/artificial-intelligence/openai-remove-non-profit-control-give-sam-altman-equity-sources-say-2024-09-25/) | [2024-09-26](https://news.ycombinator.com/item?id=41655954) |
+| 1188 | [Orion, our first true augmented reality glasses](https://about.fb.com/news/2024/09/introducing-orion-our-first-true-augmented-reality-glasses/) | [2024-09-25](https://news.ycombinator.com/item?id=41650047) |
+| 957 | [Xkcd 1425 (Tasks) turns ten years old today](https://simonwillison.net/2024/Sep/24/xkcd-1425-turns-ten-years-old-today/) | [2024-09-24](https://news.ycombinator.com/item?id=41638987) |
+| 1493 | [I designed a Dieter Rams-inspired iPhone dock](https://arslan.io/2024/09/23/dieter-rams-inspired-iphone-dock/) | [2024-09-23](https://news.ycombinator.com/item?id=41623467) |
+| 586 | [Brainfuck Enterprise Solutions](https://github.com/bf-enterprise-solutions) | [2024-09-22](https://news.ycombinator.com/item?id=41620198) |
 | 1284 | [Sanding UI](https://blog.jim-nielsen.com/2024/sanding-ui/) | [2024-09-21](https://news.ycombinator.com/item?id=41612154) |
 | 602 | [Visualizing Weather Forecasts Through Landscape Imagery](https://github.com/lds133/weather_landscape) | [2024-09-20](https://news.ycombinator.com/item?id=41603546) |
 | 1440 | [Gaining access to anyones Arc browser without them even visiting a website](https://kibty.town/blog/arc/) | [2024-09-19](https://news.ycombinator.com/item?id=41597250) |
@@ -381,7 +382,6 @@
 | 499 | [Flexbox Froggy](https://flexboxfroggy.com/) | [2023-09-30](https://news.ycombinator.com/item?id=37713530) |
 | 1366 | [Richard Stallman reveals he has cancer in the GNU 40 Hacker Meeting talk [video]](https://audio-video.gnu.org/video/gnu40/rms-gnu40.webm) | [2023-09-29](https://news.ycombinator.com/item?id=37699851) |
 | 1756 | [WiFi without internet on a Southwest flight](https://jamesbvaughan.com/southwest-wifi/) | [2023-09-28](https://news.ycombinator.com/item?id=37691232) |
-| 884 | [Mistral 7B](https://mistral.ai/news/announcing-mistral-7b/) | [2023-09-27](https://news.ycombinator.com/item?id=37675496) |
 <!-- POSTS PREVIEW END -->
 
 **To see the full list, visit >>> [hnhd.io](https://hnhd.io/) <<<**

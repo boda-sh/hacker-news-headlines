@@ -1,9 +1,10 @@
 id,title,url,score,by,time,descendants
-41653191,"Git-absorb: Git commit –fixup, but automatic",https://github.com/tummychow/git-absorb,134,striking,2024-09-26 00:12:53,52
-41650047,"Orion, our first true augmented reality glasses",https://about.fb.com/news/2024/09/introducing-orion-our-first-true-augmented-reality-glasses/,812,mfiguiere,2024-09-25 17:56:53,605
-41635592,Show HN: OpenFreeMap – Open-Source Map Hosting,https://openfreemap.org/,807,hyperknot,2024-09-24 11:59:22,228
-41623467,I designed a Dieter Rams-inspired iPhone dock,https://arslan.io/2024/09/23/dieter-rams-inspired-iphone-dock/,1481,farslan,2024-09-23 07:51:26,351
-41620198,Brainfuck Enterprise Solutions,https://github.com/bf-enterprise-solutions,579,linkdd,2024-09-22 21:24:07,144
+41665569,Small3dlib: Suckless PD 3D software rasterizer,https://codeberg.org/drummyfish/small3dlib,78,flykespice,2024-09-27 02:04:01,8
+41655954,OpenAI to become for-profit company,https://www.reuters.com/technology/artificial-intelligence/openai-remove-non-profit-control-give-sam-altman-equity-sources-say-2024-09-25/,1217,jspann,2024-09-26 08:34:43,655
+41650047,"Orion, our first true augmented reality glasses",https://about.fb.com/news/2024/09/introducing-orion-our-first-true-augmented-reality-glasses/,1188,mfiguiere,2024-09-25 17:56:53,1007
+41638987,Xkcd 1425 (Tasks) turns ten years old today,https://simonwillison.net/2024/Sep/24/xkcd-1425-turns-ten-years-old-today/,957,ulrischa,2024-09-24 17:37:50,442
+41623467,I designed a Dieter Rams-inspired iPhone dock,https://arslan.io/2024/09/23/dieter-rams-inspired-iphone-dock/,1493,farslan,2024-09-23 07:51:26,353
+41620198,Brainfuck Enterprise Solutions,https://github.com/bf-enterprise-solutions,586,linkdd,2024-09-22 21:24:07,144
 41612154,Sanding UI,https://blog.jim-nielsen.com/2024/sanding-ui/,1284,roosgit,2024-09-21 19:36:20,396
 41603546,Visualizing Weather Forecasts Through Landscape Imagery,https://github.com/lds133/weather_landscape,602,lds133,2024-09-20 16:31:00,56
 41597250,Gaining access to anyones Arc browser without them even visiting a website,https://kibty.town/blog/arc/,1440,xyzeva,2024-09-19 23:04:42,491

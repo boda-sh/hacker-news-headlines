@@ -15,12 +15,12 @@
 <!-- POSTS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 78 | [Small3dlib: Suckless PD 3D software rasterizer](https://codeberg.org/drummyfish/small3dlib) | [2024-09-27](https://news.ycombinator.com/item?id=41665569) |
-| 1217 | [OpenAI to become for-profit company](https://www.reuters.com/technology/artificial-intelligence/openai-remove-non-profit-control-give-sam-altman-equity-sources-say-2024-09-25/) | [2024-09-26](https://news.ycombinator.com/item?id=41655954) |
-| 1188 | [Orion, our first true augmented reality glasses](https://about.fb.com/news/2024/09/introducing-orion-our-first-true-augmented-reality-glasses/) | [2024-09-25](https://news.ycombinator.com/item?id=41650047) |
-| 957 | [Xkcd 1425 (Tasks) turns ten years old today](https://simonwillison.net/2024/Sep/24/xkcd-1425-turns-ten-years-old-today/) | [2024-09-24](https://news.ycombinator.com/item?id=41638987) |
-| 1493 | [I designed a Dieter Rams-inspired iPhone dock](https://arslan.io/2024/09/23/dieter-rams-inspired-iphone-dock/) | [2024-09-23](https://news.ycombinator.com/item?id=41623467) |
-| 586 | [Brainfuck Enterprise Solutions](https://github.com/bf-enterprise-solutions) | [2024-09-22](https://news.ycombinator.com/item?id=41620198) |
+| 1041 | [I Am Tired of AI](https://www.ontestautomation.com/i-am-tired-of-ai/) | [2024-09-27](https://news.ycombinator.com/item?id=41667652) |
+| 1304 | [OpenAI to become for-profit company](https://www.reuters.com/technology/artificial-intelligence/openai-remove-non-profit-control-give-sam-altman-equity-sources-say-2024-09-25/) | [2024-09-26](https://news.ycombinator.com/item?id=41655954) |
+| 1210 | [Orion, our first true augmented reality glasses](https://about.fb.com/news/2024/09/introducing-orion-our-first-true-augmented-reality-glasses/) | [2024-09-25](https://news.ycombinator.com/item?id=41650047) |
+| 983 | [Xkcd 1425 (Tasks) turns ten years old today](https://simonwillison.net/2024/Sep/24/xkcd-1425-turns-ten-years-old-today/) | [2024-09-24](https://news.ycombinator.com/item?id=41638987) |
+| 1500 | [I designed a Dieter Rams-inspired iPhone dock](https://arslan.io/2024/09/23/dieter-rams-inspired-iphone-dock/) | [2024-09-23](https://news.ycombinator.com/item?id=41623467) |
+| 591 | [Brainfuck Enterprise Solutions](https://github.com/bf-enterprise-solutions) | [2024-09-22](https://news.ycombinator.com/item?id=41620198) |
 | 1284 | [Sanding UI](https://blog.jim-nielsen.com/2024/sanding-ui/) | [2024-09-21](https://news.ycombinator.com/item?id=41612154) |
 | 602 | [Visualizing Weather Forecasts Through Landscape Imagery](https://github.com/lds133/weather_landscape) | [2024-09-20](https://news.ycombinator.com/item?id=41603546) |
 | 1440 | [Gaining access to anyones Arc browser without them even visiting a website](https://kibty.town/blog/arc/) | [2024-09-19](https://news.ycombinator.com/item?id=41597250) |

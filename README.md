@@ -15,10 +15,12 @@
 <!-- POSTS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 1041 | [I Am Tired of AI](https://www.ontestautomation.com/i-am-tired-of-ai/) | [2024-09-27](https://news.ycombinator.com/item?id=41667652) |
-| 1304 | [OpenAI to become for-profit company](https://www.reuters.com/technology/artificial-intelligence/openai-remove-non-profit-control-give-sam-altman-equity-sources-say-2024-09-25/) | [2024-09-26](https://news.ycombinator.com/item?id=41655954) |
-| 1210 | [Orion, our first true augmented reality glasses](https://about.fb.com/news/2024/09/introducing-orion-our-first-true-augmented-reality-glasses/) | [2024-09-25](https://news.ycombinator.com/item?id=41650047) |
-| 983 | [Xkcd 1425 (Tasks) turns ten years old today](https://simonwillison.net/2024/Sep/24/xkcd-1425-turns-ten-years-old-today/) | [2024-09-24](https://news.ycombinator.com/item?id=41638987) |
+| 114 | [Too much efficiency makes everything worse (2022)](https://sohl-dickstein.github.io/2022/11/06/strong-Goodhart.html) | [2024-09-29](https://news.ycombinator.com/item?id=41684082) |
+| 712 | [FFT-based ocean-wave rendering, implemented in Godot](https://github.com/2Retr0/GodotOceanWaves) | [2024-09-28](https://news.ycombinator.com/item?id=41678412) |
+| 1445 | [Fraud, so much fraud](https://www.science.org/content/blog-post/fraud-so-much-fraud) | [2024-09-27](https://news.ycombinator.com/item?id=41672599) |
+| 1323 | [OpenAI to become for-profit company](https://www.reuters.com/technology/artificial-intelligence/openai-remove-non-profit-control-give-sam-altman-equity-sources-say-2024-09-25/) | [2024-09-26](https://news.ycombinator.com/item?id=41655954) |
+| 1215 | [Orion, our first true augmented reality glasses](https://about.fb.com/news/2024/09/introducing-orion-our-first-true-augmented-reality-glasses/) | [2024-09-25](https://news.ycombinator.com/item?id=41650047) |
+| 990 | [Xkcd 1425 (Tasks) turns ten years old today](https://simonwillison.net/2024/Sep/24/xkcd-1425-turns-ten-years-old-today/) | [2024-09-24](https://news.ycombinator.com/item?id=41638987) |
 | 1500 | [I designed a Dieter Rams-inspired iPhone dock](https://arslan.io/2024/09/23/dieter-rams-inspired-iphone-dock/) | [2024-09-23](https://news.ycombinator.com/item?id=41623467) |
 | 591 | [Brainfuck Enterprise Solutions](https://github.com/bf-enterprise-solutions) | [2024-09-22](https://news.ycombinator.com/item?id=41620198) |
 | 1284 | [Sanding UI](https://blog.jim-nielsen.com/2024/sanding-ui/) | [2024-09-21](https://news.ycombinator.com/item?id=41612154) |
@@ -380,8 +382,6 @@
 | 989 | [What every software developer must know about Unicode in 2023](https://tonsky.me/blog/unicode/) | [2023-10-02](https://news.ycombinator.com/item?id=37735801) |
 | 709 | [Tire dust makes up the majority of ocean microplastics](https://www.thedrive.com/news/tire-dust-makes-up-the-majority-of-ocean-microplastics-study-finds) | [2023-10-01](https://news.ycombinator.com/item?id=37726539) |
 | 499 | [Flexbox Froggy](https://flexboxfroggy.com/) | [2023-09-30](https://news.ycombinator.com/item?id=37713530) |
-| 1366 | [Richard Stallman reveals he has cancer in the GNU 40 Hacker Meeting talk [video]](https://audio-video.gnu.org/video/gnu40/rms-gnu40.webm) | [2023-09-29](https://news.ycombinator.com/item?id=37699851) |
-| 1756 | [WiFi without internet on a Southwest flight](https://jamesbvaughan.com/southwest-wifi/) | [2023-09-28](https://news.ycombinator.com/item?id=37691232) |
 <!-- POSTS PREVIEW END -->
 
 **To see the full list, visit >>> [hnhd.io](https://hnhd.io/) <<<**

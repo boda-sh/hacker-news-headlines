@@ -15,10 +15,11 @@
 <!-- POSTS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 785 | [Too much efficiency makes everything worse (2022)](https://sohl-dickstein.github.io/2022/11/06/strong-Goodhart.html) | [2024-09-29](https://news.ycombinator.com/item?id=41684082) |
-| 795 | [FFT-based ocean-wave rendering, implemented in Godot](https://github.com/2Retr0/GodotOceanWaves) | [2024-09-28](https://news.ycombinator.com/item?id=41678412) |
-| 1480 | [Fraud, so much fraud](https://www.science.org/content/blog-post/fraud-so-much-fraud) | [2024-09-27](https://news.ycombinator.com/item?id=41672599) |
-| 1333 | [OpenAI to become for-profit company](https://www.reuters.com/technology/artificial-intelligence/openai-remove-non-profit-control-give-sam-altman-equity-sources-say-2024-09-25/) | [2024-09-26](https://news.ycombinator.com/item?id=41655954) |
+| 1819 | [Bop Spotter](https://walzr.com/bop-spotter) | [2024-09-30](https://news.ycombinator.com/item?id=41694044) |
+| 867 | [Too much efficiency makes everything worse (2022)](https://sohl-dickstein.github.io/2022/11/06/strong-Goodhart.html) | [2024-09-29](https://news.ycombinator.com/item?id=41684082) |
+| 814 | [FFT-based ocean-wave rendering, implemented in Godot](https://github.com/2Retr0/GodotOceanWaves) | [2024-09-28](https://news.ycombinator.com/item?id=41678412) |
+| 1506 | [Fraud, so much fraud](https://www.science.org/content/blog-post/fraud-so-much-fraud) | [2024-09-27](https://news.ycombinator.com/item?id=41672599) |
+| 1353 | [Legalizing sports gambling was a mistake](https://www.theatlantic.com/ideas/archive/2024/09/legal-sports-gambling-was-mistake/679925/) | [2024-09-26](https://news.ycombinator.com/item?id=41659458) |
 | 1219 | [Orion, our first true augmented reality glasses](https://about.fb.com/news/2024/09/introducing-orion-our-first-true-augmented-reality-glasses/) | [2024-09-25](https://news.ycombinator.com/item?id=41650047) |
 | 995 | [Xkcd 1425 (Tasks) turns ten years old today](https://simonwillison.net/2024/Sep/24/xkcd-1425-turns-ten-years-old-today/) | [2024-09-24](https://news.ycombinator.com/item?id=41638987) |
 | 1500 | [I designed a Dieter Rams-inspired iPhone dock](https://arslan.io/2024/09/23/dieter-rams-inspired-iphone-dock/) | [2024-09-23](https://news.ycombinator.com/item?id=41623467) |
@@ -381,7 +382,6 @@
 | 510 | [Running Stable Diffusion XL 1.0 in 298MB of RAM](https://github.com/vitoplantamura/OnnxStream/tree/846da873570a737b49154e8f835704264864b0fe) | [2023-10-03](https://news.ycombinator.com/item?id=37752632) |
 | 989 | [What every software developer must know about Unicode in 2023](https://tonsky.me/blog/unicode/) | [2023-10-02](https://news.ycombinator.com/item?id=37735801) |
 | 709 | [Tire dust makes up the majority of ocean microplastics](https://www.thedrive.com/news/tire-dust-makes-up-the-majority-of-ocean-microplastics-study-finds) | [2023-10-01](https://news.ycombinator.com/item?id=37726539) |
-| 499 | [Flexbox Froggy](https://flexboxfroggy.com/) | [2023-09-30](https://news.ycombinator.com/item?id=37713530) |
 <!-- POSTS PREVIEW END -->
 
 **To see the full list, visit >>> [hnhd.io](https://hnhd.io/) <<<**

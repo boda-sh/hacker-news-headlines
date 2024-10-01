@@ -17,7 +17,7 @@ export const Header = () => {
 				<a href="/random">
 					<FaDice size={24} />
 				</a>
-				<a href="https://github.com/bodaso/hacker-news-headlines">
+				<a href="https://github.com/bodadev/hacker-news-headlines">
 					<FaGithub size={24} />
 				</a>
 			</div>

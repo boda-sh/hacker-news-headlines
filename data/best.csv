@@ -1,7 +1,8 @@
 id,title,url,score,by,time,descendants
-41726197,Filed: WP Engine Inc. v Automattic Inc. and Matthew Charles Mullenweg [pdf],https://wpengine.com/wp-content/uploads/2024/10/Complaint-WP-Engine-v-Automattic-et-al-with-Exhibit.pdf,247,dangrossman,2024-10-03 00:29:05,262
-41721668,The Fastest Mutexes,https://justine.lol/mutex/,633,jart,2024-10-02 15:31:45,245
-41711437,A $1k Wheelchair,https://newmobility.com/not-a-wheelchair/,934,bo0tzz,2024-10-01 17:25:54,412
+41736903,"Why does man print ""gimme gimme gimme"" at 00:30? (2017)",https://unix.stackexchange.com/questions/405783/why-does-man-print-gimme-gimme-gimme-at-0030,80,jamesy0ung,2024-10-04 01:25:51,24
+41730415,"Patent troll Sable pays up, dedicates all its patents to the public",https://blog.cloudflare.com/patent-troll-sable-pays-up/,880,jgrahamc,2024-10-03 13:05:16,284
+41721668,The Fastest Mutexes,https://justine.lol/mutex/,864,jart,2024-10-02 15:31:45,332
+41711437,A $1k Wheelchair,https://newmobility.com/not-a-wheelchair/,945,bo0tzz,2024-10-01 17:25:54,423
 41694044,Bop Spotter,https://walzr.com/bop-spotter,2384,walz,2024-09-30 06:09:53,378
 41684082,Too much efficiency makes everything worse (2022),https://sohl-dickstein.github.io/2022/11/06/strong-Goodhart.html,910,feyman_r,2024-09-29 01:19:44,356
 41678412,"FFT-based ocean-wave rendering, implemented in Godot",https://github.com/2Retr0/GodotOceanWaves,832,RafelMri,2024-09-28 06:51:41,100

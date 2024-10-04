@@ -15,9 +15,10 @@
 <!-- POSTS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 247 | [Filed: WP Engine Inc. v Automattic Inc. and Matthew Charles Mullenweg [pdf]](https://wpengine.com/wp-content/uploads/2024/10/Complaint-WP-Engine-v-Automattic-et-al-with-Exhibit.pdf) | [2024-10-03](https://news.ycombinator.com/item?id=41726197) |
-| 633 | [The Fastest Mutexes](https://justine.lol/mutex/) | [2024-10-02](https://news.ycombinator.com/item?id=41721668) |
-| 934 | [A $1k Wheelchair](https://newmobility.com/not-a-wheelchair/) | [2024-10-01](https://news.ycombinator.com/item?id=41711437) |
+| 80 | [Why does man print "gimme gimme gimme" at 00:30? (2017)](https://unix.stackexchange.com/questions/405783/why-does-man-print-gimme-gimme-gimme-at-0030) | [2024-10-04](https://news.ycombinator.com/item?id=41736903) |
+| 880 | [Patent troll Sable pays up, dedicates all its patents to the public](https://blog.cloudflare.com/patent-troll-sable-pays-up/) | [2024-10-03](https://news.ycombinator.com/item?id=41730415) |
+| 864 | [The Fastest Mutexes](https://justine.lol/mutex/) | [2024-10-02](https://news.ycombinator.com/item?id=41721668) |
+| 945 | [A $1k Wheelchair](https://newmobility.com/not-a-wheelchair/) | [2024-10-01](https://news.ycombinator.com/item?id=41711437) |
 | 2384 | [Bop Spotter](https://walzr.com/bop-spotter) | [2024-09-30](https://news.ycombinator.com/item?id=41694044) |
 | 910 | [Too much efficiency makes everything worse (2022)](https://sohl-dickstein.github.io/2022/11/06/strong-Goodhart.html) | [2024-09-29](https://news.ycombinator.com/item?id=41684082) |
 | 832 | [FFT-based ocean-wave rendering, implemented in Godot](https://github.com/2Retr0/GodotOceanWaves) | [2024-09-28](https://news.ycombinator.com/item?id=41678412) |
@@ -381,7 +382,6 @@
 | 627 | [Paperless-ngx – Open source document management system](https://nerdyarticles.com/a-clutter-free-life-with-paperless-ngx/) | [2023-10-07](https://news.ycombinator.com/item?id=37800951) |
 | 1134 | [Making Hard Things Easy](https://jvns.ca/blog/2023/10/06/new-talk--making-hard-things-easy/) | [2023-10-06](https://news.ycombinator.com/item?id=37791002) |
 | 851 | [Where does my computer get the time from?](https://dotat.at/@/2023-05-26-whence-time.html) | [2023-10-05](https://news.ycombinator.com/item?id=37778496) |
-| 922 | [An interactive intro to CRDTs](https://jakelazaroff.com/words/an-interactive-intro-to-crdts/) | [2023-10-04](https://news.ycombinator.com/item?id=37764581) |
 <!-- POSTS PREVIEW END -->
 
 **To see the full list, visit >>> [hnhd.io](https://hnhd.io/) <<<**

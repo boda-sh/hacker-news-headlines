@@ -15,10 +15,10 @@
 <!-- POSTS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 80 | [Why does man print "gimme gimme gimme" at 00:30? (2017)](https://unix.stackexchange.com/questions/405783/why-does-man-print-gimme-gimme-gimme-at-0030) | [2024-10-04](https://news.ycombinator.com/item?id=41736903) |
-| 880 | [Patent troll Sable pays up, dedicates all its patents to the public](https://blog.cloudflare.com/patent-troll-sable-pays-up/) | [2024-10-03](https://news.ycombinator.com/item?id=41730415) |
-| 864 | [The Fastest Mutexes](https://justine.lol/mutex/) | [2024-10-02](https://news.ycombinator.com/item?id=41721668) |
-| 945 | [A $1k Wheelchair](https://newmobility.com/not-a-wheelchair/) | [2024-10-01](https://news.ycombinator.com/item?id=41711437) |
+| 913 | [Why does man print "gimme gimme gimme" at 00:30? (2017)](https://unix.stackexchange.com/questions/405783/why-does-man-print-gimme-gimme-gimme-at-0030) | [2024-10-04](https://news.ycombinator.com/item?id=41736903) |
+| 1313 | [Patent troll Sable pays up, dedicates all its patents to the public](https://blog.cloudflare.com/patent-troll-sable-pays-up/) | [2024-10-03](https://news.ycombinator.com/item?id=41730415) |
+| 874 | [The Fastest Mutexes](https://justine.lol/mutex/) | [2024-10-02](https://news.ycombinator.com/item?id=41721668) |
+| 954 | [A $1k Wheelchair](https://newmobility.com/not-a-wheelchair/) | [2024-10-01](https://news.ycombinator.com/item?id=41711437) |
 | 2384 | [Bop Spotter](https://walzr.com/bop-spotter) | [2024-09-30](https://news.ycombinator.com/item?id=41694044) |
 | 910 | [Too much efficiency makes everything worse (2022)](https://sohl-dickstein.github.io/2022/11/06/strong-Goodhart.html) | [2024-09-29](https://news.ycombinator.com/item?id=41684082) |
 | 832 | [FFT-based ocean-wave rendering, implemented in Godot](https://github.com/2Retr0/GodotOceanWaves) | [2024-09-28](https://news.ycombinator.com/item?id=41678412) |

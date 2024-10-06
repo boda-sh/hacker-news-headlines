@@ -15,10 +15,12 @@
 <!-- POSTS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 913 | [Why does man print "gimme gimme gimme" at 00:30? (2017)](https://unix.stackexchange.com/questions/405783/why-does-man-print-gimme-gimme-gimme-at-0030) | [2024-10-04](https://news.ycombinator.com/item?id=41736903) |
-| 1313 | [Patent troll Sable pays up, dedicates all its patents to the public](https://blog.cloudflare.com/patent-troll-sable-pays-up/) | [2024-10-03](https://news.ycombinator.com/item?id=41730415) |
-| 874 | [The Fastest Mutexes](https://justine.lol/mutex/) | [2024-10-02](https://news.ycombinator.com/item?id=41721668) |
-| 954 | [A $1k Wheelchair](https://newmobility.com/not-a-wheelchair/) | [2024-10-01](https://news.ycombinator.com/item?id=41711437) |
+| 125 | [Arthur Whitney's one liner sudoku solver (2011)](https://dfns.dyalog.com/n_sudoku.htm) | [2024-10-06](https://news.ycombinator.com/item?id=41753741) |
+| 619 | [It's Time to Stop Taking Sam Altman at His Word](https://www.theatlantic.com/technology/archive/2024/10/sam-altman-mythmaking/680152/) | [2024-10-05](https://news.ycombinator.com/item?id=41749371) |
+| 1052 | [Meta Movie Gen](https://ai.meta.com/research/movie-gen/?_fb_noscript=1) | [2024-10-04](https://news.ycombinator.com/item?id=41740965) |
+| 1425 | [Patent troll Sable pays up, dedicates all its patents to the public](https://blog.cloudflare.com/patent-troll-sable-pays-up/) | [2024-10-03](https://news.ycombinator.com/item?id=41730415) |
+| 882 | [The Fastest Mutexes](https://justine.lol/mutex/) | [2024-10-02](https://news.ycombinator.com/item?id=41721668) |
+| 961 | [A $1k Wheelchair](https://newmobility.com/not-a-wheelchair/) | [2024-10-01](https://news.ycombinator.com/item?id=41711437) |
 | 2384 | [Bop Spotter](https://walzr.com/bop-spotter) | [2024-09-30](https://news.ycombinator.com/item?id=41694044) |
 | 910 | [Too much efficiency makes everything worse (2022)](https://sohl-dickstein.github.io/2022/11/06/strong-Goodhart.html) | [2024-09-29](https://news.ycombinator.com/item?id=41684082) |
 | 832 | [FFT-based ocean-wave rendering, implemented in Godot](https://github.com/2Retr0/GodotOceanWaves) | [2024-09-28](https://news.ycombinator.com/item?id=41678412) |
@@ -380,8 +382,6 @@
 | 926 | [John Riccitiello steps down as CEO of Unity](https://venturebeat.com/games/john-riccitiello-steps-down-as-ceo-of-unity-after-pricing-battle/) | [2023-10-09](https://news.ycombinator.com/item?id=37825292) |
 | 639 | [Flappy Dird: Flappy Bird Implemented in MacOS Finder](https://eieio.games/nonsense/game-11-flappy-bird-finder/) | [2023-10-08](https://news.ycombinator.com/item?id=37810144) |
 | 627 | [Paperless-ngx – Open source document management system](https://nerdyarticles.com/a-clutter-free-life-with-paperless-ngx/) | [2023-10-07](https://news.ycombinator.com/item?id=37800951) |
-| 1134 | [Making Hard Things Easy](https://jvns.ca/blog/2023/10/06/new-talk--making-hard-things-easy/) | [2023-10-06](https://news.ycombinator.com/item?id=37791002) |
-| 851 | [Where does my computer get the time from?](https://dotat.at/@/2023-05-26-whence-time.html) | [2023-10-05](https://news.ycombinator.com/item?id=37778496) |
 <!-- POSTS PREVIEW END -->
 
 **To see the full list, visit >>> [hnhd.io](https://hnhd.io/) <<<**

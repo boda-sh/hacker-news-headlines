@@ -15,12 +15,13 @@
 <!-- POSTS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 85 | [An illustrated proof of the CAP theorem (2018)](https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/) | [2024-10-08](https://news.ycombinator.com/item?id=41772624) |
-| 493 | [Can you get root with only a cigarette lighter?](https://www.da.vidbuchanan.co.uk/blog/dram-emfi.html) | [2024-10-07](https://news.ycombinator.com/item?id=41765716) |
-| 563 | [Sq.io: jq for databases and more](https://sq.io) | [2024-10-06](https://news.ycombinator.com/item?id=41760697) |
-| 688 | [It's Time to Stop Taking Sam Altman at His Word](https://www.theatlantic.com/technology/archive/2024/10/sam-altman-mythmaking/680152/) | [2024-10-05](https://news.ycombinator.com/item?id=41749371) |
-| 1086 | [Meta Movie Gen](https://ai.meta.com/research/movie-gen/?_fb_noscript=1) | [2024-10-04](https://news.ycombinator.com/item?id=41740965) |
-| 1493 | [Patent troll Sable pays up, dedicates all its patents to the public](https://blog.cloudflare.com/patent-troll-sable-pays-up/) | [2024-10-03](https://news.ycombinator.com/item?id=41730415) |
+| 102 | [The human internet is dying. AI images are taking over Google top results](https://old.reddit.com/r/ChatGPT/comments/1fye6tb/the_human_internet_is_dying_ai_images_taking_over/) | [2024-10-09](https://news.ycombinator.com/item?id=41783787) |
+| 798 | [Nobel Prize in Physics awarded to John Hopfield and Geoffrey Hinton [pdf]](https://www.nobelprize.org/uploads/2024/09/advanced-physicsprize2024.pdf) | [2024-10-08](https://news.ycombinator.com/item?id=41775463) |
+| 740 | [Google must open Android for third-party stores, rules Epic judge](https://www.theverge.com/policy/2024/10/7/24243316/epic-google-permanent-injunction-ruling-third-party-stores) | [2024-10-07](https://news.ycombinator.com/item?id=41769657) |
+| 587 | [Sq.io: jq for databases and more](https://sq.io) | [2024-10-06](https://news.ycombinator.com/item?id=41760697) |
+| 693 | [It's Time to Stop Taking Sam Altman at His Word](https://www.theatlantic.com/technology/archive/2024/10/sam-altman-mythmaking/680152/) | [2024-10-05](https://news.ycombinator.com/item?id=41749371) |
+| 1094 | [Meta Movie Gen](https://ai.meta.com/research/movie-gen/?_fb_noscript=1) | [2024-10-04](https://news.ycombinator.com/item?id=41740965) |
+| 1503 | [Patent troll Sable pays up, dedicates all its patents to the public](https://blog.cloudflare.com/patent-troll-sable-pays-up/) | [2024-10-03](https://news.ycombinator.com/item?id=41730415) |
 | 882 | [The Fastest Mutexes](https://justine.lol/mutex/) | [2024-10-02](https://news.ycombinator.com/item?id=41721668) |
 | 961 | [A $1k Wheelchair](https://newmobility.com/not-a-wheelchair/) | [2024-10-01](https://news.ycombinator.com/item?id=41711437) |
 | 2384 | [Bop Spotter](https://walzr.com/bop-spotter) | [2024-09-30](https://news.ycombinator.com/item?id=41694044) |
@@ -381,7 +382,6 @@
 | 1122 | [First word discovered in unopened Herculaneum scroll by CS student](https://scrollprize.org/firstletters) | [2023-10-12](https://news.ycombinator.com/item?id=37857417) |
 | 1163 | [Log is the "Pro" in iPhone 15 Pro](https://prolost.com/blog/applelog) | [2023-10-11](https://news.ycombinator.com/item?id=37840503) |
 | 966 | [Firefox tooltip bug fixed after 22 years](https://bugzilla.mozilla.org/show_bug.cgi?id=148624) | [2023-10-10](https://news.ycombinator.com/item?id=37827995) |
-| 926 | [John Riccitiello steps down as CEO of Unity](https://venturebeat.com/games/john-riccitiello-steps-down-as-ceo-of-unity-after-pricing-battle/) | [2023-10-09](https://news.ycombinator.com/item?id=37825292) |
 <!-- POSTS PREVIEW END -->
 
 **To see the full list, visit >>> [hnhd.io](https://hnhd.io/) <<<**

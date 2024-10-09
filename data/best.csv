@@ -1,10 +1,11 @@
 id,title,url,score,by,time,descendants
-41772624,An illustrated proof of the CAP theorem (2018),https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/,85,tripdout,2024-10-08 00:32:18,40
-41765716,Can you get root with only a cigarette lighter?,https://www.da.vidbuchanan.co.uk/blog/dram-emfi.html,493,1317,2024-10-07 13:20:19,121
-41760697,Sq.io: jq for databases and more,https://sq.io,563,stavepan,2024-10-06 22:02:34,124
-41749371,It's Time to Stop Taking Sam Altman at His Word,https://www.theatlantic.com/technology/archive/2024/10/sam-altman-mythmaking/680152/,688,redwoolf,2024-10-05 12:17:24,567
-41740965,Meta Movie Gen,https://ai.meta.com/research/movie-gen/?_fb_noscript=1,1086,brianjking,2024-10-04 13:03:00,999
-41730415,"Patent troll Sable pays up, dedicates all its patents to the public",https://blog.cloudflare.com/patent-troll-sable-pays-up/,1493,jgrahamc,2024-10-03 13:05:16,412
+41783787,The human internet is dying. AI images are taking over Google top results,https://old.reddit.com/r/ChatGPT/comments/1fye6tb/the_human_internet_is_dying_ai_images_taking_over/,102,botanical,2024-10-09 02:10:55,3
+41775463,Nobel Prize in Physics awarded to John Hopfield and Geoffrey Hinton [pdf],https://www.nobelprize.org/uploads/2024/09/advanced-physicsprize2024.pdf,798,drpossum,2024-10-08 09:52:46,702
+41769657,"Google must open Android for third-party stores, rules Epic judge",https://www.theverge.com/policy/2024/10/7/24243316/epic-google-permanent-injunction-ruling-third-party-stores,740,dblitt,2024-10-07 19:00:10,557
+41760697,Sq.io: jq for databases and more,https://sq.io,587,stavepan,2024-10-06 22:02:34,125
+41749371,It's Time to Stop Taking Sam Altman at His Word,https://www.theatlantic.com/technology/archive/2024/10/sam-altman-mythmaking/680152/,693,redwoolf,2024-10-05 12:17:24,570
+41740965,Meta Movie Gen,https://ai.meta.com/research/movie-gen/?_fb_noscript=1,1094,brianjking,2024-10-04 13:03:00,1000
+41730415,"Patent troll Sable pays up, dedicates all its patents to the public",https://blog.cloudflare.com/patent-troll-sable-pays-up/,1503,jgrahamc,2024-10-03 13:05:16,413
 41721668,The Fastest Mutexes,https://justine.lol/mutex/,882,jart,2024-10-02 15:31:45,342
 41711437,A $1k Wheelchair,https://newmobility.com/not-a-wheelchair/,961,bo0tzz,2024-10-01 17:25:54,427
 41694044,Bop Spotter,https://walzr.com/bop-spotter,2384,walz,2024-09-30 06:09:53,378

@@ -15,10 +15,11 @@
 <!-- POSTS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 102 | [The human internet is dying. AI images are taking over Google top results](https://old.reddit.com/r/ChatGPT/comments/1fye6tb/the_human_internet_is_dying_ai_images_taking_over/) | [2024-10-09](https://news.ycombinator.com/item?id=41783787) |
-| 798 | [Nobel Prize in Physics awarded to John Hopfield and Geoffrey Hinton [pdf]](https://www.nobelprize.org/uploads/2024/09/advanced-physicsprize2024.pdf) | [2024-10-08](https://news.ycombinator.com/item?id=41775463) |
-| 740 | [Google must open Android for third-party stores, rules Epic judge](https://www.theverge.com/policy/2024/10/7/24243316/epic-google-permanent-injunction-ruling-third-party-stores) | [2024-10-07](https://news.ycombinator.com/item?id=41769657) |
-| 587 | [Sq.io: jq for databases and more](https://sq.io) | [2024-10-06](https://news.ycombinator.com/item?id=41760697) |
+| 64 | [Being generous, thoughtful, and kind is a sign of high intelligence](https://www.inc.com/jeff-haden/science-says-being-generous-thoughtful-and-kind-is-a-sign-of-high-intelligence-organizational-psychologist-adam-grant-agrees/90985740) | [2024-10-10](https://news.ycombinator.com/item?id=41794807) |
+| 562 | [Internet Archive: Security breach alert](https://www.theverge.com/2024/10/9/24266419/internet-archive-ddos-attack-pop-up-message) | [2024-10-09](https://news.ycombinator.com/item?id=41792500) |
+| 921 | [Nobel Prize in Physics awarded to John Hopfield and Geoffrey Hinton [pdf]](https://www.nobelprize.org/uploads/2024/09/advanced-physicsprize2024.pdf) | [2024-10-08](https://news.ycombinator.com/item?id=41775463) |
+| 761 | [Google must open Android for third-party stores, rules Epic judge](https://www.theverge.com/policy/2024/10/7/24243316/epic-google-permanent-injunction-ruling-third-party-stores) | [2024-10-07](https://news.ycombinator.com/item?id=41769657) |
+| 599 | [Sq.io: jq for databases and more](https://sq.io) | [2024-10-06](https://news.ycombinator.com/item?id=41760697) |
 | 693 | [It's Time to Stop Taking Sam Altman at His Word](https://www.theatlantic.com/technology/archive/2024/10/sam-altman-mythmaking/680152/) | [2024-10-05](https://news.ycombinator.com/item?id=41749371) |
 | 1094 | [Meta Movie Gen](https://ai.meta.com/research/movie-gen/?_fb_noscript=1) | [2024-10-04](https://news.ycombinator.com/item?id=41740965) |
 | 1503 | [Patent troll Sable pays up, dedicates all its patents to the public](https://blog.cloudflare.com/patent-troll-sable-pays-up/) | [2024-10-03](https://news.ycombinator.com/item?id=41730415) |
@@ -381,7 +382,6 @@
 | 953 | [Scrollbars are becoming a problem](https://artemis.sh/2023/10/12/scrollbars.html) | [2023-10-13](https://news.ycombinator.com/item?id=37864867) |
 | 1122 | [First word discovered in unopened Herculaneum scroll by CS student](https://scrollprize.org/firstletters) | [2023-10-12](https://news.ycombinator.com/item?id=37857417) |
 | 1163 | [Log is the "Pro" in iPhone 15 Pro](https://prolost.com/blog/applelog) | [2023-10-11](https://news.ycombinator.com/item?id=37840503) |
-| 966 | [Firefox tooltip bug fixed after 22 years](https://bugzilla.mozilla.org/show_bug.cgi?id=148624) | [2023-10-10](https://news.ycombinator.com/item?id=37827995) |
 <!-- POSTS PREVIEW END -->
 
 **To see the full list, visit >>> [hnhd.io](https://hnhd.io/) <<<**

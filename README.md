@@ -15,11 +15,12 @@
 <!-- POSTS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 75 | [FLUX is fast and it's open source](https://replicate.com/blog/flux-is-fast-and-open-source) | [2024-10-13](https://news.ycombinator.com/item?id=41824390) |
-| 1082 | [1 bug, $50k in bounties, a Zendesk backdoor](https://gist.github.com/hackermondev/68ec8ed145fcee49d2f5e2b9d2cf2e52) | [2024-10-12](https://news.ycombinator.com/item?id=41818459) |
-| 566 | [Working from home is powering productivity](https://www.imf.org/en/Publications/fandd/issues/2024/09/working-from-home-is-powering-productivity-bloom) | [2024-10-11](https://news.ycombinator.com/item?id=41813304) |
-| 1134 | [Helping wikis move away from Fandom](https://weirdgloop.org/blog/why-were-helping-more-wikis-move-away-from-fandom) | [2024-10-10](https://news.ycombinator.com/item?id=41797719) |
-| 1076 | [Internet Archive: Security breach alert](https://www.theverge.com/2024/10/9/24266419/internet-archive-ddos-attack-pop-up-message) | [2024-10-09](https://news.ycombinator.com/item?id=41792500) |
+| 79 | [The TikTok documents: Stripping teens and boosting 'attractive' people](https://www.npr.org/2024/10/12/g-s1-28040/teens-tiktok-addiction-lawsuit-investigation-documents) | [2024-10-14](https://news.ycombinator.com/item?id=41832903) |
+| 1716 | [Starship Flight 5: Launch and booster catch [video]](https://twitter.com/SpaceX/status/1845152255944819015) | [2024-10-13](https://news.ycombinator.com/item?id=41827362) |
+| 1479 | [1 bug, $50k in bounties, a Zendesk backdoor](https://gist.github.com/hackermondev/68ec8ed145fcee49d2f5e2b9d2cf2e52) | [2024-10-12](https://news.ycombinator.com/item?id=41818459) |
+| 594 | [Working from home is powering productivity](https://www.imf.org/en/Publications/fandd/issues/2024/09/working-from-home-is-powering-productivity-bloom) | [2024-10-11](https://news.ycombinator.com/item?id=41813304) |
+| 1156 | [Helping wikis move away from Fandom](https://weirdgloop.org/blog/why-were-helping-more-wikis-move-away-from-fandom) | [2024-10-10](https://news.ycombinator.com/item?id=41797719) |
+| 1082 | [Internet Archive: Security breach alert](https://www.theverge.com/2024/10/9/24266419/internet-archive-ddos-attack-pop-up-message) | [2024-10-09](https://news.ycombinator.com/item?id=41792500) |
 | 937 | [Nobel Prize in Physics awarded to John Hopfield and Geoffrey Hinton [pdf]](https://www.nobelprize.org/uploads/2024/09/advanced-physicsprize2024.pdf) | [2024-10-08](https://news.ycombinator.com/item?id=41775463) |
 | 776 | [Google must open Android for third-party stores, rules Epic judge](https://www.theverge.com/policy/2024/10/7/24243316/epic-google-permanent-injunction-ruling-third-party-stores) | [2024-10-07](https://news.ycombinator.com/item?id=41769657) |
 | 601 | [Sq.io: jq for databases and more](https://sq.io) | [2024-10-06](https://news.ycombinator.com/item?id=41760697) |
@@ -381,7 +382,6 @@
 | 906 | [Free IRS-run tax filing pilot to be available in 13 states](https://www.irs.gov/newsroom/irs-advances-innovative-direct-file-project-for-2024-tax-season-free-irs-run-pilot-option-projected-to-be-available-for-eligible-taxpayers-in-13-states) | [2023-10-17](https://news.ycombinator.com/item?id=37920633) |
 | 640 | [About half of Bandcamp employees have been laid off](https://www.theverge.com/2023/10/16/23919551/bandcamp-layoffs-epic-songtradr) | [2023-10-16](https://news.ycombinator.com/item?id=37905638) |
 | 636 | [Mastercard Should Stop Selling Our Data](https://www.eff.org/deeplinks/2023/10/mastercard-should-stop-selling-our-data) | [2023-10-15](https://news.ycombinator.com/item?id=37892684) |
-| 827 | [ChatGPT’s system prompts](https://github.com/spdustin/ChatGPT-AutoExpert/blob/main/System%20Prompts.md) | [2023-10-14](https://news.ycombinator.com/item?id=37879077) |
 <!-- POSTS PREVIEW END -->
 
 **To see the full list, visit >>> [hnhd.io](https://hnhd.io/) <<<**

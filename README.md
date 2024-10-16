@@ -15,10 +15,11 @@
 <!-- POSTS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 960 | [Busy Status Bar](https://busy.bar/?hn) | [2024-10-14](https://news.ycombinator.com/item?id=41838337) |
-| 2201 | [Starship Flight 5: Launch and booster catch [video]](https://twitter.com/SpaceX/status/1845152255944819015) | [2024-10-13](https://news.ycombinator.com/item?id=41827362) |
-| 1595 | [1 bug, $50k in bounties, a Zendesk backdoor](https://gist.github.com/hackermondev/68ec8ed145fcee49d2f5e2b9d2cf2e52) | [2024-10-12](https://news.ycombinator.com/item?id=41818459) |
-| 611 | [Working from home is powering productivity](https://www.imf.org/en/Publications/fandd/issues/2024/09/working-from-home-is-powering-productivity-bloom) | [2024-10-11](https://news.ycombinator.com/item?id=41813304) |
+| 668 | [Web Browser Engineering (2021)](https://browser.engineering/index.html) | [2024-10-15](https://news.ycombinator.com/item?id=41846780) |
+| 1323 | [Busy Status Bar](https://busy.bar/?hn) | [2024-10-14](https://news.ycombinator.com/item?id=41838337) |
+| 2239 | [Starship Flight 5: Launch and booster catch [video]](https://twitter.com/SpaceX/status/1845152255944819015) | [2024-10-13](https://news.ycombinator.com/item?id=41827362) |
+| 1617 | [1 bug, $50k in bounties, a Zendesk backdoor](https://gist.github.com/hackermondev/68ec8ed145fcee49d2f5e2b9d2cf2e52) | [2024-10-12](https://news.ycombinator.com/item?id=41818459) |
+| 614 | [Working from home is powering productivity](https://www.imf.org/en/Publications/fandd/issues/2024/09/working-from-home-is-powering-productivity-bloom) | [2024-10-11](https://news.ycombinator.com/item?id=41813304) |
 | 1171 | [Helping wikis move away from Fandom](https://weirdgloop.org/blog/why-were-helping-more-wikis-move-away-from-fandom) | [2024-10-10](https://news.ycombinator.com/item?id=41797719) |
 | 1087 | [Internet Archive: Security breach alert](https://www.theverge.com/2024/10/9/24266419/internet-archive-ddos-attack-pop-up-message) | [2024-10-09](https://news.ycombinator.com/item?id=41792500) |
 | 937 | [Nobel Prize in Physics awarded to John Hopfield and Geoffrey Hinton [pdf]](https://www.nobelprize.org/uploads/2024/09/advanced-physicsprize2024.pdf) | [2024-10-08](https://news.ycombinator.com/item?id=41775463) |
@@ -381,7 +382,6 @@
 | 725 | [Commercially available chairs in Star Trek](https://www.ex-astris-scientia.org/database/chairs-trek.htm) | [2023-10-18](https://news.ycombinator.com/item?id=37926849) |
 | 906 | [Free IRS-run tax filing pilot to be available in 13 states](https://www.irs.gov/newsroom/irs-advances-innovative-direct-file-project-for-2024-tax-season-free-irs-run-pilot-option-projected-to-be-available-for-eligible-taxpayers-in-13-states) | [2023-10-17](https://news.ycombinator.com/item?id=37920633) |
 | 640 | [About half of Bandcamp employees have been laid off](https://www.theverge.com/2023/10/16/23919551/bandcamp-layoffs-epic-songtradr) | [2023-10-16](https://news.ycombinator.com/item?id=37905638) |
-| 636 | [Mastercard Should Stop Selling Our Data](https://www.eff.org/deeplinks/2023/10/mastercard-should-stop-selling-our-data) | [2023-10-15](https://news.ycombinator.com/item?id=37892684) |
 <!-- POSTS PREVIEW END -->
 
 **To see the full list, visit >>> [hnhd.io](https://hnhd.io/) <<<**

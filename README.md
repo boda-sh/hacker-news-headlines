@@ -15,10 +15,12 @@
 <!-- POSTS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 668 | [Web Browser Engineering (2021)](https://browser.engineering/index.html) | [2024-10-15](https://news.ycombinator.com/item?id=41846780) |
-| 1323 | [Busy Status Bar](https://busy.bar/?hn) | [2024-10-14](https://news.ycombinator.com/item?id=41838337) |
-| 2239 | [Starship Flight 5: Launch and booster catch [video]](https://twitter.com/SpaceX/status/1845152255944819015) | [2024-10-13](https://news.ycombinator.com/item?id=41827362) |
-| 1617 | [1 bug, $50k in bounties, a Zendesk backdoor](https://gist.github.com/hackermondev/68ec8ed145fcee49d2f5e2b9d2cf2e52) | [2024-10-12](https://news.ycombinator.com/item?id=41818459) |
+| 87 | [WordPress retaliation impacts community](https://lwn.net/SubscriberLink/993895/c0438e0ee9382c5f/) | [2024-10-17](https://news.ycombinator.com/item?id=41866328) |
+| 1350 | [FTC announces "click-to-cancel" rule making it easier to cancel subscriptions](https://www.ftc.gov/news-events/news/press-releases/2024/10/federal-trade-commission-announces-final-click-cancel-rule-making-it-easier-consumers-end-recurring) | [2024-10-16](https://news.ycombinator.com/item?id=41858665) |
+| 786 | [Show HN: I built the most over-engineered Deal With It emoji generator](https://emoji.build/deal-with-it-generator/) | [2024-10-15](https://news.ycombinator.com/item?id=41848150) |
+| 1338 | [Busy Status Bar](https://busy.bar/?hn) | [2024-10-14](https://news.ycombinator.com/item?id=41838337) |
+| 2248 | [Starship Flight 5: Launch and booster catch [video]](https://twitter.com/SpaceX/status/1845152255944819015) | [2024-10-13](https://news.ycombinator.com/item?id=41827362) |
+| 1624 | [1 bug, $50k in bounties, a Zendesk backdoor](https://gist.github.com/hackermondev/68ec8ed145fcee49d2f5e2b9d2cf2e52) | [2024-10-12](https://news.ycombinator.com/item?id=41818459) |
 | 614 | [Working from home is powering productivity](https://www.imf.org/en/Publications/fandd/issues/2024/09/working-from-home-is-powering-productivity-bloom) | [2024-10-11](https://news.ycombinator.com/item?id=41813304) |
 | 1171 | [Helping wikis move away from Fandom](https://weirdgloop.org/blog/why-were-helping-more-wikis-move-away-from-fandom) | [2024-10-10](https://news.ycombinator.com/item?id=41797719) |
 | 1087 | [Internet Archive: Security breach alert](https://www.theverge.com/2024/10/9/24266419/internet-archive-ddos-attack-pop-up-message) | [2024-10-09](https://news.ycombinator.com/item?id=41792500) |
@@ -380,8 +382,6 @@
 | 731 | [Encrypted traffic interception on Hetzner and Linode targeting Jabber service](https://notes.valdikss.org.ru/jabber.ru-mitm/) | [2023-10-20](https://news.ycombinator.com/item?id=37955264) |
 | 716 | [Meta is banning people from advertising after running ads for Python and Pandas](https://lerner.co.il/2023/10/19/im-banned-for-life-from-advertising-on-meta-because-i-teach-python/) | [2023-10-19](https://news.ycombinator.com/item?id=37939269) |
 | 725 | [Commercially available chairs in Star Trek](https://www.ex-astris-scientia.org/database/chairs-trek.htm) | [2023-10-18](https://news.ycombinator.com/item?id=37926849) |
-| 906 | [Free IRS-run tax filing pilot to be available in 13 states](https://www.irs.gov/newsroom/irs-advances-innovative-direct-file-project-for-2024-tax-season-free-irs-run-pilot-option-projected-to-be-available-for-eligible-taxpayers-in-13-states) | [2023-10-17](https://news.ycombinator.com/item?id=37920633) |
-| 640 | [About half of Bandcamp employees have been laid off](https://www.theverge.com/2023/10/16/23919551/bandcamp-layoffs-epic-songtradr) | [2023-10-16](https://news.ycombinator.com/item?id=37905638) |
 <!-- POSTS PREVIEW END -->
 
 **To see the full list, visit >>> [hnhd.io](https://hnhd.io/) <<<**

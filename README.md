@@ -15,11 +15,12 @@
 <!-- POSTS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 87 | [Kennedy, Merkley introduce bill to end TSA facial recognition (2023)](https://www.kennedy.senate.gov/public/2023/11/kennedy-merkley-introduce-bill-to-end-involuntary-facial-recognition-screenings-protect-americans-privacy) | [2024-10-18](https://news.ycombinator.com/item?id=41876071) |
-| 717 | [Adobe's new image rotation tool is one of the most impressive AI tools seen](https://www.creativebloq.com/design/adobes-new-image-rotation-tool-is-one-of-the-most-impressive-ai-concepts-weve-seen) | [2024-10-17](https://news.ycombinator.com/item?id=41870040) |
-| 1656 | [FTC announces "click-to-cancel" rule making it easier to cancel subscriptions](https://www.ftc.gov/news-events/news/press-releases/2024/10/federal-trade-commission-announces-final-click-cancel-rule-making-it-easier-consumers-end-recurring) | [2024-10-16](https://news.ycombinator.com/item?id=41858665) |
-| 804 | [Show HN: I built the most over-engineered Deal With It emoji generator](https://emoji.build/deal-with-it-generator/) | [2024-10-15](https://news.ycombinator.com/item?id=41848150) |
-| 1342 | [Busy Status Bar](https://busy.bar/?hn) | [2024-10-14](https://news.ycombinator.com/item?id=41838337) |
+| 123 | [US probes Tesla's Full Self-Driving software in 2.4M cars after fatal crash](https://www.reuters.com/business/autos-transportation/nhtsa-opens-probe-into-24-mln-tesla-vehicles-over-full-self-driving-collisions-2024-10-18/) | [2024-10-19](https://news.ycombinator.com/item?id=41884740) |
+| 627 | [Secret 3D scans in the French Supreme Court](https://cosmowenman.substack.com/p/secret-3d-scans-in-the-french-supreme) | [2024-10-18](https://news.ycombinator.com/item?id=41877513) |
+| 829 | [Adobe's new image rotation tool is one of the most impressive AI tools seen](https://www.creativebloq.com/design/adobes-new-image-rotation-tool-is-one-of-the-most-impressive-ai-concepts-weve-seen) | [2024-10-17](https://news.ycombinator.com/item?id=41870040) |
+| 1683 | [FTC announces "click-to-cancel" rule making it easier to cancel subscriptions](https://www.ftc.gov/news-events/news/press-releases/2024/10/federal-trade-commission-announces-final-click-cancel-rule-making-it-easier-consumers-end-recurring) | [2024-10-16](https://news.ycombinator.com/item?id=41858665) |
+| 810 | [Show HN: I built the most over-engineered Deal With It emoji generator](https://emoji.build/deal-with-it-generator/) | [2024-10-15](https://news.ycombinator.com/item?id=41848150) |
+| 1346 | [Busy Status Bar](https://busy.bar/?hn) | [2024-10-14](https://news.ycombinator.com/item?id=41838337) |
 | 2248 | [Starship Flight 5: Launch and booster catch [video]](https://twitter.com/SpaceX/status/1845152255944819015) | [2024-10-13](https://news.ycombinator.com/item?id=41827362) |
 | 1624 | [1 bug, $50k in bounties, a Zendesk backdoor](https://gist.github.com/hackermondev/68ec8ed145fcee49d2f5e2b9d2cf2e52) | [2024-10-12](https://news.ycombinator.com/item?id=41818459) |
 | 614 | [Working from home is powering productivity](https://www.imf.org/en/Publications/fandd/issues/2024/09/working-from-home-is-powering-productivity-bloom) | [2024-10-11](https://news.ycombinator.com/item?id=41813304) |
@@ -381,7 +382,6 @@
 | 919 | [A Dutch graphic artist reconstructed Tenochtitlan in 3D](https://tenochtitlan.thomaskole.nl/index.html) | [2023-10-22](https://news.ycombinator.com/item?id=37973229) |
 | 834 | [We have used too many levels of abstractions](https://unixsheikh.com/articles/we-have-used-too-many-levels-of-abstractions-and-now-the-future-looks-bleak.html) | [2023-10-21](https://news.ycombinator.com/item?id=37965142) |
 | 731 | [Encrypted traffic interception on Hetzner and Linode targeting Jabber service](https://notes.valdikss.org.ru/jabber.ru-mitm/) | [2023-10-20](https://news.ycombinator.com/item?id=37955264) |
-| 716 | [Meta is banning people from advertising after running ads for Python and Pandas](https://lerner.co.il/2023/10/19/im-banned-for-life-from-advertising-on-meta-because-i-teach-python/) | [2023-10-19](https://news.ycombinator.com/item?id=37939269) |
 <!-- POSTS PREVIEW END -->
 
 **To see the full list, visit >>> [hnhd.io](https://hnhd.io/) <<<**

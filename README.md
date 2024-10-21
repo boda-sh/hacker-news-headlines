@@ -15,13 +15,13 @@
 <!-- POSTS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 115 | [Regarding our Cease and Desist letter to Automattic](https://wpfusion.com/business/regarding-our-cease-and-desist-letter-to-automattic/) | [2024-10-20](https://news.ycombinator.com/item?id=41891799) |
-| 311 | [Love being interrupted when my monitor asks me to accept user agreements](https://twitter.com/snwy_me/status/1847396175961641176) | [2024-10-19](https://news.ycombinator.com/item?id=41889140) |
-| 759 | [Secret 3D scans in the French Supreme Court](https://cosmowenman.substack.com/p/secret-3d-scans-in-the-french-supreme) | [2024-10-18](https://news.ycombinator.com/item?id=41877513) |
-| 862 | [Adobe's new image rotation tool is one of the most impressive AI tools seen](https://www.creativebloq.com/design/adobes-new-image-rotation-tool-is-one-of-the-most-impressive-ai-concepts-weve-seen) | [2024-10-17](https://news.ycombinator.com/item?id=41870040) |
-| 1711 | [FTC announces "click-to-cancel" rule making it easier to cancel subscriptions](https://www.ftc.gov/news-events/news/press-releases/2024/10/federal-trade-commission-announces-final-click-cancel-rule-making-it-easier-consumers-end-recurring) | [2024-10-16](https://news.ycombinator.com/item?id=41858665) |
-| 815 | [Show HN: I built the most over-engineered Deal With It emoji generator](https://emoji.build/deal-with-it-generator/) | [2024-10-15](https://news.ycombinator.com/item?id=41848150) |
-| 1355 | [Busy Status Bar](https://busy.bar/?hn) | [2024-10-14](https://news.ycombinator.com/item?id=41838337) |
+| 371 | [Internet Archive breached again through stolen access tokens](https://www.bleepingcomputer.com/news/security/internet-archive-breached-again-through-stolen-access-tokens/) | [2024-10-20](https://news.ycombinator.com/item?id=41895764) |
+| 456 | [Accountability sinks](https://aworkinglibrary.com/writing/accountability-sinks) | [2024-10-19](https://news.ycombinator.com/item?id=41891694) |
+| 768 | [Secret 3D scans in the French Supreme Court](https://cosmowenman.substack.com/p/secret-3d-scans-in-the-french-supreme) | [2024-10-18](https://news.ycombinator.com/item?id=41877513) |
+| 882 | [Adobe's new image rotation tool is one of the most impressive AI tools seen](https://www.creativebloq.com/design/adobes-new-image-rotation-tool-is-one-of-the-most-impressive-ai-concepts-weve-seen) | [2024-10-17](https://news.ycombinator.com/item?id=41870040) |
+| 1720 | [FTC announces "click-to-cancel" rule making it easier to cancel subscriptions](https://www.ftc.gov/news-events/news/press-releases/2024/10/federal-trade-commission-announces-final-click-cancel-rule-making-it-easier-consumers-end-recurring) | [2024-10-16](https://news.ycombinator.com/item?id=41858665) |
+| 821 | [Show HN: I built the most over-engineered Deal With It emoji generator](https://emoji.build/deal-with-it-generator/) | [2024-10-15](https://news.ycombinator.com/item?id=41848150) |
+| 1358 | [Busy Status Bar](https://busy.bar/?hn) | [2024-10-14](https://news.ycombinator.com/item?id=41838337) |
 | 2248 | [Starship Flight 5: Launch and booster catch [video]](https://twitter.com/SpaceX/status/1845152255944819015) | [2024-10-13](https://news.ycombinator.com/item?id=41827362) |
 | 1624 | [1 bug, $50k in bounties, a Zendesk backdoor](https://gist.github.com/hackermondev/68ec8ed145fcee49d2f5e2b9d2cf2e52) | [2024-10-12](https://news.ycombinator.com/item?id=41818459) |
 | 614 | [Working from home is powering productivity](https://www.imf.org/en/Publications/fandd/issues/2024/09/working-from-home-is-powering-productivity-bloom) | [2024-10-11](https://news.ycombinator.com/item?id=41813304) |

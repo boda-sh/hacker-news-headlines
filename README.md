@@ -15,13 +15,14 @@
 <!-- POSTS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 371 | [Internet Archive breached again through stolen access tokens](https://www.bleepingcomputer.com/news/security/internet-archive-breached-again-through-stolen-access-tokens/) | [2024-10-20](https://news.ycombinator.com/item?id=41895764) |
-| 456 | [Accountability sinks](https://aworkinglibrary.com/writing/accountability-sinks) | [2024-10-19](https://news.ycombinator.com/item?id=41891694) |
-| 768 | [Secret 3D scans in the French Supreme Court](https://cosmowenman.substack.com/p/secret-3d-scans-in-the-french-supreme) | [2024-10-18](https://news.ycombinator.com/item?id=41877513) |
-| 882 | [Adobe's new image rotation tool is one of the most impressive AI tools seen](https://www.creativebloq.com/design/adobes-new-image-rotation-tool-is-one-of-the-most-impressive-ai-concepts-weve-seen) | [2024-10-17](https://news.ycombinator.com/item?id=41870040) |
-| 1720 | [FTC announces "click-to-cancel" rule making it easier to cancel subscriptions](https://www.ftc.gov/news-events/news/press-releases/2024/10/federal-trade-commission-announces-final-click-cancel-rule-making-it-easier-consumers-end-recurring) | [2024-10-16](https://news.ycombinator.com/item?id=41858665) |
-| 821 | [Show HN: I built the most over-engineered Deal With It emoji generator](https://emoji.build/deal-with-it-generator/) | [2024-10-15](https://news.ycombinator.com/item?id=41848150) |
-| 1358 | [Busy Status Bar](https://busy.bar/?hn) | [2024-10-14](https://news.ycombinator.com/item?id=41838337) |
+| 541 | [Egypt declared malaria-free after 100-year effort](https://www.bbc.com/news/articles/cm2yl8pjgn2o) | [2024-10-21](https://news.ycombinator.com/item?id=41903616) |
+| 596 | [Show HN: HN Update – Hourly news broadcast of top HN stories](https://hnup.date/) | [2024-10-20](https://news.ycombinator.com/item?id=41893524) |
+| 493 | [Accountability sinks](https://aworkinglibrary.com/writing/accountability-sinks) | [2024-10-19](https://news.ycombinator.com/item?id=41891694) |
+| 771 | [Secret 3D scans in the French Supreme Court](https://cosmowenman.substack.com/p/secret-3d-scans-in-the-french-supreme) | [2024-10-18](https://news.ycombinator.com/item?id=41877513) |
+| 901 | [Adobe's new image rotation tool is one of the most impressive AI tools seen](https://www.creativebloq.com/design/adobes-new-image-rotation-tool-is-one-of-the-most-impressive-ai-concepts-weve-seen) | [2024-10-17](https://news.ycombinator.com/item?id=41870040) |
+| 1737 | [FTC announces "click-to-cancel" rule making it easier to cancel subscriptions](https://www.ftc.gov/news-events/news/press-releases/2024/10/federal-trade-commission-announces-final-click-cancel-rule-making-it-easier-consumers-end-recurring) | [2024-10-16](https://news.ycombinator.com/item?id=41858665) |
+| 828 | [Show HN: I built the most over-engineered Deal With It emoji generator](https://emoji.build/deal-with-it-generator/) | [2024-10-15](https://news.ycombinator.com/item?id=41848150) |
+| 1366 | [Busy Status Bar](https://busy.bar/?hn) | [2024-10-14](https://news.ycombinator.com/item?id=41838337) |
 | 2248 | [Starship Flight 5: Launch and booster catch [video]](https://twitter.com/SpaceX/status/1845152255944819015) | [2024-10-13](https://news.ycombinator.com/item?id=41827362) |
 | 1624 | [1 bug, $50k in bounties, a Zendesk backdoor](https://gist.github.com/hackermondev/68ec8ed145fcee49d2f5e2b9d2cf2e52) | [2024-10-12](https://news.ycombinator.com/item?id=41818459) |
 | 614 | [Working from home is powering productivity](https://www.imf.org/en/Publications/fandd/issues/2024/09/working-from-home-is-powering-productivity-bloom) | [2024-10-11](https://news.ycombinator.com/item?id=41813304) |
@@ -381,7 +382,6 @@
 | 1191 | [California suspends Cruise's autonomous vehicle deployment](https://www.reuters.com/business/autos-transportation/california-suspends-gm-cruises-driverless-autonomous-vehicle-permits-2023-10-24/) | [2023-10-24](https://news.ycombinator.com/item?id=38002752) |
 | 1001 | [Protomaps – A free and open source map of the world](https://protomaps.com/) | [2023-10-23](https://news.ycombinator.com/item?id=37982621) |
 | 919 | [A Dutch graphic artist reconstructed Tenochtitlan in 3D](https://tenochtitlan.thomaskole.nl/index.html) | [2023-10-22](https://news.ycombinator.com/item?id=37973229) |
-| 834 | [We have used too many levels of abstractions](https://unixsheikh.com/articles/we-have-used-too-many-levels-of-abstractions-and-now-the-future-looks-bleak.html) | [2023-10-21](https://news.ycombinator.com/item?id=37965142) |
 <!-- POSTS PREVIEW END -->
 
 **To see the full list, visit >>> [hnhd.io](https://hnhd.io/) <<<**

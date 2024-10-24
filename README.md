@@ -15,11 +15,12 @@
 <!-- POSTS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 218 | [Arm is canceling Qualcomm's chip design license](https://www.bloomberg.com/news/articles/2024-10-23/arm-to-cancel-qualcomm-chip-design-license-in-escalation-of-feud) | [2024-10-23](https://news.ycombinator.com/item?id=41920401) |
-| 1035 | [Computer use, a new Claude 3.5 Sonnet, and Claude 3.5 Haiku](https://www.anthropic.com/news/3-5-models-and-computer-use) | [2024-10-22](https://news.ycombinator.com/item?id=41914989) |
-| 1263 | [First images from Euclid are in](https://dlmultimedia.esa.int/download/public/videos/2024/10/023/orig-2410_023_AR_EN.mp4) | [2024-10-21](https://news.ycombinator.com/item?id=41908075) |
-| 629 | [Show HN: HN Update – Hourly news broadcast of top HN stories](https://hnup.date/) | [2024-10-20](https://news.ycombinator.com/item?id=41893524) |
-| 500 | [Accountability sinks](https://aworkinglibrary.com/writing/accountability-sinks) | [2024-10-19](https://news.ycombinator.com/item?id=41891694) |
+| 119 | [TSMC cuts off client after discovering chips sent to Huawei](https://www.bloomberg.com/news/articles/2024-10-23/tsmc-cuts-off-client-after-discovering-chips-diverted-to-huawei) | [2024-10-24](https://news.ycombinator.com/item?id=41931392) |
+| 558 | [Arm is canceling Qualcomm's chip design license](https://www.bloomberg.com/news/articles/2024-10-23/arm-to-cancel-qualcomm-chip-design-license-in-escalation-of-feud) | [2024-10-23](https://news.ycombinator.com/item?id=41920401) |
+| 1403 | [Computer use, a new Claude 3.5 Sonnet, and Claude 3.5 Haiku](https://www.anthropic.com/news/3-5-models-and-computer-use) | [2024-10-22](https://news.ycombinator.com/item?id=41914989) |
+| 1381 | [First images from Euclid are in](https://dlmultimedia.esa.int/download/public/videos/2024/10/023/orig-2410_023_AR_EN.mp4) | [2024-10-21](https://news.ycombinator.com/item?id=41908075) |
+| 638 | [Show HN: HN Update – Hourly news broadcast of top HN stories](https://hnup.date/) | [2024-10-20](https://news.ycombinator.com/item?id=41893524) |
+| 508 | [Accountability sinks](https://aworkinglibrary.com/writing/accountability-sinks) | [2024-10-19](https://news.ycombinator.com/item?id=41891694) |
 | 771 | [Secret 3D scans in the French Supreme Court](https://cosmowenman.substack.com/p/secret-3d-scans-in-the-french-supreme) | [2024-10-18](https://news.ycombinator.com/item?id=41877513) |
 | 901 | [Adobe's new image rotation tool is one of the most impressive AI tools seen](https://www.creativebloq.com/design/adobes-new-image-rotation-tool-is-one-of-the-most-impressive-ai-concepts-weve-seen) | [2024-10-17](https://news.ycombinator.com/item?id=41870040) |
 | 1737 | [FTC announces "click-to-cancel" rule making it easier to cancel subscriptions](https://www.ftc.gov/news-events/news/press-releases/2024/10/federal-trade-commission-announces-final-click-cancel-rule-making-it-easier-consumers-end-recurring) | [2024-10-16](https://news.ycombinator.com/item?id=41858665) |
@@ -381,7 +382,6 @@
 | 590 | [Lessons Learned from Twenty Years of Site Reliability Engineering](https://sre.google/resources/practices-and-processes/twenty-years-of-sre-lessons-learned/) | [2023-10-27](https://news.ycombinator.com/item?id=38037141) |
 | 1880 | [The Cloud Computer](https://oxide.computer/blog/the-cloud-computer) | [2023-10-26](https://news.ycombinator.com/item?id=38023891) |
 | 811 | [Show HN: OpenAPI DevTools – Chrome extension that generates an API spec](https://github.com/AndrewWalsh/openapi-devtools) | [2023-10-25](https://news.ycombinator.com/item?id=38012032) |
-| 1191 | [California suspends Cruise's autonomous vehicle deployment](https://www.reuters.com/business/autos-transportation/california-suspends-gm-cruises-driverless-autonomous-vehicle-permits-2023-10-24/) | [2023-10-24](https://news.ycombinator.com/item?id=38002752) |
 <!-- POSTS PREVIEW END -->
 
 **To see the full list, visit >>> [hnhd.io](https://hnhd.io/) <<<**

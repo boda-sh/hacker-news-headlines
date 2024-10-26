@@ -15,10 +15,11 @@
 <!-- POSTS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 77 | [U.S. Consumer Watchdog Cautions Businesses on Surveillance of Workers](https://www.wsj.com/articles/u-s-consumer-watchdog-cautions-businesses-on-surveillance-of-workers-8262bee3) | [2024-10-25](https://news.ycombinator.com/item?id=41941052) |
-| 687 | [Rider is now free for non-commercial use](https://www.jetbrains.com/rider/) | [2024-10-24](https://news.ycombinator.com/item?id=41936001) |
-| 604 | [Everything I built with Claude Artifacts this week](https://simonwillison.net/2024/Oct/21/claude-artifacts/) | [2024-10-23](https://news.ycombinator.com/item?id=41929174) |
-| 1426 | [Computer use, a new Claude 3.5 Sonnet, and Claude 3.5 Haiku](https://www.anthropic.com/news/3-5-models-and-computer-use) | [2024-10-22](https://news.ycombinator.com/item?id=41914989) |
+| 91 | [Russia amplified hurricane disinformation to drive Americans apart](https://abc7chicago.com/post/russia-amplified-hurricane-disinformation-drive-americans-apart-researchers-find/15463309/) | [2024-10-26](https://news.ycombinator.com/item?id=41951773) |
+| 573 | [We can now fix McDonald's ice cream machines](https://www.ifixit.com/News/102368/victory-is-sweet-we-can-now-fix-mcdonalds-ice-cream-machines) | [2024-10-25](https://news.ycombinator.com/item?id=41949098) |
+| 924 | [Bitwarden SDK relicensed from proprietary to GPLv3](https://github.com/bitwarden/sdk-internal/commit/db648d7ea85878e9cce03283694d01d878481f6b) | [2024-10-24](https://news.ycombinator.com/item?id=41940580) |
+| 619 | [Everything I built with Claude Artifacts this week](https://simonwillison.net/2024/Oct/21/claude-artifacts/) | [2024-10-23](https://news.ycombinator.com/item?id=41929174) |
+| 1442 | [Computer use, a new Claude 3.5 Sonnet, and Claude 3.5 Haiku](https://www.anthropic.com/news/3-5-models-and-computer-use) | [2024-10-22](https://news.ycombinator.com/item?id=41914989) |
 | 1394 | [First images from Euclid are in](https://dlmultimedia.esa.int/download/public/videos/2024/10/023/orig-2410_023_AR_EN.mp4) | [2024-10-21](https://news.ycombinator.com/item?id=41908075) |
 | 638 | [Show HN: HN Update – Hourly news broadcast of top HN stories](https://hnup.date/) | [2024-10-20](https://news.ycombinator.com/item?id=41893524) |
 | 508 | [Accountability sinks](https://aworkinglibrary.com/writing/accountability-sinks) | [2024-10-19](https://news.ycombinator.com/item?id=41891694) |
@@ -381,7 +382,6 @@
 | 781 | [YouTube's Anti-Adblock and uBlock Origin](https://andadinosaur.com/youtube-s-anti-adblock-and-ublock-origin) | [2023-10-29](https://news.ycombinator.com/item?id=38061187) |
 | 545 | [Show HN: OpenSign – Open source alternative to DocuSign](https://github.com/OpenSignLabs/OpenSign) | [2023-10-28](https://news.ycombinator.com/item?id=38052344) |
 | 590 | [Lessons Learned from Twenty Years of Site Reliability Engineering](https://sre.google/resources/practices-and-processes/twenty-years-of-sre-lessons-learned/) | [2023-10-27](https://news.ycombinator.com/item?id=38037141) |
-| 1880 | [The Cloud Computer](https://oxide.computer/blog/the-cloud-computer) | [2023-10-26](https://news.ycombinator.com/item?id=38023891) |
 <!-- POSTS PREVIEW END -->
 
 **To see the full list, visit >>> [hnhd.io](https://hnhd.io/) <<<**

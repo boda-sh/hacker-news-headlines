@@ -15,10 +15,11 @@
 <!-- POSTS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 91 | [Russia amplified hurricane disinformation to drive Americans apart](https://abc7chicago.com/post/russia-amplified-hurricane-disinformation-drive-americans-apart-researchers-find/15463309/) | [2024-10-26](https://news.ycombinator.com/item?id=41951773) |
-| 573 | [We can now fix McDonald's ice cream machines](https://www.ifixit.com/News/102368/victory-is-sweet-we-can-now-fix-mcdonalds-ice-cream-machines) | [2024-10-25](https://news.ycombinator.com/item?id=41949098) |
-| 924 | [Bitwarden SDK relicensed from proprietary to GPLv3](https://github.com/bitwarden/sdk-internal/commit/db648d7ea85878e9cce03283694d01d878481f6b) | [2024-10-24](https://news.ycombinator.com/item?id=41940580) |
-| 619 | [Everything I built with Claude Artifacts this week](https://simonwillison.net/2024/Oct/21/claude-artifacts/) | [2024-10-23](https://news.ycombinator.com/item?id=41929174) |
+| 83 | [I discovered mysterious hidden signals on a public radio channel (2013) [video]](https://media.ccc.de/v/30C3_-_5588_-_en_-_saal_g_-_201312281600_-_my_journey_into_fm-rds_-_oona_raisanen) | [2024-10-27](https://news.ycombinator.com/item?id=41958766) |
+| 274 | [New Windows driver signature bypass allows kernel rootkit installs](https://www.bleepingcomputer.com/news/security/new-windows-driver-signature-bypass-allows-kernel-rootkit-installs/) | [2024-10-26](https://news.ycombinator.com/item?id=41954825) |
+| 1064 | [We can now fix McDonald's ice cream machines](https://www.ifixit.com/News/102368/victory-is-sweet-we-can-now-fix-mcdonalds-ice-cream-machines) | [2024-10-25](https://news.ycombinator.com/item?id=41949098) |
+| 962 | [Bitwarden SDK relicensed from proprietary to GPLv3](https://github.com/bitwarden/sdk-internal/commit/db648d7ea85878e9cce03283694d01d878481f6b) | [2024-10-24](https://news.ycombinator.com/item?id=41940580) |
+| 624 | [Everything I built with Claude Artifacts this week](https://simonwillison.net/2024/Oct/21/claude-artifacts/) | [2024-10-23](https://news.ycombinator.com/item?id=41929174) |
 | 1442 | [Computer use, a new Claude 3.5 Sonnet, and Claude 3.5 Haiku](https://www.anthropic.com/news/3-5-models-and-computer-use) | [2024-10-22](https://news.ycombinator.com/item?id=41914989) |
 | 1394 | [First images from Euclid are in](https://dlmultimedia.esa.int/download/public/videos/2024/10/023/orig-2410_023_AR_EN.mp4) | [2024-10-21](https://news.ycombinator.com/item?id=41908075) |
 | 638 | [Show HN: HN Update – Hourly news broadcast of top HN stories](https://hnup.date/) | [2024-10-20](https://news.ycombinator.com/item?id=41893524) |
@@ -381,7 +382,6 @@
 | 1076 | [I accidentally saved my company half a million dollars](https://ludic.mataroa.blog/blog/i-accidentally-saved-half-a-million-dollars/) | [2023-10-30](https://news.ycombinator.com/item?id=38069710) |
 | 781 | [YouTube's Anti-Adblock and uBlock Origin](https://andadinosaur.com/youtube-s-anti-adblock-and-ublock-origin) | [2023-10-29](https://news.ycombinator.com/item?id=38061187) |
 | 545 | [Show HN: OpenSign – Open source alternative to DocuSign](https://github.com/OpenSignLabs/OpenSign) | [2023-10-28](https://news.ycombinator.com/item?id=38052344) |
-| 590 | [Lessons Learned from Twenty Years of Site Reliability Engineering](https://sre.google/resources/practices-and-processes/twenty-years-of-sre-lessons-learned/) | [2023-10-27](https://news.ycombinator.com/item?id=38037141) |
 <!-- POSTS PREVIEW END -->
 
 **To see the full list, visit >>> [hnhd.io](https://hnhd.io/) <<<**

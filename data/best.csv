@@ -1,10 +1,10 @@
 id,title,url,score,by,time,descendants
-41966785,ATL: A layer to run Android apps on Linux,https://gitlab.com/android_translation_layer/android_translation_layer/-/blob/master/README.md,125,AbuAssar,2024-10-28 00:25:53,13
-41961866,A Chopin waltz unearthed after nearly 200 years,https://www.nytimes.com/2024/10/27/arts/music/chopin-waltz-discovery.html,318,perihelions,2024-10-27 11:57:04,105
-41952984,How 'Factorio' seduced Silicon Valley and me,https://www.ft.com/content/b9e419c6-acf1-420b-8ae6-908feb52c94e,381,005vc16607,2024-10-26 06:33:01,405
-41949098,We can now fix McDonald's ice cream machines,https://www.ifixit.com/News/102368/victory-is-sweet-we-can-now-fix-mcdonalds-ice-cream-machines,1086,LorenDB,2024-10-25 20:02:36,292
-41940580,Bitwarden SDK relicensed from proprietary to GPLv3,https://github.com/bitwarden/sdk-internal/commit/db648d7ea85878e9cce03283694d01d878481f6b,984,ferbivore,2024-10-24 22:41:03,358
-41929174,Everything I built with Claude Artifacts this week,https://simonwillison.net/2024/Oct/21/claude-artifacts/,627,recvonline,2024-10-23 20:52:13,464
+41975047,We're forking Flutter,https://flutterfoundation.dev/blog/posts/we-are-forking-flutter-this-is-why/,543,alexzeitler,2024-10-28 19:24:19,436
+41959256,Character amnesia in China,https://globalchinapulse.net/character-amnesia-in-china/,451,nabla9,2024-10-27 01:52:05,456
+41952984,How 'Factorio' seduced Silicon Valley and me,https://www.ft.com/content/b9e419c6-acf1-420b-8ae6-908feb52c94e,412,005vc16607,2024-10-26 06:33:01,416
+41949098,We can now fix McDonald's ice cream machines,https://www.ifixit.com/News/102368/victory-is-sweet-we-can-now-fix-mcdonalds-ice-cream-machines,1097,LorenDB,2024-10-25 20:02:36,301
+41940580,Bitwarden SDK relicensed from proprietary to GPLv3,https://github.com/bitwarden/sdk-internal/commit/db648d7ea85878e9cce03283694d01d878481f6b,996,ferbivore,2024-10-24 22:41:03,361
+41929174,Everything I built with Claude Artifacts this week,https://simonwillison.net/2024/Oct/21/claude-artifacts/,633,recvonline,2024-10-23 20:52:13,465
 41914989,"Computer use, a new Claude 3.5 Sonnet, and Claude 3.5 Haiku",https://www.anthropic.com/news/3-5-models-and-computer-use,1442,weirdcat,2024-10-22 15:02:46,723
 41908075,First images from Euclid are in,https://dlmultimedia.esa.int/download/public/videos/2024/10/023/orig-2410_023_AR_EN.mp4,1394,mooreds,2024-10-21 20:15:36,390
 41893524,Show HN: HN Update – Hourly news broadcast of top HN stories,https://hnup.date/,638,yunusabd,2024-10-20 07:10:31,178

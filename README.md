@@ -15,12 +15,12 @@
 <!-- POSTS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 125 | [ATL: A layer to run Android apps on Linux](https://gitlab.com/android_translation_layer/android_translation_layer/-/blob/master/README.md) | [2024-10-28](https://news.ycombinator.com/item?id=41966785) |
-| 318 | [A Chopin waltz unearthed after nearly 200 years](https://www.nytimes.com/2024/10/27/arts/music/chopin-waltz-discovery.html) | [2024-10-27](https://news.ycombinator.com/item?id=41961866) |
-| 381 | [How 'Factorio' seduced Silicon Valley and me](https://www.ft.com/content/b9e419c6-acf1-420b-8ae6-908feb52c94e) | [2024-10-26](https://news.ycombinator.com/item?id=41952984) |
-| 1086 | [We can now fix McDonald's ice cream machines](https://www.ifixit.com/News/102368/victory-is-sweet-we-can-now-fix-mcdonalds-ice-cream-machines) | [2024-10-25](https://news.ycombinator.com/item?id=41949098) |
-| 984 | [Bitwarden SDK relicensed from proprietary to GPLv3](https://github.com/bitwarden/sdk-internal/commit/db648d7ea85878e9cce03283694d01d878481f6b) | [2024-10-24](https://news.ycombinator.com/item?id=41940580) |
-| 627 | [Everything I built with Claude Artifacts this week](https://simonwillison.net/2024/Oct/21/claude-artifacts/) | [2024-10-23](https://news.ycombinator.com/item?id=41929174) |
+| 543 | [We're forking Flutter](https://flutterfoundation.dev/blog/posts/we-are-forking-flutter-this-is-why/) | [2024-10-28](https://news.ycombinator.com/item?id=41975047) |
+| 451 | [Character amnesia in China](https://globalchinapulse.net/character-amnesia-in-china/) | [2024-10-27](https://news.ycombinator.com/item?id=41959256) |
+| 412 | [How 'Factorio' seduced Silicon Valley and me](https://www.ft.com/content/b9e419c6-acf1-420b-8ae6-908feb52c94e) | [2024-10-26](https://news.ycombinator.com/item?id=41952984) |
+| 1097 | [We can now fix McDonald's ice cream machines](https://www.ifixit.com/News/102368/victory-is-sweet-we-can-now-fix-mcdonalds-ice-cream-machines) | [2024-10-25](https://news.ycombinator.com/item?id=41949098) |
+| 996 | [Bitwarden SDK relicensed from proprietary to GPLv3](https://github.com/bitwarden/sdk-internal/commit/db648d7ea85878e9cce03283694d01d878481f6b) | [2024-10-24](https://news.ycombinator.com/item?id=41940580) |
+| 633 | [Everything I built with Claude Artifacts this week](https://simonwillison.net/2024/Oct/21/claude-artifacts/) | [2024-10-23](https://news.ycombinator.com/item?id=41929174) |
 | 1442 | [Computer use, a new Claude 3.5 Sonnet, and Claude 3.5 Haiku](https://www.anthropic.com/news/3-5-models-and-computer-use) | [2024-10-22](https://news.ycombinator.com/item?id=41914989) |
 | 1394 | [First images from Euclid are in](https://dlmultimedia.esa.int/download/public/videos/2024/10/023/orig-2410_023_AR_EN.mp4) | [2024-10-21](https://news.ycombinator.com/item?id=41908075) |
 | 638 | [Show HN: HN Update – Hourly news broadcast of top HN stories](https://hnup.date/) | [2024-10-20](https://news.ycombinator.com/item?id=41893524) |

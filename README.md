@@ -15,11 +15,12 @@
 <!-- POSTS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 543 | [We're forking Flutter](https://flutterfoundation.dev/blog/posts/we-are-forking-flutter-this-is-why/) | [2024-10-28](https://news.ycombinator.com/item?id=41975047) |
-| 451 | [Character amnesia in China](https://globalchinapulse.net/character-amnesia-in-china/) | [2024-10-27](https://news.ycombinator.com/item?id=41959256) |
-| 412 | [How 'Factorio' seduced Silicon Valley and me](https://www.ft.com/content/b9e419c6-acf1-420b-8ae6-908feb52c94e) | [2024-10-26](https://news.ycombinator.com/item?id=41952984) |
-| 1097 | [We can now fix McDonald's ice cream machines](https://www.ifixit.com/News/102368/victory-is-sweet-we-can-now-fix-mcdonalds-ice-cream-machines) | [2024-10-25](https://news.ycombinator.com/item?id=41949098) |
-| 996 | [Bitwarden SDK relicensed from proprietary to GPLv3](https://github.com/bitwarden/sdk-internal/commit/db648d7ea85878e9cce03283694d01d878481f6b) | [2024-10-24](https://news.ycombinator.com/item?id=41940580) |
+| 689 | [GitHub cuts AI deals with Google, Anthropic](https://www.bloomberg.com/news/articles/2024-10-29/microsoft-s-github-unit-cuts-ai-deals-with-google-anthropic) | [2024-10-29](https://news.ycombinator.com/item?id=41985915) |
+| 820 | [We're forking Flutter](https://flutterfoundation.dev/blog/posts/we-are-forking-flutter-this-is-why/) | [2024-10-28](https://news.ycombinator.com/item?id=41975047) |
+| 463 | [Character amnesia in China](https://globalchinapulse.net/character-amnesia-in-china/) | [2024-10-27](https://news.ycombinator.com/item?id=41959256) |
+| 418 | [How 'Factorio' seduced Silicon Valley and me](https://www.ft.com/content/b9e419c6-acf1-420b-8ae6-908feb52c94e) | [2024-10-26](https://news.ycombinator.com/item?id=41952984) |
+| 1101 | [We can now fix McDonald's ice cream machines](https://www.ifixit.com/News/102368/victory-is-sweet-we-can-now-fix-mcdonalds-ice-cream-machines) | [2024-10-25](https://news.ycombinator.com/item?id=41949098) |
+| 1005 | [Bitwarden SDK relicensed from proprietary to GPLv3](https://github.com/bitwarden/sdk-internal/commit/db648d7ea85878e9cce03283694d01d878481f6b) | [2024-10-24](https://news.ycombinator.com/item?id=41940580) |
 | 633 | [Everything I built with Claude Artifacts this week](https://simonwillison.net/2024/Oct/21/claude-artifacts/) | [2024-10-23](https://news.ycombinator.com/item?id=41929174) |
 | 1442 | [Computer use, a new Claude 3.5 Sonnet, and Claude 3.5 Haiku](https://www.anthropic.com/news/3-5-models-and-computer-use) | [2024-10-22](https://news.ycombinator.com/item?id=41914989) |
 | 1394 | [First images from Euclid are in](https://dlmultimedia.esa.int/download/public/videos/2024/10/023/orig-2410_023_AR_EN.mp4) | [2024-10-21](https://news.ycombinator.com/item?id=41908075) |
@@ -381,7 +382,6 @@
 | 1205 | [Cosmopolitan Third Edition](https://justine.lol/cosmo3/) | [2023-11-01](https://news.ycombinator.com/item?id=38101613) |
 | 1216 | [German court prohibits LinkedIn from ignoring "Do Not Track" signals](https://stackdiary.com/german-court-bans-linkedin-from-ignoring-do-not-track-signals/) | [2023-10-31](https://news.ycombinator.com/item?id=38081633) |
 | 1076 | [I accidentally saved my company half a million dollars](https://ludic.mataroa.blog/blog/i-accidentally-saved-half-a-million-dollars/) | [2023-10-30](https://news.ycombinator.com/item?id=38069710) |
-| 781 | [YouTube's Anti-Adblock and uBlock Origin](https://andadinosaur.com/youtube-s-anti-adblock-and-ublock-origin) | [2023-10-29](https://news.ycombinator.com/item?id=38061187) |
 <!-- POSTS PREVIEW END -->
 
 **To see the full list, visit >>> [hnhd.io](https://hnhd.io/) <<<**

@@ -15,11 +15,11 @@
 <!-- POSTS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 124 | [I attended Google's creator conversation event, and it turned into a funeral](https://www.giantfreakinrobot.com/tech/google-creators-event.html) | [2024-10-31](https://news.ycombinator.com/item?id=42002262) |
-| 968 | [Australia/Lord_Howe is the weirdest timezone](https://ssoready.com/blog/engineering/truths-programmers-timezones/) | [2024-10-30](https://news.ycombinator.com/item?id=41992314) |
-| 865 | [GitHub cuts AI deals with Google, Anthropic](https://www.bloomberg.com/news/articles/2024-10-29/microsoft-s-github-unit-cuts-ai-deals-with-google-anthropic) | [2024-10-29](https://news.ycombinator.com/item?id=41985915) |
-| 838 | [We're forking Flutter](https://flutterfoundation.dev/blog/posts/we-are-forking-flutter-this-is-why/) | [2024-10-28](https://news.ycombinator.com/item?id=41975047) |
-| 468 | [Character amnesia in China](https://globalchinapulse.net/character-amnesia-in-china/) | [2024-10-27](https://news.ycombinator.com/item?id=41959256) |
+| 964 | [ChatGPT Search](https://openai.com/index/introducing-chatgpt-search/) | [2024-10-31](https://news.ycombinator.com/item?id=42008569) |
+| 1080 | [Australia/Lord_Howe is the weirdest timezone](https://ssoready.com/blog/engineering/truths-programmers-timezones/) | [2024-10-30](https://news.ycombinator.com/item?id=41992314) |
+| 874 | [GitHub cuts AI deals with Google, Anthropic](https://www.bloomberg.com/news/articles/2024-10-29/microsoft-s-github-unit-cuts-ai-deals-with-google-anthropic) | [2024-10-29](https://news.ycombinator.com/item?id=41985915) |
+| 842 | [We're forking Flutter](https://flutterfoundation.dev/blog/posts/we-are-forking-flutter-this-is-why/) | [2024-10-28](https://news.ycombinator.com/item?id=41975047) |
+| 472 | [Character amnesia in China](https://globalchinapulse.net/character-amnesia-in-china/) | [2024-10-27](https://news.ycombinator.com/item?id=41959256) |
 | 420 | [How 'Factorio' seduced Silicon Valley and me](https://www.ft.com/content/b9e419c6-acf1-420b-8ae6-908feb52c94e) | [2024-10-26](https://news.ycombinator.com/item?id=41952984) |
 | 1106 | [We can now fix McDonald's ice cream machines](https://www.ifixit.com/News/102368/victory-is-sweet-we-can-now-fix-mcdonalds-ice-cream-machines) | [2024-10-25](https://news.ycombinator.com/item?id=41949098) |
 | 1011 | [Bitwarden SDK relicensed from proprietary to GPLv3](https://github.com/bitwarden/sdk-internal/commit/db648d7ea85878e9cce03283694d01d878481f6b) | [2024-10-24](https://news.ycombinator.com/item?id=41940580) |

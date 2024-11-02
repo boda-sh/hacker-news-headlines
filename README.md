@@ -15,11 +15,12 @@
 <!-- POSTS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 964 | [ChatGPT Search](https://openai.com/index/introducing-chatgpt-search/) | [2024-10-31](https://news.ycombinator.com/item?id=42008569) |
-| 1080 | [Australia/Lord_Howe is the weirdest timezone](https://ssoready.com/blog/engineering/truths-programmers-timezones/) | [2024-10-30](https://news.ycombinator.com/item?id=41992314) |
-| 874 | [GitHub cuts AI deals with Google, Anthropic](https://www.bloomberg.com/news/articles/2024-10-29/microsoft-s-github-unit-cuts-ai-deals-with-google-anthropic) | [2024-10-29](https://news.ycombinator.com/item?id=41985915) |
-| 842 | [We're forking Flutter](https://flutterfoundation.dev/blog/posts/we-are-forking-flutter-this-is-why/) | [2024-10-28](https://news.ycombinator.com/item?id=41975047) |
-| 472 | [Character amnesia in China](https://globalchinapulse.net/character-amnesia-in-china/) | [2024-10-27](https://news.ycombinator.com/item?id=41959256) |
+| 888 | [Apple acquires Pixelmator](https://www.pixelmator.com/blog/2024/11/01/a-new-home-for-pixelmator/) | [2024-11-01](https://news.ycombinator.com/item?id=42018013) |
+| 1435 | [ChatGPT Search](https://openai.com/index/introducing-chatgpt-search/) | [2024-10-31](https://news.ycombinator.com/item?id=42008569) |
+| 1107 | [Australia/Lord_Howe is the weirdest timezone](https://ssoready.com/blog/engineering/truths-programmers-timezones/) | [2024-10-30](https://news.ycombinator.com/item?id=41992314) |
+| 879 | [GitHub cuts AI deals with Google, Anthropic](https://www.bloomberg.com/news/articles/2024-10-29/microsoft-s-github-unit-cuts-ai-deals-with-google-anthropic) | [2024-10-29](https://news.ycombinator.com/item?id=41985915) |
+| 846 | [We're forking Flutter](https://flutterfoundation.dev/blog/posts/we-are-forking-flutter-this-is-why/) | [2024-10-28](https://news.ycombinator.com/item?id=41975047) |
+| 477 | [Character amnesia in China](https://globalchinapulse.net/character-amnesia-in-china/) | [2024-10-27](https://news.ycombinator.com/item?id=41959256) |
 | 420 | [How 'Factorio' seduced Silicon Valley and me](https://www.ft.com/content/b9e419c6-acf1-420b-8ae6-908feb52c94e) | [2024-10-26](https://news.ycombinator.com/item?id=41952984) |
 | 1106 | [We can now fix McDonald's ice cream machines](https://www.ifixit.com/News/102368/victory-is-sweet-we-can-now-fix-mcdonalds-ice-cream-machines) | [2024-10-25](https://news.ycombinator.com/item?id=41949098) |
 | 1011 | [Bitwarden SDK relicensed from proprietary to GPLv3](https://github.com/bitwarden/sdk-internal/commit/db648d7ea85878e9cce03283694d01d878481f6b) | [2024-10-24](https://news.ycombinator.com/item?id=41940580) |
@@ -381,7 +382,6 @@
 | 782 | [NewPipe – Lightweight YouTube experience for Android](https://newpipe.net/) | [2023-11-04](https://news.ycombinator.com/item?id=38144400) |
 | 1227 | [As I retire, my goal now is to release 40+ years of source code](https://dunfield.themindfactory.com/dnldsrc.htm) | [2023-11-03](https://news.ycombinator.com/item?id=38132016) |
 | 1993 | [Sam Bankman-Fried Convicted](https://www.nytimes.com/live/2023/11/02/business/sam-bankman-fried-trial) | [2023-11-02](https://news.ycombinator.com/item?id=38122061) |
-| 1205 | [Cosmopolitan Third Edition](https://justine.lol/cosmo3/) | [2023-11-01](https://news.ycombinator.com/item?id=38101613) |
 <!-- POSTS PREVIEW END -->
 
 **To see the full list, visit >>> [hnhd.io](https://hnhd.io/) <<<**

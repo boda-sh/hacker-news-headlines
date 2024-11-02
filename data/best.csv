@@ -1,9 +1,10 @@
 id,title,url,score,by,time,descendants
-42008569,ChatGPT Search,https://openai.com/index/introducing-chatgpt-search/,964,marban,2024-10-31 16:41:22,782
-41992314,Australia/Lord_Howe is the weirdest timezone,https://ssoready.com/blog/engineering/truths-programmers-timezones/,1080,noleary,2024-10-30 06:21:05,437
-41985915,"GitHub cuts AI deals with Google, Anthropic",https://www.bloomberg.com/news/articles/2024-10-29/microsoft-s-github-unit-cuts-ai-deals-with-google-anthropic,874,jbredeche,2024-10-29 16:20:17,685
-41975047,We're forking Flutter,https://flutterfoundation.dev/blog/posts/we-are-forking-flutter-this-is-why/,842,alexzeitler,2024-10-28 19:24:19,706
-41959256,Character amnesia in China,https://globalchinapulse.net/character-amnesia-in-china/,472,nabla9,2024-10-27 01:52:05,515
+42018013,Apple acquires Pixelmator,https://www.pixelmator.com/blog/2024/11/01/a-new-home-for-pixelmator/,888,dm,2024-11-01 15:36:27,454
+42008569,ChatGPT Search,https://openai.com/index/introducing-chatgpt-search/,1435,marban,2024-10-31 16:41:22,1205
+41992314,Australia/Lord_Howe is the weirdest timezone,https://ssoready.com/blog/engineering/truths-programmers-timezones/,1107,noleary,2024-10-30 06:21:05,444
+41985915,"GitHub cuts AI deals with Google, Anthropic",https://www.bloomberg.com/news/articles/2024-10-29/microsoft-s-github-unit-cuts-ai-deals-with-google-anthropic,879,jbredeche,2024-10-29 16:20:17,692
+41975047,We're forking Flutter,https://flutterfoundation.dev/blog/posts/we-are-forking-flutter-this-is-why/,846,alexzeitler,2024-10-28 19:24:19,708
+41959256,Character amnesia in China,https://globalchinapulse.net/character-amnesia-in-china/,477,nabla9,2024-10-27 01:52:05,523
 41952984,How 'Factorio' seduced Silicon Valley and me,https://www.ft.com/content/b9e419c6-acf1-420b-8ae6-908feb52c94e,420,005vc16607,2024-10-26 06:33:01,426
 41949098,We can now fix McDonald's ice cream machines,https://www.ifixit.com/News/102368/victory-is-sweet-we-can-now-fix-mcdonalds-ice-cream-machines,1106,LorenDB,2024-10-25 20:02:36,307
 41940580,Bitwarden SDK relicensed from proprietary to GPLv3,https://github.com/bitwarden/sdk-internal/commit/db648d7ea85878e9cce03283694d01d878481f6b,1011,ferbivore,2024-10-24 22:41:03,364

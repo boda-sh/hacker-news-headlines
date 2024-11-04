@@ -15,11 +15,13 @@
 <!-- POSTS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 359 | [My Time Working at Stripe](https://jondlm.github.io/website/blog/leaving_stripe/) | [2024-11-02](https://news.ycombinator.com/item?id=42023089) |
-| 1158 | [Apple acquires Pixelmator](https://www.pixelmator.com/blog/2024/11/01/a-new-home-for-pixelmator/) | [2024-11-01](https://news.ycombinator.com/item?id=42018013) |
-| 1455 | [ChatGPT Search](https://openai.com/index/introducing-chatgpt-search/) | [2024-10-31](https://news.ycombinator.com/item?id=42008569) |
-| 1122 | [Australia/Lord_Howe is the weirdest timezone](https://ssoready.com/blog/engineering/truths-programmers-timezones/) | [2024-10-30](https://news.ycombinator.com/item?id=41992314) |
-| 884 | [GitHub cuts AI deals with Google, Anthropic](https://www.bloomberg.com/news/articles/2024-10-29/microsoft-s-github-unit-cuts-ai-deals-with-google-anthropic) | [2024-10-29](https://news.ycombinator.com/item?id=41985915) |
+| 168 | [Scientists glue two proteins together, driving cancer cells to self-destruct](https://med.stanford.edu/news/all-news/2024/10/protein-cancer.html) | [2024-11-04](https://news.ycombinator.com/item?id=42037386) |
+| 833 | [Touchscreens are out, and tactile controls are back](https://spectrum.ieee.org/touchscreens) | [2024-11-03](https://news.ycombinator.com/item?id=42033241) |
+| 413 | [Weird Lexical Syntax](https://justine.lol/lex/) | [2024-11-02](https://news.ycombinator.com/item?id=42024727) |
+| 1167 | [Apple acquires Pixelmator](https://www.pixelmator.com/blog/2024/11/01/a-new-home-for-pixelmator/) | [2024-11-01](https://news.ycombinator.com/item?id=42018013) |
+| 1463 | [ChatGPT Search](https://openai.com/index/introducing-chatgpt-search/) | [2024-10-31](https://news.ycombinator.com/item?id=42008569) |
+| 1137 | [Australia/Lord_Howe is the weirdest timezone](https://ssoready.com/blog/engineering/truths-programmers-timezones/) | [2024-10-30](https://news.ycombinator.com/item?id=41992314) |
+| 892 | [GitHub cuts AI deals with Google, Anthropic](https://www.bloomberg.com/news/articles/2024-10-29/microsoft-s-github-unit-cuts-ai-deals-with-google-anthropic) | [2024-10-29](https://news.ycombinator.com/item?id=41985915) |
 | 850 | [We're forking Flutter](https://flutterfoundation.dev/blog/posts/we-are-forking-flutter-this-is-why/) | [2024-10-28](https://news.ycombinator.com/item?id=41975047) |
 | 479 | [Character amnesia in China](https://globalchinapulse.net/character-amnesia-in-china/) | [2024-10-27](https://news.ycombinator.com/item?id=41959256) |
 | 420 | [How 'Factorio' seduced Silicon Valley and me](https://www.ft.com/content/b9e419c6-acf1-420b-8ae6-908feb52c94e) | [2024-10-26](https://news.ycombinator.com/item?id=41952984) |
@@ -380,8 +382,6 @@
 | 727 | [WeWork Goes Bankrupt](https://www.bloomberg.com/news/articles/2023-11-07/wework-goes-bankrupt-capping-co-working-company-s-downfall) | [2023-11-07](https://news.ycombinator.com/item?id=38172437) |
 | 1146 | [New models and developer products](https://openai.com/blog/new-models-and-developer-products-announced-at-devday) | [2023-11-06](https://news.ycombinator.com/item?id=38166420) |
 | 901 | [Why Cities: Skylines 2 performs poorly](https://blog.paavo.me/cities-skylines-2-performance/) | [2023-11-05](https://news.ycombinator.com/item?id=38153573) |
-| 782 | [NewPipe – Lightweight YouTube experience for Android](https://newpipe.net/) | [2023-11-04](https://news.ycombinator.com/item?id=38144400) |
-| 1227 | [As I retire, my goal now is to release 40+ years of source code](https://dunfield.themindfactory.com/dnldsrc.htm) | [2023-11-03](https://news.ycombinator.com/item?id=38132016) |
 <!-- POSTS PREVIEW END -->
 
 **To see the full list, visit >>> [hnhd.io](https://hnhd.io/) <<<**

@@ -15,13 +15,13 @@
 <!-- POSTS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 157 | [Nvidia and its partners built a system to bypass U.S. export restrictions](https://twitter.com/kakashiii111/status/1853433531260649532) | [2024-11-05](https://news.ycombinator.com/item?id=42048065) |
-| 638 | [New York Times Tech Guild goes on strike](https://www.washingtonpost.com/style/media/2024/11/04/new-york-times-tech-strike-walkout/) | [2024-11-04](https://news.ycombinator.com/item?id=42040795) |
-| 1221 | [Touchscreens are out, and tactile controls are back](https://spectrum.ieee.org/touchscreens) | [2024-11-03](https://news.ycombinator.com/item?id=42033241) |
-| 426 | [Weird Lexical Syntax](https://justine.lol/lex/) | [2024-11-02](https://news.ycombinator.com/item?id=42024727) |
-| 1174 | [Apple acquires Pixelmator](https://www.pixelmator.com/blog/2024/11/01/a-new-home-for-pixelmator/) | [2024-11-01](https://news.ycombinator.com/item?id=42018013) |
-| 1471 | [ChatGPT Search](https://openai.com/index/introducing-chatgpt-search/) | [2024-10-31](https://news.ycombinator.com/item?id=42008569) |
-| 1139 | [Australia/Lord_Howe is the weirdest timezone](https://ssoready.com/blog/engineering/truths-programmers-timezones/) | [2024-10-30](https://news.ycombinator.com/item?id=41992314) |
+| 680 | [Hacking 700M Electronic Arts accounts](https://battleda.sh/blog/ea-account-takeover) | [2024-11-05](https://news.ycombinator.com/item?id=42052143) |
+| 704 | [New York Times Tech Guild goes on strike](https://www.washingtonpost.com/style/media/2024/11/04/new-york-times-tech-strike-walkout/) | [2024-11-04](https://news.ycombinator.com/item?id=42040795) |
+| 1268 | [Touchscreens are out, and tactile controls are back](https://spectrum.ieee.org/touchscreens) | [2024-11-03](https://news.ycombinator.com/item?id=42033241) |
+| 429 | [Weird Lexical Syntax](https://justine.lol/lex/) | [2024-11-02](https://news.ycombinator.com/item?id=42024727) |
+| 1177 | [Apple acquires Pixelmator](https://www.pixelmator.com/blog/2024/11/01/a-new-home-for-pixelmator/) | [2024-11-01](https://news.ycombinator.com/item?id=42018013) |
+| 1473 | [ChatGPT Search](https://openai.com/index/introducing-chatgpt-search/) | [2024-10-31](https://news.ycombinator.com/item?id=42008569) |
+| 1141 | [Australia/Lord_Howe is the weirdest timezone](https://ssoready.com/blog/engineering/truths-programmers-timezones/) | [2024-10-30](https://news.ycombinator.com/item?id=41992314) |
 | 893 | [GitHub cuts AI deals with Google, Anthropic](https://www.bloomberg.com/news/articles/2024-10-29/microsoft-s-github-unit-cuts-ai-deals-with-google-anthropic) | [2024-10-29](https://news.ycombinator.com/item?id=41985915) |
 | 850 | [We're forking Flutter](https://flutterfoundation.dev/blog/posts/we-are-forking-flutter-this-is-why/) | [2024-10-28](https://news.ycombinator.com/item?id=41975047) |
 | 479 | [Character amnesia in China](https://globalchinapulse.net/character-amnesia-in-china/) | [2024-10-27](https://news.ycombinator.com/item?id=41959256) |

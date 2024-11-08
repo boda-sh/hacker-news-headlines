@@ -15,13 +15,15 @@
 <!-- POSTS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 1661 | [Trump wins presidency for second time](https://thehill.com/homenews/campaign/4969061-trump-wins-presidential-election/) | [2024-11-06](https://news.ycombinator.com/item?id=42057647) |
-| 858 | [Hacking 700M Electronic Arts accounts](https://battleda.sh/blog/ea-account-takeover) | [2024-11-05](https://news.ycombinator.com/item?id=42052143) |
-| 708 | [New York Times Tech Guild goes on strike](https://www.washingtonpost.com/style/media/2024/11/04/new-york-times-tech-strike-walkout/) | [2024-11-04](https://news.ycombinator.com/item?id=42040795) |
-| 1280 | [Touchscreens are out, and tactile controls are back](https://spectrum.ieee.org/touchscreens) | [2024-11-03](https://news.ycombinator.com/item?id=42033241) |
-| 430 | [Weird Lexical Syntax](https://justine.lol/lex/) | [2024-11-02](https://news.ycombinator.com/item?id=42024727) |
-| 1180 | [Apple acquires Pixelmator](https://www.pixelmator.com/blog/2024/11/01/a-new-home-for-pixelmator/) | [2024-11-01](https://news.ycombinator.com/item?id=42018013) |
-| 1476 | [ChatGPT Search](https://openai.com/index/introducing-chatgpt-search/) | [2024-10-31](https://news.ycombinator.com/item?id=42008569) |
+| 132 | [After decades, FDA moves to pull ineffective decongestant off shelves](https://arstechnica.com/health/2024/11/fda-proposes-ditching-common-decongestant-for-being-completely-useless/) | [2024-11-08](https://news.ycombinator.com/item?id=42083559) |
+| 485 | [QNX is now free for anything non-commercial, plus there's an RPi image](https://blackberry.qnx.com/en/products/qnx-everywhere) | [2024-11-07](https://news.ycombinator.com/item?id=42079460) |
+| 1734 | [Trump wins presidency for second time](https://thehill.com/homenews/campaign/4969061-trump-wins-presidential-election/) | [2024-11-06](https://news.ycombinator.com/item?id=42057647) |
+| 868 | [Hacking 700M Electronic Arts accounts](https://battleda.sh/blog/ea-account-takeover) | [2024-11-05](https://news.ycombinator.com/item?id=42052143) |
+| 710 | [New York Times Tech Guild goes on strike](https://www.washingtonpost.com/style/media/2024/11/04/new-york-times-tech-strike-walkout/) | [2024-11-04](https://news.ycombinator.com/item?id=42040795) |
+| 1286 | [Touchscreens are out, and tactile controls are back](https://spectrum.ieee.org/touchscreens) | [2024-11-03](https://news.ycombinator.com/item?id=42033241) |
+| 431 | [Weird Lexical Syntax](https://justine.lol/lex/) | [2024-11-02](https://news.ycombinator.com/item?id=42024727) |
+| 1181 | [Apple acquires Pixelmator](https://www.pixelmator.com/blog/2024/11/01/a-new-home-for-pixelmator/) | [2024-11-01](https://news.ycombinator.com/item?id=42018013) |
+| 1480 | [ChatGPT Search](https://openai.com/index/introducing-chatgpt-search/) | [2024-10-31](https://news.ycombinator.com/item?id=42008569) |
 | 1144 | [Australia/Lord_Howe is the weirdest timezone](https://ssoready.com/blog/engineering/truths-programmers-timezones/) | [2024-10-30](https://news.ycombinator.com/item?id=41992314) |
 | 893 | [GitHub cuts AI deals with Google, Anthropic](https://www.bloomberg.com/news/articles/2024-10-29/microsoft-s-github-unit-cuts-ai-deals-with-google-anthropic) | [2024-10-29](https://news.ycombinator.com/item?id=41985915) |
 | 850 | [We're forking Flutter](https://flutterfoundation.dev/blog/posts/we-are-forking-flutter-this-is-why/) | [2024-10-28](https://news.ycombinator.com/item?id=41975047) |
@@ -380,8 +382,6 @@
 | 925 | [How I got here](https://pthorpe92.github.io/intro/my-story/) | [2023-11-11](https://news.ycombinator.com/item?id=38229231) |
 | 790 | [Cursorless is alien magic from the future](https://xeiaso.net/notes/cursorless-alien-magic/) | [2023-11-10](https://news.ycombinator.com/item?id=38214915) |
 | 2454 | [Omegle 2009-2023](https://www.omegle.com/) | [2023-11-09](https://news.ycombinator.com/item?id=38199355) |
-| 1181 | [Home Assistant blocked from integrating with Garage Door opener API](https://www.home-assistant.io/blog/2023/11/06/removal-of-myq-integration/) | [2023-11-08](https://news.ycombinator.com/item?id=38188162) |
-| 727 | [WeWork Goes Bankrupt](https://www.bloomberg.com/news/articles/2023-11-07/wework-goes-bankrupt-capping-co-working-company-s-downfall) | [2023-11-07](https://news.ycombinator.com/item?id=38172437) |
 <!-- POSTS PREVIEW END -->
 
 **To see the full list, visit >>> [hnhd.io](https://hnhd.io/) <<<**

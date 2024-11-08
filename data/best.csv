@@ -1,11 +1,13 @@
 id,title,url,score,by,time,descendants
-42057647,Trump wins presidency for second time,https://thehill.com/homenews/campaign/4969061-trump-wins-presidential-election/,1661,koolba,2024-11-06 06:49:49,7900
-42052143,Hacking 700M Electronic Arts accounts,https://battleda.sh/blog/ea-account-takeover,858,mooreds,2024-11-05 15:18:34,153
-42040795,New York Times Tech Guild goes on strike,https://www.washingtonpost.com/style/media/2024/11/04/new-york-times-tech-strike-walkout/,708,ChrisArchitect,2024-11-04 12:08:30,1238
-42033241,"Touchscreens are out, and tactile controls are back",https://spectrum.ieee.org/touchscreens,1280,pseudolus,2024-11-03 14:29:57,873
-42024727,Weird Lexical Syntax,https://justine.lol/lex/,430,jart,2024-11-02 07:45:26,226
-42018013,Apple acquires Pixelmator,https://www.pixelmator.com/blog/2024/11/01/a-new-home-for-pixelmator/,1180,dm,2024-11-01 15:36:27,565
-42008569,ChatGPT Search,https://openai.com/index/introducing-chatgpt-search/,1476,marban,2024-10-31 16:41:22,1247
+42083559,"After decades, FDA moves to pull ineffective decongestant off shelves",https://arstechnica.com/health/2024/11/fda-proposes-ditching-common-decongestant-for-being-completely-useless/,132,coloneltcb,2024-11-08 02:37:02,76
+42079460,"QNX is now free for anything non-commercial, plus there's an RPi image",https://blackberry.qnx.com/en/products/qnx-everywhere,485,JohnAtQNX,2024-11-07 18:35:22,212
+42057647,Trump wins presidency for second time,https://thehill.com/homenews/campaign/4969061-trump-wins-presidential-election/,1734,koolba,2024-11-06 06:49:49,8830
+42052143,Hacking 700M Electronic Arts accounts,https://battleda.sh/blog/ea-account-takeover,868,mooreds,2024-11-05 15:18:34,154
+42040795,New York Times Tech Guild goes on strike,https://www.washingtonpost.com/style/media/2024/11/04/new-york-times-tech-strike-walkout/,710,ChrisArchitect,2024-11-04 12:08:30,1240
+42033241,"Touchscreens are out, and tactile controls are back",https://spectrum.ieee.org/touchscreens,1286,pseudolus,2024-11-03 14:29:57,875
+42024727,Weird Lexical Syntax,https://justine.lol/lex/,431,jart,2024-11-02 07:45:26,226
+42018013,Apple acquires Pixelmator,https://www.pixelmator.com/blog/2024/11/01/a-new-home-for-pixelmator/,1181,dm,2024-11-01 15:36:27,568
+42008569,ChatGPT Search,https://openai.com/index/introducing-chatgpt-search/,1480,marban,2024-10-31 16:41:22,1248
 41992314,Australia/Lord_Howe is the weirdest timezone,https://ssoready.com/blog/engineering/truths-programmers-timezones/,1144,noleary,2024-10-30 06:21:05,454
 41985915,"GitHub cuts AI deals with Google, Anthropic",https://www.bloomberg.com/news/articles/2024-10-29/microsoft-s-github-unit-cuts-ai-deals-with-google-anthropic,893,jbredeche,2024-10-29 16:20:17,697
 41975047,We're forking Flutter,https://flutterfoundation.dev/blog/posts/we-are-forking-flutter-this-is-why/,850,alexzeitler,2024-10-28 19:24:19,709

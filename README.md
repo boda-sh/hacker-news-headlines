@@ -15,15 +15,15 @@
 <!-- POSTS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 132 | [After decades, FDA moves to pull ineffective decongestant off shelves](https://arstechnica.com/health/2024/11/fda-proposes-ditching-common-decongestant-for-being-completely-useless/) | [2024-11-08](https://news.ycombinator.com/item?id=42083559) |
-| 485 | [QNX is now free for anything non-commercial, plus there's an RPi image](https://blackberry.qnx.com/en/products/qnx-everywhere) | [2024-11-07](https://news.ycombinator.com/item?id=42079460) |
-| 1734 | [Trump wins presidency for second time](https://thehill.com/homenews/campaign/4969061-trump-wins-presidential-election/) | [2024-11-06](https://news.ycombinator.com/item?id=42057647) |
-| 868 | [Hacking 700M Electronic Arts accounts](https://battleda.sh/blog/ea-account-takeover) | [2024-11-05](https://news.ycombinator.com/item?id=42052143) |
-| 710 | [New York Times Tech Guild goes on strike](https://www.washingtonpost.com/style/media/2024/11/04/new-york-times-tech-strike-walkout/) | [2024-11-04](https://news.ycombinator.com/item?id=42040795) |
-| 1286 | [Touchscreens are out, and tactile controls are back](https://spectrum.ieee.org/touchscreens) | [2024-11-03](https://news.ycombinator.com/item?id=42033241) |
-| 431 | [Weird Lexical Syntax](https://justine.lol/lex/) | [2024-11-02](https://news.ycombinator.com/item?id=42024727) |
-| 1181 | [Apple acquires Pixelmator](https://www.pixelmator.com/blog/2024/11/01/a-new-home-for-pixelmator/) | [2024-11-01](https://news.ycombinator.com/item?id=42018013) |
-| 1480 | [ChatGPT Search](https://openai.com/index/introducing-chatgpt-search/) | [2024-10-31](https://news.ycombinator.com/item?id=42008569) |
+| 477 | [Multiple new macOS sandbox escape vulnerabilities](https://jhftss.github.io/A-New-Era-of-macOS-Sandbox-Escapes/) | [2024-11-08](https://news.ycombinator.com/item?id=42084588) |
+| 642 | [QNX is now free for anything non-commercial, plus there's an RPi image](https://blackberry.qnx.com/en/products/qnx-everywhere) | [2024-11-07](https://news.ycombinator.com/item?id=42079460) |
+| 1755 | [Trump wins presidency for second time](https://thehill.com/homenews/campaign/4969061-trump-wins-presidential-election/) | [2024-11-06](https://news.ycombinator.com/item?id=42057647) |
+| 880 | [Hacking 700M Electronic Arts accounts](https://battleda.sh/blog/ea-account-takeover) | [2024-11-05](https://news.ycombinator.com/item?id=42052143) |
+| 715 | [New York Times Tech Guild goes on strike](https://www.washingtonpost.com/style/media/2024/11/04/new-york-times-tech-strike-walkout/) | [2024-11-04](https://news.ycombinator.com/item?id=42040795) |
+| 1295 | [Touchscreens are out, and tactile controls are back](https://spectrum.ieee.org/touchscreens) | [2024-11-03](https://news.ycombinator.com/item?id=42033241) |
+| 432 | [Weird Lexical Syntax](https://justine.lol/lex/) | [2024-11-02](https://news.ycombinator.com/item?id=42024727) |
+| 1182 | [Apple acquires Pixelmator](https://www.pixelmator.com/blog/2024/11/01/a-new-home-for-pixelmator/) | [2024-11-01](https://news.ycombinator.com/item?id=42018013) |
+| 1482 | [ChatGPT Search](https://openai.com/index/introducing-chatgpt-search/) | [2024-10-31](https://news.ycombinator.com/item?id=42008569) |
 | 1144 | [Australia/Lord_Howe is the weirdest timezone](https://ssoready.com/blog/engineering/truths-programmers-timezones/) | [2024-10-30](https://news.ycombinator.com/item?id=41992314) |
 | 893 | [GitHub cuts AI deals with Google, Anthropic](https://www.bloomberg.com/news/articles/2024-10-29/microsoft-s-github-unit-cuts-ai-deals-with-google-anthropic) | [2024-10-29](https://news.ycombinator.com/item?id=41985915) |
 | 850 | [We're forking Flutter](https://flutterfoundation.dev/blog/posts/we-are-forking-flutter-this-is-why/) | [2024-10-28](https://news.ycombinator.com/item?id=41975047) |

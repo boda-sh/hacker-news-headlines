@@ -15,13 +15,15 @@
 <!-- POSTS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 531 | [Leaving and Waving](https://deannadikeman.com/leaving-and-waving) | [2024-11-12](https://news.ycombinator.com/item?id=42113113) |
-| 1221 | [How I ship projects at big tech companies](https://www.seangoedecke.com/how-to-ship/) | [2024-11-11](https://news.ycombinator.com/item?id=42111031) |
-| 2191 | [IMG_0416](https://ben-mini.github.io/2024/img-0416) | [2024-11-10](https://news.ycombinator.com/item?id=42102506) |
-| 711 | [IronCalc – Open-Source Spreadsheet Engine](https://www.ironcalc.com/) | [2024-11-09](https://news.ycombinator.com/item?id=42095292) |
-| 632 | [Mitochondria Are Alive](https://www.asimov.press/p/mitochondria) | [2024-11-08](https://news.ycombinator.com/item?id=42088758) |
-| 654 | [QNX is now free for anything non-commercial, plus there's an RPi image](https://blackberry.qnx.com/en/products/qnx-everywhere) | [2024-11-07](https://news.ycombinator.com/item?id=42079460) |
-| 1789 | [Trump wins presidency for second time](https://thehill.com/homenews/campaign/4969061-trump-wins-presidential-election/) | [2024-11-06](https://news.ycombinator.com/item?id=42057647) |
+| 211 | [PRC Targeting of Commercial Telecommunications Infrastructure](https://www.fbi.gov/news/press-releases/joint-statement-from-fbi-and-cisa-on-the-peoples-republic-of-china-targeting-of-commercial-telecommunications-infrastructure) | [2024-11-14](https://news.ycombinator.com/item?id=42132014) |
+| 931 | [No GPS required: our app can now locate underground trains](https://blog.transitapp.com/go-underground/) | [2024-11-13](https://news.ycombinator.com/item?id=42122085) |
+| 590 | [Leaving and Waving](https://deannadikeman.com/leaving-and-waving) | [2024-11-12](https://news.ycombinator.com/item?id=42113113) |
+| 1337 | [How I ship projects at big tech companies](https://www.seangoedecke.com/how-to-ship/) | [2024-11-11](https://news.ycombinator.com/item?id=42111031) |
+| 2224 | [IMG_0416](https://ben-mini.github.io/2024/img-0416) | [2024-11-10](https://news.ycombinator.com/item?id=42102506) |
+| 717 | [IronCalc – Open-Source Spreadsheet Engine](https://www.ironcalc.com/) | [2024-11-09](https://news.ycombinator.com/item?id=42095292) |
+| 635 | [Mitochondria Are Alive](https://www.asimov.press/p/mitochondria) | [2024-11-08](https://news.ycombinator.com/item?id=42088758) |
+| 655 | [QNX is now free for anything non-commercial, plus there's an RPi image](https://blackberry.qnx.com/en/products/qnx-everywhere) | [2024-11-07](https://news.ycombinator.com/item?id=42079460) |
+| 1791 | [Trump wins presidency for second time](https://thehill.com/homenews/campaign/4969061-trump-wins-presidential-election/) | [2024-11-06](https://news.ycombinator.com/item?id=42057647) |
 | 897 | [Hacking 700M Electronic Arts accounts](https://battleda.sh/blog/ea-account-takeover) | [2024-11-05](https://news.ycombinator.com/item?id=42052143) |
 | 716 | [New York Times Tech Guild goes on strike](https://www.washingtonpost.com/style/media/2024/11/04/new-york-times-tech-strike-walkout/) | [2024-11-04](https://news.ycombinator.com/item?id=42040795) |
 | 1313 | [Touchscreens are out, and tactile controls are back](https://spectrum.ieee.org/touchscreens) | [2024-11-03](https://news.ycombinator.com/item?id=42033241) |
@@ -380,8 +382,6 @@
 | 5710 | [OpenAI's board has fired Sam Altman](https://openai.com/blog/openai-announces-leadership-transition) | [2023-11-17](https://news.ycombinator.com/item?id=38309611) |
 | 1268 | [I spent 3 years working on a coat hanger [video]](https://www.youtube.com/watch?v=vREokZa4dNU) | [2023-11-16](https://news.ycombinator.com/item?id=38292915) |
 | 1603 | [Blender 16yo winner of UK young animator of the year](https://younganimator.uk/winner/1699875910225x437970782709919500) | [2023-11-15](https://news.ycombinator.com/item?id=38282166) |
-| 778 | [A coder considers the waning days of the craft](https://www.newyorker.com/magazine/2023/11/20/a-coder-considers-the-waning-days-of-the-craft) | [2023-11-14](https://news.ycombinator.com/item?id=38257094) |
-| 709 | [Nepal bans TikTok and says it disrupts social harmony](https://apnews.com/article/nepal-tiktok-ban-social-media-854846a42ef566fa296ddaacd0099447) | [2023-11-13](https://news.ycombinator.com/item?id=38256810) |
 <!-- POSTS PREVIEW END -->
 
 **To see the full list, visit >>> [hnhd.io](https://hnhd.io/) <<<**

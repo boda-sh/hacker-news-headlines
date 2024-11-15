@@ -15,15 +15,15 @@
 <!-- POSTS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 211 | [PRC Targeting of Commercial Telecommunications Infrastructure](https://www.fbi.gov/news/press-releases/joint-statement-from-fbi-and-cisa-on-the-peoples-republic-of-china-targeting-of-commercial-telecommunications-infrastructure) | [2024-11-14](https://news.ycombinator.com/item?id=42132014) |
-| 931 | [No GPS required: our app can now locate underground trains](https://blog.transitapp.com/go-underground/) | [2024-11-13](https://news.ycombinator.com/item?id=42122085) |
-| 590 | [Leaving and Waving](https://deannadikeman.com/leaving-and-waving) | [2024-11-12](https://news.ycombinator.com/item?id=42113113) |
-| 1337 | [How I ship projects at big tech companies](https://www.seangoedecke.com/how-to-ship/) | [2024-11-11](https://news.ycombinator.com/item?id=42111031) |
-| 2224 | [IMG_0416](https://ben-mini.github.io/2024/img-0416) | [2024-11-10](https://news.ycombinator.com/item?id=42102506) |
-| 717 | [IronCalc – Open-Source Spreadsheet Engine](https://www.ironcalc.com/) | [2024-11-09](https://news.ycombinator.com/item?id=42095292) |
-| 635 | [Mitochondria Are Alive](https://www.asimov.press/p/mitochondria) | [2024-11-08](https://news.ycombinator.com/item?id=42088758) |
-| 655 | [QNX is now free for anything non-commercial, plus there's an RPi image](https://blackberry.qnx.com/en/products/qnx-everywhere) | [2024-11-07](https://news.ycombinator.com/item?id=42079460) |
-| 1791 | [Trump wins presidency for second time](https://thehill.com/homenews/campaign/4969061-trump-wins-presidential-election/) | [2024-11-06](https://news.ycombinator.com/item?id=42057647) |
+| 1461 | [The Onion buys Infowars](https://www.nytimes.com/2024/11/14/business/media/alex-jones-infowars-the-onion.html) | [2024-11-14](https://news.ycombinator.com/item?id=42136259) |
+| 1005 | [No GPS required: our app can now locate underground trains](https://blog.transitapp.com/go-underground/) | [2024-11-13](https://news.ycombinator.com/item?id=42122085) |
+| 600 | [Leaving and Waving](https://deannadikeman.com/leaving-and-waving) | [2024-11-12](https://news.ycombinator.com/item?id=42113113) |
+| 1361 | [How I ship projects at big tech companies](https://www.seangoedecke.com/how-to-ship/) | [2024-11-11](https://news.ycombinator.com/item?id=42111031) |
+| 2243 | [IMG_0416](https://ben-mini.github.io/2024/img-0416) | [2024-11-10](https://news.ycombinator.com/item?id=42102506) |
+| 720 | [IronCalc – Open-Source Spreadsheet Engine](https://www.ironcalc.com/) | [2024-11-09](https://news.ycombinator.com/item?id=42095292) |
+| 636 | [Mitochondria Are Alive](https://www.asimov.press/p/mitochondria) | [2024-11-08](https://news.ycombinator.com/item?id=42088758) |
+| 657 | [QNX is now free for anything non-commercial, plus there's an RPi image](https://blackberry.qnx.com/en/products/qnx-everywhere) | [2024-11-07](https://news.ycombinator.com/item?id=42079460) |
+| 1794 | [Trump wins presidency for second time](https://thehill.com/homenews/campaign/4969061-trump-wins-presidential-election/) | [2024-11-06](https://news.ycombinator.com/item?id=42057647) |
 | 897 | [Hacking 700M Electronic Arts accounts](https://battleda.sh/blog/ea-account-takeover) | [2024-11-05](https://news.ycombinator.com/item?id=42052143) |
 | 716 | [New York Times Tech Guild goes on strike](https://www.washingtonpost.com/style/media/2024/11/04/new-york-times-tech-strike-walkout/) | [2024-11-04](https://news.ycombinator.com/item?id=42040795) |
 | 1313 | [Touchscreens are out, and tactile controls are back](https://spectrum.ieee.org/touchscreens) | [2024-11-03](https://news.ycombinator.com/item?id=42033241) |

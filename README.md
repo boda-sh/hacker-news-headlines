@@ -15,12 +15,14 @@
 <!-- POSTS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 1461 | [The Onion buys Infowars](https://www.nytimes.com/2024/11/14/business/media/alex-jones-infowars-the-onion.html) | [2024-11-14](https://news.ycombinator.com/item?id=42136259) |
-| 1005 | [No GPS required: our app can now locate underground trains](https://blog.transitapp.com/go-underground/) | [2024-11-13](https://news.ycombinator.com/item?id=42122085) |
-| 600 | [Leaving and Waving](https://deannadikeman.com/leaving-and-waving) | [2024-11-12](https://news.ycombinator.com/item?id=42113113) |
-| 1361 | [How I ship projects at big tech companies](https://www.seangoedecke.com/how-to-ship/) | [2024-11-11](https://news.ycombinator.com/item?id=42111031) |
-| 2243 | [IMG_0416](https://ben-mini.github.io/2024/img-0416) | [2024-11-10](https://news.ycombinator.com/item?id=42102506) |
-| 720 | [IronCalc – Open-Source Spreadsheet Engine](https://www.ironcalc.com/) | [2024-11-09](https://news.ycombinator.com/item?id=42095292) |
+| 132 | [Netflix buffering issues: Boxing fans complain about Jake Paul vs. Mike Tyson](https://www.sportingnews.com/us/boxing/news/netflix-buffering-livestream-issues-boxing-jake-paul-mike-tyson/327ee972d4b14d90cc370461) | [2024-11-16](https://news.ycombinator.com/item?id=42153953) |
+| 400 | [Half-Life 2: 20th Anniversary Update](https://www.half-life.com/en/halflife2/20th) | [2024-11-15](https://news.ycombinator.com/item?id=42151865) |
+| 1861 | [MomBoard: E-ink display for a parent with amnesia](https://jan.miksovsky.com/posts/2024/11-12-momboard) | [2024-11-14](https://news.ycombinator.com/item?id=42135520) |
+| 1023 | [No GPS required: our app can now locate underground trains](https://blog.transitapp.com/go-underground/) | [2024-11-13](https://news.ycombinator.com/item?id=42122085) |
+| 606 | [Leaving and Waving](https://deannadikeman.com/leaving-and-waving) | [2024-11-12](https://news.ycombinator.com/item?id=42113113) |
+| 1375 | [How I ship projects at big tech companies](https://www.seangoedecke.com/how-to-ship/) | [2024-11-11](https://news.ycombinator.com/item?id=42111031) |
+| 2258 | [IMG_0416](https://ben-mini.github.io/2024/img-0416) | [2024-11-10](https://news.ycombinator.com/item?id=42102506) |
+| 722 | [IronCalc – Open-Source Spreadsheet Engine](https://www.ironcalc.com/) | [2024-11-09](https://news.ycombinator.com/item?id=42095292) |
 | 636 | [Mitochondria Are Alive](https://www.asimov.press/p/mitochondria) | [2024-11-08](https://news.ycombinator.com/item?id=42088758) |
 | 657 | [QNX is now free for anything non-commercial, plus there's an RPi image](https://blackberry.qnx.com/en/products/qnx-everywhere) | [2024-11-07](https://news.ycombinator.com/item?id=42079460) |
 | 1794 | [Trump wins presidency for second time](https://thehill.com/homenews/campaign/4969061-trump-wins-presidential-election/) | [2024-11-06](https://news.ycombinator.com/item?id=42057647) |
@@ -380,8 +382,6 @@
 | 725 | [StyleTTS2 – open-source Eleven-Labs-quality Text To Speech](https://github.com/yl4579/StyleTTS2) | [2023-11-19](https://news.ycombinator.com/item?id=38335255) |
 | 1423 | [Greg Brockman quits OpenAI](https://twitter.com/gdb/status/1725667410387378559?s=20) | [2023-11-18](https://news.ycombinator.com/item?id=38312704) |
 | 5710 | [OpenAI's board has fired Sam Altman](https://openai.com/blog/openai-announces-leadership-transition) | [2023-11-17](https://news.ycombinator.com/item?id=38309611) |
-| 1268 | [I spent 3 years working on a coat hanger [video]](https://www.youtube.com/watch?v=vREokZa4dNU) | [2023-11-16](https://news.ycombinator.com/item?id=38292915) |
-| 1603 | [Blender 16yo winner of UK young animator of the year](https://younganimator.uk/winner/1699875910225x437970782709919500) | [2023-11-15](https://news.ycombinator.com/item?id=38282166) |
 <!-- POSTS PREVIEW END -->
 
 **To see the full list, visit >>> [hnhd.io](https://hnhd.io/) <<<**

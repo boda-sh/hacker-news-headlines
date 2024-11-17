@@ -15,14 +15,14 @@
 <!-- POSTS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 132 | [Netflix buffering issues: Boxing fans complain about Jake Paul vs. Mike Tyson](https://www.sportingnews.com/us/boxing/news/netflix-buffering-livestream-issues-boxing-jake-paul-mike-tyson/327ee972d4b14d90cc370461) | [2024-11-16](https://news.ycombinator.com/item?id=42153953) |
-| 400 | [Half-Life 2: 20th Anniversary Update](https://www.half-life.com/en/halflife2/20th) | [2024-11-15](https://news.ycombinator.com/item?id=42151865) |
-| 1861 | [MomBoard: E-ink display for a parent with amnesia](https://jan.miksovsky.com/posts/2024/11-12-momboard) | [2024-11-14](https://news.ycombinator.com/item?id=42135520) |
-| 1023 | [No GPS required: our app can now locate underground trains](https://blog.transitapp.com/go-underground/) | [2024-11-13](https://news.ycombinator.com/item?id=42122085) |
-| 606 | [Leaving and Waving](https://deannadikeman.com/leaving-and-waving) | [2024-11-12](https://news.ycombinator.com/item?id=42113113) |
-| 1375 | [How I ship projects at big tech companies](https://www.seangoedecke.com/how-to-ship/) | [2024-11-11](https://news.ycombinator.com/item?id=42111031) |
-| 2258 | [IMG_0416](https://ben-mini.github.io/2024/img-0416) | [2024-11-10](https://news.ycombinator.com/item?id=42102506) |
-| 722 | [IronCalc – Open-Source Spreadsheet Engine](https://www.ironcalc.com/) | [2024-11-09](https://news.ycombinator.com/item?id=42095292) |
+| 501 | [Show HN: I built a(nother) house optimized for LAN parties](https://lanparty.house/) | [2024-11-16](https://news.ycombinator.com/item?id=42156977) |
+| 532 | [Half-Life 2: 20th Anniversary Update](https://www.half-life.com/en/halflife2/20th) | [2024-11-15](https://news.ycombinator.com/item?id=42151865) |
+| 2032 | [MomBoard: E-ink display for a parent with amnesia](https://jan.miksovsky.com/posts/2024/11-12-momboard) | [2024-11-14](https://news.ycombinator.com/item?id=42135520) |
+| 1037 | [No GPS required: our app can now locate underground trains](https://blog.transitapp.com/go-underground/) | [2024-11-13](https://news.ycombinator.com/item?id=42122085) |
+| 616 | [Leaving and Waving](https://deannadikeman.com/leaving-and-waving) | [2024-11-12](https://news.ycombinator.com/item?id=42113113) |
+| 1385 | [How I ship projects at big tech companies](https://www.seangoedecke.com/how-to-ship/) | [2024-11-11](https://news.ycombinator.com/item?id=42111031) |
+| 2267 | [IMG_0416](https://ben-mini.github.io/2024/img-0416) | [2024-11-10](https://news.ycombinator.com/item?id=42102506) |
+| 725 | [IronCalc – Open-Source Spreadsheet Engine](https://www.ironcalc.com/) | [2024-11-09](https://news.ycombinator.com/item?id=42095292) |
 | 636 | [Mitochondria Are Alive](https://www.asimov.press/p/mitochondria) | [2024-11-08](https://news.ycombinator.com/item?id=42088758) |
 | 657 | [QNX is now free for anything non-commercial, plus there's an RPi image](https://blackberry.qnx.com/en/products/qnx-everywhere) | [2024-11-07](https://news.ycombinator.com/item?id=42079460) |
 | 1794 | [Trump wins presidency for second time](https://thehill.com/homenews/campaign/4969061-trump-wins-presidential-election/) | [2024-11-06](https://news.ycombinator.com/item?id=42057647) |

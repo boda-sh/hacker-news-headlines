@@ -1,12 +1,14 @@
 id,title,url,score,by,time,descendants
-42161919,CSS gets a new logo and it uses the color `rebeccapurple`,https://michaelcharl.es/aubrey/en/code/new-rebeccapurple-css-logo,792,thunderbong,2024-11-17 04:18:12,166
-42156977,Show HN: I built a(nother) house optimized for LAN parties,https://lanparty.house/,955,kentonv,2024-11-16 15:52:39,328
-42151865,Half-Life 2: 20th Anniversary Update,https://www.half-life.com/en/halflife2/20th,554,Philpax,2024-11-15 22:18:45,245
-42135520,MomBoard: E-ink display for a parent with amnesia,https://jan.miksovsky.com/posts/2024/11-12-momboard,2056,pabs3,2024-11-14 12:20:40,243
-42122085,No GPS required: our app can now locate underground trains,https://blog.transitapp.com/go-underground/,1058,dotcoma,2024-11-13 01:46:20,317
-42113113,Leaving and Waving,https://deannadikeman.com/leaving-and-waving,619,Duke_Pixie,2024-11-12 05:44:58,93
-42111031,How I ship projects at big tech companies,https://www.seangoedecke.com/how-to-ship/,1397,gfysfm,2024-11-11 22:30:26,379
-42102506,IMG_0416,https://ben-mini.github.io/2024/img-0416,2281,bewal416,2024-11-10 20:45:33,324
+42178761,Llama 3.1 405B now runs at 969 tokens/s on Cerebras Inference,https://cerebras.ai/blog/llama-405b-inference,164,benchmarkist,2024-11-19 00:15:04,55
+42174204,"Launch HN: Regatta Storage (YC F24) – Turn S3 into a local-like, POSIX cloud FS",https://news.ycombinator.com/item?id=42174204,388,huntaub,2024-11-18 16:49:09,215
+42161919,CSS gets a new logo and it uses the color `rebeccapurple`,https://michaelcharl.es/aubrey/en/code/new-rebeccapurple-css-logo,852,thunderbong,2024-11-17 04:18:12,179
+42156977,Show HN: I built a(nother) house optimized for LAN parties,https://lanparty.house/,1031,kentonv,2024-11-16 15:52:39,360
+42151865,Half-Life 2: 20th Anniversary Update,https://www.half-life.com/en/halflife2/20th,561,Philpax,2024-11-15 22:18:45,263
+42135520,MomBoard: E-ink display for a parent with amnesia,https://jan.miksovsky.com/posts/2024/11-12-momboard,2073,pabs3,2024-11-14 12:20:40,248
+42122085,No GPS required: our app can now locate underground trains,https://blog.transitapp.com/go-underground/,1065,dotcoma,2024-11-13 01:46:20,318
+42113113,Leaving and Waving,https://deannadikeman.com/leaving-and-waving,627,Duke_Pixie,2024-11-12 05:44:58,93
+42111031,How I ship projects at big tech companies,https://www.seangoedecke.com/how-to-ship/,1410,gfysfm,2024-11-11 22:30:26,379
+42102506,IMG_0416,https://ben-mini.github.io/2024/img-0416,2295,bewal416,2024-11-10 20:45:33,324
 42095292,IronCalc – Open-Source Spreadsheet Engine,https://www.ironcalc.com/,725,kaathewise,2024-11-09 16:36:19,226
 42088758,Mitochondria Are Alive,https://www.asimov.press/p/mitochondria,636,mailyk,2024-11-08 17:39:43,389
 42079460,"QNX is now free for anything non-commercial, plus there's an RPi image",https://blackberry.qnx.com/en/products/qnx-everywhere,657,JohnAtQNX,2024-11-07 18:35:22,356

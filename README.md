@@ -15,14 +15,16 @@
 <!-- POSTS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 792 | [CSS gets a new logo and it uses the color `rebeccapurple`](https://michaelcharl.es/aubrey/en/code/new-rebeccapurple-css-logo) | [2024-11-17](https://news.ycombinator.com/item?id=42161919) |
-| 955 | [Show HN: I built a(nother) house optimized for LAN parties](https://lanparty.house/) | [2024-11-16](https://news.ycombinator.com/item?id=42156977) |
-| 554 | [Half-Life 2: 20th Anniversary Update](https://www.half-life.com/en/halflife2/20th) | [2024-11-15](https://news.ycombinator.com/item?id=42151865) |
-| 2056 | [MomBoard: E-ink display for a parent with amnesia](https://jan.miksovsky.com/posts/2024/11-12-momboard) | [2024-11-14](https://news.ycombinator.com/item?id=42135520) |
-| 1058 | [No GPS required: our app can now locate underground trains](https://blog.transitapp.com/go-underground/) | [2024-11-13](https://news.ycombinator.com/item?id=42122085) |
-| 619 | [Leaving and Waving](https://deannadikeman.com/leaving-and-waving) | [2024-11-12](https://news.ycombinator.com/item?id=42113113) |
-| 1397 | [How I ship projects at big tech companies](https://www.seangoedecke.com/how-to-ship/) | [2024-11-11](https://news.ycombinator.com/item?id=42111031) |
-| 2281 | [IMG_0416](https://ben-mini.github.io/2024/img-0416) | [2024-11-10](https://news.ycombinator.com/item?id=42102506) |
+| 164 | [Llama 3.1 405B now runs at 969 tokens/s on Cerebras Inference](https://cerebras.ai/blog/llama-405b-inference) | [2024-11-19](https://news.ycombinator.com/item?id=42178761) |
+| 388 | [Launch HN: Regatta Storage (YC F24) – Turn S3 into a local-like, POSIX cloud FS](https://news.ycombinator.com/item?id=42174204) | [2024-11-18](https://news.ycombinator.com/item?id=42174204) |
+| 852 | [CSS gets a new logo and it uses the color `rebeccapurple`](https://michaelcharl.es/aubrey/en/code/new-rebeccapurple-css-logo) | [2024-11-17](https://news.ycombinator.com/item?id=42161919) |
+| 1031 | [Show HN: I built a(nother) house optimized for LAN parties](https://lanparty.house/) | [2024-11-16](https://news.ycombinator.com/item?id=42156977) |
+| 561 | [Half-Life 2: 20th Anniversary Update](https://www.half-life.com/en/halflife2/20th) | [2024-11-15](https://news.ycombinator.com/item?id=42151865) |
+| 2073 | [MomBoard: E-ink display for a parent with amnesia](https://jan.miksovsky.com/posts/2024/11-12-momboard) | [2024-11-14](https://news.ycombinator.com/item?id=42135520) |
+| 1065 | [No GPS required: our app can now locate underground trains](https://blog.transitapp.com/go-underground/) | [2024-11-13](https://news.ycombinator.com/item?id=42122085) |
+| 627 | [Leaving and Waving](https://deannadikeman.com/leaving-and-waving) | [2024-11-12](https://news.ycombinator.com/item?id=42113113) |
+| 1410 | [How I ship projects at big tech companies](https://www.seangoedecke.com/how-to-ship/) | [2024-11-11](https://news.ycombinator.com/item?id=42111031) |
+| 2295 | [IMG_0416](https://ben-mini.github.io/2024/img-0416) | [2024-11-10](https://news.ycombinator.com/item?id=42102506) |
 | 725 | [IronCalc – Open-Source Spreadsheet Engine](https://www.ironcalc.com/) | [2024-11-09](https://news.ycombinator.com/item?id=42095292) |
 | 636 | [Mitochondria Are Alive](https://www.asimov.press/p/mitochondria) | [2024-11-08](https://news.ycombinator.com/item?id=42088758) |
 | 657 | [QNX is now free for anything non-commercial, plus there's an RPi image](https://blackberry.qnx.com/en/products/qnx-everywhere) | [2024-11-07](https://news.ycombinator.com/item?id=42079460) |
@@ -380,8 +382,6 @@
 | 2213 | [Reflecting on 18 Years at Google](https://ln.hixie.ch/?start=1700627373&count=1) | [2023-11-22](https://news.ycombinator.com/item?id=38381573) |
 | 1349 | [Why does the moon change size when you snipe it in GTA?](https://insiderockstarnorth.blogspot.com/2023/11/why-does-moon-change-size-when-you.html) | [2023-11-21](https://news.ycombinator.com/item?id=38371361) |
 | 1919 | [YouTube slows down video load times when using Firefox](https://old.reddit.com/r/youtube/comments/17z8hsz/youtube_has_started_to_artificially_slow_down/) | [2023-11-20](https://news.ycombinator.com/item?id=38345858) |
-| 725 | [StyleTTS2 – open-source Eleven-Labs-quality Text To Speech](https://github.com/yl4579/StyleTTS2) | [2023-11-19](https://news.ycombinator.com/item?id=38335255) |
-| 1423 | [Greg Brockman quits OpenAI](https://twitter.com/gdb/status/1725667410387378559?s=20) | [2023-11-18](https://news.ycombinator.com/item?id=38312704) |
 <!-- POSTS PREVIEW END -->
 
 **To see the full list, visit >>> [hnhd.io](https://hnhd.io/) <<<**

@@ -15,16 +15,16 @@
 <!-- POSTS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 164 | [Llama 3.1 405B now runs at 969 tokens/s on Cerebras Inference](https://cerebras.ai/blog/llama-405b-inference) | [2024-11-19](https://news.ycombinator.com/item?id=42178761) |
-| 388 | [Launch HN: Regatta Storage (YC F24) – Turn S3 into a local-like, POSIX cloud FS](https://news.ycombinator.com/item?id=42174204) | [2024-11-18](https://news.ycombinator.com/item?id=42174204) |
-| 852 | [CSS gets a new logo and it uses the color `rebeccapurple`](https://michaelcharl.es/aubrey/en/code/new-rebeccapurple-css-logo) | [2024-11-17](https://news.ycombinator.com/item?id=42161919) |
-| 1031 | [Show HN: I built a(nother) house optimized for LAN parties](https://lanparty.house/) | [2024-11-16](https://news.ycombinator.com/item?id=42156977) |
-| 561 | [Half-Life 2: 20th Anniversary Update](https://www.half-life.com/en/halflife2/20th) | [2024-11-15](https://news.ycombinator.com/item?id=42151865) |
-| 2073 | [MomBoard: E-ink display for a parent with amnesia](https://jan.miksovsky.com/posts/2024/11-12-momboard) | [2024-11-14](https://news.ycombinator.com/item?id=42135520) |
-| 1065 | [No GPS required: our app can now locate underground trains](https://blog.transitapp.com/go-underground/) | [2024-11-13](https://news.ycombinator.com/item?id=42122085) |
-| 627 | [Leaving and Waving](https://deannadikeman.com/leaving-and-waving) | [2024-11-12](https://news.ycombinator.com/item?id=42113113) |
-| 1410 | [How I ship projects at big tech companies](https://www.seangoedecke.com/how-to-ship/) | [2024-11-11](https://news.ycombinator.com/item?id=42111031) |
-| 2295 | [IMG_0416](https://ben-mini.github.io/2024/img-0416) | [2024-11-10](https://news.ycombinator.com/item?id=42102506) |
+| 419 | [Llama 3.1 405B now runs at 969 tokens/s on Cerebras Inference](https://cerebras.ai/blog/llama-405b-inference) | [2024-11-19](https://news.ycombinator.com/item?id=42178761) |
+| 1120 | [DOJ will push Google to sell off Chrome](https://www.bloomberg.com/news/articles/2024-11-18/doj-will-push-google-to-sell-off-chrome-to-break-search-monopoly) | [2024-11-18](https://news.ycombinator.com/item?id=42177767) |
+| 864 | [CSS gets a new logo and it uses the color `rebeccapurple`](https://michaelcharl.es/aubrey/en/code/new-rebeccapurple-css-logo) | [2024-11-17](https://news.ycombinator.com/item?id=42161919) |
+| 1048 | [Show HN: I built a(nother) house optimized for LAN parties](https://lanparty.house/) | [2024-11-16](https://news.ycombinator.com/item?id=42156977) |
+| 562 | [Half-Life 2: 20th Anniversary Update](https://www.half-life.com/en/halflife2/20th) | [2024-11-15](https://news.ycombinator.com/item?id=42151865) |
+| 2082 | [MomBoard: E-ink display for a parent with amnesia](https://jan.miksovsky.com/posts/2024/11-12-momboard) | [2024-11-14](https://news.ycombinator.com/item?id=42135520) |
+| 1072 | [No GPS required: our app can now locate underground trains](https://blog.transitapp.com/go-underground/) | [2024-11-13](https://news.ycombinator.com/item?id=42122085) |
+| 633 | [Leaving and Waving](https://deannadikeman.com/leaving-and-waving) | [2024-11-12](https://news.ycombinator.com/item?id=42113113) |
+| 1420 | [How I ship projects at big tech companies](https://www.seangoedecke.com/how-to-ship/) | [2024-11-11](https://news.ycombinator.com/item?id=42111031) |
+| 2302 | [IMG_0416](https://ben-mini.github.io/2024/img-0416) | [2024-11-10](https://news.ycombinator.com/item?id=42102506) |
 | 725 | [IronCalc – Open-Source Spreadsheet Engine](https://www.ironcalc.com/) | [2024-11-09](https://news.ycombinator.com/item?id=42095292) |
 | 636 | [Mitochondria Are Alive](https://www.asimov.press/p/mitochondria) | [2024-11-08](https://news.ycombinator.com/item?id=42088758) |
 | 657 | [QNX is now free for anything non-commercial, plus there's an RPi image](https://blackberry.qnx.com/en/products/qnx-everywhere) | [2024-11-07](https://news.ycombinator.com/item?id=42079460) |

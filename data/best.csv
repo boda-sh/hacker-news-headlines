@@ -1,10 +1,11 @@
 id,title,url,score,by,time,descendants
-42178761,Llama 3.1 405B now runs at 969 tokens/s on Cerebras Inference,https://cerebras.ai/blog/llama-405b-inference,419,benchmarkist,2024-11-19 00:15:04,140
-42177767,DOJ will push Google to sell off Chrome,https://www.bloomberg.com/news/articles/2024-11-18/doj-will-push-google-to-sell-off-chrome-to-break-search-monopoly,1120,redm,2024-11-18 22:24:07,1275
-42161919,CSS gets a new logo and it uses the color `rebeccapurple`,https://michaelcharl.es/aubrey/en/code/new-rebeccapurple-css-logo,864,thunderbong,2024-11-17 04:18:12,181
-42156977,Show HN: I built a(nother) house optimized for LAN parties,https://lanparty.house/,1048,kentonv,2024-11-16 15:52:39,368
-42151865,Half-Life 2: 20th Anniversary Update,https://www.half-life.com/en/halflife2/20th,562,Philpax,2024-11-15 22:18:45,264
-42135520,MomBoard: E-ink display for a parent with amnesia,https://jan.miksovsky.com/posts/2024/11-12-momboard,2082,pabs3,2024-11-14 12:20:40,250
+42193771,What is the origin of the lake tank image that has become a meme? (2021),https://history.stackexchange.com/questions/57033/what-is-the-origin-of-the-lake-tank-image-that-has-become-a-meme,512,napolux,2024-11-20 13:30:03,112
+42182519,OpenStreetMap's New Vector Tiles,https://tech.marksblogg.com/osm-mvt-vector-tiles.html,474,marklit,2024-11-19 12:03:02,146
+42177767,DOJ will push Google to sell off Chrome,https://www.bloomberg.com/news/articles/2024-11-18/doj-will-push-google-to-sell-off-chrome-to-break-search-monopoly,1171,redm,2024-11-18 22:24:07,1375
+42161919,CSS gets a new logo and it uses the color `rebeccapurple`,https://michaelcharl.es/aubrey/en/code/new-rebeccapurple-css-logo,875,thunderbong,2024-11-17 04:18:12,181
+42156977,Show HN: I built a(nother) house optimized for LAN parties,https://lanparty.house/,1066,kentonv,2024-11-16 15:52:39,376
+42151865,Half-Life 2: 20th Anniversary Update,https://www.half-life.com/en/halflife2/20th,565,Philpax,2024-11-15 22:18:45,264
+42135520,MomBoard: E-ink display for a parent with amnesia,https://jan.miksovsky.com/posts/2024/11-12-momboard,2090,pabs3,2024-11-14 12:20:40,251
 42122085,No GPS required: our app can now locate underground trains,https://blog.transitapp.com/go-underground/,1072,dotcoma,2024-11-13 01:46:20,318
 42113113,Leaving and Waving,https://deannadikeman.com/leaving-and-waving,633,Duke_Pixie,2024-11-12 05:44:58,93
 42111031,How I ship projects at big tech companies,https://www.seangoedecke.com/how-to-ship/,1420,gfysfm,2024-11-11 22:30:26,379

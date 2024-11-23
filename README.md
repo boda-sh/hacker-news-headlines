@@ -15,14 +15,15 @@
 <!-- POSTS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 737 | [ICC issues warrants for Netanyahu, Gallant, and Hamas officials](https://www.icc-cpi.int/news/situation-state-palestine-icc-pre-trial-chamber-i-rejects-state-israels-challenges) | [2024-11-21](https://news.ycombinator.com/item?id=42203543) |
-| 668 | [Undergraduates with family income below $200k will be tuition-free at MIT](https://news.mit.edu/2024/mit-tuition-undergraduates-family-income-1120) | [2024-11-20](https://news.ycombinator.com/item?id=42195895) |
-| 484 | [OpenStreetMap's New Vector Tiles](https://tech.marksblogg.com/osm-mvt-vector-tiles.html) | [2024-11-19](https://news.ycombinator.com/item?id=42182519) |
-| 1202 | [DOJ will push Google to sell off Chrome](https://www.bloomberg.com/news/articles/2024-11-18/doj-will-push-google-to-sell-off-chrome-to-break-search-monopoly) | [2024-11-18](https://news.ycombinator.com/item?id=42177767) |
-| 881 | [CSS gets a new logo and it uses the color `rebeccapurple`](https://michaelcharl.es/aubrey/en/code/new-rebeccapurple-css-logo) | [2024-11-17](https://news.ycombinator.com/item?id=42161919) |
-| 1082 | [Show HN: I built a(nother) house optimized for LAN parties](https://lanparty.house/) | [2024-11-16](https://news.ycombinator.com/item?id=42156977) |
-| 570 | [Half-Life 2: 20th Anniversary Update](https://www.half-life.com/en/halflife2/20th) | [2024-11-15](https://news.ycombinator.com/item?id=42151865) |
-| 2096 | [MomBoard: E-ink display for a parent with amnesia](https://jan.miksovsky.com/posts/2024/11-12-momboard) | [2024-11-14](https://news.ycombinator.com/item?id=42135520) |
+| 530 | [Amazon to invest another $4B in Anthropic](https://www.cnbc.com/2024/11/22/amazon-to-invest-another-4-billion-in-anthropic-openais-biggest-rival.html) | [2024-11-22](https://news.ycombinator.com/item?id=42215126) |
+| 828 | [ICC issues warrants for Netanyahu, Gallant, and Hamas officials](https://www.icc-cpi.int/news/situation-state-palestine-icc-pre-trial-chamber-i-rejects-state-israels-challenges) | [2024-11-21](https://news.ycombinator.com/item?id=42203543) |
+| 683 | [Undergraduates with family income below $200k will be tuition-free at MIT](https://news.mit.edu/2024/mit-tuition-undergraduates-family-income-1120) | [2024-11-20](https://news.ycombinator.com/item?id=42195895) |
+| 486 | [OpenStreetMap's New Vector Tiles](https://tech.marksblogg.com/osm-mvt-vector-tiles.html) | [2024-11-19](https://news.ycombinator.com/item?id=42182519) |
+| 1214 | [DOJ will push Google to sell off Chrome](https://www.bloomberg.com/news/articles/2024-11-18/doj-will-push-google-to-sell-off-chrome-to-break-search-monopoly) | [2024-11-18](https://news.ycombinator.com/item?id=42177767) |
+| 885 | [CSS gets a new logo and it uses the color `rebeccapurple`](https://michaelcharl.es/aubrey/en/code/new-rebeccapurple-css-logo) | [2024-11-17](https://news.ycombinator.com/item?id=42161919) |
+| 1092 | [Show HN: I built a(nother) house optimized for LAN parties](https://lanparty.house/) | [2024-11-16](https://news.ycombinator.com/item?id=42156977) |
+| 573 | [Half-Life 2: 20th Anniversary Update](https://www.half-life.com/en/halflife2/20th) | [2024-11-15](https://news.ycombinator.com/item?id=42151865) |
+| 2102 | [MomBoard: E-ink display for a parent with amnesia](https://jan.miksovsky.com/posts/2024/11-12-momboard) | [2024-11-14](https://news.ycombinator.com/item?id=42135520) |
 | 1072 | [No GPS required: our app can now locate underground trains](https://blog.transitapp.com/go-underground/) | [2024-11-13](https://news.ycombinator.com/item?id=42122085) |
 | 633 | [Leaving and Waving](https://deannadikeman.com/leaving-and-waving) | [2024-11-12](https://news.ycombinator.com/item?id=42113113) |
 | 1420 | [How I ship projects at big tech companies](https://www.seangoedecke.com/how-to-ship/) | [2024-11-11](https://news.ycombinator.com/item?id=42111031) |
@@ -381,7 +382,6 @@
 | 627 | [The Dunning-Kruger effect is autocorrelation](https://economicsfromthetopdown.com/2022/04/08/the-dunning-kruger-effect-is-autocorrelation/) | [2023-11-25](https://news.ycombinator.com/item?id=38415252) |
 | 648 | [Generative AI for Beginners](https://microsoft.github.io/generative-ai-for-beginners/#/) | [2023-11-24](https://news.ycombinator.com/item?id=38405823) |
 | 775 | [Ansel](https://ansel.photos/en/) | [2023-11-23](https://news.ycombinator.com/item?id=38390914) |
-| 2213 | [Reflecting on 18 Years at Google](https://ln.hixie.ch/?start=1700627373&count=1) | [2023-11-22](https://news.ycombinator.com/item?id=38381573) |
 <!-- POSTS PREVIEW END -->
 
 **To see the full list, visit >>> [hnhd.io](https://hnhd.io/) <<<**

@@ -15,13 +15,14 @@
 <!-- POSTS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 150 | [Fly.io outage (restoration in progress)](https://status.flyio.net) | [2024-11-26](https://news.ycombinator.com/item?id=42241851) |
-| 766 | [RFC 35140: HTTP Do-Not-Stab (2023)](https://www.5snb.club/posts/2023/do-not-stab/) | [2024-11-25](https://news.ycombinator.com/item?id=42232040) |
-| 739 | [Frosted glass from games to the web](https://www.tyleo.com/html-glass.html) | [2024-11-24](https://news.ycombinator.com/item?id=42225481) |
-| 499 | [Highest-resolution images ever captured of the sun’s surface](https://www.smithsonianmag.com/smart-news/check-out-the-highest-resolution-images-ever-captured-of-the-suns-entire-surface-180985518/) | [2024-11-23](https://news.ycombinator.com/item?id=42220155) |
-| 654 | [Amazon to invest another $4B in Anthropic](https://www.cnbc.com/2024/11/22/amazon-to-invest-another-4-billion-in-anthropic-openais-biggest-rival.html) | [2024-11-22](https://news.ycombinator.com/item?id=42215126) |
-| 857 | [ICC issues warrants for Netanyahu, Gallant, and Hamas officials](https://www.icc-cpi.int/news/situation-state-palestine-icc-pre-trial-chamber-i-rejects-state-israels-challenges) | [2024-11-21](https://news.ycombinator.com/item?id=42203543) |
-| 716 | [Undergraduates with family income below $200k will be tuition-free at MIT](https://news.mit.edu/2024/mit-tuition-undergraduates-family-income-1120) | [2024-11-20](https://news.ycombinator.com/item?id=42195895) |
+| 178 | [Marshall Brain died hours after alleging retaliation at NC State](https://www.technicianonline.com/news/popular-nc-state-professor-marshall-brain-dies-alleges-retaliation-for-ethics-complaints/article_152e5c80-ac2e-11ef-8b3f-036ac3c8d9bf.html) | [2024-11-27](https://news.ycombinator.com/item?id=42251656) |
+| 344 | [California's most neglected group of students: the gifted ones](https://www.latimes.com/opinion/story/2024-11-18/special-education-schools-gifted) | [2024-11-26](https://news.ycombinator.com/item?id=42247334) |
+| 834 | [Model Context Protocol](https://www.anthropic.com/news/model-context-protocol) | [2024-11-25](https://news.ycombinator.com/item?id=42237424) |
+| 768 | [Frosted glass from games to the web](https://www.tyleo.com/html-glass.html) | [2024-11-24](https://news.ycombinator.com/item?id=42225481) |
+| 510 | [Highest-resolution images ever captured of the sun’s surface](https://www.smithsonianmag.com/smart-news/check-out-the-highest-resolution-images-ever-captured-of-the-suns-entire-surface-180985518/) | [2024-11-23](https://news.ycombinator.com/item?id=42220155) |
+| 657 | [Amazon to invest another $4B in Anthropic](https://www.cnbc.com/2024/11/22/amazon-to-invest-another-4-billion-in-anthropic-openais-biggest-rival.html) | [2024-11-22](https://news.ycombinator.com/item?id=42215126) |
+| 873 | [ICC issues warrants for Netanyahu, Gallant, and Hamas officials](https://www.icc-cpi.int/news/situation-state-palestine-icc-pre-trial-chamber-i-rejects-state-israels-challenges) | [2024-11-21](https://news.ycombinator.com/item?id=42203543) |
+| 723 | [Undergraduates with family income below $200k will be tuition-free at MIT](https://news.mit.edu/2024/mit-tuition-undergraduates-family-income-1120) | [2024-11-20](https://news.ycombinator.com/item?id=42195895) |
 | 494 | [OpenStreetMap's New Vector Tiles](https://tech.marksblogg.com/osm-mvt-vector-tiles.html) | [2024-11-19](https://news.ycombinator.com/item?id=42182519) |
 | 1242 | [DOJ will push Google to sell off Chrome](https://www.bloomberg.com/news/articles/2024-11-18/doj-will-push-google-to-sell-off-chrome-to-break-search-monopoly) | [2024-11-18](https://news.ycombinator.com/item?id=42177767) |
 | 907 | [CSS gets a new logo and it uses the color `rebeccapurple`](https://michaelcharl.es/aubrey/en/code/new-rebeccapurple-css-logo) | [2024-11-17](https://news.ycombinator.com/item?id=42161919) |
@@ -381,7 +382,6 @@
 | 826 | [Visual Anagrams: Generating optical illusions with diffusion models](https://dangeng.github.io/visual_anagrams/) | [2023-11-30](https://news.ycombinator.com/item?id=38477259) |
 | 1075 | [Llamafile lets you distribute and run LLMs with a single file](https://github.com/Mozilla-Ocho/llamafile) | [2023-11-29](https://news.ycombinator.com/item?id=38464057) |
 | 1479 | [Charlie Munger has died](https://www.berkshirehathaway.com/news/nov2823.pdf) | [2023-11-28](https://news.ycombinator.com/item?id=38451278) |
-| 1304 | [My toddler loves planes, so I built her a radar](https://jacobbartlett.substack.com/p/my-toddler-loves-planes-so-i-built) | [2023-11-27](https://news.ycombinator.com/item?id=38435908) |
 <!-- POSTS PREVIEW END -->
 
 **To see the full list, visit >>> [hnhd.io](https://hnhd.io/) <<<**

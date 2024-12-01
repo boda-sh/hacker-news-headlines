@@ -15,16 +15,17 @@
 <!-- POSTS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 349 | [Don't Fuck with Scroll](https://dontfuckwithscroll.com) | [2024-11-29](https://news.ycombinator.com/item?id=42273505) |
-| 1288 | [Send someone you appreciate an official 'Continue and Persist' Letter](https://ContinueAndPersist.org) | [2024-11-28](https://news.ycombinator.com/item?id=42268580) |
-| 1004 | [Malware can turn off webcam LED and record video, demonstrated on ThinkPad X230](https://github.com/xairy/lights-out) | [2024-11-27](https://news.ycombinator.com/item?id=42259278) |
-| 406 | [California's most neglected group of students: the gifted ones](https://www.latimes.com/opinion/story/2024-11-18/special-education-schools-gifted) | [2024-11-26](https://news.ycombinator.com/item?id=42247334) |
-| 860 | [Model Context Protocol](https://www.anthropic.com/news/model-context-protocol) | [2024-11-25](https://news.ycombinator.com/item?id=42237424) |
-| 782 | [Frosted glass from games to the web](https://www.tyleo.com/html-glass.html) | [2024-11-24](https://news.ycombinator.com/item?id=42225481) |
+| 367 | [Engineering Sleep](https://minjunes.ai/posts/sleep/index.html) | [2024-11-30](https://news.ycombinator.com/item?id=42279454) |
+| 615 | [What does this button do? – My new car has a mysterious and undocumented switch](https://blog.koenvh.nl/what-does-this-button-do-cm42u2oi7000a09l42f54g2pr) | [2024-11-29](https://news.ycombinator.com/item?id=42276620) |
+| 1343 | [Send someone you appreciate an official 'Continue and Persist' Letter](https://ContinueAndPersist.org) | [2024-11-28](https://news.ycombinator.com/item?id=42268580) |
+| 1014 | [Malware can turn off webcam LED and record video, demonstrated on ThinkPad X230](https://github.com/xairy/lights-out) | [2024-11-27](https://news.ycombinator.com/item?id=42259278) |
+| 408 | [California's most neglected group of students: the gifted ones](https://www.latimes.com/opinion/story/2024-11-18/special-education-schools-gifted) | [2024-11-26](https://news.ycombinator.com/item?id=42247334) |
+| 865 | [Model Context Protocol](https://www.anthropic.com/news/model-context-protocol) | [2024-11-25](https://news.ycombinator.com/item?id=42237424) |
+| 785 | [Frosted glass from games to the web](https://www.tyleo.com/html-glass.html) | [2024-11-24](https://news.ycombinator.com/item?id=42225481) |
 | 518 | [Highest-resolution images ever captured of the sun’s surface](https://www.smithsonianmag.com/smart-news/check-out-the-highest-resolution-images-ever-captured-of-the-suns-entire-surface-180985518/) | [2024-11-23](https://news.ycombinator.com/item?id=42220155) |
-| 658 | [Amazon to invest another $4B in Anthropic](https://www.cnbc.com/2024/11/22/amazon-to-invest-another-4-billion-in-anthropic-openais-biggest-rival.html) | [2024-11-22](https://news.ycombinator.com/item?id=42215126) |
-| 884 | [ICC issues warrants for Netanyahu, Gallant, and Hamas officials](https://www.icc-cpi.int/news/situation-state-palestine-icc-pre-trial-chamber-i-rejects-state-israels-challenges) | [2024-11-21](https://news.ycombinator.com/item?id=42203543) |
-| 730 | [Undergraduates with family income below $200k will be tuition-free at MIT](https://news.mit.edu/2024/mit-tuition-undergraduates-family-income-1120) | [2024-11-20](https://news.ycombinator.com/item?id=42195895) |
+| 660 | [Amazon to invest another $4B in Anthropic](https://www.cnbc.com/2024/11/22/amazon-to-invest-another-4-billion-in-anthropic-openais-biggest-rival.html) | [2024-11-22](https://news.ycombinator.com/item?id=42215126) |
+| 885 | [ICC issues warrants for Netanyahu, Gallant, and Hamas officials](https://www.icc-cpi.int/news/situation-state-palestine-icc-pre-trial-chamber-i-rejects-state-israels-challenges) | [2024-11-21](https://news.ycombinator.com/item?id=42203543) |
+| 731 | [Undergraduates with family income below $200k will be tuition-free at MIT](https://news.mit.edu/2024/mit-tuition-undergraduates-family-income-1120) | [2024-11-20](https://news.ycombinator.com/item?id=42195895) |
 | 494 | [OpenStreetMap's New Vector Tiles](https://tech.marksblogg.com/osm-mvt-vector-tiles.html) | [2024-11-19](https://news.ycombinator.com/item?id=42182519) |
 | 1242 | [DOJ will push Google to sell off Chrome](https://www.bloomberg.com/news/articles/2024-11-18/doj-will-push-google-to-sell-off-chrome-to-break-search-monopoly) | [2024-11-18](https://news.ycombinator.com/item?id=42177767) |
 | 907 | [CSS gets a new logo and it uses the color `rebeccapurple`](https://michaelcharl.es/aubrey/en/code/new-rebeccapurple-css-logo) | [2024-11-17](https://news.ycombinator.com/item?id=42161919) |
@@ -381,7 +382,6 @@
 | 1592 | [LLM Visualization](https://bbycroft.net/llm) | [2023-12-03](https://news.ycombinator.com/item?id=38505211) |
 | 1570 | [Tiny volumetric display](https://mitxela.com/projects/candle) | [2023-12-02](https://news.ycombinator.com/item?id=38498109) |
 | 811 | [Code is run more than read](https://olano.dev/2023-11-30-code-is-run-more-than-read/) | [2023-12-01](https://news.ycombinator.com/item?id=38483181) |
-| 826 | [Visual Anagrams: Generating optical illusions with diffusion models](https://dangeng.github.io/visual_anagrams/) | [2023-11-30](https://news.ycombinator.com/item?id=38477259) |
 <!-- POSTS PREVIEW END -->
 
 **To see the full list, visit >>> [hnhd.io](https://hnhd.io/) <<<**

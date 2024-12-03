@@ -15,18 +15,19 @@
 <!-- POSTS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 1076 | [Advent of Code 2024](https://adventofcode.com/2024/about) | [2024-12-01](https://news.ycombinator.com/item?id=42287231) |
-| 477 | [Show HN: Open-source private home security camera system (end-to-end encryption)](https://github.com/privastead/privastead) | [2024-11-30](https://news.ycombinator.com/item?id=42284412) |
-| 676 | [What does this button do? – My new car has a mysterious and undocumented switch](https://blog.koenvh.nl/what-does-this-button-do-cm42u2oi7000a09l42f54g2pr) | [2024-11-29](https://news.ycombinator.com/item?id=42276620) |
-| 1361 | [Send someone you appreciate an official 'Continue and Persist' Letter](https://ContinueAndPersist.org) | [2024-11-28](https://news.ycombinator.com/item?id=42268580) |
-| 1019 | [Malware can turn off webcam LED and record video, demonstrated on ThinkPad X230](https://github.com/xairy/lights-out) | [2024-11-27](https://news.ycombinator.com/item?id=42259278) |
+| 781 | [Intel announces retirement of Pat Gelsinger](https://www.intel.com/content/www/us/en/newsroom/news/intel-ceo-news-dec-2024.html) | [2024-12-02](https://news.ycombinator.com/item?id=42296067) |
+| 1304 | [Advent of Code 2024](https://adventofcode.com/2024/about) | [2024-12-01](https://news.ycombinator.com/item?id=42287231) |
+| 516 | [Show HN: Open-source private home security camera system (end-to-end encryption)](https://github.com/privastead/privastead) | [2024-11-30](https://news.ycombinator.com/item?id=42284412) |
+| 694 | [What does this button do? – My new car has a mysterious and undocumented switch](https://blog.koenvh.nl/what-does-this-button-do-cm42u2oi7000a09l42f54g2pr) | [2024-11-29](https://news.ycombinator.com/item?id=42276620) |
+| 1386 | [Send someone you appreciate an official 'Continue and Persist' Letter](https://ContinueAndPersist.org) | [2024-11-28](https://news.ycombinator.com/item?id=42268580) |
+| 1024 | [Malware can turn off webcam LED and record video, demonstrated on ThinkPad X230](https://github.com/xairy/lights-out) | [2024-11-27](https://news.ycombinator.com/item?id=42259278) |
 | 410 | [California's most neglected group of students: the gifted ones](https://www.latimes.com/opinion/story/2024-11-18/special-education-schools-gifted) | [2024-11-26](https://news.ycombinator.com/item?id=42247334) |
-| 866 | [Model Context Protocol](https://www.anthropic.com/news/model-context-protocol) | [2024-11-25](https://news.ycombinator.com/item?id=42237424) |
-| 787 | [Frosted glass from games to the web](https://www.tyleo.com/html-glass.html) | [2024-11-24](https://news.ycombinator.com/item?id=42225481) |
+| 869 | [Model Context Protocol](https://www.anthropic.com/news/model-context-protocol) | [2024-11-25](https://news.ycombinator.com/item?id=42237424) |
+| 788 | [Frosted glass from games to the web](https://www.tyleo.com/html-glass.html) | [2024-11-24](https://news.ycombinator.com/item?id=42225481) |
 | 518 | [Highest-resolution images ever captured of the sun’s surface](https://www.smithsonianmag.com/smart-news/check-out-the-highest-resolution-images-ever-captured-of-the-suns-entire-surface-180985518/) | [2024-11-23](https://news.ycombinator.com/item?id=42220155) |
-| 662 | [Amazon to invest another $4B in Anthropic](https://www.cnbc.com/2024/11/22/amazon-to-invest-another-4-billion-in-anthropic-openais-biggest-rival.html) | [2024-11-22](https://news.ycombinator.com/item?id=42215126) |
+| 663 | [Amazon to invest another $4B in Anthropic](https://www.cnbc.com/2024/11/22/amazon-to-invest-another-4-billion-in-anthropic-openais-biggest-rival.html) | [2024-11-22](https://news.ycombinator.com/item?id=42215126) |
 | 888 | [ICC issues warrants for Netanyahu, Gallant, and Hamas officials](https://www.icc-cpi.int/news/situation-state-palestine-icc-pre-trial-chamber-i-rejects-state-israels-challenges) | [2024-11-21](https://news.ycombinator.com/item?id=42203543) |
-| 732 | [Undergraduates with family income below $200k will be tuition-free at MIT](https://news.mit.edu/2024/mit-tuition-undergraduates-family-income-1120) | [2024-11-20](https://news.ycombinator.com/item?id=42195895) |
+| 736 | [Undergraduates with family income below $200k will be tuition-free at MIT](https://news.mit.edu/2024/mit-tuition-undergraduates-family-income-1120) | [2024-11-20](https://news.ycombinator.com/item?id=42195895) |
 | 494 | [OpenStreetMap's New Vector Tiles](https://tech.marksblogg.com/osm-mvt-vector-tiles.html) | [2024-11-19](https://news.ycombinator.com/item?id=42182519) |
 | 1242 | [DOJ will push Google to sell off Chrome](https://www.bloomberg.com/news/articles/2024-11-18/doj-will-push-google-to-sell-off-chrome-to-break-search-monopoly) | [2024-11-18](https://news.ycombinator.com/item?id=42177767) |
 | 907 | [CSS gets a new logo and it uses the color `rebeccapurple`](https://michaelcharl.es/aubrey/en/code/new-rebeccapurple-css-logo) | [2024-11-17](https://news.ycombinator.com/item?id=42161919) |
@@ -381,7 +382,6 @@
 | 1521 | [Show HN: Beeper Mini – iMessage client for Android](https://www.beeper.com/) | [2023-12-05](https://news.ycombinator.com/item?id=38531759) |
 | 1202 | [Harvard gutted team examining Facebook Files following $500M Zuckerberg donation](https://live-whistleblower-aid.pantheonsite.io/joan-donovan-press-release/) | [2023-12-04](https://news.ycombinator.com/item?id=38519012) |
 | 1592 | [LLM Visualization](https://bbycroft.net/llm) | [2023-12-03](https://news.ycombinator.com/item?id=38505211) |
-| 1570 | [Tiny volumetric display](https://mitxela.com/projects/candle) | [2023-12-02](https://news.ycombinator.com/item?id=38498109) |
 <!-- POSTS PREVIEW END -->
 
 **To see the full list, visit >>> [hnhd.io](https://hnhd.io/) <<<**

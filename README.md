@@ -15,13 +15,14 @@
 <!-- POSTS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 568 | [South Korean president declares martial law, parliament votes to lift it](https://apnews.com/article/south-korea-yoon-martial-law-997c22ac93f6a9bece68454597e577c1) | [2024-12-03](https://news.ycombinator.com/item?id=42306020) |
-| 895 | [Intel announces retirement of Pat Gelsinger](https://www.intel.com/content/www/us/en/newsroom/news/intel-ceo-news-dec-2024.html) | [2024-12-02](https://news.ycombinator.com/item?id=42296067) |
-| 1332 | [Advent of Code 2024](https://adventofcode.com/2024/about) | [2024-12-01](https://news.ycombinator.com/item?id=42287231) |
-| 530 | [Show HN: Open-source private home security camera system (end-to-end encryption)](https://github.com/privastead/privastead) | [2024-11-30](https://news.ycombinator.com/item?id=42284412) |
-| 696 | [What does this button do? – My new car has a mysterious and undocumented switch](https://blog.koenvh.nl/what-does-this-button-do-cm42u2oi7000a09l42f54g2pr) | [2024-11-29](https://news.ycombinator.com/item?id=42276620) |
-| 1396 | [Send someone you appreciate an official 'Continue and Persist' Letter](https://ContinueAndPersist.org) | [2024-11-28](https://news.ycombinator.com/item?id=42268580) |
-| 1029 | [Malware can turn off webcam LED and record video, demonstrated on ThinkPad X230](https://github.com/xairy/lights-out) | [2024-11-27](https://news.ycombinator.com/item?id=42259278) |
+| 1613 | [IMG_0001](https://walzr.com/IMG_0001/) | [2024-12-04](https://news.ycombinator.com/item?id=42314547) |
+| 938 | [My son (9 yrs old) used plain JavaScript to make a game, and wants your feedback](https://www.armaansahni.com/game/) | [2024-12-03](https://news.ycombinator.com/item?id=42312121) |
+| 903 | [Intel announces retirement of Pat Gelsinger](https://www.intel.com/content/www/us/en/newsroom/news/intel-ceo-news-dec-2024.html) | [2024-12-02](https://news.ycombinator.com/item?id=42296067) |
+| 1357 | [Advent of Code 2024](https://adventofcode.com/2024/about) | [2024-12-01](https://news.ycombinator.com/item?id=42287231) |
+| 537 | [Show HN: Open-source private home security camera system (end-to-end encryption)](https://github.com/privastead/privastead) | [2024-11-30](https://news.ycombinator.com/item?id=42284412) |
+| 701 | [What does this button do? – My new car has a mysterious and undocumented switch](https://blog.koenvh.nl/what-does-this-button-do-cm42u2oi7000a09l42f54g2pr) | [2024-11-29](https://news.ycombinator.com/item?id=42276620) |
+| 1402 | [Send someone you appreciate an official 'Continue and Persist' Letter](https://ContinueAndPersist.org) | [2024-11-28](https://news.ycombinator.com/item?id=42268580) |
+| 1033 | [Malware can turn off webcam LED and record video, demonstrated on ThinkPad X230](https://github.com/xairy/lights-out) | [2024-11-27](https://news.ycombinator.com/item?id=42259278) |
 | 410 | [California's most neglected group of students: the gifted ones](https://www.latimes.com/opinion/story/2024-11-18/special-education-schools-gifted) | [2024-11-26](https://news.ycombinator.com/item?id=42247334) |
 | 869 | [Model Context Protocol](https://www.anthropic.com/news/model-context-protocol) | [2024-11-25](https://news.ycombinator.com/item?id=42237424) |
 | 788 | [Frosted glass from games to the web](https://www.tyleo.com/html-glass.html) | [2024-11-24](https://news.ycombinator.com/item?id=42225481) |
@@ -381,7 +382,6 @@
 | 1039 | [Gemini "duck" demo was not done in realtime or with voice](https://twitter.com/parmy/status/1732811357068615969) | [2023-12-07](https://news.ycombinator.com/item?id=38559582) |
 | 2135 | [Gemini AI](https://deepmind.google/technologies/gemini/) | [2023-12-06](https://news.ycombinator.com/item?id=38544729) |
 | 1521 | [Show HN: Beeper Mini – iMessage client for Android](https://www.beeper.com/) | [2023-12-05](https://news.ycombinator.com/item?id=38531759) |
-| 1202 | [Harvard gutted team examining Facebook Files following $500M Zuckerberg donation](https://live-whistleblower-aid.pantheonsite.io/joan-donovan-press-release/) | [2023-12-04](https://news.ycombinator.com/item?id=38519012) |
 <!-- POSTS PREVIEW END -->
 
 **To see the full list, visit >>> [hnhd.io](https://hnhd.io/) <<<**

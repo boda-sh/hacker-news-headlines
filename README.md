@@ -15,15 +15,16 @@
 <!-- POSTS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 826 | [Every V4 UUID](https://everyuuid.com/) | [2024-12-06](https://news.ycombinator.com/item?id=42342382) |
-| 784 | [ChatGPT Pro](https://openai.com/index/introducing-chatgpt-pro/) | [2024-12-05](https://news.ycombinator.com/item?id=42330732) |
-| 1800 | [IMG_0001](https://walzr.com/IMG_0001/) | [2024-12-04](https://news.ycombinator.com/item?id=42314547) |
-| 1194 | [My son (9 yrs old) used plain JavaScript to make a game, and wants your feedback](https://www.armaansahni.com/game/) | [2024-12-03](https://news.ycombinator.com/item?id=42312121) |
-| 907 | [Intel announces retirement of Pat Gelsinger](https://www.intel.com/content/www/us/en/newsroom/news/intel-ceo-news-dec-2024.html) | [2024-12-02](https://news.ycombinator.com/item?id=42296067) |
-| 1371 | [Advent of Code 2024](https://adventofcode.com/2024/about) | [2024-12-01](https://news.ycombinator.com/item?id=42287231) |
-| 544 | [Show HN: Open-source private home security camera system (end-to-end encryption)](https://github.com/privastead/privastead) | [2024-11-30](https://news.ycombinator.com/item?id=42284412) |
-| 704 | [What does this button do? – My new car has a mysterious and undocumented switch](https://blog.koenvh.nl/what-does-this-button-do-cm42u2oi7000a09l42f54g2pr) | [2024-11-29](https://news.ycombinator.com/item?id=42276620) |
-| 1406 | [Send someone you appreciate an official 'Continue and Persist' Letter](https://ContinueAndPersist.org) | [2024-11-28](https://news.ycombinator.com/item?id=42268580) |
+| 382 | [Just: Just a Command Runner](https://just.systems/) | [2024-12-07](https://news.ycombinator.com/item?id=42351101) |
+| 1324 | [Every V4 UUID](https://everyuuid.com/) | [2024-12-06](https://news.ycombinator.com/item?id=42342382) |
+| 795 | [ChatGPT Pro](https://openai.com/index/introducing-chatgpt-pro/) | [2024-12-05](https://news.ycombinator.com/item?id=42330732) |
+| 1812 | [IMG_0001](https://walzr.com/IMG_0001/) | [2024-12-04](https://news.ycombinator.com/item?id=42314547) |
+| 1207 | [My son (9 yrs old) used plain JavaScript to make a game, and wants your feedback](https://www.armaansahni.com/game/) | [2024-12-03](https://news.ycombinator.com/item?id=42312121) |
+| 908 | [Intel announces retirement of Pat Gelsinger](https://www.intel.com/content/www/us/en/newsroom/news/intel-ceo-news-dec-2024.html) | [2024-12-02](https://news.ycombinator.com/item?id=42296067) |
+| 1373 | [Advent of Code 2024](https://adventofcode.com/2024/about) | [2024-12-01](https://news.ycombinator.com/item?id=42287231) |
+| 545 | [Show HN: Open-source private home security camera system (end-to-end encryption)](https://github.com/privastead/privastead) | [2024-11-30](https://news.ycombinator.com/item?id=42284412) |
+| 706 | [What does this button do? – My new car has a mysterious and undocumented switch](https://blog.koenvh.nl/what-does-this-button-do-cm42u2oi7000a09l42f54g2pr) | [2024-11-29](https://news.ycombinator.com/item?id=42276620) |
+| 1407 | [Send someone you appreciate an official 'Continue and Persist' Letter](https://ContinueAndPersist.org) | [2024-11-28](https://news.ycombinator.com/item?id=42268580) |
 | 1038 | [Malware can turn off webcam LED and record video, demonstrated on ThinkPad X230](https://github.com/xairy/lights-out) | [2024-11-27](https://news.ycombinator.com/item?id=42259278) |
 | 410 | [California's most neglected group of students: the gifted ones](https://www.latimes.com/opinion/story/2024-11-18/special-education-schools-gifted) | [2024-11-26](https://news.ycombinator.com/item?id=42247334) |
 | 869 | [Model Context Protocol](https://www.anthropic.com/news/model-context-protocol) | [2024-11-25](https://news.ycombinator.com/item?id=42237424) |
@@ -381,7 +382,6 @@
 | 954 | [Mechanical Watch (2022)](https://ciechanow.ski/mechanical-watch/) | [2023-12-10](https://news.ycombinator.com/item?id=38591084) |
 | 1597 | [If buying isn't owning, piracy isn't stealing](https://pluralistic.net/2023/12/08/playstationed/#tyler-james-hill) | [2023-12-09](https://news.ycombinator.com/item?id=38579899) |
 | 1365 | [Apple cuts off Beeper Mini's access](https://techcrunch.com/2023/12/08/apple-cuts-off-beeper-minis-access-after-launch-of-service-that-brought-imessage-to-android/) | [2023-12-08](https://news.ycombinator.com/item?id=38574888) |
-| 1039 | [Gemini "duck" demo was not done in realtime or with voice](https://twitter.com/parmy/status/1732811357068615969) | [2023-12-07](https://news.ycombinator.com/item?id=38559582) |
 <!-- POSTS PREVIEW END -->
 
 **To see the full list, visit >>> [hnhd.io](https://hnhd.io/) <<<**

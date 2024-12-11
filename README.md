@@ -15,19 +15,20 @@
 <!-- POSTS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 1092 | [Itch.io Taken Down by Funko](https://bsky.app/profile/itch.io/post/3lcu6h465bs2n) | [2024-12-09](https://news.ycombinator.com/item?id=42363727) |
-| 453 | [Nyxt: The Hacker's Browser](https://nyxt.atlas.engineer/) | [2024-12-08](https://news.ycombinator.com/item?id=42354691) |
-| 593 | [Just: Just a Command Runner](https://just.systems/) | [2024-12-07](https://news.ycombinator.com/item?id=42351101) |
-| 1380 | [Every V4 UUID](https://everyuuid.com/) | [2024-12-06](https://news.ycombinator.com/item?id=42342382) |
-| 808 | [ChatGPT Pro](https://openai.com/index/introducing-chatgpt-pro/) | [2024-12-05](https://news.ycombinator.com/item?id=42330732) |
-| 1840 | [IMG_0001](https://walzr.com/IMG_0001/) | [2024-12-04](https://news.ycombinator.com/item?id=42314547) |
-| 1237 | [My son (9 yrs old) used plain JavaScript to make a game, and wants your feedback](https://www.armaansahni.com/game/) | [2024-12-03](https://news.ycombinator.com/item?id=42312121) |
-| 910 | [Intel announces retirement of Pat Gelsinger](https://www.intel.com/content/www/us/en/newsroom/news/intel-ceo-news-dec-2024.html) | [2024-12-02](https://news.ycombinator.com/item?id=42296067) |
-| 1382 | [Advent of Code 2024](https://adventofcode.com/2024/about) | [2024-12-01](https://news.ycombinator.com/item?id=42287231) |
-| 547 | [Show HN: Open-source private home security camera system (end-to-end encryption)](https://github.com/privastead/privastead) | [2024-11-30](https://news.ycombinator.com/item?id=42284412) |
-| 708 | [What does this button do? – My new car has a mysterious and undocumented switch](https://blog.koenvh.nl/what-does-this-button-do-cm42u2oi7000a09l42f54g2pr) | [2024-11-29](https://news.ycombinator.com/item?id=42276620) |
-| 1411 | [Send someone you appreciate an official 'Continue and Persist' Letter](https://ContinueAndPersist.org) | [2024-11-28](https://news.ycombinator.com/item?id=42268580) |
-| 1041 | [Malware can turn off webcam LED and record video, demonstrated on ThinkPad X230](https://github.com/xairy/lights-out) | [2024-11-27](https://news.ycombinator.com/item?id=42259278) |
+| 842 | [From where I left](https://antirez.com/news/144) | [2024-12-10](https://news.ycombinator.com/item?id=42378488) |
+| 1338 | [Willow, Our Quantum Chip](https://blog.google/technology/research/google-willow-quantum-chip/) | [2024-12-09](https://news.ycombinator.com/item?id=42367649) |
+| 457 | [Nyxt: The Hacker's Browser](https://nyxt.atlas.engineer/) | [2024-12-08](https://news.ycombinator.com/item?id=42354691) |
+| 597 | [Just: Just a Command Runner](https://just.systems/) | [2024-12-07](https://news.ycombinator.com/item?id=42351101) |
+| 1389 | [Every V4 UUID](https://everyuuid.com/) | [2024-12-06](https://news.ycombinator.com/item?id=42342382) |
+| 809 | [ChatGPT Pro](https://openai.com/index/introducing-chatgpt-pro/) | [2024-12-05](https://news.ycombinator.com/item?id=42330732) |
+| 1846 | [IMG_0001](https://walzr.com/IMG_0001/) | [2024-12-04](https://news.ycombinator.com/item?id=42314547) |
+| 1244 | [My son (9 yrs old) used plain JavaScript to make a game, and wants your feedback](https://www.armaansahni.com/game/) | [2024-12-03](https://news.ycombinator.com/item?id=42312121) |
+| 911 | [Intel announces retirement of Pat Gelsinger](https://www.intel.com/content/www/us/en/newsroom/news/intel-ceo-news-dec-2024.html) | [2024-12-02](https://news.ycombinator.com/item?id=42296067) |
+| 1383 | [Advent of Code 2024](https://adventofcode.com/2024/about) | [2024-12-01](https://news.ycombinator.com/item?id=42287231) |
+| 551 | [Show HN: Open-source private home security camera system (end-to-end encryption)](https://github.com/privastead/privastead) | [2024-11-30](https://news.ycombinator.com/item?id=42284412) |
+| 709 | [What does this button do? – My new car has a mysterious and undocumented switch](https://blog.koenvh.nl/what-does-this-button-do-cm42u2oi7000a09l42f54g2pr) | [2024-11-29](https://news.ycombinator.com/item?id=42276620) |
+| 1412 | [Send someone you appreciate an official 'Continue and Persist' Letter](https://ContinueAndPersist.org) | [2024-11-28](https://news.ycombinator.com/item?id=42268580) |
+| 1042 | [Malware can turn off webcam LED and record video, demonstrated on ThinkPad X230](https://github.com/xairy/lights-out) | [2024-11-27](https://news.ycombinator.com/item?id=42259278) |
 | 410 | [California's most neglected group of students: the gifted ones](https://www.latimes.com/opinion/story/2024-11-18/special-education-schools-gifted) | [2024-11-26](https://news.ycombinator.com/item?id=42247334) |
 | 869 | [Model Context Protocol](https://www.anthropic.com/news/model-context-protocol) | [2024-11-25](https://news.ycombinator.com/item?id=42237424) |
 | 788 | [Frosted glass from games to the web](https://www.tyleo.com/html-glass.html) | [2024-11-24](https://news.ycombinator.com/item?id=42225481) |
@@ -381,7 +382,6 @@
 | 979 | [Google Promises Unlimited Storage; Cancels; Tells Journalist Life's Work Deleted](https://www.techdirt.com/2023/12/12/google-promises-unlimited-cloud-storage-then-cancels-plan-then-tells-journalist-his-lifes-work-will-be-deleted-without-enough-time-to-transfer-the-data/) | [2023-12-13](https://news.ycombinator.com/item?id=38627652) |
 | 1289 | [Epic vs. Google: Google Loses](https://www.theverge.com/23945184/epic-v-google-fortnite-play-store-antitrust-trial-updates#stream-entry-65d34a06-1fa5-4eab-abf6-ce450441b543) | [2023-12-12](https://news.ycombinator.com/item?id=38607424) |
 | 1064 | [Beeper Mini is back](https://blog.beeper.com/p/beeper-mini-is-back) | [2023-12-11](https://news.ycombinator.com/item?id=38602575) |
-| 954 | [Mechanical Watch (2022)](https://ciechanow.ski/mechanical-watch/) | [2023-12-10](https://news.ycombinator.com/item?id=38591084) |
 <!-- POSTS PREVIEW END -->
 
 **To see the full list, visit >>> [hnhd.io](https://hnhd.io/) <<<**

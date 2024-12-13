@@ -1,18 +1,19 @@
 id,title,url,score,by,time,descendants
-42388783,Gemini 2.0: our new AI model for the agentic era,https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/,665,meetpateltech,2024-12-11 15:33:54,347
-42378488,From where I left,https://antirez.com/news/144,1138,tilt,2024-12-10 16:41:52,439
-42367649,"Willow, Our Quantum Chip",https://blog.google/technology/research/google-willow-quantum-chip/,1368,robflaherty,2024-12-09 16:28:23,518
+42398952,Gukesh becomes the youngest chess world champion in history,https://lichess.org/@/Lichess/blog/wcc-2024-round-14-gukesh-becomes-the-youngest-world-champion-in-history/cDggdNZw,901,alexmolas,2024-12-12 13:29:23,370
+42388783,Gemini 2.0: our new AI model for the agentic era,https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/,976,meetpateltech,2024-12-11 15:33:54,478
+42378488,From where I left,https://antirez.com/news/144,1163,tilt,2024-12-10 16:41:52,446
+42367649,"Willow, Our Quantum Chip",https://blog.google/technology/research/google-willow-quantum-chip/,1380,robflaherty,2024-12-09 16:28:23,522
 42354691,Nyxt: The Hacker's Browser,https://nyxt.atlas.engineer/,459,OuterVale,2024-12-08 02:54:54,221
-42351101,Just: Just a Command Runner,https://just.systems/,600,thunderbong,2024-12-07 17:11:32,314
-42342382,Every V4 UUID,https://everyuuid.com/,1395,LorenDB,2024-12-06 18:11:46,354
-42330732,ChatGPT Pro,https://openai.com/index/introducing-chatgpt-pro/,811,meetpateltech,2024-12-05 18:09:31,1191
-42314547,IMG_0001,https://walzr.com/IMG_0001/,1852,walz,2024-12-04 04:46:12,289
-42312121,"My son (9 yrs old) used plain JavaScript to make a game, and wants your feedback",https://www.armaansahni.com/game/,1248,veesahni,2024-12-03 22:08:16,479
+42351101,Just: Just a Command Runner,https://just.systems/,602,thunderbong,2024-12-07 17:11:32,314
+42342382,Every V4 UUID,https://everyuuid.com/,1402,LorenDB,2024-12-06 18:11:46,354
+42330732,ChatGPT Pro,https://openai.com/index/introducing-chatgpt-pro/,812,meetpateltech,2024-12-05 18:09:31,1191
+42314547,IMG_0001,https://walzr.com/IMG_0001/,1859,walz,2024-12-04 04:46:12,289
+42312121,"My son (9 yrs old) used plain JavaScript to make a game, and wants your feedback",https://www.armaansahni.com/game/,1250,veesahni,2024-12-03 22:08:16,481
 42296067,Intel announces retirement of Pat Gelsinger,https://www.intel.com/content/www/us/en/newsroom/news/intel-ceo-news-dec-2024.html,912,tybulewicz,2024-12-02 13:37:42,740
-42287231,Advent of Code 2024,https://adventofcode.com/2024/about,1385,thinkingemote,2024-12-01 09:09:35,553
+42287231,Advent of Code 2024,https://adventofcode.com/2024/about,1387,thinkingemote,2024-12-01 09:09:35,553
 42284412,Show HN: Open-source private home security camera system (end-to-end encryption),https://github.com/privastead/privastead,551,arrdalan,2024-11-30 22:13:49,165
-42276620,What does this button do? – My new car has a mysterious and undocumented switch,https://blog.koenvh.nl/what-does-this-button-do-cm42u2oi7000a09l42f54g2pr,710,Koenvh,2024-11-29 19:59:47,509
-42268580,Send someone you appreciate an official 'Continue and Persist' Letter,https://ContinueAndPersist.org,1413,adnanaga,2024-11-28 21:16:55,224
+42276620,What does this button do? – My new car has a mysterious and undocumented switch,https://blog.koenvh.nl/what-does-this-button-do-cm42u2oi7000a09l42f54g2pr,712,Koenvh,2024-11-29 19:59:47,509
+42268580,Send someone you appreciate an official 'Continue and Persist' Letter,https://ContinueAndPersist.org,1414,adnanaga,2024-11-28 21:16:55,224
 42259278,"Malware can turn off webcam LED and record video, demonstrated on ThinkPad X230",https://github.com/xairy/lights-out,1042,xairy,2024-11-27 20:10:55,522
 42247334,California's most neglected group of students: the gifted ones,https://www.latimes.com/opinion/story/2024-11-18/special-education-schools-gifted,410,tafda,2024-11-26 16:53:35,525
 42237424,Model Context Protocol,https://www.anthropic.com/news/model-context-protocol,869,benocodes,2024-11-25 16:14:22,258

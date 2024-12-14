@@ -15,13 +15,15 @@
 <!-- POSTS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 901 | [Gukesh becomes the youngest chess world champion in history](https://lichess.org/@/Lichess/blog/wcc-2024-round-14-gukesh-becomes-the-youngest-world-champion-in-history/cDggdNZw) | [2024-12-12](https://news.ycombinator.com/item?id=42398952) |
-| 976 | [Gemini 2.0: our new AI model for the agentic era](https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/) | [2024-12-11](https://news.ycombinator.com/item?id=42388783) |
-| 1163 | [From where I left](https://antirez.com/news/144) | [2024-12-10](https://news.ycombinator.com/item?id=42378488) |
-| 1380 | [Willow, Our Quantum Chip](https://blog.google/technology/research/google-willow-quantum-chip/) | [2024-12-09](https://news.ycombinator.com/item?id=42367649) |
-| 459 | [Nyxt: The Hacker's Browser](https://nyxt.atlas.engineer/) | [2024-12-08](https://news.ycombinator.com/item?id=42354691) |
-| 602 | [Just: Just a Command Runner](https://just.systems/) | [2024-12-07](https://news.ycombinator.com/item?id=42351101) |
-| 1402 | [Every V4 UUID](https://everyuuid.com/) | [2024-12-06](https://news.ycombinator.com/item?id=42342382) |
+| 183 | [macOS 15.2 breaks the ability to copy the OS to another drive](https://www.shirtpocket.com/blog/index.php/shadedgrey/youre_a_mean_one/) | [2024-12-14](https://news.ycombinator.com/item?id=42413757) |
+| 720 | [Show HN: I designed an espresso machine and coffee grinder](https://velofuso.com) | [2024-12-13](https://news.ycombinator.com/item?id=42405046) |
+| 1120 | [Timemap.org – Interactive Map of History](https://www.oldmapsonline.org/en/history/regions) | [2024-12-12](https://news.ycombinator.com/item?id=42397550) |
+| 991 | [Gemini 2.0: our new AI model for the agentic era](https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/) | [2024-12-11](https://news.ycombinator.com/item?id=42388783) |
+| 1170 | [From where I left](https://antirez.com/news/144) | [2024-12-10](https://news.ycombinator.com/item?id=42378488) |
+| 1388 | [Willow, Our Quantum Chip](https://blog.google/technology/research/google-willow-quantum-chip/) | [2024-12-09](https://news.ycombinator.com/item?id=42367649) |
+| 464 | [Nyxt: The Hacker's Browser](https://nyxt.atlas.engineer/) | [2024-12-08](https://news.ycombinator.com/item?id=42354691) |
+| 603 | [Just: Just a Command Runner](https://just.systems/) | [2024-12-07](https://news.ycombinator.com/item?id=42351101) |
+| 1408 | [Every V4 UUID](https://everyuuid.com/) | [2024-12-06](https://news.ycombinator.com/item?id=42342382) |
 | 812 | [ChatGPT Pro](https://openai.com/index/introducing-chatgpt-pro/) | [2024-12-05](https://news.ycombinator.com/item?id=42330732) |
 | 1859 | [IMG_0001](https://walzr.com/IMG_0001/) | [2024-12-04](https://news.ycombinator.com/item?id=42314547) |
 | 1250 | [My son (9 yrs old) used plain JavaScript to make a game, and wants your feedback](https://www.armaansahni.com/game/) | [2024-12-03](https://news.ycombinator.com/item?id=42312121) |
@@ -380,8 +382,6 @@
 | 608 | [How to learn chess as an adult (2021)](https://www.alexcrompton.com/blog/how-to-learn-chess) | [2023-12-17](https://news.ycombinator.com/item?id=38671876) |
 | 446 | [The New Essential Guide to Electronics in Shenzhen](https://www.bunniestudios.com/blog/?p=6886) | [2023-12-16](https://news.ycombinator.com/item?id=38666032) |
 | 769 | [Database Fundamentals](https://tontinton.com/posts/database-fundementals/) | [2023-12-15](https://news.ycombinator.com/item?id=38655066) |
-| 1273 | [Voyager 1 stops communicating with Earth](https://www.cnn.com/2023/12/13/world/voyager-1-computer-issue-scn/index.html) | [2023-12-14](https://news.ycombinator.com/item?id=38640900) |
-| 979 | [Google Promises Unlimited Storage; Cancels; Tells Journalist Life's Work Deleted](https://www.techdirt.com/2023/12/12/google-promises-unlimited-cloud-storage-then-cancels-plan-then-tells-journalist-his-lifes-work-will-be-deleted-without-enough-time-to-transfer-the-data/) | [2023-12-13](https://news.ycombinator.com/item?id=38627652) |
 <!-- POSTS PREVIEW END -->
 
 **To see the full list, visit >>> [hnhd.io](https://hnhd.io/) <<<**

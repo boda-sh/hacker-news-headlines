@@ -15,15 +15,15 @@
 <!-- POSTS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 183 | [macOS 15.2 breaks the ability to copy the OS to another drive](https://www.shirtpocket.com/blog/index.php/shadedgrey/youre_a_mean_one/) | [2024-12-14](https://news.ycombinator.com/item?id=42413757) |
-| 720 | [Show HN: I designed an espresso machine and coffee grinder](https://velofuso.com) | [2024-12-13](https://news.ycombinator.com/item?id=42405046) |
-| 1120 | [Timemap.org – Interactive Map of History](https://www.oldmapsonline.org/en/history/regions) | [2024-12-12](https://news.ycombinator.com/item?id=42397550) |
-| 991 | [Gemini 2.0: our new AI model for the agentic era](https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/) | [2024-12-11](https://news.ycombinator.com/item?id=42388783) |
-| 1170 | [From where I left](https://antirez.com/news/144) | [2024-12-10](https://news.ycombinator.com/item?id=42378488) |
-| 1388 | [Willow, Our Quantum Chip](https://blog.google/technology/research/google-willow-quantum-chip/) | [2024-12-09](https://news.ycombinator.com/item?id=42367649) |
-| 464 | [Nyxt: The Hacker's Browser](https://nyxt.atlas.engineer/) | [2024-12-08](https://news.ycombinator.com/item?id=42354691) |
-| 603 | [Just: Just a Command Runner](https://just.systems/) | [2024-12-07](https://news.ycombinator.com/item?id=42351101) |
-| 1408 | [Every V4 UUID](https://everyuuid.com/) | [2024-12-06](https://news.ycombinator.com/item?id=42342382) |
+| 348 | [macOS 15.2 breaks the ability to copy the OS to another drive](https://www.shirtpocket.com/blog/index.php/shadedgrey/youre_a_mean_one/) | [2024-12-14](https://news.ycombinator.com/item?id=42413757) |
+| 952 | [OpenAI whistleblower found dead in San Francisco apartment](https://www.mercurynews.com/2024/12/13/openai-whistleblower-found-dead-in-san-francisco-apartment/) | [2024-12-13](https://news.ycombinator.com/item?id=42412718) |
+| 1215 | [Timemap.org – Interactive Map of History](https://www.oldmapsonline.org/en/history/regions) | [2024-12-12](https://news.ycombinator.com/item?id=42397550) |
+| 996 | [Gemini 2.0: our new AI model for the agentic era](https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/) | [2024-12-11](https://news.ycombinator.com/item?id=42388783) |
+| 1175 | [From where I left](https://antirez.com/news/144) | [2024-12-10](https://news.ycombinator.com/item?id=42378488) |
+| 1397 | [Willow, Our Quantum Chip](https://blog.google/technology/research/google-willow-quantum-chip/) | [2024-12-09](https://news.ycombinator.com/item?id=42367649) |
+| 466 | [Nyxt: The Hacker's Browser](https://nyxt.atlas.engineer/) | [2024-12-08](https://news.ycombinator.com/item?id=42354691) |
+| 604 | [Just: Just a Command Runner](https://just.systems/) | [2024-12-07](https://news.ycombinator.com/item?id=42351101) |
+| 1412 | [Every V4 UUID](https://everyuuid.com/) | [2024-12-06](https://news.ycombinator.com/item?id=42342382) |
 | 812 | [ChatGPT Pro](https://openai.com/index/introducing-chatgpt-pro/) | [2024-12-05](https://news.ycombinator.com/item?id=42330732) |
 | 1859 | [IMG_0001](https://walzr.com/IMG_0001/) | [2024-12-04](https://news.ycombinator.com/item?id=42314547) |
 | 1250 | [My son (9 yrs old) used plain JavaScript to make a game, and wants your feedback](https://www.armaansahni.com/game/) | [2024-12-03](https://news.ycombinator.com/item?id=42312121) |

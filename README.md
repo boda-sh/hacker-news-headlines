@@ -15,18 +15,19 @@
 <!-- POSTS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 1744 | [Moon](https://ciechanow.ski/moon/) | [2024-12-17](https://news.ycombinator.com/item?id=42443229) |
-| 806 | [OpenERV](https://www.openerv.ca) | [2024-12-16](https://news.ycombinator.com/item?id=42427888) |
-| 696 | [Map of GitHub](https://github.com/anvaka/map-of-github) | [2024-12-15](https://news.ycombinator.com/item?id=42426284) |
-| 992 | [School smartphone ban results in better sleep and improved mood: study](https://www.york.ac.uk/news-and-events/news/2024/research/school-smartphone-ban-better-sleep/) | [2024-12-14](https://news.ycombinator.com/item?id=42420352) |
-| 1023 | [OpenAI whistleblower found dead in San Francisco apartment](https://www.mercurynews.com/2024/12/13/openai-whistleblower-found-dead-in-san-francisco-apartment/) | [2024-12-13](https://news.ycombinator.com/item?id=42412718) |
-| 1290 | [Timemap.org – Interactive Map of History](https://www.oldmapsonline.org/en/history/regions) | [2024-12-12](https://news.ycombinator.com/item?id=42397550) |
-| 1013 | [Gemini 2.0: our new AI model for the agentic era](https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/) | [2024-12-11](https://news.ycombinator.com/item?id=42388783) |
+| 462 | [GitHub Copilot is now available for free](https://github.com/features/copilot) | [2024-12-18](https://news.ycombinator.com/item?id=42453341) |
+| 2841 | [Moon](https://ciechanow.ski/moon/) | [2024-12-17](https://news.ycombinator.com/item?id=42443229) |
+| 820 | [OpenERV](https://www.openerv.ca) | [2024-12-16](https://news.ycombinator.com/item?id=42427888) |
+| 705 | [Map of GitHub](https://github.com/anvaka/map-of-github) | [2024-12-15](https://news.ycombinator.com/item?id=42426284) |
+| 996 | [School smartphone ban results in better sleep and improved mood: study](https://www.york.ac.uk/news-and-events/news/2024/research/school-smartphone-ban-better-sleep/) | [2024-12-14](https://news.ycombinator.com/item?id=42420352) |
+| 1029 | [OpenAI whistleblower found dead in San Francisco apartment](https://www.mercurynews.com/2024/12/13/openai-whistleblower-found-dead-in-san-francisco-apartment/) | [2024-12-13](https://news.ycombinator.com/item?id=42412718) |
+| 1301 | [Timemap.org – Interactive Map of History](https://www.oldmapsonline.org/en/history/regions) | [2024-12-12](https://news.ycombinator.com/item?id=42397550) |
+| 1014 | [Gemini 2.0: our new AI model for the agentic era](https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/) | [2024-12-11](https://news.ycombinator.com/item?id=42388783) |
 | 1188 | [From where I left](https://antirez.com/news/144) | [2024-12-10](https://news.ycombinator.com/item?id=42378488) |
-| 1408 | [Willow, Our Quantum Chip](https://blog.google/technology/research/google-willow-quantum-chip/) | [2024-12-09](https://news.ycombinator.com/item?id=42367649) |
-| 469 | [Nyxt: The Hacker's Browser](https://nyxt.atlas.engineer/) | [2024-12-08](https://news.ycombinator.com/item?id=42354691) |
-| 608 | [Just: Just a Command Runner](https://just.systems/) | [2024-12-07](https://news.ycombinator.com/item?id=42351101) |
-| 1426 | [Every V4 UUID](https://everyuuid.com/) | [2024-12-06](https://news.ycombinator.com/item?id=42342382) |
+| 1410 | [Willow, Our Quantum Chip](https://blog.google/technology/research/google-willow-quantum-chip/) | [2024-12-09](https://news.ycombinator.com/item?id=42367649) |
+| 471 | [Nyxt: The Hacker's Browser](https://nyxt.atlas.engineer/) | [2024-12-08](https://news.ycombinator.com/item?id=42354691) |
+| 609 | [Just: Just a Command Runner](https://just.systems/) | [2024-12-07](https://news.ycombinator.com/item?id=42351101) |
+| 1429 | [Every V4 UUID](https://everyuuid.com/) | [2024-12-06](https://news.ycombinator.com/item?id=42342382) |
 | 812 | [ChatGPT Pro](https://openai.com/index/introducing-chatgpt-pro/) | [2024-12-05](https://news.ycombinator.com/item?id=42330732) |
 | 1859 | [IMG_0001](https://walzr.com/IMG_0001/) | [2024-12-04](https://news.ycombinator.com/item?id=42314547) |
 | 1250 | [My son (9 yrs old) used plain JavaScript to make a game, and wants your feedback](https://www.armaansahni.com/game/) | [2024-12-03](https://news.ycombinator.com/item?id=42312121) |
@@ -381,7 +382,6 @@
 | 1204 | [ArXiv now offers papers in HTML format](https://blog.arxiv.org/2023/12/21/accessibility-update-arxiv-now-offers-papers-in-html-format/) | [2023-12-21](https://news.ycombinator.com/item?id=38724665) |
 | 615 | [Most 16-year-olds don't have servers in their rooms](https://varun.ch/server) | [2023-12-20](https://news.ycombinator.com/item?id=38710318) |
 | 784 | [Simulating fluids, fire, and smoke in real-time](https://andrewkchan.dev/posts/fire.html) | [2023-12-19](https://news.ycombinator.com/item?id=38698907) |
-| 2202 | [Figma and Adobe abandon proposed merger](https://www.figma.com/blog/figma-adobe-abandon-proposed-merger/) | [2023-12-18](https://news.ycombinator.com/item?id=38681861) |
 <!-- POSTS PREVIEW END -->
 
 **To see the full list, visit >>> [hnhd.io](https://hnhd.io/) <<<**

@@ -15,12 +15,13 @@
 <!-- POSTS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 462 | [GitHub Copilot is now available for free](https://github.com/features/copilot) | [2024-12-18](https://news.ycombinator.com/item?id=42453341) |
-| 2841 | [Moon](https://ciechanow.ski/moon/) | [2024-12-17](https://news.ycombinator.com/item?id=42443229) |
-| 820 | [OpenERV](https://www.openerv.ca) | [2024-12-16](https://news.ycombinator.com/item?id=42427888) |
-| 705 | [Map of GitHub](https://github.com/anvaka/map-of-github) | [2024-12-15](https://news.ycombinator.com/item?id=42426284) |
-| 996 | [School smartphone ban results in better sleep and improved mood: study](https://www.york.ac.uk/news-and-events/news/2024/research/school-smartphone-ban-better-sleep/) | [2024-12-14](https://news.ycombinator.com/item?id=42420352) |
-| 1029 | [OpenAI whistleblower found dead in San Francisco apartment](https://www.mercurynews.com/2024/12/13/openai-whistleblower-found-dead-in-san-francisco-apartment/) | [2024-12-13](https://news.ycombinator.com/item?id=42412718) |
+| 367 | [Amazon workers to strike at multiple US warehouses during busy holiday season](https://www.reuters.com/technology/amazon-workers-strike-multiple-us-warehouses-during-busy-holiday-season-2024-12-19/) | [2024-12-19](https://news.ycombinator.com/item?id=42458431) |
+| 641 | [Solaar is a Linux manager for many Logitech keyboards, mice, and other devices](https://github.com/pwr-Solaar/Solaar) | [2024-12-18](https://news.ycombinator.com/item?id=42454359) |
+| 3012 | [Moon](https://ciechanow.ski/moon/) | [2024-12-17](https://news.ycombinator.com/item?id=42443229) |
+| 826 | [OpenERV](https://www.openerv.ca) | [2024-12-16](https://news.ycombinator.com/item?id=42427888) |
+| 707 | [Map of GitHub](https://github.com/anvaka/map-of-github) | [2024-12-15](https://news.ycombinator.com/item?id=42426284) |
+| 1004 | [School smartphone ban results in better sleep and improved mood: study](https://www.york.ac.uk/news-and-events/news/2024/research/school-smartphone-ban-better-sleep/) | [2024-12-14](https://news.ycombinator.com/item?id=42420352) |
+| 1036 | [OpenAI whistleblower found dead in San Francisco apartment](https://www.mercurynews.com/2024/12/13/openai-whistleblower-found-dead-in-san-francisco-apartment/) | [2024-12-13](https://news.ycombinator.com/item?id=42412718) |
 | 1301 | [Timemap.org – Interactive Map of History](https://www.oldmapsonline.org/en/history/regions) | [2024-12-12](https://news.ycombinator.com/item?id=42397550) |
 | 1014 | [Gemini 2.0: our new AI model for the agentic era](https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/) | [2024-12-11](https://news.ycombinator.com/item?id=42388783) |
 | 1188 | [From where I left](https://antirez.com/news/144) | [2024-12-10](https://news.ycombinator.com/item?id=42378488) |
@@ -381,7 +382,6 @@
 | 1063 | [Show HN: Heynote – A dedicated scratchpad for developers](https://heynote.com/) | [2023-12-22](https://news.ycombinator.com/item?id=38733968) |
 | 1204 | [ArXiv now offers papers in HTML format](https://blog.arxiv.org/2023/12/21/accessibility-update-arxiv-now-offers-papers-in-html-format/) | [2023-12-21](https://news.ycombinator.com/item?id=38724665) |
 | 615 | [Most 16-year-olds don't have servers in their rooms](https://varun.ch/server) | [2023-12-20](https://news.ycombinator.com/item?id=38710318) |
-| 784 | [Simulating fluids, fire, and smoke in real-time](https://andrewkchan.dev/posts/fire.html) | [2023-12-19](https://news.ycombinator.com/item?id=38698907) |
 <!-- POSTS PREVIEW END -->
 
 **To see the full list, visit >>> [hnhd.io](https://hnhd.io/) <<<**

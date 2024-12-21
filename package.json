@@ -37,7 +37,7 @@
 		"*": ["biome format --write --no-errors-on-unmatched --files-ignore-unknown=true"]
 	},
 	"engines": {
-		"node": "20"
+		"node": "22"
 	},
-	"packageManager": "bun@1.1.26"
+	"packageManager": "bun@1.1.42"
 }

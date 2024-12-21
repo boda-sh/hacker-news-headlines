@@ -1,10 +1,11 @@
 id,title,url,score,by,time,descendants
-42458431,Amazon workers to strike at multiple US warehouses during busy holiday season,https://www.reuters.com/technology/amazon-workers-strike-multiple-us-warehouses-during-busy-holiday-season-2024-12-19/,367,petethomas,2024-12-19 04:27:28,467
-42454359,"Solaar is a Linux manager for many Logitech keyboards, mice, and other devices",https://github.com/pwr-Solaar/Solaar,641,teekert,2024-12-18 19:57:58,247
-42443229,Moon,https://ciechanow.ski/moon/,3012,todsacerdoti,2024-12-17 17:26:26,249
-42427888,OpenERV,https://www.openerv.ca,826,graboy,2024-12-16 03:55:10,262
-42426284,Map of GitHub,https://github.com/anvaka/map-of-github,707,vortex_ape,2024-12-15 22:02:33,102
-42420352,School smartphone ban results in better sleep and improved mood: study,https://www.york.ac.uk/news-and-events/news/2024/research/school-smartphone-ban-better-sleep/,1004,jonatron,2024-12-14 23:51:44,677
+42473321,OpenAI O3 breakthrough high score on ARC-AGI-PUB,https://arcprize.org/blog/oai-o3-pub-breakthrough,1061,maurycy,2024-12-20 18:11:13,991
+42461688,Nullboard: Kanban board in a single HTML file,https://github.com/apankrat/nullboard,516,smusamashah,2024-12-19 14:29:18,167
+42454359,"Solaar is a Linux manager for many Logitech keyboards, mice, and other devices",https://github.com/pwr-Solaar/Solaar,660,teekert,2024-12-18 19:57:58,253
+42443229,Moon,https://ciechanow.ski/moon/,3054,todsacerdoti,2024-12-17 17:26:26,250
+42427888,OpenERV,https://www.openerv.ca,829,graboy,2024-12-16 03:55:10,262
+42423409,A visual proof that a^2 – b^2 = (a + b)(a – b),https://www.futilitycloset.com/2024/12/15/tidy-2/,712,beardyw,2024-12-15 14:01:37,191
+42420352,School smartphone ban results in better sleep and improved mood: study,https://www.york.ac.uk/news-and-events/news/2024/research/school-smartphone-ban-better-sleep/,1008,jonatron,2024-12-14 23:51:44,677
 42412718,OpenAI whistleblower found dead in San Francisco apartment,https://www.mercurynews.com/2024/12/13/openai-whistleblower-found-dead-in-san-francisco-apartment/,1036,mmorearty,2024-12-13 21:56:29,428
 42397550,Timemap.org – Interactive Map of History,https://www.oldmapsonline.org/en/history/regions,1301,agilek,2024-12-12 09:12:28,181
 42388783,Gemini 2.0: our new AI model for the agentic era,https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/,1014,meetpateltech,2024-12-11 15:33:54,490

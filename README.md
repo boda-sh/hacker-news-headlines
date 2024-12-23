@@ -15,13 +15,15 @@
 <!-- POSTS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 503 | [US judge finds NSO Group liable for hacking journalists via WhatsApp](https://www.reuters.com/technology/cybersecurity/us-judge-finds-israels-nso-group-liable-hacking-whatsapp-lawsuit-2024-12-21/) | [2024-12-21](https://news.ycombinator.com/item?id=42476828) |
-| 1611 | [OpenAI O3 breakthrough high score on ARC-AGI-PUB](https://arcprize.org/blog/oai-o3-pub-breakthrough) | [2024-12-20](https://news.ycombinator.com/item?id=42473321) |
-| 577 | [Nullboard: Kanban board in a single HTML file](https://github.com/apankrat/nullboard) | [2024-12-19](https://news.ycombinator.com/item?id=42461688) |
-| 674 | [Solaar is a Linux manager for many Logitech keyboards, mice, and other devices](https://github.com/pwr-Solaar/Solaar) | [2024-12-18](https://news.ycombinator.com/item?id=42454359) |
-| 3084 | [Moon](https://ciechanow.ski/moon/) | [2024-12-17](https://news.ycombinator.com/item?id=42443229) |
-| 835 | [OpenERV](https://www.openerv.ca) | [2024-12-16](https://news.ycombinator.com/item?id=42427888) |
-| 723 | [A visual proof that a^2 – b^2 = (a + b)(a – b)](https://www.futilitycloset.com/2024/12/15/tidy-2/) | [2024-12-15](https://news.ycombinator.com/item?id=42423409) |
+| 257 | ['United Healthcare' using DMCA against Luigi Mangione images](https://abovethelaw.com/2024/12/united-healthcare-using-dmca-against-luigi-mangione-images-which-is-bizarre-wildly-inappropriate/) | [2024-12-23](https://news.ycombinator.com/item?id=42490453) |
+| 798 | [Why we use our own hardware](https://www.fastmail.com/blog/why-we-use-our-own-hardware/) | [2024-12-22](https://news.ycombinator.com/item?id=42485124) |
+| 545 | [US judge finds NSO Group liable for hacking journalists via WhatsApp](https://www.reuters.com/technology/cybersecurity/us-judge-finds-israels-nso-group-liable-hacking-whatsapp-lawsuit-2024-12-21/) | [2024-12-21](https://news.ycombinator.com/item?id=42476828) |
+| 1663 | [OpenAI O3 breakthrough high score on ARC-AGI-PUB](https://arcprize.org/blog/oai-o3-pub-breakthrough) | [2024-12-20](https://news.ycombinator.com/item?id=42473321) |
+| 585 | [Nullboard: Kanban board in a single HTML file](https://github.com/apankrat/nullboard) | [2024-12-19](https://news.ycombinator.com/item?id=42461688) |
+| 684 | [A 10-Year Battery for AirTag](https://www.elevationlab.com/blogs/news/introducing-timecapsule) | [2024-12-18](https://news.ycombinator.com/item?id=42453207) |
+| 3104 | [Moon](https://ciechanow.ski/moon/) | [2024-12-17](https://news.ycombinator.com/item?id=42443229) |
+| 846 | [OpenERV](https://www.openerv.ca) | [2024-12-16](https://news.ycombinator.com/item?id=42427888) |
+| 729 | [A visual proof that a^2 – b^2 = (a + b)(a – b)](https://www.futilitycloset.com/2024/12/15/tidy-2/) | [2024-12-15](https://news.ycombinator.com/item?id=42423409) |
 | 1008 | [School smartphone ban results in better sleep and improved mood: study](https://www.york.ac.uk/news-and-events/news/2024/research/school-smartphone-ban-better-sleep/) | [2024-12-14](https://news.ycombinator.com/item?id=42420352) |
 | 1036 | [OpenAI whistleblower found dead in San Francisco apartment](https://www.mercurynews.com/2024/12/13/openai-whistleblower-found-dead-in-san-francisco-apartment/) | [2024-12-13](https://news.ycombinator.com/item?id=42412718) |
 | 1301 | [Timemap.org – Interactive Map of History](https://www.oldmapsonline.org/en/history/regions) | [2024-12-12](https://news.ycombinator.com/item?id=42397550) |
@@ -380,8 +382,6 @@
 | 653 | [A list of Hacker News's undocumented features and behaviors](https://github.com/minimaxir/hacker-news-undocumented/blob/master/README.md) | [2023-12-26](https://news.ycombinator.com/item?id=38773957) |
 | 800 | [Ask HN: How do I train a custom LLM/ChatGPT on my own documents in Dec 2023?](https://news.ycombinator.com/item?id=38759877) | [2023-12-25](https://news.ycombinator.com/item?id=38759877) |
 | 677 | [Costs of running a macOS app studio business](https://notes.alinpanaitiu.com/Costs-of-running-a-macOS-app-studio-business) | [2023-12-24](https://news.ycombinator.com/item?id=38756029) |
-| 648 | [Meta censors pro-Palestinian views on a global scale, report claims](https://www.theguardian.com/technology/2023/dec/21/meta-facebook-instagram-pro-palestine-censorship-human-rights-watch-report) | [2023-12-23](https://news.ycombinator.com/item?id=38745673) |
-| 1063 | [Show HN: Heynote – A dedicated scratchpad for developers](https://heynote.com/) | [2023-12-22](https://news.ycombinator.com/item?id=38733968) |
 <!-- POSTS PREVIEW END -->
 
 **To see the full list, visit >>> [hnhd.io](https://hnhd.io/) <<<**

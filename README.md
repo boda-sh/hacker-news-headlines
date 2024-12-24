@@ -15,13 +15,14 @@
 <!-- POSTS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 257 | ['United Healthcare' using DMCA against Luigi Mangione images](https://abovethelaw.com/2024/12/united-healthcare-using-dmca-against-luigi-mangione-images-which-is-bizarre-wildly-inappropriate/) | [2024-12-23](https://news.ycombinator.com/item?id=42490453) |
-| 798 | [Why we use our own hardware](https://www.fastmail.com/blog/why-we-use-our-own-hardware/) | [2024-12-22](https://news.ycombinator.com/item?id=42485124) |
-| 545 | [US judge finds NSO Group liable for hacking journalists via WhatsApp](https://www.reuters.com/technology/cybersecurity/us-judge-finds-israels-nso-group-liable-hacking-whatsapp-lawsuit-2024-12-21/) | [2024-12-21](https://news.ycombinator.com/item?id=42476828) |
-| 1663 | [OpenAI O3 breakthrough high score on ARC-AGI-PUB](https://arcprize.org/blog/oai-o3-pub-breakthrough) | [2024-12-20](https://news.ycombinator.com/item?id=42473321) |
-| 585 | [Nullboard: Kanban board in a single HTML file](https://github.com/apankrat/nullboard) | [2024-12-19](https://news.ycombinator.com/item?id=42461688) |
-| 684 | [A 10-Year Battery for AirTag](https://www.elevationlab.com/blogs/news/introducing-timecapsule) | [2024-12-18](https://news.ycombinator.com/item?id=42453207) |
-| 3104 | [Moon](https://ciechanow.ski/moon/) | [2024-12-17](https://news.ycombinator.com/item?id=42443229) |
+| 126 | [Making AMD GPUs competitive for LLM inference (2023)](https://blog.mlc.ai/2023/08/09/Making-AMD-GPUs-competitive-for-LLM-inference) | [2024-12-24](https://news.ycombinator.com/item?id=42498634) |
+| 413 | [What happened to the world's largest tube TV? [video]](https://www.youtube.com/watch?v=JfZxOuc9Qwk) | [2024-12-23](https://news.ycombinator.com/item?id=42497093) |
+| 879 | [Why we use our own hardware](https://www.fastmail.com/blog/why-we-use-our-own-hardware/) | [2024-12-22](https://news.ycombinator.com/item?id=42485124) |
+| 559 | [US judge finds NSO Group liable for hacking journalists via WhatsApp](https://www.reuters.com/technology/cybersecurity/us-judge-finds-israels-nso-group-liable-hacking-whatsapp-lawsuit-2024-12-21/) | [2024-12-21](https://news.ycombinator.com/item?id=42476828) |
+| 1682 | [OpenAI O3 breakthrough high score on ARC-AGI-PUB](https://arcprize.org/blog/oai-o3-pub-breakthrough) | [2024-12-20](https://news.ycombinator.com/item?id=42473321) |
+| 589 | [Nullboard: Kanban board in a single HTML file](https://github.com/apankrat/nullboard) | [2024-12-19](https://news.ycombinator.com/item?id=42461688) |
+| 694 | [A 10-Year Battery for AirTag](https://www.elevationlab.com/blogs/news/introducing-timecapsule) | [2024-12-18](https://news.ycombinator.com/item?id=42453207) |
+| 3113 | [Moon](https://ciechanow.ski/moon/) | [2024-12-17](https://news.ycombinator.com/item?id=42443229) |
 | 846 | [OpenERV](https://www.openerv.ca) | [2024-12-16](https://news.ycombinator.com/item?id=42427888) |
 | 729 | [A visual proof that a^2 – b^2 = (a + b)(a – b)](https://www.futilitycloset.com/2024/12/15/tidy-2/) | [2024-12-15](https://news.ycombinator.com/item?id=42423409) |
 | 1008 | [School smartphone ban results in better sleep and improved mood: study](https://www.york.ac.uk/news-and-events/news/2024/research/school-smartphone-ban-better-sleep/) | [2024-12-14](https://news.ycombinator.com/item?id=42420352) |
@@ -381,7 +382,6 @@
 | 1248 | [DeskHop – Fast Desktop Switching](https://github.com/hrvach/deskhop) | [2023-12-27](https://news.ycombinator.com/item?id=38780519) |
 | 653 | [A list of Hacker News's undocumented features and behaviors](https://github.com/minimaxir/hacker-news-undocumented/blob/master/README.md) | [2023-12-26](https://news.ycombinator.com/item?id=38773957) |
 | 800 | [Ask HN: How do I train a custom LLM/ChatGPT on my own documents in Dec 2023?](https://news.ycombinator.com/item?id=38759877) | [2023-12-25](https://news.ycombinator.com/item?id=38759877) |
-| 677 | [Costs of running a macOS app studio business](https://notes.alinpanaitiu.com/Costs-of-running-a-macOS-app-studio-business) | [2023-12-24](https://news.ycombinator.com/item?id=38756029) |
 <!-- POSTS PREVIEW END -->
 
 **To see the full list, visit >>> [hnhd.io](https://hnhd.io/) <<<**

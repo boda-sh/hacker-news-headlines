@@ -15,15 +15,15 @@
 <!-- POSTS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 158 | [Merry Christmas Everyone](https://news.ycombinator.com/item?id=42506577) | [2024-12-25](https://news.ycombinator.com/item?id=42506577) |
-| 515 | [macOS menu bar app that shows how full the ISS urine tank is in real time](https://github.com/Jaennaet/pISSStream) | [2024-12-24](https://news.ycombinator.com/item?id=42505454) |
-| 627 | [What happened to the world's largest tube TV? [video]](https://www.youtube.com/watch?v=JfZxOuc9Qwk) | [2024-12-23](https://news.ycombinator.com/item?id=42497093) |
-| 895 | [Why we use our own hardware](https://www.fastmail.com/blog/why-we-use-our-own-hardware/) | [2024-12-22](https://news.ycombinator.com/item?id=42485124) |
-| 563 | [US judge finds NSO Group liable for hacking journalists via WhatsApp](https://www.reuters.com/technology/cybersecurity/us-judge-finds-israels-nso-group-liable-hacking-whatsapp-lawsuit-2024-12-21/) | [2024-12-21](https://news.ycombinator.com/item?id=42476828) |
-| 1694 | [OpenAI O3 breakthrough high score on ARC-AGI-PUB](https://arcprize.org/blog/oai-o3-pub-breakthrough) | [2024-12-20](https://news.ycombinator.com/item?id=42473321) |
-| 596 | [Nullboard: Kanban board in a single HTML file](https://github.com/apankrat/nullboard) | [2024-12-19](https://news.ycombinator.com/item?id=42461688) |
-| 698 | [A 10-Year Battery for AirTag](https://www.elevationlab.com/blogs/news/introducing-timecapsule) | [2024-12-18](https://news.ycombinator.com/item?id=42453207) |
-| 3121 | [Moon](https://ciechanow.ski/moon/) | [2024-12-17](https://news.ycombinator.com/item?id=42443229) |
+| 1368 | [Merry Christmas Everyone](https://news.ycombinator.com/item?id=42506577) | [2024-12-25](https://news.ycombinator.com/item?id=42506577) |
+| 1018 | [macOS menu bar app that shows how full the ISS urine tank is in real time](https://github.com/Jaennaet/pISSStream) | [2024-12-24](https://news.ycombinator.com/item?id=42505454) |
+| 662 | [What happened to the world's largest tube TV? [video]](https://www.youtube.com/watch?v=JfZxOuc9Qwk) | [2024-12-23](https://news.ycombinator.com/item?id=42497093) |
+| 909 | [Why we use our own hardware](https://www.fastmail.com/blog/why-we-use-our-own-hardware/) | [2024-12-22](https://news.ycombinator.com/item?id=42485124) |
+| 565 | [US judge finds NSO Group liable for hacking journalists via WhatsApp](https://www.reuters.com/technology/cybersecurity/us-judge-finds-israels-nso-group-liable-hacking-whatsapp-lawsuit-2024-12-21/) | [2024-12-21](https://news.ycombinator.com/item?id=42476828) |
+| 1704 | [OpenAI O3 breakthrough high score on ARC-AGI-PUB](https://arcprize.org/blog/oai-o3-pub-breakthrough) | [2024-12-20](https://news.ycombinator.com/item?id=42473321) |
+| 598 | [Nullboard: Kanban board in a single HTML file](https://github.com/apankrat/nullboard) | [2024-12-19](https://news.ycombinator.com/item?id=42461688) |
+| 701 | [A 10-Year Battery for AirTag](https://www.elevationlab.com/blogs/news/introducing-timecapsule) | [2024-12-18](https://news.ycombinator.com/item?id=42453207) |
+| 3128 | [Moon](https://ciechanow.ski/moon/) | [2024-12-17](https://news.ycombinator.com/item?id=42443229) |
 | 846 | [OpenERV](https://www.openerv.ca) | [2024-12-16](https://news.ycombinator.com/item?id=42427888) |
 | 729 | [A visual proof that a^2 – b^2 = (a + b)(a – b)](https://www.futilitycloset.com/2024/12/15/tidy-2/) | [2024-12-15](https://news.ycombinator.com/item?id=42423409) |
 | 1008 | [School smartphone ban results in better sleep and improved mood: study](https://www.york.ac.uk/news-and-events/news/2024/research/school-smartphone-ban-better-sleep/) | [2024-12-14](https://news.ycombinator.com/item?id=42420352) |

@@ -1,12 +1,13 @@
 id,title,url,score,by,time,descendants
-42506577,Merry Christmas Everyone,https://news.ycombinator.com/item?id=42506577,1368,joshagilend,2024-12-25 03:10:07,358
-42505454,macOS menu bar app that shows how full the ISS urine tank is in real time,https://github.com/Jaennaet/pISSStream,1018,ajdude,2024-12-24 22:38:40,225
-42497093,What happened to the world's largest tube TV? [video],https://www.youtube.com/watch?v=JfZxOuc9Qwk,662,ecliptik,2024-12-23 19:49:34,284
-42485124,Why we use our own hardware,https://www.fastmail.com/blog/why-we-use-our-own-hardware/,909,nmjenkins,2024-12-22 08:36:31,516
-42476828,US judge finds NSO Group liable for hacking journalists via WhatsApp,https://www.reuters.com/technology/cybersecurity/us-judge-finds-israels-nso-group-liable-hacking-whatsapp-lawsuit-2024-12-21/,565,o999,2024-12-21 01:38:23,232
-42473321,OpenAI O3 breakthrough high score on ARC-AGI-PUB,https://arcprize.org/blog/oai-o3-pub-breakthrough,1704,maurycy,2024-12-20 18:11:13,1739
-42461688,Nullboard: Kanban board in a single HTML file,https://github.com/apankrat/nullboard,598,smusamashah,2024-12-19 14:29:18,179
-42453207,A 10-Year Battery for AirTag,https://www.elevationlab.com/blogs/news/introducing-timecapsule,701,dmd,2024-12-18 18:17:17,563
+42517447,Ghostty 1.0,https://ghostty.org/,1185,matrixhelix,2024-12-26 20:14:57,323
+42506577,Merry Christmas Everyone,https://news.ycombinator.com/item?id=42506577,1449,joshagilend,2024-12-25 03:10:07,380
+42505454,macOS menu bar app that shows how full the ISS urine tank is in real time,https://github.com/Jaennaet/pISSStream,1095,ajdude,2024-12-24 22:38:40,249
+42497093,What happened to the world's largest tube TV? [video],https://www.youtube.com/watch?v=JfZxOuc9Qwk,671,ecliptik,2024-12-23 19:49:34,287
+42489645,Cognitive load is what matters,https://minds.md/zakirullin/cognitive,1585,zdw,2024-12-22 22:18:12,663
+42476828,US judge finds NSO Group liable for hacking journalists via WhatsApp,https://www.reuters.com/technology/cybersecurity/us-judge-finds-israels-nso-group-liable-hacking-whatsapp-lawsuit-2024-12-21/,569,o999,2024-12-21 01:38:23,232
+42473321,OpenAI O3 breakthrough high score on ARC-AGI-PUB,https://arcprize.org/blog/oai-o3-pub-breakthrough,1711,maurycy,2024-12-20 18:11:13,1747
+42461688,Nullboard: Kanban board in a single HTML file,https://github.com/apankrat/nullboard,603,smusamashah,2024-12-19 14:29:18,179
+42453207,A 10-Year Battery for AirTag,https://www.elevationlab.com/blogs/news/introducing-timecapsule,704,dmd,2024-12-18 18:17:17,564
 42443229,Moon,https://ciechanow.ski/moon/,3128,todsacerdoti,2024-12-17 17:26:26,250
 42427888,OpenERV,https://www.openerv.ca,846,graboy,2024-12-16 03:55:10,262
 42423409,A visual proof that a^2 – b^2 = (a + b)(a – b),https://www.futilitycloset.com/2024/12/15/tidy-2/,729,beardyw,2024-12-15 14:01:37,192

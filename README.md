@@ -15,14 +15,15 @@
 <!-- POSTS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 1368 | [Merry Christmas Everyone](https://news.ycombinator.com/item?id=42506577) | [2024-12-25](https://news.ycombinator.com/item?id=42506577) |
-| 1018 | [macOS menu bar app that shows how full the ISS urine tank is in real time](https://github.com/Jaennaet/pISSStream) | [2024-12-24](https://news.ycombinator.com/item?id=42505454) |
-| 662 | [What happened to the world's largest tube TV? [video]](https://www.youtube.com/watch?v=JfZxOuc9Qwk) | [2024-12-23](https://news.ycombinator.com/item?id=42497093) |
-| 909 | [Why we use our own hardware](https://www.fastmail.com/blog/why-we-use-our-own-hardware/) | [2024-12-22](https://news.ycombinator.com/item?id=42485124) |
-| 565 | [US judge finds NSO Group liable for hacking journalists via WhatsApp](https://www.reuters.com/technology/cybersecurity/us-judge-finds-israels-nso-group-liable-hacking-whatsapp-lawsuit-2024-12-21/) | [2024-12-21](https://news.ycombinator.com/item?id=42476828) |
-| 1704 | [OpenAI O3 breakthrough high score on ARC-AGI-PUB](https://arcprize.org/blog/oai-o3-pub-breakthrough) | [2024-12-20](https://news.ycombinator.com/item?id=42473321) |
-| 598 | [Nullboard: Kanban board in a single HTML file](https://github.com/apankrat/nullboard) | [2024-12-19](https://news.ycombinator.com/item?id=42461688) |
-| 701 | [A 10-Year Battery for AirTag](https://www.elevationlab.com/blogs/news/introducing-timecapsule) | [2024-12-18](https://news.ycombinator.com/item?id=42453207) |
+| 1185 | [Ghostty 1.0](https://ghostty.org/) | [2024-12-26](https://news.ycombinator.com/item?id=42517447) |
+| 1449 | [Merry Christmas Everyone](https://news.ycombinator.com/item?id=42506577) | [2024-12-25](https://news.ycombinator.com/item?id=42506577) |
+| 1095 | [macOS menu bar app that shows how full the ISS urine tank is in real time](https://github.com/Jaennaet/pISSStream) | [2024-12-24](https://news.ycombinator.com/item?id=42505454) |
+| 671 | [What happened to the world's largest tube TV? [video]](https://www.youtube.com/watch?v=JfZxOuc9Qwk) | [2024-12-23](https://news.ycombinator.com/item?id=42497093) |
+| 1585 | [Cognitive load is what matters](https://minds.md/zakirullin/cognitive) | [2024-12-22](https://news.ycombinator.com/item?id=42489645) |
+| 569 | [US judge finds NSO Group liable for hacking journalists via WhatsApp](https://www.reuters.com/technology/cybersecurity/us-judge-finds-israels-nso-group-liable-hacking-whatsapp-lawsuit-2024-12-21/) | [2024-12-21](https://news.ycombinator.com/item?id=42476828) |
+| 1711 | [OpenAI O3 breakthrough high score on ARC-AGI-PUB](https://arcprize.org/blog/oai-o3-pub-breakthrough) | [2024-12-20](https://news.ycombinator.com/item?id=42473321) |
+| 603 | [Nullboard: Kanban board in a single HTML file](https://github.com/apankrat/nullboard) | [2024-12-19](https://news.ycombinator.com/item?id=42461688) |
+| 704 | [A 10-Year Battery for AirTag](https://www.elevationlab.com/blogs/news/introducing-timecapsule) | [2024-12-18](https://news.ycombinator.com/item?id=42453207) |
 | 3128 | [Moon](https://ciechanow.ski/moon/) | [2024-12-17](https://news.ycombinator.com/item?id=42443229) |
 | 846 | [OpenERV](https://www.openerv.ca) | [2024-12-16](https://news.ycombinator.com/item?id=42427888) |
 | 729 | [A visual proof that a^2 – b^2 = (a + b)(a – b)](https://www.futilitycloset.com/2024/12/15/tidy-2/) | [2024-12-15](https://news.ycombinator.com/item?id=42423409) |
@@ -381,7 +382,6 @@
 | 1776 | [In 2024, please switch to Firefox](https://roytanck.com/2023/12/23/in-2024-please-switch-to-firefox/) | [2023-12-29](https://news.ycombinator.com/item?id=38806270) |
 | 1518 | [4B If Statements](https://andreasjhkarlsson.github.io//jekyll/update/2023/12/27/4-billion-if-statements.html) | [2023-12-28](https://news.ycombinator.com/item?id=38790597) |
 | 1248 | [DeskHop – Fast Desktop Switching](https://github.com/hrvach/deskhop) | [2023-12-27](https://news.ycombinator.com/item?id=38780519) |
-| 653 | [A list of Hacker News's undocumented features and behaviors](https://github.com/minimaxir/hacker-news-undocumented/blob/master/README.md) | [2023-12-26](https://news.ycombinator.com/item?id=38773957) |
 <!-- POSTS PREVIEW END -->
 
 **To see the full list, visit >>> [hnhd.io](https://hnhd.io/) <<<**

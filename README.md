@@ -15,18 +15,19 @@
 <!-- POSTS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 933 | [Jimmy Carter has died](https://www.washingtonpost.com/obituaries/2024/12/29/jimmy-carter-president-dead/) | [2024-12-29](https://news.ycombinator.com/item?id=42543128) |
-| 1202 | [Apple Photos phones home on iOS 18 and macOS 15](https://lapcatsoftware.com/articles/2024/12/3.html) | [2024-12-28](https://news.ycombinator.com/item?id=42533685) |
-| 606 | [Plasticlist Report – Data on plastic chemicals in Bay Area foods](https://www.plasticlist.org/report) | [2024-12-27](https://news.ycombinator.com/item?id=42525633) |
-| 2232 | [Ghostty 1.0](https://ghostty.org/) | [2024-12-26](https://news.ycombinator.com/item?id=42517447) |
-| 1479 | [Merry Christmas Everyone](https://news.ycombinator.com/item?id=42506577) | [2024-12-25](https://news.ycombinator.com/item?id=42506577) |
-| 1121 | [macOS menu bar app that shows how full the ISS urine tank is in real time](https://github.com/Jaennaet/pISSStream) | [2024-12-24](https://news.ycombinator.com/item?id=42505454) |
-| 679 | [What happened to the world's largest tube TV? [video]](https://www.youtube.com/watch?v=JfZxOuc9Qwk) | [2024-12-23](https://news.ycombinator.com/item?id=42497093) |
-| 1730 | [Cognitive load is what matters](https://minds.md/zakirullin/cognitive) | [2024-12-22](https://news.ycombinator.com/item?id=42489645) |
-| 572 | [US judge finds NSO Group liable for hacking journalists via WhatsApp](https://www.reuters.com/technology/cybersecurity/us-judge-finds-israels-nso-group-liable-hacking-whatsapp-lawsuit-2024-12-21/) | [2024-12-21](https://news.ycombinator.com/item?id=42476828) |
-| 1720 | [OpenAI O3 breakthrough high score on ARC-AGI-PUB](https://arcprize.org/blog/oai-o3-pub-breakthrough) | [2024-12-20](https://news.ycombinator.com/item?id=42473321) |
+| 862 | [Tell HN: John Friel my father, internet pioneer and creator of QModem, has died](https://news.ycombinator.com/item?id=42551900) | [2024-12-30](https://news.ycombinator.com/item?id=42551900) |
+| 1152 | [Jimmy Carter has died](https://www.washingtonpost.com/obituaries/2024/12/29/jimmy-carter-president-dead/) | [2024-12-29](https://news.ycombinator.com/item?id=42543128) |
+| 1273 | [Apple Photos phones home on iOS 18 and macOS 15](https://lapcatsoftware.com/articles/2024/12/3.html) | [2024-12-28](https://news.ycombinator.com/item?id=42533685) |
+| 617 | [They have not been trained for this](https://www.ccc.de/en/updates/2024/das-ist-vollig-entgleist) | [2024-12-27](https://news.ycombinator.com/item?id=42524568) |
+| 2259 | [Ghostty 1.0](https://ghostty.org/) | [2024-12-26](https://news.ycombinator.com/item?id=42517447) |
+| 1486 | [Merry Christmas Everyone](https://news.ycombinator.com/item?id=42506577) | [2024-12-25](https://news.ycombinator.com/item?id=42506577) |
+| 1126 | [macOS menu bar app that shows how full the ISS urine tank is in real time](https://github.com/Jaennaet/pISSStream) | [2024-12-24](https://news.ycombinator.com/item?id=42505454) |
+| 680 | [What happened to the world's largest tube TV? [video]](https://www.youtube.com/watch?v=JfZxOuc9Qwk) | [2024-12-23](https://news.ycombinator.com/item?id=42497093) |
+| 1747 | [Cognitive load is what matters](https://minds.md/zakirullin/cognitive) | [2024-12-22](https://news.ycombinator.com/item?id=42489645) |
+| 573 | [US judge finds NSO Group liable for hacking journalists via WhatsApp](https://www.reuters.com/technology/cybersecurity/us-judge-finds-israels-nso-group-liable-hacking-whatsapp-lawsuit-2024-12-21/) | [2024-12-21](https://news.ycombinator.com/item?id=42476828) |
+| 1722 | [OpenAI O3 breakthrough high score on ARC-AGI-PUB](https://arcprize.org/blog/oai-o3-pub-breakthrough) | [2024-12-20](https://news.ycombinator.com/item?id=42473321) |
 | 608 | [Nullboard: Kanban board in a single HTML file](https://github.com/apankrat/nullboard) | [2024-12-19](https://news.ycombinator.com/item?id=42461688) |
-| 708 | [A 10-Year Battery for AirTag](https://www.elevationlab.com/blogs/news/introducing-timecapsule) | [2024-12-18](https://news.ycombinator.com/item?id=42453207) |
+| 709 | [A 10-Year Battery for AirTag](https://www.elevationlab.com/blogs/news/introducing-timecapsule) | [2024-12-18](https://news.ycombinator.com/item?id=42453207) |
 | 3128 | [Moon](https://ciechanow.ski/moon/) | [2024-12-17](https://news.ycombinator.com/item?id=42443229) |
 | 846 | [OpenERV](https://www.openerv.ca) | [2024-12-16](https://news.ycombinator.com/item?id=42427888) |
 | 729 | [A visual proof that a^2 – b^2 = (a + b)(a – b)](https://www.futilitycloset.com/2024/12/15/tidy-2/) | [2024-12-15](https://news.ycombinator.com/item?id=42423409) |
@@ -381,7 +382,6 @@
 | 1790 | [1D Pac-Man](https://abagames.github.io/crisp-game-lib-11-games/?pakupaku) | [2024-01-02](https://news.ycombinator.com/item?id=38845510) |
 | 701 | [Standard Ebooks](https://standardebooks.org/) | [2024-01-01](https://news.ycombinator.com/item?id=38831219) |
 | 1393 | [Happy New Year HN!](https://news.ycombinator.com/item?id=38826283) | [2023-12-31](https://news.ycombinator.com/item?id=38826283) |
-| 623 | [The art of high performance computing](https://theartofhpc.com/) | [2023-12-30](https://news.ycombinator.com/item?id=38815334) |
 <!-- POSTS PREVIEW END -->
 
 **To see the full list, visit >>> [hnhd.io](https://hnhd.io/) <<<**

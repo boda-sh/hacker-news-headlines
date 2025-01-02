@@ -15,16 +15,16 @@
 <!-- POSTS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 211 | [Static search trees: faster than binary search](https://curiouscoding.nl/posts/static-search-tree/) | [2025-01-01](https://news.ycombinator.com/item?id=42562847) |
-| 562 | [Things we learned about LLMs in 2024](https://simonwillison.net/2024/Dec/31/llms-in-2024/) | [2024-12-31](https://news.ycombinator.com/item?id=42560558) |
-| 1030 | [Tell HN: John Friel my father, internet pioneer and creator of QModem, has died](https://news.ycombinator.com/item?id=42551900) | [2024-12-30](https://news.ycombinator.com/item?id=42551900) |
-| 1159 | [Jimmy Carter has died](https://www.washingtonpost.com/obituaries/2024/12/29/jimmy-carter-president-dead/) | [2024-12-29](https://news.ycombinator.com/item?id=42543128) |
-| 1290 | [Apple Photos phones home on iOS 18 and macOS 15](https://lapcatsoftware.com/articles/2024/12/3.html) | [2024-12-28](https://news.ycombinator.com/item?id=42533685) |
-| 623 | [They have not been trained for this](https://www.ccc.de/en/updates/2024/das-ist-vollig-entgleist) | [2024-12-27](https://news.ycombinator.com/item?id=42524568) |
-| 2266 | [Ghostty 1.0](https://ghostty.org/) | [2024-12-26](https://news.ycombinator.com/item?id=42517447) |
+| 792 | [DOOM CAPTCHA](https://doom-captcha.vercel.app/) | [2025-01-01](https://news.ycombinator.com/item?id=42566112) |
+| 1153 | [Happy New Year 2025](https://news.ycombinator.com/item?id=42562750) | [2024-12-31](https://news.ycombinator.com/item?id=42562750) |
+| 1054 | [Tell HN: John Friel my father, internet pioneer and creator of QModem, has died](https://news.ycombinator.com/item?id=42551900) | [2024-12-30](https://news.ycombinator.com/item?id=42551900) |
+| 1161 | [Jimmy Carter has died](https://www.washingtonpost.com/obituaries/2024/12/29/jimmy-carter-president-dead/) | [2024-12-29](https://news.ycombinator.com/item?id=42543128) |
+| 1305 | [Apple Photos phones home on iOS 18 and macOS 15](https://lapcatsoftware.com/articles/2024/12/3.html) | [2024-12-28](https://news.ycombinator.com/item?id=42533685) |
+| 626 | [They have not been trained for this](https://www.ccc.de/en/updates/2024/das-ist-vollig-entgleist) | [2024-12-27](https://news.ycombinator.com/item?id=42524568) |
+| 2280 | [Ghostty 1.0](https://ghostty.org/) | [2024-12-26](https://news.ycombinator.com/item?id=42517447) |
 | 1493 | [Merry Christmas Everyone](https://news.ycombinator.com/item?id=42506577) | [2024-12-25](https://news.ycombinator.com/item?id=42506577) |
 | 1130 | [macOS menu bar app that shows how full the ISS urine tank is in real time](https://github.com/Jaennaet/pISSStream) | [2024-12-24](https://news.ycombinator.com/item?id=42505454) |
-| 683 | [What happened to the world's largest tube TV? [video]](https://www.youtube.com/watch?v=JfZxOuc9Qwk) | [2024-12-23](https://news.ycombinator.com/item?id=42497093) |
+| 685 | [What happened to the world's largest tube TV? [video]](https://www.youtube.com/watch?v=JfZxOuc9Qwk) | [2024-12-23](https://news.ycombinator.com/item?id=42497093) |
 | 1747 | [Cognitive load is what matters](https://minds.md/zakirullin/cognitive) | [2024-12-22](https://news.ycombinator.com/item?id=42489645) |
 | 573 | [US judge finds NSO Group liable for hacking journalists via WhatsApp](https://www.reuters.com/technology/cybersecurity/us-judge-finds-israels-nso-group-liable-hacking-whatsapp-lawsuit-2024-12-21/) | [2024-12-21](https://news.ycombinator.com/item?id=42476828) |
 | 1722 | [OpenAI O3 breakthrough high score on ARC-AGI-PUB](https://arcprize.org/blog/oai-o3-pub-breakthrough) | [2024-12-20](https://news.ycombinator.com/item?id=42473321) |

@@ -15,15 +15,16 @@
 <!-- POSTS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 792 | [DOOM CAPTCHA](https://doom-captcha.vercel.app/) | [2025-01-01](https://news.ycombinator.com/item?id=42566112) |
-| 1153 | [Happy New Year 2025](https://news.ycombinator.com/item?id=42562750) | [2024-12-31](https://news.ycombinator.com/item?id=42562750) |
-| 1054 | [Tell HN: John Friel my father, internet pioneer and creator of QModem, has died](https://news.ycombinator.com/item?id=42551900) | [2024-12-30](https://news.ycombinator.com/item?id=42551900) |
-| 1161 | [Jimmy Carter has died](https://www.washingtonpost.com/obituaries/2024/12/29/jimmy-carter-president-dead/) | [2024-12-29](https://news.ycombinator.com/item?id=42543128) |
-| 1305 | [Apple Photos phones home on iOS 18 and macOS 15](https://lapcatsoftware.com/articles/2024/12/3.html) | [2024-12-28](https://news.ycombinator.com/item?id=42533685) |
-| 626 | [They have not been trained for this](https://www.ccc.de/en/updates/2024/das-ist-vollig-entgleist) | [2024-12-27](https://news.ycombinator.com/item?id=42524568) |
-| 2280 | [Ghostty 1.0](https://ghostty.org/) | [2024-12-26](https://news.ycombinator.com/item?id=42517447) |
-| 1493 | [Merry Christmas Everyone](https://news.ycombinator.com/item?id=42506577) | [2024-12-25](https://news.ycombinator.com/item?id=42506577) |
-| 1130 | [macOS menu bar app that shows how full the ISS urine tank is in real time](https://github.com/Jaennaet/pISSStream) | [2024-12-24](https://news.ycombinator.com/item?id=42505454) |
+| 677 | [uBlock Origin GPL code being stolen by team behind honey browser extension](https://old.reddit.com/r/uBlockOrigin/comments/1hr6xjc/ubo_quick_filters_list_being_stolen_by_team/) | [2025-01-02](https://news.ycombinator.com/item?id=42576443) |
+| 1164 | [DOOM CAPTCHA](https://doom-captcha.vercel.app/) | [2025-01-01](https://news.ycombinator.com/item?id=42566112) |
+| 1188 | [Happy New Year 2025](https://news.ycombinator.com/item?id=42562750) | [2024-12-31](https://news.ycombinator.com/item?id=42562750) |
+| 1066 | [Tell HN: John Friel my father, internet pioneer and creator of QModem, has died](https://news.ycombinator.com/item?id=42551900) | [2024-12-30](https://news.ycombinator.com/item?id=42551900) |
+| 1166 | [Jimmy Carter has died](https://www.washingtonpost.com/obituaries/2024/12/29/jimmy-carter-president-dead/) | [2024-12-29](https://news.ycombinator.com/item?id=42543128) |
+| 1312 | [Apple Photos phones home on iOS 18 and macOS 15](https://lapcatsoftware.com/articles/2024/12/3.html) | [2024-12-28](https://news.ycombinator.com/item?id=42533685) |
+| 635 | [They have not been trained for this](https://www.ccc.de/en/updates/2024/das-ist-vollig-entgleist) | [2024-12-27](https://news.ycombinator.com/item?id=42524568) |
+| 2297 | [Ghostty 1.0](https://ghostty.org/) | [2024-12-26](https://news.ycombinator.com/item?id=42517447) |
+| 1495 | [Merry Christmas Everyone](https://news.ycombinator.com/item?id=42506577) | [2024-12-25](https://news.ycombinator.com/item?id=42506577) |
+| 1133 | [macOS menu bar app that shows how full the ISS urine tank is in real time](https://github.com/Jaennaet/pISSStream) | [2024-12-24](https://news.ycombinator.com/item?id=42505454) |
 | 685 | [What happened to the world's largest tube TV? [video]](https://www.youtube.com/watch?v=JfZxOuc9Qwk) | [2024-12-23](https://news.ycombinator.com/item?id=42497093) |
 | 1747 | [Cognitive load is what matters](https://minds.md/zakirullin/cognitive) | [2024-12-22](https://news.ycombinator.com/item?id=42489645) |
 | 573 | [US judge finds NSO Group liable for hacking journalists via WhatsApp](https://www.reuters.com/technology/cybersecurity/us-judge-finds-israels-nso-group-liable-hacking-whatsapp-lawsuit-2024-12-21/) | [2024-12-21](https://news.ycombinator.com/item?id=42476828) |
@@ -381,7 +382,6 @@
 | 1051 | [An app can be a home-cooked meal (2020)](https://www.robinsloan.com/notes/home-cooked-app/) | [2024-01-05](https://news.ycombinator.com/item?id=38877423) |
 | 953 | [Clicks – Physical keyboard for iPhone](https://www.clicks.tech/) | [2024-01-04](https://news.ycombinator.com/item?id=38871987) |
 | 1902 | [Niklaus Wirth has died](https://twitter.com/Bertrand_Meyer/status/1742613897675178347) | [2024-01-03](https://news.ycombinator.com/item?id=38858012) |
-| 1790 | [1D Pac-Man](https://abagames.github.io/crisp-game-lib-11-games/?pakupaku) | [2024-01-02](https://news.ycombinator.com/item?id=38845510) |
 <!-- POSTS PREVIEW END -->
 
 **To see the full list, visit >>> [hnhd.io](https://hnhd.io/) <<<**

@@ -15,17 +15,19 @@
 <!-- POSTS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 677 | [uBlock Origin GPL code being stolen by team behind honey browser extension](https://old.reddit.com/r/uBlockOrigin/comments/1hr6xjc/ubo_quick_filters_list_being_stolen_by_team/) | [2025-01-02](https://news.ycombinator.com/item?id=42576443) |
-| 1164 | [DOOM CAPTCHA](https://doom-captcha.vercel.app/) | [2025-01-01](https://news.ycombinator.com/item?id=42566112) |
-| 1188 | [Happy New Year 2025](https://news.ycombinator.com/item?id=42562750) | [2024-12-31](https://news.ycombinator.com/item?id=42562750) |
-| 1066 | [Tell HN: John Friel my father, internet pioneer and creator of QModem, has died](https://news.ycombinator.com/item?id=42551900) | [2024-12-30](https://news.ycombinator.com/item?id=42551900) |
-| 1166 | [Jimmy Carter has died](https://www.washingtonpost.com/obituaries/2024/12/29/jimmy-carter-president-dead/) | [2024-12-29](https://news.ycombinator.com/item?id=42543128) |
-| 1312 | [Apple Photos phones home on iOS 18 and macOS 15](https://lapcatsoftware.com/articles/2024/12/3.html) | [2024-12-28](https://news.ycombinator.com/item?id=42533685) |
-| 635 | [They have not been trained for this](https://www.ccc.de/en/updates/2024/das-ist-vollig-entgleist) | [2024-12-27](https://news.ycombinator.com/item?id=42524568) |
-| 2297 | [Ghostty 1.0](https://ghostty.org/) | [2024-12-26](https://news.ycombinator.com/item?id=42517447) |
-| 1495 | [Merry Christmas Everyone](https://news.ycombinator.com/item?id=42506577) | [2024-12-25](https://news.ycombinator.com/item?id=42506577) |
-| 1133 | [macOS menu bar app that shows how full the ISS urine tank is in real time](https://github.com/Jaennaet/pISSStream) | [2024-12-24](https://news.ycombinator.com/item?id=42505454) |
-| 685 | [What happened to the world's largest tube TV? [video]](https://www.youtube.com/watch?v=JfZxOuc9Qwk) | [2024-12-23](https://news.ycombinator.com/item?id=42497093) |
+| 202 | [I'm quitting the Washington Post](https://anntelnaes.substack.com/p/why-im-quitting-the-washington-post) | [2025-01-04](https://news.ycombinator.com/item?id=42591221) |
+| 641 | [Can LLMs write better code if you keep asking them to “write better code”?](https://minimaxir.com/2025/01/write-better-code/) | [2025-01-03](https://news.ycombinator.com/item?id=42584400) |
+| 981 | [uBlock Origin GPL code being stolen by team behind honey browser extension](https://old.reddit.com/r/uBlockOrigin/comments/1hr6xjc/ubo_quick_filters_list_being_stolen_by_team/) | [2025-01-02](https://news.ycombinator.com/item?id=42576443) |
+| 1260 | [DOOM CAPTCHA](https://doom-captcha.vercel.app/) | [2025-01-01](https://news.ycombinator.com/item?id=42566112) |
+| 1198 | [Happy New Year 2025](https://news.ycombinator.com/item?id=42562750) | [2024-12-31](https://news.ycombinator.com/item?id=42562750) |
+| 1071 | [Tell HN: John Friel my father, internet pioneer and creator of QModem, has died](https://news.ycombinator.com/item?id=42551900) | [2024-12-30](https://news.ycombinator.com/item?id=42551900) |
+| 1169 | [Jimmy Carter has died](https://www.washingtonpost.com/obituaries/2024/12/29/jimmy-carter-president-dead/) | [2024-12-29](https://news.ycombinator.com/item?id=42543128) |
+| 1320 | [Apple Photos phones home on iOS 18 and macOS 15](https://lapcatsoftware.com/articles/2024/12/3.html) | [2024-12-28](https://news.ycombinator.com/item?id=42533685) |
+| 636 | [They have not been trained for this](https://www.ccc.de/en/updates/2024/das-ist-vollig-entgleist) | [2024-12-27](https://news.ycombinator.com/item?id=42524568) |
+| 2303 | [Ghostty 1.0](https://ghostty.org/) | [2024-12-26](https://news.ycombinator.com/item?id=42517447) |
+| 1500 | [Merry Christmas Everyone](https://news.ycombinator.com/item?id=42506577) | [2024-12-25](https://news.ycombinator.com/item?id=42506577) |
+| 1134 | [macOS menu bar app that shows how full the ISS urine tank is in real time](https://github.com/Jaennaet/pISSStream) | [2024-12-24](https://news.ycombinator.com/item?id=42505454) |
+| 687 | [What happened to the world's largest tube TV? [video]](https://www.youtube.com/watch?v=JfZxOuc9Qwk) | [2024-12-23](https://news.ycombinator.com/item?id=42497093) |
 | 1747 | [Cognitive load is what matters](https://minds.md/zakirullin/cognitive) | [2024-12-22](https://news.ycombinator.com/item?id=42489645) |
 | 573 | [US judge finds NSO Group liable for hacking journalists via WhatsApp](https://www.reuters.com/technology/cybersecurity/us-judge-finds-israels-nso-group-liable-hacking-whatsapp-lawsuit-2024-12-21/) | [2024-12-21](https://news.ycombinator.com/item?id=42476828) |
 | 1722 | [OpenAI O3 breakthrough high score on ARC-AGI-PUB](https://arcprize.org/blog/oai-o3-pub-breakthrough) | [2024-12-20](https://news.ycombinator.com/item?id=42473321) |
@@ -380,8 +382,6 @@
 | 810 | [Show HN: I made an app that consolidated 18 apps (doc, sheet, form, site, chat…)](https://nino.app) | [2024-01-07](https://news.ycombinator.com/item?id=38901504) |
 | 861 | [FAA orders grounding of more than 170 Boeing 737 Max 9s](https://www.cnbc.com/2024/01/06/boeing-737-max-9-grounding-after-alaska-airlines-door-blows-midflight.html) | [2024-01-06](https://news.ycombinator.com/item?id=38893909) |
 | 1051 | [An app can be a home-cooked meal (2020)](https://www.robinsloan.com/notes/home-cooked-app/) | [2024-01-05](https://news.ycombinator.com/item?id=38877423) |
-| 953 | [Clicks – Physical keyboard for iPhone](https://www.clicks.tech/) | [2024-01-04](https://news.ycombinator.com/item?id=38871987) |
-| 1902 | [Niklaus Wirth has died](https://twitter.com/Bertrand_Meyer/status/1742613897675178347) | [2024-01-03](https://news.ycombinator.com/item?id=38858012) |
 <!-- POSTS PREVIEW END -->
 
 **To see the full list, visit >>> [hnhd.io](https://hnhd.io/) <<<**

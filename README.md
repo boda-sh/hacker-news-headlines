@@ -15,18 +15,18 @@
 <!-- POSTS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 238 | [You don't have to pay the Microsoft 365 price increase](https://www.consumer.org.nz/articles/you-don-t-have-to-pay-the-microsoft-365-price-increase) | [2025-01-09](https://news.ycombinator.com/item?id=42640180) |
-| 807 | [Operating System in 1,000 Lines – Intro](https://operating-system-in-1000-lines.vercel.app/en) | [2025-01-08](https://news.ycombinator.com/item?id=42631873) |
-| 844 | [How I program with LLMs](https://crawshaw.io/blog/programming-with-llms) | [2025-01-07](https://news.ycombinator.com/item?id=42617645) |
-| 2941 | [Stimulation Clicker](https://neal.fun/stimulation-clicker/) | [2025-01-06](https://news.ycombinator.com/item?id=42611536) |
-| 552 | [Web page annoyances that I don't inflict on you](http://rachelbythebay.com/w/2025/01/04/cruft/) | [2025-01-05](https://news.ycombinator.com/item?id=42599102) |
+| 911 | [Luigi Mangione's account has been renamed on Stack Overflow](https://substack.evancarroll.com/p/the-erasure-of-luigi-mangione) | [2025-01-09](https://news.ycombinator.com/item?id=42642089) |
+| 1283 | [I had to take down my course-swapping site or be expelled](https://www.linkedin.com/posts/jdkaim_github-jdkaimhuskyswap-huskyswap-project-activity-7282609173316415488-1jdb) | [2025-01-08](https://news.ycombinator.com/item?id=42638626) |
+| 874 | [How I program with LLMs](https://crawshaw.io/blog/programming-with-llms) | [2025-01-07](https://news.ycombinator.com/item?id=42617645) |
+| 3003 | [Stimulation Clicker](https://neal.fun/stimulation-clicker/) | [2025-01-06](https://news.ycombinator.com/item?id=42611536) |
+| 559 | [Web page annoyances that I don't inflict on you](http://rachelbythebay.com/w/2025/01/04/cruft/) | [2025-01-05](https://news.ycombinator.com/item?id=42599102) |
 | 647 | [Self driving 1993 Volvo with open pilot](https://practicapp.com/carbagepilot-part1/) | [2025-01-04](https://news.ycombinator.com/item?id=42592910) |
-| 802 | [Can LLMs write better code if you keep asking them to “write better code”?](https://minimaxir.com/2025/01/write-better-code/) | [2025-01-03](https://news.ycombinator.com/item?id=42584400) |
-| 1051 | [uBlock Origin GPL code being stolen by team behind honey browser extension](https://old.reddit.com/r/uBlockOrigin/comments/1hr6xjc/ubo_quick_filters_list_being_stolen_by_team/) | [2025-01-02](https://news.ycombinator.com/item?id=42576443) |
-| 1302 | [DOOM CAPTCHA](https://doom-captcha.vercel.app/) | [2025-01-01](https://news.ycombinator.com/item?id=42566112) |
-| 1216 | [Happy New Year 2025](https://news.ycombinator.com/item?id=42562750) | [2024-12-31](https://news.ycombinator.com/item?id=42562750) |
-| 1089 | [Tell HN: John Friel my father, internet pioneer and creator of QModem, has died](https://news.ycombinator.com/item?id=42551900) | [2024-12-30](https://news.ycombinator.com/item?id=42551900) |
-| 1182 | [Jimmy Carter has died](https://www.washingtonpost.com/obituaries/2024/12/29/jimmy-carter-president-dead/) | [2024-12-29](https://news.ycombinator.com/item?id=42543128) |
+| 807 | [Can LLMs write better code if you keep asking them to “write better code”?](https://minimaxir.com/2025/01/write-better-code/) | [2025-01-03](https://news.ycombinator.com/item?id=42584400) |
+| 1054 | [uBlock Origin GPL code being stolen by team behind honey browser extension](https://old.reddit.com/r/uBlockOrigin/comments/1hr6xjc/ubo_quick_filters_list_being_stolen_by_team/) | [2025-01-02](https://news.ycombinator.com/item?id=42576443) |
+| 1313 | [DOOM CAPTCHA](https://doom-captcha.vercel.app/) | [2025-01-01](https://news.ycombinator.com/item?id=42566112) |
+| 1220 | [Happy New Year 2025](https://news.ycombinator.com/item?id=42562750) | [2024-12-31](https://news.ycombinator.com/item?id=42562750) |
+| 1091 | [Tell HN: John Friel my father, internet pioneer and creator of QModem, has died](https://news.ycombinator.com/item?id=42551900) | [2024-12-30](https://news.ycombinator.com/item?id=42551900) |
+| 1183 | [Jimmy Carter has died](https://www.washingtonpost.com/obituaries/2024/12/29/jimmy-carter-president-dead/) | [2024-12-29](https://news.ycombinator.com/item?id=42543128) |
 | 1327 | [Apple Photos phones home on iOS 18 and macOS 15](https://lapcatsoftware.com/articles/2024/12/3.html) | [2024-12-28](https://news.ycombinator.com/item?id=42533685) |
 | 642 | [They have not been trained for this](https://www.ccc.de/en/updates/2024/das-ist-vollig-entgleist) | [2024-12-27](https://news.ycombinator.com/item?id=42524568) |
 | 2316 | [Ghostty 1.0](https://ghostty.org/) | [2024-12-26](https://news.ycombinator.com/item?id=42517447) |

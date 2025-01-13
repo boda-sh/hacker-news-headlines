@@ -15,14 +15,14 @@
 <!-- POSTS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 164 | [Adobe Lightroom's AI Remove feature added a Bitcoin to bird in flight photo](https://bsky.app/profile/matthewraifman.bsky.social/post/3lfaqbygva22j) | [2025-01-12](https://news.ycombinator.com/item?id=42670132) |
-| 386 | [Be Aware of the Makefile Effect](https://blog.yossarian.net/2025/01/10/Be-aware-of-the-Makefile-effect) | [2025-01-11](https://news.ycombinator.com/item?id=42663231) |
-| 1686 | [I've acquired a new superpower](https://danielwirtz.com/blog/spot-the-difference-superpower) | [2025-01-10](https://news.ycombinator.com/item?id=42655870) |
-| 1212 | [Show HN: Tetris in a PDF](https://th0mas.nl/downloads/pdftris.pdf) | [2025-01-09](https://news.ycombinator.com/item?id=42645218) |
-| 1320 | [I had to take down my course-swapping site or be expelled](https://www.linkedin.com/posts/jdkaim_github-jdkaimhuskyswap-huskyswap-project-activity-7282609173316415488-1jdb) | [2025-01-08](https://news.ycombinator.com/item?id=42638626) |
-| 894 | [How I program with LLMs](https://crawshaw.io/blog/programming-with-llms) | [2025-01-07](https://news.ycombinator.com/item?id=42617645) |
-| 3059 | [Stimulation Clicker](https://neal.fun/stimulation-clicker/) | [2025-01-06](https://news.ycombinator.com/item?id=42611536) |
-| 562 | [Web page annoyances that I don't inflict on you](http://rachelbythebay.com/w/2025/01/04/cruft/) | [2025-01-05](https://news.ycombinator.com/item?id=42599102) |
+| 541 | [Kenney.nl: Free Game Assets](https://www.kenney.nl/) | [2025-01-12](https://news.ycombinator.com/item?id=42671472) |
+| 527 | [Stop Trying to Schedule a Call with Me](https://matduggan.com/stop-trying-to-schedule-a-call-with-me/) | [2025-01-11](https://news.ycombinator.com/item?id=42669754) |
+| 1716 | [I've acquired a new superpower](https://danielwirtz.com/blog/spot-the-difference-superpower) | [2025-01-10](https://news.ycombinator.com/item?id=42655870) |
+| 1233 | [Show HN: Tetris in a PDF](https://th0mas.nl/downloads/pdftris.pdf) | [2025-01-09](https://news.ycombinator.com/item?id=42645218) |
+| 1327 | [I had to take down my course-swapping site or be expelled](https://www.linkedin.com/posts/jdkaim_github-jdkaimhuskyswap-huskyswap-project-activity-7282609173316415488-1jdb) | [2025-01-08](https://news.ycombinator.com/item?id=42638626) |
+| 905 | [How I program with LLMs](https://crawshaw.io/blog/programming-with-llms) | [2025-01-07](https://news.ycombinator.com/item?id=42617645) |
+| 3069 | [Stimulation Clicker](https://neal.fun/stimulation-clicker/) | [2025-01-06](https://news.ycombinator.com/item?id=42611536) |
+| 566 | [Web page annoyances that I don't inflict on you](http://rachelbythebay.com/w/2025/01/04/cruft/) | [2025-01-05](https://news.ycombinator.com/item?id=42599102) |
 | 649 | [Self driving 1993 Volvo with open pilot](https://practicapp.com/carbagepilot-part1/) | [2025-01-04](https://news.ycombinator.com/item?id=42592910) |
 | 807 | [Can LLMs write better code if you keep asking them to “write better code”?](https://minimaxir.com/2025/01/write-better-code/) | [2025-01-03](https://news.ycombinator.com/item?id=42584400) |
 | 1054 | [uBlock Origin GPL code being stolen by team behind honey browser extension](https://old.reddit.com/r/uBlockOrigin/comments/1hr6xjc/ubo_quick_filters_list_being_stolen_by_team/) | [2025-01-02](https://news.ycombinator.com/item?id=42576443) |

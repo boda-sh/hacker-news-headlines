@@ -15,11 +15,13 @@
 <!-- POSTS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 541 | [Kenney.nl: Free Game Assets](https://www.kenney.nl/) | [2025-01-12](https://news.ycombinator.com/item?id=42671472) |
-| 527 | [Stop Trying to Schedule a Call with Me](https://matduggan.com/stop-trying-to-schedule-a-call-with-me/) | [2025-01-11](https://news.ycombinator.com/item?id=42669754) |
-| 1716 | [I've acquired a new superpower](https://danielwirtz.com/blog/spot-the-difference-superpower) | [2025-01-10](https://news.ycombinator.com/item?id=42655870) |
-| 1233 | [Show HN: Tetris in a PDF](https://th0mas.nl/downloads/pdftris.pdf) | [2025-01-09](https://news.ycombinator.com/item?id=42645218) |
-| 1327 | [I had to take down my course-swapping site or be expelled](https://www.linkedin.com/posts/jdkaim_github-jdkaimhuskyswap-huskyswap-project-activity-7282609173316415488-1jdb) | [2025-01-08](https://news.ycombinator.com/item?id=42638626) |
+| 128 | [43K fewer drivers on Manhattan roads after congestion pricing turned on](https://gothamist.com/news/43k-fewer-drivers-on-manhattan-roads-after-congestion-pricing-turned-on-mta-says) | [2025-01-14](https://news.ycombinator.com/item?id=42692730) |
+| 646 | [The Origins of Wokeness](https://paulgraham.com/woke.html) | [2025-01-13](https://news.ycombinator.com/item?id=42682305) |
+| 587 | [Kenney.nl: Free Game Assets](https://www.kenney.nl/) | [2025-01-12](https://news.ycombinator.com/item?id=42671472) |
+| 560 | [Stop Trying to Schedule a Call with Me](https://matduggan.com/stop-trying-to-schedule-a-call-with-me/) | [2025-01-11](https://news.ycombinator.com/item?id=42669754) |
+| 1745 | [I've acquired a new superpower](https://danielwirtz.com/blog/spot-the-difference-superpower) | [2025-01-10](https://news.ycombinator.com/item?id=42655870) |
+| 1249 | [Show HN: Tetris in a PDF](https://th0mas.nl/downloads/pdftris.pdf) | [2025-01-09](https://news.ycombinator.com/item?id=42645218) |
+| 1333 | [I had to take down my course-swapping site or be expelled](https://www.linkedin.com/posts/jdkaim_github-jdkaimhuskyswap-huskyswap-project-activity-7282609173316415488-1jdb) | [2025-01-08](https://news.ycombinator.com/item?id=42638626) |
 | 905 | [How I program with LLMs](https://crawshaw.io/blog/programming-with-llms) | [2025-01-07](https://news.ycombinator.com/item?id=42617645) |
 | 3069 | [Stimulation Clicker](https://neal.fun/stimulation-clicker/) | [2025-01-06](https://news.ycombinator.com/item?id=42611536) |
 | 566 | [Web page annoyances that I don't inflict on you](http://rachelbythebay.com/w/2025/01/04/cruft/) | [2025-01-05](https://news.ycombinator.com/item?id=42599102) |
@@ -380,8 +382,6 @@
 | 911 | [US developers can offer non-app store purchasing, Apple still collect commission](https://www.macrumors.com/2024/01/16/us-app-store-alternative-purchase-option/) | [2024-01-16](https://news.ycombinator.com/item?id=39020365) |
 | 586 | [Teach Yourself Programming in Ten Years (1998)](https://norvig.com/21-days.html) | [2024-01-15](https://news.ycombinator.com/item?id=39001755) |
 | 547 | [Vanna.ai: Chat with your SQL database](https://github.com/vanna-ai/vanna) | [2024-01-14](https://news.ycombinator.com/item?id=38992601) |
-| 765 | [Stellarium: Software which renders realistic skies in real time](https://github.com/Stellarium/stellarium) | [2024-01-13](https://news.ycombinator.com/item?id=38981254) |
-| 1325 | [I'm sorry but I cannot fulfill this request it goes against OpenAI use policy](https://www.amazon.com/fulfill-request-respectful-information-users-Brown/dp/B0CM82FJL2) | [2024-01-12](https://news.ycombinator.com/item?id=38971012) |
 <!-- POSTS PREVIEW END -->
 
 **To see the full list, visit >>> [hnhd.io](https://hnhd.io/) <<<**

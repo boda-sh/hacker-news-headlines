@@ -15,13 +15,13 @@
 <!-- POSTS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 128 | [43K fewer drivers on Manhattan roads after congestion pricing turned on](https://gothamist.com/news/43k-fewer-drivers-on-manhattan-roads-after-congestion-pricing-turned-on-mta-says) | [2025-01-14](https://news.ycombinator.com/item?id=42692730) |
-| 646 | [The Origins of Wokeness](https://paulgraham.com/woke.html) | [2025-01-13](https://news.ycombinator.com/item?id=42682305) |
-| 587 | [Kenney.nl: Free Game Assets](https://www.kenney.nl/) | [2025-01-12](https://news.ycombinator.com/item?id=42671472) |
-| 560 | [Stop Trying to Schedule a Call with Me](https://matduggan.com/stop-trying-to-schedule-a-call-with-me/) | [2025-01-11](https://news.ycombinator.com/item?id=42669754) |
-| 1745 | [I've acquired a new superpower](https://danielwirtz.com/blog/spot-the-difference-superpower) | [2025-01-10](https://news.ycombinator.com/item?id=42655870) |
-| 1249 | [Show HN: Tetris in a PDF](https://th0mas.nl/downloads/pdftris.pdf) | [2025-01-09](https://news.ycombinator.com/item?id=42645218) |
-| 1333 | [I had to take down my course-swapping site or be expelled](https://www.linkedin.com/posts/jdkaim_github-jdkaimhuskyswap-huskyswap-project-activity-7282609173316415488-1jdb) | [2025-01-08](https://news.ycombinator.com/item?id=42638626) |
+| 554 | [I Switched to Firefox and Never Looked Back](https://www.howtogeek.com/why-i-switched-to-firefox-and-never-looked-back/) | [2025-01-14](https://news.ycombinator.com/item?id=42696081) |
+| 878 | [The Origins of Wokeness](https://paulgraham.com/woke.html) | [2025-01-13](https://news.ycombinator.com/item?id=42682305) |
+| 689 | [I created an open-source Hardware Hacking Wiki – with tutorials for beginners](https://www.hardbreak.wiki) | [2025-01-12](https://news.ycombinator.com/item?id=42672821) |
+| 569 | [Stop Trying to Schedule a Call with Me](https://matduggan.com/stop-trying-to-schedule-a-call-with-me/) | [2025-01-11](https://news.ycombinator.com/item?id=42669754) |
+| 1757 | [I've acquired a new superpower](https://danielwirtz.com/blog/spot-the-difference-superpower) | [2025-01-10](https://news.ycombinator.com/item?id=42655870) |
+| 1265 | [Show HN: Tetris in a PDF](https://th0mas.nl/downloads/pdftris.pdf) | [2025-01-09](https://news.ycombinator.com/item?id=42645218) |
+| 1337 | [I had to take down my course-swapping site or be expelled](https://www.linkedin.com/posts/jdkaim_github-jdkaimhuskyswap-huskyswap-project-activity-7282609173316415488-1jdb) | [2025-01-08](https://news.ycombinator.com/item?id=42638626) |
 | 905 | [How I program with LLMs](https://crawshaw.io/blog/programming-with-llms) | [2025-01-07](https://news.ycombinator.com/item?id=42617645) |
 | 3069 | [Stimulation Clicker](https://neal.fun/stimulation-clicker/) | [2025-01-06](https://news.ycombinator.com/item?id=42611536) |
 | 566 | [Web page annoyances that I don't inflict on you](http://rachelbythebay.com/w/2025/01/04/cruft/) | [2025-01-05](https://news.ycombinator.com/item?id=42599102) |

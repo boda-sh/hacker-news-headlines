@@ -15,13 +15,14 @@
 <!-- POSTS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 554 | [I Switched to Firefox and Never Looked Back](https://www.howtogeek.com/why-i-switched-to-firefox-and-never-looked-back/) | [2025-01-14](https://news.ycombinator.com/item?id=42696081) |
-| 878 | [The Origins of Wokeness](https://paulgraham.com/woke.html) | [2025-01-13](https://news.ycombinator.com/item?id=42682305) |
-| 689 | [I created an open-source Hardware Hacking Wiki – with tutorials for beginners](https://www.hardbreak.wiki) | [2025-01-12](https://news.ycombinator.com/item?id=42672821) |
-| 569 | [Stop Trying to Schedule a Call with Me](https://matduggan.com/stop-trying-to-schedule-a-call-with-me/) | [2025-01-11](https://news.ycombinator.com/item?id=42669754) |
-| 1757 | [I've acquired a new superpower](https://danielwirtz.com/blog/spot-the-difference-superpower) | [2025-01-10](https://news.ycombinator.com/item?id=42655870) |
-| 1265 | [Show HN: Tetris in a PDF](https://th0mas.nl/downloads/pdftris.pdf) | [2025-01-09](https://news.ycombinator.com/item?id=42645218) |
-| 1337 | [I had to take down my course-swapping site or be expelled](https://www.linkedin.com/posts/jdkaim_github-jdkaimhuskyswap-huskyswap-project-activity-7282609173316415488-1jdb) | [2025-01-08](https://news.ycombinator.com/item?id=42638626) |
+| 553 | [TikTok preparing for U.S. shut-off on Sunday](https://www.reuters.com/technology/tiktok-preparing-us-shut-off-sunday-information-reports-2025-01-15/) | [2025-01-15](https://news.ycombinator.com/item?id=42710339) |
+| 839 | [FFmpeg by Example](https://ffmpegbyexample.com/) | [2025-01-14](https://news.ycombinator.com/item?id=42695547) |
+| 903 | [The Origins of Wokeness](https://paulgraham.com/woke.html) | [2025-01-13](https://news.ycombinator.com/item?id=42682305) |
+| 719 | [I created an open-source Hardware Hacking Wiki – with tutorials for beginners](https://www.hardbreak.wiki) | [2025-01-12](https://news.ycombinator.com/item?id=42672821) |
+| 576 | [Stop Trying to Schedule a Call with Me](https://matduggan.com/stop-trying-to-schedule-a-call-with-me/) | [2025-01-11](https://news.ycombinator.com/item?id=42669754) |
+| 1765 | [I've acquired a new superpower](https://danielwirtz.com/blog/spot-the-difference-superpower) | [2025-01-10](https://news.ycombinator.com/item?id=42655870) |
+| 1276 | [Show HN: Tetris in a PDF](https://th0mas.nl/downloads/pdftris.pdf) | [2025-01-09](https://news.ycombinator.com/item?id=42645218) |
+| 1338 | [I had to take down my course-swapping site or be expelled](https://www.linkedin.com/posts/jdkaim_github-jdkaimhuskyswap-huskyswap-project-activity-7282609173316415488-1jdb) | [2025-01-08](https://news.ycombinator.com/item?id=42638626) |
 | 905 | [How I program with LLMs](https://crawshaw.io/blog/programming-with-llms) | [2025-01-07](https://news.ycombinator.com/item?id=42617645) |
 | 3069 | [Stimulation Clicker](https://neal.fun/stimulation-clicker/) | [2025-01-06](https://news.ycombinator.com/item?id=42611536) |
 | 566 | [Web page annoyances that I don't inflict on you](http://rachelbythebay.com/w/2025/01/04/cruft/) | [2025-01-05](https://news.ycombinator.com/item?id=42599102) |
@@ -381,7 +382,6 @@
 | 1220 | [Which word begins with "y" and looks like an axe in this picture? (2017)](https://english.stackexchange.com/questions/395382/which-word-begins-with-y-and-looks-like-an-axe-in-this-picture) | [2024-01-17](https://news.ycombinator.com/item?id=39034160) |
 | 911 | [US developers can offer non-app store purchasing, Apple still collect commission](https://www.macrumors.com/2024/01/16/us-app-store-alternative-purchase-option/) | [2024-01-16](https://news.ycombinator.com/item?id=39020365) |
 | 586 | [Teach Yourself Programming in Ten Years (1998)](https://norvig.com/21-days.html) | [2024-01-15](https://news.ycombinator.com/item?id=39001755) |
-| 547 | [Vanna.ai: Chat with your SQL database](https://github.com/vanna-ai/vanna) | [2024-01-14](https://news.ycombinator.com/item?id=38992601) |
 <!-- POSTS PREVIEW END -->
 
 **To see the full list, visit >>> [hnhd.io](https://hnhd.io/) <<<**

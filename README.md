@@ -15,16 +15,17 @@
 <!-- POSTS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 983 | [Canon wants us to pay for using our own camera as a webcam](https://romanzipp.com/blog/no-you-cant-use-your-6299-canon-camera-as-a-webcam) | [2025-01-17](https://news.ycombinator.com/item?id=42735393) |
-| 1497 | [No Calls](https://keygen.sh/blog/no-calls/) | [2025-01-16](https://news.ycombinator.com/item?id=42725385) |
-| 977 | [Nobody cares](https://grantslatton.com/nobody-cares) | [2025-01-15](https://news.ycombinator.com/item?id=42707238) |
-| 877 | [FFmpeg by Example](https://ffmpegbyexample.com/) | [2025-01-14](https://news.ycombinator.com/item?id=42695547) |
-| 915 | [The Origins of Wokeness](https://paulgraham.com/woke.html) | [2025-01-13](https://news.ycombinator.com/item?id=42682305) |
-| 734 | [I created an open-source Hardware Hacking Wiki – with tutorials for beginners](https://www.hardbreak.wiki) | [2025-01-12](https://news.ycombinator.com/item?id=42672821) |
+| 509 | [Amazon's AI crawler is making my Git server unstable](https://xeiaso.net/notes/2025/amazon-crawler/) | [2025-01-18](https://news.ycombinator.com/item?id=42750420) |
+| 1017 | [Canon wants us to pay for using our own camera as a webcam](https://romanzipp.com/blog/no-you-cant-use-your-6299-canon-camera-as-a-webcam) | [2025-01-17](https://news.ycombinator.com/item?id=42735393) |
+| 1543 | [No Calls](https://keygen.sh/blog/no-calls/) | [2025-01-16](https://news.ycombinator.com/item?id=42725385) |
+| 1002 | [Nobody cares](https://grantslatton.com/nobody-cares) | [2025-01-15](https://news.ycombinator.com/item?id=42707238) |
+| 888 | [FFmpeg by Example](https://ffmpegbyexample.com/) | [2025-01-14](https://news.ycombinator.com/item?id=42695547) |
+| 919 | [The Origins of Wokeness](https://paulgraham.com/woke.html) | [2025-01-13](https://news.ycombinator.com/item?id=42682305) |
+| 737 | [I created an open-source Hardware Hacking Wiki – with tutorials for beginners](https://www.hardbreak.wiki) | [2025-01-12](https://news.ycombinator.com/item?id=42672821) |
 | 581 | [Stop Trying to Schedule a Call with Me](https://matduggan.com/stop-trying-to-schedule-a-call-with-me/) | [2025-01-11](https://news.ycombinator.com/item?id=42669754) |
-| 1784 | [I've acquired a new superpower](https://danielwirtz.com/blog/spot-the-difference-superpower) | [2025-01-10](https://news.ycombinator.com/item?id=42655870) |
-| 1286 | [Show HN: Tetris in a PDF](https://th0mas.nl/downloads/pdftris.pdf) | [2025-01-09](https://news.ycombinator.com/item?id=42645218) |
-| 1343 | [I had to take down my course-swapping site or be expelled](https://www.linkedin.com/posts/jdkaim_github-jdkaimhuskyswap-huskyswap-project-activity-7282609173316415488-1jdb) | [2025-01-08](https://news.ycombinator.com/item?id=42638626) |
+| 1789 | [I've acquired a new superpower](https://danielwirtz.com/blog/spot-the-difference-superpower) | [2025-01-10](https://news.ycombinator.com/item?id=42655870) |
+| 1288 | [Show HN: Tetris in a PDF](https://th0mas.nl/downloads/pdftris.pdf) | [2025-01-09](https://news.ycombinator.com/item?id=42645218) |
+| 1344 | [I had to take down my course-swapping site or be expelled](https://www.linkedin.com/posts/jdkaim_github-jdkaimhuskyswap-huskyswap-project-activity-7282609173316415488-1jdb) | [2025-01-08](https://news.ycombinator.com/item?id=42638626) |
 | 905 | [How I program with LLMs](https://crawshaw.io/blog/programming-with-llms) | [2025-01-07](https://news.ycombinator.com/item?id=42617645) |
 | 3069 | [Stimulation Clicker](https://neal.fun/stimulation-clicker/) | [2025-01-06](https://news.ycombinator.com/item?id=42611536) |
 | 566 | [Web page annoyances that I don't inflict on you](http://rachelbythebay.com/w/2025/01/04/cruft/) | [2025-01-05](https://news.ycombinator.com/item?id=42599102) |
@@ -381,7 +382,6 @@
 | 1890 | [What's that touchscreen in my room?](https://laplab.me/posts/whats-that-touchscreen-in-my-room/) | [2024-01-20](https://news.ycombinator.com/item?id=39063242) |
 | 731 | [Dave Mills has died](https://elists.isoc.org/pipermail/internet-history/2024-January/009265.html) | [2024-01-19](https://news.ycombinator.com/item?id=39051246) |
 | 2437 | [Losing my son](https://www.fortressofdoors.com/i-lost-my-son/) | [2024-01-18](https://news.ycombinator.com/item?id=39036842) |
-| 1220 | [Which word begins with "y" and looks like an axe in this picture? (2017)](https://english.stackexchange.com/questions/395382/which-word-begins-with-y-and-looks-like-an-axe-in-this-picture) | [2024-01-17](https://news.ycombinator.com/item?id=39034160) |
 <!-- POSTS PREVIEW END -->
 
 **To see the full list, visit >>> [hnhd.io](https://hnhd.io/) <<<**
